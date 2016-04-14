@@ -5,6 +5,14 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.Statement;
 
+import com.melancoholic.ext_pages.Basics;
+import com.melancoholic.ext_pages.Chemistry;
+import com.melancoholic.ext_pages.Dose;
+import com.melancoholic.ext_pages.Effects;
+import com.melancoholic.ext_pages.Health;
+import com.melancoholic.ext_pages.Images;
+import com.melancoholic.ext_pages.Law;
+import com.melancoholic.ext_pages.ResearchChemical;
 import com.melancoholic.manager.Manager;
 import com.melancoholic.substance.Animal;
 import com.melancoholic.substance.Chemical;
@@ -42,7 +50,7 @@ public class Main {
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
         // Load all indexes with full information
-        System.out.println("Loading all indexes with detailed information...");
+        System.out.println("Loading all indexes with full information...");
         Manager.loadAllIndexFull();
 
         try {
@@ -304,56 +312,211 @@ public class Main {
      * Creates a table for all of the Basic pages.
      */
     private static void loadBasicsTable() {
-        // TODO
+        try {
+            // Create basicsIndex
+            System.out.println("Creating basicsIndex table...");
+            myStatement.executeUpdate("CREATE TABLE IF NOT EXISTS basicsIndex ("
+                    + "name VARCHAR(50), " + "url VARCHAR(125), " + "description VARCHAR(2100),"
+                    + "descriptionSections VARCHAR(4250)," + "effects VARCHAR(1500),"
+                    + "effectsSections VARCHAR(2400)," + "problems VARCHAR(2400),"
+                    + "problemsSections VARCHAR(3050)," + "cautionDisclaimer VARCHAR(325))");
+
+            // Fill the basicsIndex with values
+            System.out.println("Loading the basicsIndex table...");
+            for (Basics basicsPage : Manager.basicsIndex) {
+                myStatement.executeUpdate("INSERT INTO basicsIndex VALUES ('"
+                        + doubleQ(basicsPage.getName()) + "', '" + doubleQ(basicsPage.getUrl())
+                        + "', '" + doubleQ(basicsPage.getDescription()) + "', '"
+                        + doubleQ(basicsPage.getDescriptionSections()) + "', '"
+                        + doubleQ(basicsPage.getEffects()) + "', '"
+                        + doubleQ(basicsPage.getEffectsSections()) + "', '"
+                        + doubleQ(basicsPage.getProblems()) + "', '"
+                        + doubleQ(basicsPage.getProblemsSections()) + "', '"
+                        + doubleQ(basicsPage.getCautionDisclaimer()) + "')");
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
     }
 
     /**
      * Creates a table for all of the Effects pages.
      */
     private static void loadEffectsTable() {
-        // TODO
+        try {
+            // Create effectsIndex
+            System.out.println("Creating effectsIndex table...");
+            myStatement.executeUpdate("CREATE TABLE IF NOT EXISTS effectsIndex ("
+                    + "name VARCHAR(50), " + "url VARCHAR(125), " + "duration VARCHAR(275),"
+                    + "positiveEffects VARCHAR(1325)," + "neutralEffects VARCHAR(725),"
+                    + "negativeEffects VARCHAR(1650)," + "description VARCHAR(9200),"
+                    + "experienceReports VARCHAR(6425)," + "cautionDisclaimer VARCHAR(400))");
+
+            // Fill the effectsIndex with values
+            System.out.println("Loading the effectsIndex table...");
+            for (Effects page : Manager.effectsIndex) {
+                myStatement.executeUpdate("INSERT INTO effectsIndex VALUES ('"
+                        + doubleQ(page.getName()) + "', '" + doubleQ(page.getUrl()) + "', '"
+                        + doubleQ(page.getDuration()) + "', '" + doubleQ(page.getPositiveEffects())
+                        + "', '" + doubleQ(page.getNeutralEffects()) + "', '"
+                        + doubleQ(page.getNegativeEffects()) + "', '"
+                        + doubleQ(page.getDescription()) + "', '"
+                        + doubleQ(page.getExperienceReports()) + "', '"
+                        + doubleQ(page.getCautionDisclaimer()) + "')");
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
     }
 
     /**
      * Creates a table for all of the Images pages.
      */
     private static void loadImagesTable() {
-        // TODO
+        try {
+            // Create imagesIndex
+            System.out.println("Creating imagesIndes table...");
+            myStatement
+                    .executeUpdate("CREATE TABLE IF NOT EXISTS imagesIndex (" + "name VARCHAR(50), "
+                            + "url VARCHAR(125), " + "imageEntryList VARCHAR(20000))");
+
+            // Fill the imagesIndex with values
+            System.out.println("Loading the imagesIndex table...");
+            for (Images page : Manager.imagesIndex) {
+                myStatement.executeUpdate("INSERT INTO imagesIndex VALUES ('"
+                        + doubleQ(page.getName()) + "', '" + doubleQ(page.getUrl()) + "', '"
+                        + doubleQ(page.getImageEntryList()) + "')");
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
     }
 
     /**
      * Creates a table for all of the Health pages.
      */
     private static void loadHealthTable() {
-        // TODO
+        try {
+            // Create healthIndex
+            System.out.println("Creating healthIndex table...");
+            myStatement.executeUpdate("CREATE TABLE IF NOT EXISTS healthIndex ("
+                    + "name VARCHAR(50), " + "url VARCHAR(125), " + "notes VARCHAR(2900),"
+                    + "deaths VARCHAR(900)," + "warnings VARCHAR(4150)," + "cautions VARCHAR(3650),"
+                    + "benefits VARCHAR(1625))");
+
+            // Fill the healthIndex with values
+            System.out.println("Loading the healthIndex table...");
+            for (Health page : Manager.healthIndex) {
+                myStatement.executeUpdate("INSERT INTO healthIndex VALUES ('"
+                        + doubleQ(page.getName()) + "', '" + doubleQ(page.getUrl()) + "', '"
+                        + doubleQ(page.getNotes()) + "', '" + doubleQ(page.getDeaths()) + "', '"
+                        + doubleQ(page.getWarnings()) + "', '" + doubleQ(page.getCautions())
+                        + "', '" + doubleQ(page.getBenefits()) + "')");
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
     }
 
     /**
      * Creates a table for all of the Law pages.
      */
     private static void loadLawTable() {
-        // TODO
+        try {
+            // Create lawIndex
+            System.out.println("Creating lawIndex table...");
+            myStatement.executeUpdate("CREATE TABLE IF NOT EXISTS lawIndex (" + "name VARCHAR(50), "
+                    + "url VARCHAR(125), " + "legalTable VARCHAR(175),"
+                    + "federalLawText VARCHAR(3350)," + "stateLaw TEXT," + "internationalLaw TEXT,"
+                    + "cautionDisclaimer VARCHAR(450))");
+
+            // Fill the lawIndex with values
+            System.out.println("Loading the lawIndex table...");
+            for (Law page : Manager.lawIndex) {
+                myStatement.executeUpdate("INSERT INTO lawIndex VALUES ('"
+                        + doubleQ(page.getName()) + "', '" + doubleQ(page.getUrl()) + "', '"
+                        + doubleQ(page.getLegalTable()) + "', '" + doubleQ(page.getFederalLawText())
+                        + "', '" + doubleQ(page.getStateLaw()) + "', '"
+                        + doubleQ(page.getInternationalLaw()) + "', '"
+                        + doubleQ(page.getCautionDisclaimer()) + "')");
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
     }
 
     /**
      * Creates a table for all of the Dose pages.
      */
     private static void loadDoseTable() {
-        // TODO
+        try {
+            // Create doseIndex
+            System.out.println("Creating doseIndex table...");
+            myStatement.executeUpdate("CREATE TABLE IF NOT EXISTS doseIndex ("
+                    + "name VARCHAR(50), " + "url VARCHAR(125), " + "doseTable VARCHAR(750),"
+                    + "doseText VARCHAR(4775)," + "notes VARCHAR(2275),"
+                    + "cautionDisclaimer VARCHAR(425))");
+
+            // Fill the doseIndex with values
+            System.out.println("Loading the doseIndex table...");
+            for (Dose page : Manager.doseIndex) {
+                myStatement.executeUpdate("INSERT INTO doseIndex VALUES ('"
+                        + doubleQ(page.getName()) + "', '" + doubleQ(page.getUrl()) + "', '"
+                        + doubleQ(page.getDoseTable()) + "', '" + doubleQ(page.getDoseText())
+                        + "', '" + doubleQ(page.getNotes()) + "', '"
+                        + doubleQ(page.getCautionDisclaimer()) + "')");
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
     }
 
     /**
      * Creates a table for all of the Chemistry pages.
      */
     private static void loadChemistryTable() {
-        // TODO
+        try {
+            // Create chemistryIndex
+            System.out.println("Creating chemistryIndex table...");
+            myStatement.executeUpdate("CREATE TABLE IF NOT EXISTS chemistryIndex ("
+                    + "name VARCHAR(50), " + "url VARCHAR(125), " + "chemTable VARCHAR(950),"
+                    + "moleculeURL VARCHAR(100))");
+
+            // Fill the chemistryIndex with values
+            System.out.println("Loading the chemistryIndex table...");
+            for (Chemistry page : Manager.chemistryIndex) {
+                myStatement.executeUpdate(
+                        "INSERT INTO chemistryIndex VALUES ('" + doubleQ(page.getName()) + "', '"
+                                + doubleQ(page.getUrl()) + "', '" + doubleQ(page.getChemTable())
+                                + "', '" + doubleQ(page.getMoleculeURL()) + "')");
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
     }
 
     /**
      * Creates a table for all of the ResearchChemical pages.
      */
     private static void loadResearchChemicalTable() {
-        // TODO
+        try {
+            // Create researchChemicalIndex
+            System.out.println("Creating researchChemicalIndex table...");
+            myStatement.executeUpdate("CREATE TABLE IF NOT EXISTS researchChemicalIndex ("
+                    + "name VARCHAR(50), " + "url VARCHAR(125), " + "summaryText VARCHAR(1575),"
+                    + "imageURL VARCHAR(75))");
+
+            // Fill the researchChemicalIndex with values
+            System.out.println("Loading the researchChemicalIndex table...");
+            for (ResearchChemical page : Manager.researchChemicalIndex) {
+                myStatement.executeUpdate("INSERT INTO researchChemicalIndex VALUES ('"
+                        + doubleQ(page.getName()) + "', '" + doubleQ(page.getUrl()) + "', '"
+                        + doubleQ(page.getSummaryText()) + "', '" + doubleQ(page.getImageUrl())
+                        + "')");
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
     }
 
     /**
