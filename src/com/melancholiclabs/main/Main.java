@@ -33,19 +33,6 @@ public class Main {
     /** The Statement to serve as a global variable. */
     private static Statement myStatement;
 
-    /** The substance array of chemicals. */
-    private static Chemical[] chemIndex;
-    /** The substance array of plants. */
-    private static Plant[] plantIndex;
-    /** The substance array of herbs. */
-    private static Herb[] herbIndex;
-    /** The substance array of pharmaceuticals. */
-    private static Pharm[] pharmIndex;
-    /** The substance array of smarts. */
-    private static Smart[] smartIndex;
-    /** The substance array of animals. */
-    private static Animal[] animalIndex;
-
     /**
      * Standard main method.
      * 
@@ -54,21 +41,9 @@ public class Main {
      */
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
-
-        // Initialize the manager
-        Manager manager = new Manager();
-        // Load all indexes with detailed information
+        // Load all indexes with full information
         System.out.println("Loading all indexes with detailed information...");
-        // manager.loadAllIndexDetailed();
-        manager.loadAllIndexDetailed();
-        // Set the indexes to their respective arrays
-        System.out.println("Assigning indexes to arrays...");
-        chemIndex = manager.getChemIndex();
-        plantIndex = manager.getPlantIndex();
-        herbIndex = manager.getHerbIndex();
-        pharmIndex = manager.getPharmIndex();
-        smartIndex = manager.getSmartIndex();
-        animalIndex = manager.getAnimalIndex();
+        Manager.loadAllIndexFull();
 
         try {
             // Get a connection to the database
@@ -84,13 +59,22 @@ public class Main {
             myStatement.executeUpdate("CREATE DATABASE IF NOT EXISTS erowid");
             // Use the newly created database
             myStatement.executeUpdate("USE erowid");
-            // Load the chemIndex table
+            // Load the Substance tables
             loadChemTable();
             loadPlantTable();
             loadHerbTable();
             loadPharmTable();
             loadSmartTable();
             loadAnimalTable();
+            // Load the ExternalPage tables
+            loadBasicsTable();
+            loadEffectsTable();
+            loadImagesTable();
+            loadHealthTable();
+            loadLawTable();
+            loadDoseTable();
+            loadChemistryTable();
+            loadResearchChemicalTable();
             // Prints out a completion statement
             float run = System.currentTimeMillis() - start;
             System.out.println("Completed in " + run / 1000 + " seconds!");
@@ -117,7 +101,7 @@ public class Main {
 
             // Fill the chemIndex with values
             System.out.println("Loading the chemIndex table...");
-            for (Chemical chem : chemIndex) {
+            for (Chemical chem : Manager.chemIndex) {
                 myStatement.executeUpdate("INSERT INTO chemIndex VALUES ('"
                         + doubleQ(chem.getName()) + "', '" + doubleQ(chem.getUrl()) + "', '"
                         + doubleQ(chem.getCategory()) + "', '" + doubleQ(chem.getCommonNames())
@@ -153,7 +137,7 @@ public class Main {
 
             // Fill the plantIndex with values
             System.out.println("Loading the plantIndex table...");
-            for (Plant plant : plantIndex) {
+            for (Plant plant : Manager.plantIndex) {
                 myStatement.executeUpdate("INSERT INTO plantIndex VALUES ('"
                         + doubleQ(plant.getName()) + "', '" + doubleQ(plant.getUrl()) + "', '"
                         + doubleQ(plant.getCategory()) + "', '"
@@ -189,7 +173,7 @@ public class Main {
 
             // Fill the herbIndex with values
             System.out.println("Loading the herbIndex table...");
-            for (Herb herb : herbIndex) {
+            for (Herb herb : Manager.herbIndex) {
                 myStatement.executeUpdate("INSERT INTO herbIndex VALUES ('"
                         + doubleQ(herb.getName()) + "', '" + doubleQ(herb.getUrl()) + "', '"
                         + doubleQ(herb.getCategory()) + "', '"
@@ -225,7 +209,7 @@ public class Main {
 
             // Fill the pharmIndex with values
             System.out.println("Loading the pharmIndex table...");
-            for (Pharm pharm : pharmIndex) {
+            for (Pharm pharm : Manager.pharmIndex) {
                 myStatement.executeUpdate("INSERT INTO pharmIndex VALUES ('"
                         + doubleQ(pharm.getName()) + "', '" + doubleQ(pharm.getUrl()) + "', '"
                         + doubleQ(pharm.getCategory()) + "', '" + doubleQ(pharm.getCommonNames())
@@ -261,7 +245,7 @@ public class Main {
 
             // Fill the smartIndex with values
             System.out.println("Loading the smartIndex table...");
-            for (Smart smart : smartIndex) {
+            for (Smart smart : Manager.smartIndex) {
                 myStatement.executeUpdate("INSERT INTO smartIndex VALUES ('"
                         + doubleQ(smart.getName()) + "', '" + doubleQ(smart.getUrl()) + "', '"
                         + doubleQ(smart.getCategory()) + "', '" + doubleQ(smart.getCommonNames())
@@ -297,7 +281,7 @@ public class Main {
 
             // Fill the animalIndex with values
             System.out.println("Loading the animalIndex table...");
-            for (Animal animal : animalIndex) {
+            for (Animal animal : Manager.animalIndex) {
                 myStatement.executeUpdate("INSERT INTO animalIndex VALUES ('"
                         + doubleQ(animal.getName()) + "', '" + doubleQ(animal.getUrl()) + "', '"
                         + doubleQ(animal.getCategory()) + "', '"
@@ -314,6 +298,62 @@ public class Main {
         } catch (SQLException e) {
             e.printStackTrace();
         }
+    }
+
+    /**
+     * Creates a table for all of the Basic pages.
+     */
+    private static void loadBasicsTable() {
+        // TODO
+    }
+
+    /**
+     * Creates a table for all of the Effects pages.
+     */
+    private static void loadEffectsTable() {
+        // TODO
+    }
+
+    /**
+     * Creates a table for all of the Images pages.
+     */
+    private static void loadImagesTable() {
+        // TODO
+    }
+
+    /**
+     * Creates a table for all of the Health pages.
+     */
+    private static void loadHealthTable() {
+        // TODO
+    }
+
+    /**
+     * Creates a table for all of the Law pages.
+     */
+    private static void loadLawTable() {
+        // TODO
+    }
+
+    /**
+     * Creates a table for all of the Dose pages.
+     */
+    private static void loadDoseTable() {
+        // TODO
+    }
+
+    /**
+     * Creates a table for all of the Chemistry pages.
+     */
+    private static void loadChemistryTable() {
+        // TODO
+    }
+
+    /**
+     * Creates a table for all of the ResearchChemical pages.
+     */
+    private static void loadResearchChemicalTable() {
+        // TODO
     }
 
     /**
