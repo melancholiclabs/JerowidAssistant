@@ -49,6 +49,11 @@ public class Main {
      */
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
+        // Checks if the latest hashcode matches erowid.org
+        System.out.println("Determining if records match erowid.org...");
+        if (!checkUpdate()) {
+            System.exit(0);
+        }
         // Load all indexes with full information
         System.out.println("Loading all indexes with full information...");
         Manager.loadAllIndexFull();
@@ -89,6 +94,16 @@ public class Main {
         } catch (Exception e) {
             e.printStackTrace();
         }
+    }
+
+    /**
+     * Checks the hashcodes of the Indexes with basic detail against the erowid site.
+     * 
+     * @return true if the hashcode are different
+     */
+    private static boolean checkUpdate() {
+        // TODO Implement hashcodes and check them against site scrapes
+        return false;
     }
 
     /**
