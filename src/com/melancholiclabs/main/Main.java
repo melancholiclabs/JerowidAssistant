@@ -99,18 +99,19 @@ public class Main {
             // Create chemIndex
             System.out.println("Creating chemIndex table...");
             myStatement.executeUpdate("CREATE TABLE IF NOT EXISTS chemIndex ("
-                    + "name VARCHAR(50), " + "url VARCHAR(125), " + "category VARCHAR(20),"
-                    + "commonNames VARCHAR(150)," + "effectsClassification VARCHAR(100),"
-                    + "chemicalName VARCHAR(350)," + "description VARCHAR(1000),"
-                    + "imageURL VARCHAR(150)," + "basicsURL VARCHAR(150),"
-                    + "effectsURL VARCHAR(150)," + "imagesURL VARCHAR(150),"
-                    + "healthURL VARCHAR(150)," + "lawURL VARCHAR(150)," + "doseURL VARCHAR(150),"
-                    + "chemistryURL VARCHAR(150)," + "researchChemicalsURL VARCHAR(150))");
+                    + "id SMALLINT UNSIGNED," + "name VARCHAR(50), " + "url VARCHAR(125), "
+                    + "category VARCHAR(20)," + "commonNames VARCHAR(150),"
+                    + "effectsClassification VARCHAR(100)," + "chemicalName VARCHAR(350),"
+                    + "description VARCHAR(1000)," + "imageURL VARCHAR(150),"
+                    + "basicsURL VARCHAR(150)," + "effectsURL VARCHAR(150),"
+                    + "imagesURL VARCHAR(150)," + "healthURL VARCHAR(150)," + "lawURL VARCHAR(150),"
+                    + "doseURL VARCHAR(150)," + "chemistryURL VARCHAR(150),"
+                    + "researchChemicalsURL VARCHAR(150))");
 
             // Fill the chemIndex with values
             System.out.println("Loading the chemIndex table...");
             for (Chemical chem : Manager.chemIndex) {
-                myStatement.executeUpdate("INSERT INTO chemIndex VALUES ('"
+                myStatement.executeUpdate("INSERT INTO chemIndex VALUES ('" + chem.getId() + "', '"
                         + doubleQ(chem.getName()) + "', '" + doubleQ(chem.getUrl()) + "', '"
                         + doubleQ(chem.getCategory()) + "', '" + doubleQ(chem.getCommonNames())
                         + "', '" + doubleQ(chem.getEffectsClassification()) + "', '"
@@ -135,20 +136,20 @@ public class Main {
             // Create plantIndex
             System.out.println("Creating plantIndex table...");
             myStatement.executeUpdate("CREATE TABLE IF NOT EXISTS plantIndex ("
-                    + "name VARCHAR(50), " + "url VARCHAR(125), " + "category VARCHAR(20),"
-                    + "botanicalClassification VARCHAR(200)," + "commonNames VARCHAR(150),"
-                    + "effectsClassification VARCHAR(50)," + "description VARCHAR(550),"
-                    + "imageURL VARCHAR(100)," + "basicsURL VARCHAR(100),"
-                    + "effectsURL VARCHAR(100)," + "imagesURL VARCHAR(100),"
-                    + "healthURL VARCHAR(100)," + "lawURL VARCHAR(100)," + "doseURL VARCHAR(100),"
-                    + "chemistryURL VARCHAR(100))");
+                    + "id SMALLINT UNSIGNED," + "name VARCHAR(50), " + "url VARCHAR(125), "
+                    + "category VARCHAR(20)," + "botanicalClassification VARCHAR(200),"
+                    + "commonNames VARCHAR(150)," + "effectsClassification VARCHAR(50),"
+                    + "description VARCHAR(550)," + "imageURL VARCHAR(100),"
+                    + "basicsURL VARCHAR(100)," + "effectsURL VARCHAR(100),"
+                    + "imagesURL VARCHAR(100)," + "healthURL VARCHAR(100)," + "lawURL VARCHAR(100),"
+                    + "doseURL VARCHAR(100)," + "chemistryURL VARCHAR(100))");
 
             // Fill the plantIndex with values
             System.out.println("Loading the plantIndex table...");
             for (Plant plant : Manager.plantIndex) {
-                myStatement.executeUpdate("INSERT INTO plantIndex VALUES ('"
-                        + doubleQ(plant.getName()) + "', '" + doubleQ(plant.getUrl()) + "', '"
-                        + doubleQ(plant.getCategory()) + "', '"
+                myStatement.executeUpdate("INSERT INTO plantIndex VALUES ('" + plant.getId()
+                        + "', '" + doubleQ(plant.getName()) + "', '" + doubleQ(plant.getUrl())
+                        + "', '" + doubleQ(plant.getCategory()) + "', '"
                         + doubleQ(plant.getBotanicalClassification()) + "', '"
                         + doubleQ(plant.getCommonNames()) + "', '"
                         + doubleQ(plant.getEffectsClassification()) + "', '"
@@ -172,9 +173,10 @@ public class Main {
             // Create herbIndex
             System.out.println("Creating herbIndex table...");
             myStatement.executeUpdate("CREATE TABLE IF NOT EXISTS herbIndex ("
-                    + "name VARCHAR(50), " + "url VARCHAR(125), " + "category VARCHAR(20),"
-                    + "botanicalClassification VARCHAR(200)," + "commonNames VARCHAR(275),"
-                    + "uses VARCHAR(500)," + "description VARCHAR(600)," + "imageURL VARCHAR(150),"
+                    + "id SMALLINT UNSIGNED," + "name VARCHAR(50), " + "url VARCHAR(125), "
+                    + "category VARCHAR(20)," + "botanicalClassification VARCHAR(200),"
+                    + "commonNames VARCHAR(275)," + "uses VARCHAR(500),"
+                    + "description VARCHAR(600)," + "imageURL VARCHAR(150),"
                     + "basicsURL VARCHAR(100)," + "effectsURL VARCHAR(100),"
                     + "imagesURL VARCHAR(100)," + "healthURL VARCHAR(100)," + "lawURL VARCHAR(100),"
                     + "doseURL VARCHAR(100)," + "chemistryURL VARCHAR(100))");
@@ -182,7 +184,7 @@ public class Main {
             // Fill the herbIndex with values
             System.out.println("Loading the herbIndex table...");
             for (Herb herb : Manager.herbIndex) {
-                myStatement.executeUpdate("INSERT INTO herbIndex VALUES ('"
+                myStatement.executeUpdate("INSERT INTO herbIndex VALUES ('" + herb.getId() + "', '"
                         + doubleQ(herb.getName()) + "', '" + doubleQ(herb.getUrl()) + "', '"
                         + doubleQ(herb.getCategory()) + "', '"
                         + doubleQ(herb.getBotanicalClassification()) + "', '"
@@ -207,21 +209,22 @@ public class Main {
             // Create pharmIndex
             System.out.println("Creating pharmIndex table...");
             myStatement.executeUpdate("CREATE TABLE IF NOT EXISTS pharmIndex ("
-                    + "name VARCHAR(50), " + "url VARCHAR(125), " + "category VARCHAR(20),"
-                    + "commonNames VARCHAR(150)," + "effectsClassification VARCHAR(100),"
-                    + "chemicalName VARCHAR(150)," + "description VARCHAR(500),"
-                    + "imageURL VARCHAR(150)," + "basicsURL VARCHAR(100),"
-                    + "effectsURL VARCHAR(100)," + "imagesURL VARCHAR(100),"
-                    + "healthURL VARCHAR(100)," + "lawURL VARCHAR(100)," + "doseURL VARCHAR(100),"
-                    + "chemistryURL VARCHAR(100))");
+                    + "id SMALLINT UNSIGNED," + "name VARCHAR(50), " + "url VARCHAR(125), "
+                    + "category VARCHAR(20)," + "commonNames VARCHAR(150),"
+                    + "effectsClassification VARCHAR(100)," + "chemicalName VARCHAR(150),"
+                    + "description VARCHAR(500)," + "imageURL VARCHAR(150),"
+                    + "basicsURL VARCHAR(100)," + "effectsURL VARCHAR(100),"
+                    + "imagesURL VARCHAR(100)," + "healthURL VARCHAR(100)," + "lawURL VARCHAR(100),"
+                    + "doseURL VARCHAR(100)," + "chemistryURL VARCHAR(100))");
 
             // Fill the pharmIndex with values
             System.out.println("Loading the pharmIndex table...");
             for (Pharm pharm : Manager.pharmIndex) {
-                myStatement.executeUpdate("INSERT INTO pharmIndex VALUES ('"
-                        + doubleQ(pharm.getName()) + "', '" + doubleQ(pharm.getUrl()) + "', '"
-                        + doubleQ(pharm.getCategory()) + "', '" + doubleQ(pharm.getCommonNames())
-                        + "', '" + doubleQ(pharm.getEffectsClassification()) + "', '"
+                myStatement.executeUpdate("INSERT INTO pharmIndex VALUES ('" + pharm.getId()
+                        + "', '" + doubleQ(pharm.getName()) + "', '" + doubleQ(pharm.getUrl())
+                        + "', '" + doubleQ(pharm.getCategory()) + "', '"
+                        + doubleQ(pharm.getCommonNames()) + "', '"
+                        + doubleQ(pharm.getEffectsClassification()) + "', '"
                         + doubleQ(pharm.getChemicalName()) + "', '"
                         + doubleQ(pharm.getDescription()) + "', '" + doubleQ(pharm.getImageURL())
                         + "', '" + doubleQ(pharm.getBasicsURL()) + "', '"
@@ -243,21 +246,22 @@ public class Main {
             // Create smartIndex
             System.out.println("Creating smartIndex table...");
             myStatement.executeUpdate("CREATE TABLE IF NOT EXISTS smartIndex ("
-                    + "name VARCHAR(50), " + "url VARCHAR(125), " + "category VARCHAR(20),"
-                    + "commonNames VARCHAR(50)," + "effectsClassification VARCHAR(75),"
-                    + "chemicalName VARCHAR(75)," + "description VARCHAR(750),"
-                    + "imageURL VARCHAR(141)," + "basicsURL VARCHAR(100),"
-                    + "effectsURL VARCHAR(100)," + "imagesURL VARCHAR(100),"
-                    + "healthURL VARCHAR(100)," + "lawURL VARCHAR(100)," + "doseURL VARCHAR(100),"
-                    + "chemistryURL VARCHAR(100))");
+                    + "id SMALLINT UNSIGNED," + "name VARCHAR(50), " + "url VARCHAR(125), "
+                    + "category VARCHAR(20)," + "commonNames VARCHAR(50),"
+                    + "effectsClassification VARCHAR(75)," + "chemicalName VARCHAR(75),"
+                    + "description VARCHAR(750)," + "imageURL VARCHAR(141),"
+                    + "basicsURL VARCHAR(100)," + "effectsURL VARCHAR(100),"
+                    + "imagesURL VARCHAR(100)," + "healthURL VARCHAR(100)," + "lawURL VARCHAR(100),"
+                    + "doseURL VARCHAR(100)," + "chemistryURL VARCHAR(100))");
 
             // Fill the smartIndex with values
             System.out.println("Loading the smartIndex table...");
             for (Smart smart : Manager.smartIndex) {
-                myStatement.executeUpdate("INSERT INTO smartIndex VALUES ('"
-                        + doubleQ(smart.getName()) + "', '" + doubleQ(smart.getUrl()) + "', '"
-                        + doubleQ(smart.getCategory()) + "', '" + doubleQ(smart.getCommonNames())
-                        + "', '" + doubleQ(smart.getEffectsClassification()) + "', '"
+                myStatement.executeUpdate("INSERT INTO smartIndex VALUES ('" + smart.getId()
+                        + "', '" + doubleQ(smart.getName()) + "', '" + doubleQ(smart.getUrl())
+                        + "', '" + doubleQ(smart.getCategory()) + "', '"
+                        + doubleQ(smart.getCommonNames()) + "', '"
+                        + doubleQ(smart.getEffectsClassification()) + "', '"
                         + doubleQ(smart.getChemicalName()) + "', '"
                         + doubleQ(smart.getDescription()) + "', '" + doubleQ(smart.getImageURL())
                         + "', '" + doubleQ(smart.getBasicsURL()) + "', '"
@@ -279,20 +283,20 @@ public class Main {
             // Create animalIndex
             System.out.println("Creating animalIndex table...");
             myStatement.executeUpdate("CREATE TABLE IF NOT EXISTS animalIndex ("
-                    + "name VARCHAR(50), " + "url VARCHAR(125), " + "category VARCHAR(20),"
-                    + "botanicalClassification VARCHAR(150)," + "commonNames VARCHAR(50),"
-                    + "effectsClassification VARCHAR(50)," + "description VARCHAR(550),"
-                    + "imageURL VARCHAR(150)," + "basicsURL VARCHAR(100),"
-                    + "effectsURL VARCHAR(100)," + "imagesURL VARCHAR(100),"
-                    + "healthURL VARCHAR(100)," + "lawURL VARCHAR(100)," + "doseURL VARCHAR(100),"
-                    + "chemistryURL VARCHAR(100))");
+                    + "id SMALLINT UNSIGNED," + "name VARCHAR(50), " + "url VARCHAR(125), "
+                    + "category VARCHAR(20)," + "botanicalClassification VARCHAR(150),"
+                    + "commonNames VARCHAR(50)," + "effectsClassification VARCHAR(50),"
+                    + "description VARCHAR(550)," + "imageURL VARCHAR(150),"
+                    + "basicsURL VARCHAR(100)," + "effectsURL VARCHAR(100),"
+                    + "imagesURL VARCHAR(100)," + "healthURL VARCHAR(100)," + "lawURL VARCHAR(100),"
+                    + "doseURL VARCHAR(100)," + "chemistryURL VARCHAR(100))");
 
             // Fill the animalIndex with values
             System.out.println("Loading the animalIndex table...");
             for (Animal animal : Manager.animalIndex) {
-                myStatement.executeUpdate("INSERT INTO animalIndex VALUES ('"
-                        + doubleQ(animal.getName()) + "', '" + doubleQ(animal.getUrl()) + "', '"
-                        + doubleQ(animal.getCategory()) + "', '"
+                myStatement.executeUpdate("INSERT INTO animalIndex VALUES ('" + animal.getId()
+                        + "', '" + doubleQ(animal.getName()) + "', '" + doubleQ(animal.getUrl())
+                        + "', '" + doubleQ(animal.getCategory()) + "', '"
                         + doubleQ(animal.getBotanicalClassification()) + "', '"
                         + doubleQ(animal.getCommonNames()) + "', '"
                         + doubleQ(animal.getEffectsClassification()) + "', '"
@@ -316,23 +320,23 @@ public class Main {
             // Create basicsIndex
             System.out.println("Creating basicsIndex table...");
             myStatement.executeUpdate("CREATE TABLE IF NOT EXISTS basicsIndex ("
-                    + "name VARCHAR(50), " + "url VARCHAR(125), " + "description VARCHAR(2100),"
-                    + "descriptionSections VARCHAR(4250)," + "effects VARCHAR(1500),"
-                    + "effectsSections VARCHAR(2400)," + "problems VARCHAR(2400),"
-                    + "problemsSections VARCHAR(3050)," + "cautionDisclaimer VARCHAR(325))");
+                    + "id SMALLINT UNSIGNED," + "name VARCHAR(50), " + "url VARCHAR(125), "
+                    + "description VARCHAR(2100)," + "descriptionSections VARCHAR(4250),"
+                    + "effects VARCHAR(1500)," + "effectsSections VARCHAR(2400),"
+                    + "problems VARCHAR(2400)," + "problemsSections VARCHAR(3050),"
+                    + "cautionDisclaimer VARCHAR(325))");
 
             // Fill the basicsIndex with values
             System.out.println("Loading the basicsIndex table...");
-            for (Basics basicsPage : Manager.basicsIndex) {
-                myStatement.executeUpdate("INSERT INTO basicsIndex VALUES ('"
-                        + doubleQ(basicsPage.getName()) + "', '" + doubleQ(basicsPage.getUrl())
-                        + "', '" + doubleQ(basicsPage.getDescription()) + "', '"
-                        + doubleQ(basicsPage.getDescriptionSections()) + "', '"
-                        + doubleQ(basicsPage.getEffects()) + "', '"
-                        + doubleQ(basicsPage.getEffectsSections()) + "', '"
-                        + doubleQ(basicsPage.getProblems()) + "', '"
-                        + doubleQ(basicsPage.getProblemsSections()) + "', '"
-                        + doubleQ(basicsPage.getCautionDisclaimer()) + "')");
+            for (Basics page : Manager.basicsIndex) {
+                myStatement.executeUpdate("INSERT INTO basicsIndex VALUES ('" + page.getId()
+                        + "', '" + doubleQ(page.getName()) + "', '" + doubleQ(page.getUrl())
+                        + "', '" + doubleQ(page.getDescription()) + "', '"
+                        + doubleQ(page.getDescriptionSections()) + "', '"
+                        + doubleQ(page.getEffects()) + "', '" + doubleQ(page.getEffectsSections())
+                        + "', '" + doubleQ(page.getProblems()) + "', '"
+                        + doubleQ(page.getProblemsSections()) + "', '"
+                        + doubleQ(page.getCautionDisclaimer()) + "')");
             }
         } catch (SQLException e) {
             e.printStackTrace();
@@ -347,18 +351,20 @@ public class Main {
             // Create effectsIndex
             System.out.println("Creating effectsIndex table...");
             myStatement.executeUpdate("CREATE TABLE IF NOT EXISTS effectsIndex ("
-                    + "name VARCHAR(50), " + "url VARCHAR(125), " + "duration VARCHAR(275),"
-                    + "positiveEffects VARCHAR(1325)," + "neutralEffects VARCHAR(725),"
-                    + "negativeEffects VARCHAR(1650)," + "description VARCHAR(9200),"
-                    + "experienceReports VARCHAR(6425)," + "cautionDisclaimer VARCHAR(400))");
+                    + "id SMALLINT UNSIGNED," + "name VARCHAR(50), " + "url VARCHAR(125), "
+                    + "duration VARCHAR(275)," + "positiveEffects VARCHAR(1325),"
+                    + "neutralEffects VARCHAR(725)," + "negativeEffects VARCHAR(1650),"
+                    + "description VARCHAR(9200)," + "experienceReports VARCHAR(6425),"
+                    + "cautionDisclaimer VARCHAR(400))");
 
             // Fill the effectsIndex with values
             System.out.println("Loading the effectsIndex table...");
             for (Effects page : Manager.effectsIndex) {
-                myStatement.executeUpdate("INSERT INTO effectsIndex VALUES ('"
-                        + doubleQ(page.getName()) + "', '" + doubleQ(page.getUrl()) + "', '"
-                        + doubleQ(page.getDuration()) + "', '" + doubleQ(page.getPositiveEffects())
-                        + "', '" + doubleQ(page.getNeutralEffects()) + "', '"
+                myStatement.executeUpdate("INSERT INTO effectsIndex VALUES ('" + page.getId()
+                        + "', '" + doubleQ(page.getName()) + "', '" + doubleQ(page.getUrl())
+                        + "', '" + doubleQ(page.getDuration()) + "', '"
+                        + doubleQ(page.getPositiveEffects()) + "', '"
+                        + doubleQ(page.getNeutralEffects()) + "', '"
                         + doubleQ(page.getNegativeEffects()) + "', '"
                         + doubleQ(page.getDescription()) + "', '"
                         + doubleQ(page.getExperienceReports()) + "', '"
@@ -376,16 +382,16 @@ public class Main {
         try {
             // Create imagesIndex
             System.out.println("Creating imagesIndes table...");
-            myStatement
-                    .executeUpdate("CREATE TABLE IF NOT EXISTS imagesIndex (" + "name VARCHAR(50), "
-                            + "url VARCHAR(125), " + "imageEntryList VARCHAR(20000))");
+            myStatement.executeUpdate("CREATE TABLE IF NOT EXISTS imagesIndex ("
+                    + "id SMALLINT UNSIGNED," + "name VARCHAR(50), " + "url VARCHAR(125), "
+                    + "imageEntryList VARCHAR(20000))");
 
             // Fill the imagesIndex with values
             System.out.println("Loading the imagesIndex table...");
             for (Images page : Manager.imagesIndex) {
-                myStatement.executeUpdate("INSERT INTO imagesIndex VALUES ('"
-                        + doubleQ(page.getName()) + "', '" + doubleQ(page.getUrl()) + "', '"
-                        + doubleQ(page.getImageEntryList()) + "')");
+                myStatement.executeUpdate("INSERT INTO imagesIndex VALUES ('" + page.getId()
+                        + "', '" + doubleQ(page.getName()) + "', '" + doubleQ(page.getUrl())
+                        + "', '" + doubleQ(page.getImageEntryList()) + "')");
             }
         } catch (SQLException e) {
             e.printStackTrace();
@@ -400,18 +406,19 @@ public class Main {
             // Create healthIndex
             System.out.println("Creating healthIndex table...");
             myStatement.executeUpdate("CREATE TABLE IF NOT EXISTS healthIndex ("
-                    + "name VARCHAR(50), " + "url VARCHAR(125), " + "notes VARCHAR(2900),"
-                    + "deaths VARCHAR(900)," + "warnings VARCHAR(4150)," + "cautions VARCHAR(3650),"
-                    + "benefits VARCHAR(1625))");
+                    + "id SMALLINT UNSIGNED," + "name VARCHAR(50), " + "url VARCHAR(125), "
+                    + "notes VARCHAR(2900)," + "deaths VARCHAR(900)," + "warnings VARCHAR(4150),"
+                    + "cautions VARCHAR(3650)," + "benefits VARCHAR(1625))");
 
             // Fill the healthIndex with values
             System.out.println("Loading the healthIndex table...");
             for (Health page : Manager.healthIndex) {
-                myStatement.executeUpdate("INSERT INTO healthIndex VALUES ('"
-                        + doubleQ(page.getName()) + "', '" + doubleQ(page.getUrl()) + "', '"
-                        + doubleQ(page.getNotes()) + "', '" + doubleQ(page.getDeaths()) + "', '"
-                        + doubleQ(page.getWarnings()) + "', '" + doubleQ(page.getCautions())
-                        + "', '" + doubleQ(page.getBenefits()) + "')");
+                myStatement.executeUpdate("INSERT INTO healthIndex VALUES ('" + page.getId()
+                        + "', '" + doubleQ(page.getName()) + "', '" + doubleQ(page.getUrl())
+                        + "', '" + doubleQ(page.getNotes()) + "', '" + doubleQ(page.getDeaths())
+                        + "', '" + doubleQ(page.getWarnings()) + "', '"
+                        + doubleQ(page.getCautions()) + "', '" + doubleQ(page.getBenefits())
+                        + "')");
             }
         } catch (SQLException e) {
             e.printStackTrace();
@@ -425,15 +432,16 @@ public class Main {
         try {
             // Create lawIndex
             System.out.println("Creating lawIndex table...");
-            myStatement.executeUpdate("CREATE TABLE IF NOT EXISTS lawIndex (" + "name VARCHAR(50), "
-                    + "url VARCHAR(125), " + "legalTable VARCHAR(175),"
-                    + "federalLawText VARCHAR(3350)," + "stateLaw TEXT," + "internationalLaw TEXT,"
+            myStatement.executeUpdate("CREATE TABLE IF NOT EXISTS lawIndex ("
+                    + "id SMALLINT UNSIGNED," + "name VARCHAR(50), " + "url VARCHAR(125), "
+                    + "legalTable VARCHAR(175)," + "federalLawText VARCHAR(3350),"
+                    + "stateLaw TEXT," + "internationalLaw TEXT,"
                     + "cautionDisclaimer VARCHAR(450))");
 
             // Fill the lawIndex with values
             System.out.println("Loading the lawIndex table...");
             for (Law page : Manager.lawIndex) {
-                myStatement.executeUpdate("INSERT INTO lawIndex VALUES ('"
+                myStatement.executeUpdate("INSERT INTO lawIndex VALUES ('" + page.getId() + "', '"
                         + doubleQ(page.getName()) + "', '" + doubleQ(page.getUrl()) + "', '"
                         + doubleQ(page.getLegalTable()) + "', '" + doubleQ(page.getFederalLawText())
                         + "', '" + doubleQ(page.getStateLaw()) + "', '"
@@ -453,14 +461,14 @@ public class Main {
             // Create doseIndex
             System.out.println("Creating doseIndex table...");
             myStatement.executeUpdate("CREATE TABLE IF NOT EXISTS doseIndex ("
-                    + "name VARCHAR(50), " + "url VARCHAR(125), " + "doseTable VARCHAR(750),"
-                    + "doseText VARCHAR(4775)," + "notes VARCHAR(2275),"
+                    + "id SMALLINT UNSIGNED," + "name VARCHAR(50), " + "url VARCHAR(125), "
+                    + "doseTable VARCHAR(750)," + "doseText VARCHAR(4775)," + "notes VARCHAR(2275),"
                     + "cautionDisclaimer VARCHAR(425))");
 
             // Fill the doseIndex with values
             System.out.println("Loading the doseIndex table...");
             for (Dose page : Manager.doseIndex) {
-                myStatement.executeUpdate("INSERT INTO doseIndex VALUES ('"
+                myStatement.executeUpdate("INSERT INTO doseIndex VALUES ('" + page.getId() + "', '"
                         + doubleQ(page.getName()) + "', '" + doubleQ(page.getUrl()) + "', '"
                         + doubleQ(page.getDoseTable()) + "', '" + doubleQ(page.getDoseText())
                         + "', '" + doubleQ(page.getNotes()) + "', '"
@@ -479,16 +487,16 @@ public class Main {
             // Create chemistryIndex
             System.out.println("Creating chemistryIndex table...");
             myStatement.executeUpdate("CREATE TABLE IF NOT EXISTS chemistryIndex ("
-                    + "name VARCHAR(50), " + "url VARCHAR(125), " + "chemTable VARCHAR(950),"
-                    + "moleculeURL VARCHAR(100))");
+                    + "id SMALLINT UNSIGNED," + "name VARCHAR(50), " + "url VARCHAR(125), "
+                    + "chemTable VARCHAR(950)," + "moleculeURL VARCHAR(100))");
 
             // Fill the chemistryIndex with values
             System.out.println("Loading the chemistryIndex table...");
             for (Chemistry page : Manager.chemistryIndex) {
-                myStatement.executeUpdate(
-                        "INSERT INTO chemistryIndex VALUES ('" + doubleQ(page.getName()) + "', '"
-                                + doubleQ(page.getUrl()) + "', '" + doubleQ(page.getChemTable())
-                                + "', '" + doubleQ(page.getMoleculeURL()) + "')");
+                myStatement.executeUpdate("INSERT INTO chemistryIndex VALUES ('" + page.getId()
+                        + "', '" + doubleQ(page.getName()) + "', '" + doubleQ(page.getUrl())
+                        + "', '" + doubleQ(page.getChemTable()) + "', '"
+                        + doubleQ(page.getMoleculeURL()) + "')");
             }
         } catch (SQLException e) {
             e.printStackTrace();
@@ -503,16 +511,16 @@ public class Main {
             // Create researchChemicalIndex
             System.out.println("Creating researchChemicalIndex table...");
             myStatement.executeUpdate("CREATE TABLE IF NOT EXISTS researchChemicalIndex ("
-                    + "name VARCHAR(50), " + "url VARCHAR(125), " + "summaryText VARCHAR(1575),"
-                    + "imageURL VARCHAR(75))");
+                    + "id SMALLINT UNSIGNED," + "name VARCHAR(50), " + "url VARCHAR(125), "
+                    + "summaryText VARCHAR(1575)," + "imageURL VARCHAR(75))");
 
             // Fill the researchChemicalIndex with values
             System.out.println("Loading the researchChemicalIndex table...");
             for (ResearchChemical page : Manager.researchChemicalIndex) {
                 myStatement.executeUpdate("INSERT INTO researchChemicalIndex VALUES ('"
-                        + doubleQ(page.getName()) + "', '" + doubleQ(page.getUrl()) + "', '"
-                        + doubleQ(page.getSummaryText()) + "', '" + doubleQ(page.getImageUrl())
-                        + "')");
+                        + page.getId() + "', '" + doubleQ(page.getName()) + "', '"
+                        + doubleQ(page.getUrl()) + "', '" + doubleQ(page.getSummaryText()) + "', '"
+                        + doubleQ(page.getImageUrl()) + "')");
             }
         } catch (SQLException e) {
             e.printStackTrace();
