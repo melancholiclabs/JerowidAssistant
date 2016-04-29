@@ -1,0 +1,30 @@
+[Substance]
+
+id :: 213
+name :: CLOVES
+url :: https://www.erowid.org/herbs/cloves/cloves.shtml
+category :: Herbs
+botanicalClassification :: Family :Myrtaceae, Genus :Eugenia, Species :caryophyllus (or: aromatica)commonNames :: Clavos; Clovos; Lavanga
+uses :: Spice; Treatment for indigestion & diarrhea; Antiseptic
+description :: The flowerbuds of this small tree are used as a spice and have a long recorded history of use.
+imageURL :: https://www.erowid.org/herbs/cloves/images/cloves_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/cloves/cloves_images.shtml
+lawURL :: https://www.erowid.org/herbs/cloves/cloves_law.shtml
+
+[Images]
+imageEntryList :: Dried Cloves	https://www.erowid.org/herbs/show_image.php?i=cloves/cloves__i2005e1300_disp.jpg	Small pile of dried cloves.	Photo by Anonymous. &copy; 2006 Erowid.org
+Eugenia caryophyllus	https://www.erowid.org/herbs/show_image.php?i=cloves/eugenia_caryophyllus_botanical_drawing1.jpg	Color botanical drawing showing plant, flowers, and fruit.	From "An Introduction to Materia Medica and Pharmacology".
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Cloves
+REGULATED	No
+STATUS	Food Approved
+SCHEDULE	Un-Scheduled
+federalLawText :: Cloves (Eugenia caryophyllis) are uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.	
+Clove (Eugenia spp) leaf oil and bud extract, oil, and oleoresin are approved for food use in the U.S. and appear in the FDA's list of substances Generally Recognized As Safe (GRAS).	
+Clove cigarettes are also legal to buy, possess, and distribute (sell, trade or give) in the U.S.
+stateLaw :: Maryland	Maryland bans the sale of cigarettes containing cloves: ""It is illegal to sell, give, or otherwise distribute clove cigarettes to ANY person, even if eighteen years old or
+Maryland bans the sale of cigarettes containing cloves: ""It is illegal to sell, give, or otherwise distribute clove cigarettes to ANY person, even if eighteen years old or	older [Maryland Code, Criminal Law, 10-106]." See http://www.fha.state.md.us/ohpetup/tobacco/selling.cfm. (thanks C) (last updated Jun 2007)
+Utah	"It is unlawful for any person to knowingly sell, offer for sale, give or furnish any clove cigarette in this state... Any person who violates this section is guilty of a class B misdemeanor." From Salt Lake Valley Health Department (thanks Ben)
+internationalLaw :: 

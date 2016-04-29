@@ -1,0 +1,30 @@
+[Substance]
+
+id :: 231
+name :: LAVENDER
+url :: https://www.erowid.org/herbs/lavender/lavender.shtml
+category :: Herbs
+botanicalClassification :: Family :Lamiaceae (=Labiatae), Genus :Lavandula, Species :angustifolia; spica; vera; officinaliscommonNames :: Lavender; Elf Leaf
+uses :: Spice; Perfume; Sedative; Anti-depressant; Treats Intestinal Gas and Cramps
+description :: Lavender is a perennial herb growing 2-3 feet tall. Leaves are gray-green, narrow, and about 2 inches long. Purplish-blue flowers grow in 2-3 inch long clusters on spikes at the top of stems.
+imageURL :: https://www.erowid.org/herbs/lavender/images/lavender_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/lavender/lavender_images.shtml
+lawURL :: https://www.erowid.org/herbs/lavender/lavender_law.shtml
+
+[Images]
+imageEntryList :: Lavandula angustifolia	https://www.erowid.org/herbs/show_image.php?i=lavender/lavendula_angustifolia_flower__i2005e1328_disp.jpg	Flowering Lavandula angustifolia growing in garden in June. [Belgium]	Photo by Jannick Achten. &copy; 2007 Erowid.org
+Lavandula angustifolia Flower	https://www.erowid.org/herbs/show_image.php?i=lavender/lavendula_angustifolia_flower__i2005e1327_disp.jpg	Close-up of a single Lavandula angustifolia flower growing in a garden in June. [Belgium]	Photo by Jannick Achten. &copy; 2007 Erowid.org
+Lavandula angustifolia	https://www.erowid.org/herbs/show_image.php?i=lavender/lavendula_angustifolia1.jpg	Color drawing of flowering plant.	Photographer unknown.
+Lavandula officinalis	https://www.erowid.org/herbs/show_image.php?i=lavender/lavendula_officinalis1.jpg	Color drawing of flowering plant.	From Magic and Medicine of Plants.
+Lavandula officinalis	https://www.erowid.org/herbs/show_image.php?i=lavender/lavendula_officinalis2.jpg	Color photo of flowering bush.	From Magic and Medicine of Plants.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Lavandula officinalis
+REGULATED	No
+STATUS	Food Approved
+SCHEDULE	Un-Scheduled
+federalLawText :: Lavender (Lavandula spp) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.	
+Lavandula officinalis is approved for food use as a spice or seasoning in the U.S. and appears in the FDA's list of substances Generally Recognized As Safe (GRAS).
+stateLaw :: null
+internationalLaw :: 

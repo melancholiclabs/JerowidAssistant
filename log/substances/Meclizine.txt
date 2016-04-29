@@ -1,0 +1,28 @@
+[Substance]
+
+id :: 286
+name :: Meclizine
+url :: https://www.erowid.org/pharms/meclizine/meclizine.shtml
+category :: Pharms
+commonNames :: Dramamine II; Antivert; Bonine; Bonamine
+effectsClassification :: Antiemetic; Antivertigo
+chemicalName :: 1-(r-chloro-alpha-phenylben-zyl)-4-(m-methyl-benzyl)-piperazine dihydrochloride monohydrate
+description :: Meclizine is an antiemetic, antivertigo, antihistamine used to treat motion sickness and the symptoms of vestibular system diseases.
+imageURL :: https://www.erowid.org/pharms/meclizine/images/meclizine_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/meclizine/meclizine_images.shtml
+lawURL :: https://www.erowid.org/pharms/meclizine/meclizine_law.shtml
+
+[Images]
+imageEntryList :: Meclizine Tablet	https://www.erowid.org/pharms/show_image.php?i=meclizine/meclizine_tablet1.jpg	Photo of a blue and white 12.5 mg meclizine HCl tablet bearing the imprint "par || 034". (CA, USA)	Photo by Paul Hindt, &copy; 2005 Erowid.org
+Meclizine Tablet	https://www.erowid.org/pharms/show_image.php?i=meclizine/meclizine_tablet2.jpg	Photo of a yellow and white 25 mg meclizine HCl tablet bearing the imprint "par || 035". (CA, USA)	Photo by Paul Hindt, &copy; 2005 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Meclizine
+REGULATED	Yes
+STATUS	Over-The-Counter
+SCHEDULE	Un-Scheduled
+federalLawText :: Meclizine (Dramamine II, Bonine) is unscheduled in the United States. It is sold over-the-counter as an approved drug and is legal to buy, possess, and ingest without a license or prescription. Sales for human consumption are regulated by the FDA and each formulation or product requires specific FDA approval.	
+Some Meclizine-containing products (such as Antivert) are available by prescription only.
+stateLaw :: null
+internationalLaw :: Canada	Meclizine is available over-the-counter in Canada in dosages of 25 mg per tablet or less. Until 2000 is was available by prescription only.

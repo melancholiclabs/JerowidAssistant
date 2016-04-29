@@ -1,0 +1,65 @@
+[Substance]
+
+id :: 123
+name :: PMA
+url :: https://www.erowid.org/chemicals/pma/pma.shtml
+category :: Chemicals
+commonNames :: 4-methoxyamphetamine, 4-MA
+effectsClassification :: Psychedelic Stimulant
+chemicalName :: para-methoxy-amphetamine
+description :: PMA is a strong psychedelic which may cause dangerous overheating of the body. PMA has been sold in ecstasy tablets, and has lead to life-threatening or fatal hyperthermia in some users.
+imageURL :: https://www.erowid.org/chemicals/images/chemicals_spacer_summary.jpg
+effectsURL :: https://www.erowid.org/chemicals/pma/pma_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/pma/pma_images.shtml
+healthURL :: https://www.erowid.org/chemicals/pma/pma_health.shtml
+lawURL :: https://www.erowid.org/chemicals/pma/pma_law.shtml
+doseURL :: https://www.erowid.org/chemicals/pma/pma_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/pma/pma_chemistry.shtml
+
+[Effects]
+duration :: null
+positiveEffects :: increase in energy (stimulation)	minor visuals
+neutralEffects :: general change in consciousness (as with most psychoactives)	pupil dilation	erratic eye movements
+negativeEffects :: muscle spasms	increased blood temperature	increased blood pressure	increased body temperature (fever)	increased pulse rate	labored breathing	nausea & vomiting	convulsions, coma & death (see reports in media and journal sections)
+description :: PMA has been used as a recreational psychoactive (primarily in the 70s), at doses around 50 mg. Unfortunately, more often it has been sold as MDA or MDMA (ecstasy). The dosages for MDMA (80-160 mg) are significantly higher than those of PMA. At 60-80 mg, PMA can become extremely dangerous, causing increased blood temperature and blood pressure. In recent cases, PMA has been sold as ecstasy, in pressed pill form indistinguishable from ecstasy and at unknown dosages.
+experienceReports :: null
+
+[Images]
+imageEntryList :: PMA 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=pma/pma_2d.gif	Still 2D image of the PMA molecule.	Image by Erowid. &copy; 2001 Erowid.org
+PMA 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=pma/pma_3d.jpg	Still 3D image of the PMA molecule.	Image by Erowid. &copy; 2000 Erowid.org
+PMA 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=pma/pma__.mol	Rotating 3D image of the PMA molecule.	Image by Erowid. &copy; 2000 Erowid.org
+
+[Health]
+notes :: null
+deaths :: null
+warnings :: null
+cautions :: null
+benefits :: null
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+PMA
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule I
+CLASSIFICATION	Hallucinogen
+federalLawText :: PMA is Schedule I in the United States. This means it is illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license.
+stateLaw :: null
+internationalLaw :: Canada	PMA (listed as 4-methoxyamphetamine) was added to Schedule I in 2012 (see http://www.parl.gc.ca/HousePublications/Publication.aspx?Docid=5124131&file=4). after having been a restricted drug. (thanks pgg) (last updated Sep 25 2012)
+Germany	Schedule I / Highest level of control, unable to be prescribed, manufactured, or possessed as of Sep, 1999. (listed as Methoxyamfetamin for PMA and [1-(4-Methopxyphenyl)propan-2-yl](methyl)azan for PMMA)
+Schedule I / Highest level of control, unable to be prescribed, manufactured, or possessed as of Sep, 1999. (listed as Methoxyamfetamin for PMA and [1-(4-Methopxyphenyl)propan-2-yl](methyl)azan for PMMA)	(see Deutsche BtMG or http://www.silicium-sensei.de/projecte/drugs/news/news.html)
+New Zealand	PMA is Schedule I (Class A) in New Zealand [reference].
+
+[Dose]
+doseTable :: null
+doseText :: Pure PMA is a white powder, but forms found on the street can also be somewhat beige, pink, or yellowish. Recently is has been found most frequently in pressed pill form sold as MDMA (ecstasy). There is very little available information about safe recreational dosages for PMA. Doses as low as 60 mg can cause significant and alarming increase in blood pressure, body temperature and pulse. The most concerning aspect of this is that if PMA is sold as ecstasy, some people will take multiple pills, increasing chances of a PMA overdose significantly.
+notes :: null
+
+[Chemistry]
+chemTable :: NAME :	PMA
+CHEMICAL NAME :	Paramethoxyamphetamine
+ALTERNATE CHEMICAL NAMES :	4-methoxyamphetamine, 4-MA
+ALTERNATE CHEMICAL NAMES :	4-methoxy-alpha-methylphenethylamine
+CHEMICAL FORMULA	C10H15NO
+MELTING POINT	171-172 degrees
+moleculeURL :: https://www.erowid.org/chemicals/pma/images/archive/pma_3d_mid.jpg

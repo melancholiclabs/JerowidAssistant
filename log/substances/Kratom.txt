@@ -1,0 +1,187 @@
+[Substance]
+
+id :: 167
+name :: Kratom
+url :: https://www.erowid.org/plants/kratom/kratom.shtml
+category :: Plants
+botanicalClassification :: Family :Rubiaciae, Genus :Mitragyna, Species :speciosacommonNames :: Kratom; Ketum; Kakuam; Ithang; Thom; Mambog
+effectsClassification :: Stimulant; Depressant; Intoxicant
+description :: Mitragyna speciosa is a leafy tree that grows from 3-20 meters tall. Its leaves contain 7-Hydroxymitragynine and mitragynine. The leaves are chewed as an opiate substitute and stimulant in Thailand and South-East Asia, primarily among the working class. It has a relatively long history of human use.
+imageURL :: https://www.erowid.org/plants/kratom/images/kratom_summary1.jpg
+basicsURL :: https://www.erowid.org/plants/kratom/kratom_basics.shtml
+effectsURL :: https://www.erowid.org/plants/kratom/kratom_effects.shtml
+imagesURL :: https://www.erowid.org/plants/kratom/kratom_images.shtml
+healthURL :: https://www.erowid.org/plants/kratom/kratom_health.shtml
+lawURL :: https://www.erowid.org/plants/kratom/kratom_law.shtml
+doseURL :: https://www.erowid.org/plants/kratom/kratom_dose.shtml
+chemistryURL :: https://www.erowid.org/plants/kratom/kratom_chemistry.shtml
+
+[Basics]
+description :: Kratom (Mitragyna speciosa) is a tropical tree growing from 15-50 feet tall (5-15 meters) that is native to Thailand and Malaysia. It has broad, oval leaves that taper to points, yellow flowers that grow in clusters, and winged seeds. The primary active chemicals are mitragynine, mitraphylline, and 7-hydroxymitragynine, all found in the leaves. Kratom leaves have been chewed for stimulant, sedative, and euphoric effects by people in Thailand and South Asia for centuries. They can also be smoked, brewed as a tea, or made into an extract. Kratom use is relatively uncommon in the US and Europe, though it is available in raw and extract-enhanced forms from ethnobotanical vendors. [ Main Kratom Vault ]
+descriptionSections :: dose	Kratom leaves differ greatly in potency, depending on the type, grade, and freshness. Leaves with green veins are often claimed to be more potent than those with red veins, but there is contradictory evidence. Low doses are around 2-4 g of plain dried leaf, moderate doses are 3-6 g, and strong doses are 5 g or more. When chewed fresh, half of a large leaf (8-10") is often enough to produce noticeable effects.
+price	Dried, untreated leaves are available from ethnobotanical vendors for 30-80 cents (USD)/gram. Higher potency extracts may cost $2-8 USD/gram. (2009 data)
+law	Kratom is currently uncontrolled in the United States. In 1946 it was made illegal to buy, sell, or grow in Thailand, and in 2005, both M. speciosa and mitragynine were made illegal to buy, sell or possess without a license in Australia.
+chemistry	Kratom leaves contain the indole alkaloids mitragynine, mitraphylline, 7-hydroxymitragynine, and numerous other alkaloids, including paynanthine, speciogynine, and speciofoline. Mitragynine has traditionally been cited as the primary active chemical in kratom leaves, but some recent evidence points to 7-hydroxymitragynine instead.
+pharmacology	Mitragynine is a partial agonist of the mu- and delta-opioid receptors. This may account for its apparent efficacy in treating opiate withdrawal (see Babu et al. 2008). Because kratom acts as both a stimulant and a sedative, secondary alkaloids may be pharmacologically important.
+production	Kratom grows wild in marshy regions in Asia and the Pacific Rim, especially Thailand, Malaysia, Borneo, and New Guinea.
+history	Kratom appears to have been used in Thailand for centuries, recreationally and as an antidiarrhetic. Its use as an opiate substitute in Malaysia was reported in the nineteenth century. Peasants have used it to counteract the tedium of physical labor, similar to the use of coca in South America. The chemistry of its alkaloids was investigated in the 1920s, and mitragynine was isolated in 1923. Kratom leaves became part of the ethnobotanical trade in the United States and Europe in mid 2000. In the early 2000s, stories about the use of kratom to reduce opiod withdrawal effects began circulating on web forums.
+terminology	The Substance:Kratom; Mitragyna speciosa; Ketum; Kakuam; Ithang; Thom. The Experience:No common terms known.
+effects :: Kratom is often described as producing simultaneous, contradictory effects. Users report both an opiate-like sedation and coca-like stimulation. The stimulating effects tend to predominate at low dose levels, which may cause alertness, energy, and mild euphoria. Higher doses tend to be more tranquilizing, causing an opiate-like dreamy reverie. Excessive doses can cause severe nausea. Kratom is sometimes used as an opium substitute and has been found to suppress symptoms of opiate withdrawal. As with opium, it is known for causing constipation, and is sometimes used as a treatment for diarrhea.
+effectsSections :: onset	When taken orally, kratom effects typically become noticeable in 15-20 minutes and clearly apparent in 30-60 minutes. Strong doses may have a more rapid and dramatic onset.
+duration	A moderate kratom dose can cause strong effects lasting 2-4 hours, though residual effects can last hours longer. Users sometimes experience an afterglow the next day.
+visuals	Some visual effects are reported, including both open-eye and closed-eye effects, though they are considered fairly mild if they occur at all. Effects reported include wavering, shifting, and strobing in the visual field; some patterning with eyes closed; and increased closed-eye visualizations.
+problems :: Kratom is not known to be toxic, but it can be quite unpleasant at high doses, causing nausea and vomiting. Regular use can lead to physical dependency. Kratom use can cause constipation similar to that caused by opiates. Chronic heavy use is reported to cause darkening of skin, insomnia, dry mouth, and anorexia.
+problemsSections :: contraindications	Do not operate heavy machinery. Do not drive. Care should be taken if combining with other sedatives (or stimulants). Use extreme caution if combining with MAO inhibitors. Kratom could be dangerous to combine with an MAOI.
+addiction	There are reports of physical dependency after frequent, heavy kratom use. Individuals who use it regularly or in large doses may find it difficult to stop. Withdrawal symptoms include irritability, yawning, diarrhea, runny nose, and pain in the joints or muscles.
+long	Long Term Health Problems Summary Needed.
+death	There is one case in the medical literature in which kratom is believed to have contributed to the death of a 17-year-old male. Because he was alone, the exact cause of death could not be fully verified, however the medical examiner certified the cause of death as "possible Kratom toxicity". (Neerman et al. 2012) Animal studies have found even very large doses of mitragynine (920 mg/kg) to be non-lethal.
+
+[Effects]
+duration :: null
+positiveEffects :: Simultaneous stimulation & sedation	Feelings of empathy	Feelings of euphoria	Aphrodisiac qualities for some people	"Nodding", vivid waking dreams	Useful with physical labor	Low doses can result in a lasting "glow" in some people, feeling better than normal the next day	Increases sociability and talkativeness	Reduction of opioid withdrawal symptoms
+neutralEffects :: Relatively short duration	Change in ability to focus eyes	Pupil pinning / miosis	Analgesia
+negativeEffects :: Very bitter taste	Dizziness, nausea and/or vomiting at higher doses	Mild depression during and/or after	Increase in (perceived) body temperature. (feel hot and sweaty)	Hangover similar to alcohol, including headaches and sometimes nausea (at higher doses)	Itchiness / pruritus	Reduced sexual desire or performance	Desire to repeat use more than intended	Addiction, difficulty controlling use, and withdrawal symptoms	Desire to repeat experience more frequently than intended, can lead to addiction	Tolerance building quickly after a few days in a row of repeated use, tolerance to effects reduces with a one to three days of abstinence	Liver health problems (rare / unknown whether due to kratom or product contaminants)
+description :: The effects of Mitragyna speciosa are described as being a combination of both stimulation and sedation. The stimulatory effects may be shorter in duration than the sedation effect, coming on faster and fading sooner.
+experienceReports :: null
+
+[Images]
+imageEntryList :: Mitragyna speciosa	https://www.erowid.org/plants/show_image.php?i=kratom/mitragyna_speciosa__i2006e0038_disp.jpg	2 month old Mitragyna speciosa plant grown in 5 gallon hydroponic bubbler. [Michigan]	Photo by ScoobyDoo. &copy; 2006 Erowid.org
+Mitragyna speciosa	https://www.erowid.org/plants/show_image.php?i=kratom/mitragyna_speciosa__i2005e0218_disp.jpg	Small Mitragyna speciosa plant in pot. [Austria]	Photo by Mindperformer. &copy; 2006 Erowid.org
+Kratom Tree	https://www.erowid.org/plants/show_image.php?i=kratom/mitragyna_speciosa11.jpg	Photo of a 15' Kratom tree. (Surat Thani Province, S. Thailand)	Photo by John W. Allen, Used by Erowid with Permission.
+Kratom Tree	https://www.erowid.org/plants/show_image.php?i=kratom/mitragyna_speciosa12.jpg	Close-up photo of a small M. speciosa tree. (Surat Thani Province, S. Thailand)	Photo by John W. Allen, Used by Erowid with Permission.
+Kratom Plant	https://www.erowid.org/plants/show_image.php?i=kratom/mitragyna_speciosa4.jpg	Nice color photo of a small M. speciosa tree (white veined).	Photo by Gringobonk, &copy; 2002 Erowid.org
+Kratom Plant	https://www.erowid.org/plants/show_image.php?i=kratom/mitragyna_speciosa9.jpg	Beautiful close-up photo of M. speciosa (SAB) leaves. (Byron Bay, Australia)	Photo by K. Trout, Used by Erowid with Permission.
+Kratom Plant	https://www.erowid.org/plants/show_image.php?i=kratom/mitragyna_speciosa10.jpg	Color photo of M. speciosa plant. (Lismore, Australia)	Photo by Madhva, &copy; 2004 Erowid.org
+Kratom Plant	https://www.erowid.org/plants/show_image.php?i=kratom/mitragyna_speciosa5.jpg	Color photo of M. speciosa plant. [FL, USA]	Photo by Batman, &copy; 2003 Erowid.org
+Mitragyna speciosa	https://www.erowid.org/plants/show_image.php?i=kratom/mitragyna_speciosa_leaf__i2008e1007_disp.jpg	A single large leaf of Mitragyna speciosa (Rifat Strain) showing the bottom side of the leaf with slightly red veins. [Germany]	Photo by LocoNegro. &copy; 2009 Erowid.org
+Kratom Leaf	https://www.erowid.org/plants/show_image.php?i=kratom/mitragyna_speciosa_leaf3.jpg	Photo of a M. speciosa (SAB) leaf. (Byron Bay, Australia)	Photo by K. Trout, Used by Erowid with Permission.
+Kratom Leaf	https://www.erowid.org/plants/show_image.php?i=kratom/mitragyna_speciosa_leaf1.jpg	Color photo of live M. speciosa leaf [SE Asia, Aug 1999].	Photo by Paul E. Wogg, &copy; 2000 Erowid.org
+Kratom Leaves	https://www.erowid.org/plants/show_image.php?i=kratom/mitragyna_speciosa_leaf4.jpg	Close-up photo of M. speciosa branch and leaves. (Surat Thani Province, S. Thailand)	Photo by John W. Allen, Used by Erowid with Permission.
+Kratom Leaf	https://www.erowid.org/plants/show_image.php?i=kratom/mitragyna_speciosa_leaf2.jpg	Color photo of a single freshly picked M. speciosa leaf 7.5 in. long x 3.75 in. wide [VA, USA].	Photo by Murple, &copy; 2002 Erowid.org
+Kratom Leaf	https://www.erowid.org/plants/show_image.php?i=kratom/mitragyna_speciosa3.jpg	Color photo of dried and crushed M. speciosa leaf.	Photo by Erowid, &copy; 2000 Erowid.org
+Kratom	https://www.erowid.org/plants/show_image.php?i=kratom/mitragyna_speciosa6.jpg	Color photo of a small Mitragyna speciosa tree. [FL, USA]	Photo by Batman, &copy; 2004 Erowid.org
+Kratom	https://www.erowid.org/plants/show_image.php?i=kratom/mitragyna_speciosa7.jpg	Close-up color photo showing the stalk of a small Mitragyna speciosa tree. [FL, USA]	Photo by Batman, &copy; 2004 Erowid.org
+Kratom Flower	https://www.erowid.org/plants/show_image.php?i=kratom/mitragyna_speciosa_flower1.jpg	Color photo of live M. speciosa flower [SE Asia, Aug 1999].	Photo by Paul E. Wogg, &copy; 2000 Erowid.org
+Kratom Branch w/ Flowers	https://www.erowid.org/plants/show_image.php?i=kratom/mitragyna_speciosa8.jpg	Photo showing a cut branch of Mitragyna speciosa with flowers [SE Asia, Aug 1999].	Photo by Paul E. Wogg, &copy; 2004 Erowid.org
+Kratom Seeds	https://www.erowid.org/plants/show_image.php?i=kratom/mitragyna_speciosa_seed1.jpg	A small pile of Kratom seeds next to a 2 g. bag of seeds [US].	Photo by Murple, &copy; 2004 Erowid.org
+Kratom Leaf Powder	https://www.erowid.org/plants/show_image.php?i=kratom/kratom_leaf_powder__i2016e0010_disp.jpg	Kratom leaf powder in pile from large bag with spoon in pile. Kratom variety is Bali. [California, USA]	Photo by Erowid. &copy; 2016 Erowid.org
+Kratom Leaf Powder on Scale	https://www.erowid.org/plants/show_image.php?i=kratom/kratom_leaf_powder__i2016e0011_disp.jpg	A bag of Kratom (variety Maeng Da Twenty) with a scale weighing 2 grams of kratom leaf powder. [California, USA]	Photo by Erowid . &copy; 2016 Erowid.org
+Commercial Kratom Products	https://www.erowid.org/plants/show_image.php?i=kratom/kratom_products__i2015e0140_disp.jpg	Three mylar-bagged commercial kratom products including Captain Kratom and Mojo brands. Taken in Chicago-area headshop. [Chicago, USA]	Photo by Erowid. &copy; 2016 Erowid.org
+Commercial Kratom Capsules	https://www.erowid.org/plants/show_image.php?i=kratom/kratom_capsules__i2016e0013_disp.jpg	A small plastic bag containing 0.5 ounce of kratom leaf powder in capsules. KD Brand. The variety is listed as Royal Green Vein Malaysian Kratom. Label is marked "NOT FOR HUMAN CONSUMPTION". [California, USA]	Photo by Erowid. &copy; 2016 Erowid.org
+Kratom Leaf Powder	https://www.erowid.org/plants/show_image.php?i=kratom/kratom_leaf_powder__i2015e0142_disp.jpg	A plastic bag containing 10 grams of kratom leaf powder (Mitragyna speciosa var Red Vein Borneo). Bag states "NOT FDA APPROVED. User assumes all risks." [California, USA]	Photo by Erowid. &copy; 2016 Erowid.org
+Kratom Capsule Products	https://www.erowid.org/plants/show_image.php?i=kratom/kratom_capsules__i2015e0139_disp.jpg	Four plastic bags containing KD kratom capsules.	Photo by Erowid. &copy; 2016 Erowid.org
+"Mellow Gold" Seeds	https://www.erowid.org/plants/show_image.php?i=kratom/mitragyna_speciosa_fake_mellow_gold_seeds1.jpg	Seeds originally sold as Mitragyna speciosa seeds, later determined to be mis-identified. Now called "Mellow Gold" seeds [US].	Photo by Murple, &copy; 2004 Erowid.org
+Kratom Extract	https://www.erowid.org/plants/show_image.php?i=kratom/mitragyna_speciosa_extract1.jpg	Color photo of a small baggie of what was sold as "Mitragyna speciosa (Kratom) Extract" (acetate salts of alkaloids). There is now significant reason to believe this is not M. speciosa at all [US].	Photo by Murple, &copy; 2004 Erowid.org
+Kratom Tissue Culture	https://www.erowid.org/plants/show_image.php?i=kratom/mitragyna_speciosa2.jpg	Color photo of the first ever tissue cultured specimen of Mitragyna speciosa, just before birth.	Photo by Wandjina Gardens, &copy; 2000 Erowid.org
+Kratom Plant	https://www.erowid.org/plants/show_image.php?i=kratom/mitragyna_speciosa1.jpg	Color photo of the first tissue cultured specimen of Mitragyna speciosa at 6 weeks old.	Photo by Wandjina Gardens, &copy; 2000 Erowid.org
+Kratom Subculture	https://www.erowid.org/plants/show_image.php?i=kratom/mitragyna_speciosa_culture2.jpg	Color photo of a subculture taken from the first tissue cultured Mitragyna speciosa specimen [Australia].	Photo by Darklight, &copy; 2002 Erowid.org
+Kratom Capsules and Oculus Rift Dev Kit	https://www.erowid.org/plants/show_image.php?i=kratom/kratom_vr_headset__i2015e0143_disp.jpg	A photo of an Oculus Rift development kit with kratom leaf powder capsules.	Photo by RevMeO. &copy; 2016 Erowid.org
+Mitragynine 2D Molecule	https://www.erowid.org/plants/show_molecule.php?i=kratom/mitragynine_2d.gif	Still 2D image of the Mitragynine molecule.	Image by Erowid. &copy; 2004 Erowid.org
+Mitragynine 3D Molecule	https://www.erowid.org/plants/show_molecule.php?i=kratom/mitragynine_3d-mid.jpg	Still 3D image of the Mitragyinine molecule.	Image by Erowid, &copy; 2004 Erowid.org
+Mitragynine 3D Rotating Molecule	https://www.erowid.org/plants/show_molecule.php?i=kratom/mitragynine__.mol	Rotating 3D image of the Mitragynine molecule.	Image by Erowid, &copy; 2004 Erowid.org
+Mitragynine 2D Molecule	https://www.erowid.org/plants/show_molecule.php?i=kratom/mitragynine_2d_1.gif	2D image of a mitragyinine molecule.	Image by Voin. &copy; 2005 Erowid.org
+
+[Health]
+notes :: Kratom leaves contain psychoactive chemicals, including mitragynine, that are mu-opioid agonists with some similarity in effects to opium-poppy opiates and pharmaceutical opioids. The primary health concerns for most users are sedation-related risks, addiction/dependence, constipation, itchiness, and possible liver health problems.
+deaths :: We know of no documented deaths directly attributable to kratom, but some products sold as kratom have resulted in death. One death documented in a 2011 paper described a kratom product that also had O-desmethyltramadol (a synthetic pharmaceutical) added to it.1	
+According to Pascal Tanguay, from the Thailand offices of PSI, a Washington DC-based global health organization that promotes harm reduction among drug users, "There's never been a single death associated with kratom. People have been chewing this for thousands of years with no cases of overdose, psychosis, murder, violent crime. Never in all of recorded history."2
+warnings :: null
+cautions :: Liver Toxicity / Hepatotoxicity / Hepatitis.  A small number of kratom experience reports describe hepatitis and/or hepatotoxic symptoms. This effect has also been reported in the medical literature (Kapp et al. 2011). Most of these reports of liver-health issues involve kratom extracts rather than unenhanced dried leaves. It is unknown if these are attributable to kratom alkaloids, extract-production byproducts, or other contaminants. See Sly 2008, Nlogn 2011, Experience Reports with mentions of liver issues.
+Habituation / Addiction.  Kratom is considered addictive; reports of physical and psychological dependence, tolerance, and physical withdrawal symptoms are prevalent, though not universal, in experience reports. Taking kratom daily can result in physical dependence. In such instances, symptoms similar to those of opioid withdrawal usually begin 18-24 hours after the last dose and continue for 1-14 days.
+Vomiting while Sedated Mixing kratom with alcohol or other sedating drugs could result in life-threatening situations related to aspiration of vomit and asphyxia if unattended.
+Respiratory Depression?  When asked whether kratom was dangerous, leading medical toxicologist Edward Boyer replied:  People are afraid of opioid analgesics because they can lead to respiratory depression [difficulty breathing]. When you overdose on these drugs, your respiratory rate drops to zero. In animal studies where rats were given mitragynine, those rats had no respiratory depression. This opens the possibility of someday developing a pain medication as effective as morphine but without the risk of accidentally overdosing and dying. - Boyer E (professor of emergency medicine and director of medical toxicology at the University of Massachusetts Medical School.)3
+benefits :: Medical Uses. The primary medical uses described by users of kratom are analgesia (pain relief), cessation of opioid withdrawal symptoms, and sedation.
+Reduction or Cessation of Opioid Withdrawal Symptoms Kratom is widely used by opioid addicts to stop or reduce opioid withdrawal symptoms. In some cases, kratom use helps individuals stop taking opioids entirely, but in other cases kratom simply replaces the other opioid addiction with daily kratom use.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Mitragyna speciosa
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: Kratom (Mitragyna speciosa) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.	
+In January 2016, The FDA authorized US federal marshals to seize 90,000 bottles of supplements marked as containing kratom. See http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm480344.htm?source=govdelivery&utm_medium=email&utm_source=govdelivery.	
+In Feburary 2014, the FDA issued "Import Alert 54-15" that seems to provide customs and border agents broad authority to seize kratom products from a number of suppliers outside the US. As of May 2014, it is unknown whether this import alert has substantially altered the import of raw kratom or if only some specific products can no longer be imported as completed products. See http://www.accessdata.fda.gov/cms_ia/importalert_1137.html	
+One visitor reports that they had kratom seized by customs when shipped from outside the United States to their home in the US. (unconfirmed) (last updated Jun 23 2013)
+stateLaw :: Indiana	Indiana banned the chemicals Mirtagynine and 7-hydroxymitragynine in 2012, but the legal definition does not explicitly include the raw plant kratom. It is possible that the living plant and likely that dried kratom could be considered illegal containers of these chemicals. See http://www.in.gov/legislative/bills/2012/HE/HE1196.1.html. Some vendors are choosing not to ship kratom to Indiana and consider this a ban of the plant material as well. (thanks k) (last updated Apr 25, 2013)
+Louisiana	Louisiana banned the sale of Mitragyna speciosa to minors as of May 31, 2012. See http://legiscan.com/LA/text/SB130/id/651753. (thanks ip) (last updated Apr 25 2013)
+Tennessee	Tennessee made the chemicals mitragynine and hydroxymitragynine Schedule I, making them illegal to possess. The law does not specify whether the plant Kratom is illegal, putting the plant in a legal gray area. Once extracted and prepared for human consumption, plant extracts are likely illegal in TN. "Tennesse Code Annotated, Section 39-17-452(a)(2) is amened by adding the following language as new, appropriately designated subdivisions: Mitragynine and hydroxymitragynine." See TN Code 39-17-452(a)(2). (thanks gf, jj) (last updated Oct 27, 2013)
+Vermont	Vermont banned 7-hydroxymitragynine and it is assumed that this could make the plant and kratom products illegal. See http://healthvermont.gov/hc/med_board/documents/MinutesBoard12052012.pdf. (last updated Dec 14, 2015)
+Wisconsin	Wisconsin classified mitragynine and 7-hydroxymitragynine as a Schedule I Controlled Substances, making them illegal to possess, sell, or distribute without a license. We have not seen a clear ban of the plant itself. See https://docs.legis.wisconsin.gov/2013/related/acts/351#. (thanks ds) (last updated Dec 14 2015)
+internationalLaw :: Austria	We received a report in 2006 telling us kratom is legal in Austria. (unconfirmed) (thanks I)
+Australia	Both Mitragynine, one of the active chemicals in Kratom, and M. speciosa the plant were placed in Schedule 9 of the Australian SUSDP. See Mitragyning Scheduling and M. speciosa Scheduling.
+Belgium	Neither kratom (Mitragyna speciosa) nor mitragynine are included in the official list of controlled plants and drugs and are not controlled in Belgium. (thanks ve) (last updated Jan 26 2011)
+Brazil	Neither kratom (Mitragyna speciosa) nor mitragynine are included in the official list of controlled plants and drugs and are thus uncontrolled in Brazil. Leaves and extracts are sold by online vendors in Brazil and imported into Brazil. (unconfirmed) (thanks T) (last updated Jan 23 2010)
+Canada	One visitor tells us that Kratom is not listed as controlled in Canada. (unconfirmed) (last updated Oct 10 2011)
+Denmark	Kratom is controlled in Denmark as of March 13, 2009. See https://www.retsinformation.dk/Forms/R0710.aspx?id=123762. Previously, it was is sold in some retail shops (headshops). (thanks N,NL) (last updated April 2009)
+Finland	We received a report that kratom is now a controlled medicine in Finland and requires a prescription. (last updated Aug 2008) (unconfirmed) (thanks R)
+Germany (Deutschland)	Kratom is not listed in the BtMG, but is reportedly controlled as an unapproved pharmaceutical drug as of 2011, making it illegal to buy, sell, or import with penalties including fines and jail time. Previously, Kratom was sold by German vendors and personal imports were unregulated. (unconfirmed) (thanks rb) (last updated Jun 30 2011)
+Greece	Neither Kratom as plant or Mitragynine appear to be listed in Greece's controlled substances law: http://www.dsanet.gr/Epikairothta/Nomothesia/n3459_06.htm. (unconfirmed) (thanks gt) (last updated Apr 20 2011)
+Hungary	Kratom does not apper to be controlled as of May 2009 and kratom leaves and extracts can be purchased at headshops sold as incense. (thanks M) (last updated May 28, 2009)
+Indonesia	In 2013, one visitor reports that a vendor in Indonesia shipped them kratom into the US without any problem. Previously, another visitor tolds us that a "very reputable vendor" informed them that Indonesia has officially stopped exports of Kratom to the United States. (unconfirmed) (thanks s, t) (last updated Feb 26, 2014)
+Ireland	Kratom is controlled in Ireland and is not sold in shops or from online stores. Ireland controlled the chemicals in Kratom and "any product whether natural or otherwise, including any plant or plant material" (thus the Kratom plant) in 2011. See http://www.irishstatutebook.ie/2011/en/si/0552.html "Methyl 2-[(2S,3S,12bS)-3-ethyl-8-methoxy-1,2,3,4,6,7,12,12b-octahy-droindolo[2,3a]quinolizin-2-yl]-3-methoxyprop-2-enoate (otherwise known as Mitragynine) and any product whether natural or otherwise, including any plant or plant material of any kind or description, which contains any proportion of the said substance." (thanks J) (last updated Sep 25 2014)
+Israel	Kratom (listed as Kratum, Mitragynine, and 7-HYdroxymitragynine) was controlled in November 2013 along with some other substances. See Nov 2013 Drug Law Update (last updated Jan 1 2013)
+Italy	We received a report in 2006 telling us kratom is legal in Italy. (unconfirmed) (thanks I)
+Macau	One Erowid visitor describes that they live in Macau and have repeated Kratom many times with Mitragyna listed on the customs content label and they believe it to be uncontrolled in Macau. (unconfirmed) (thanks DJ) (last updated Jul 21 2013)
+Malaysia	Kratom was made illegal without government license in Malaysia in August 2006. (unconfirmed) (thanks VS) (last updated Jun 2007)
+Myanmar	Kratom is illegal in Myanmar.
+Netherlands	As of Sep 2006, Kratom leaves are legally available in smartshops. (thanks C)
+New Zealand	Kratom (mitragyna speciosa) is listed in Schedule 1 of the Medicines Amendment Regulations 2009 (SR 2009/212), the list of "prescription, restricted, and pharmacy-only medicines", along with antibiotics and many other prescription drugs. It is not legal to sell Kratom without a license, though is probably not illegal to possess. Until 2009, Kratom was available and sold in some shops inside New Zealand. (thanks HP) (last updated jan 21 2010)
+Romania	Romania banned Salvia divinorum, Amanita muscaria, and kratom as of February 2010. Previously they were legal to sell, buy, and possess and were available in smartshops." See Balkan Insight Feb 10, 2010 (thanks DN) (last updated feb 28 2010)
+Russia	One visitor reports that kratom became illegal in Russia in October 2011. See page 3 of http://government.consultant.ru/page.aspx?1576335. (unconfirmed) (thanks s) (last updated Nov 19 2011)
+Sweden	Kratom is not controlled or illegal in Sweden. See SNPF.org. SNPF.org states that kratom is an herbal drug used as a substitute for opiates and that it is classified in Thailand, but not in Sweden. (thanks O) (last updated Jan 22 2010)
+South Korea	A visitor reports that Kratom is illegal in South Korea and, when they ordered Kratom from a foreign supplier, customs officials showed up and they were forced to attend 16 weekends of drug rehab to avoid jail time. (unconfirmed) (thanks K) (last updated Sep 19 2009)
+Thailand	Kratom is classified as Narcotic Level 5 in Thailand. This means it is illegal to buy, sell, import, or possess. Exceptions are made with permission from Minister of Public Health in accordance with approval from Office of the Narcotics Control Board.
+United Kingdom	Kratom leaf, powder, and extract are sold at headshops in the UK, and the plant is not listed in the Controlled Substances Act. It is expected that the Home Office will ban Kratom in 2016. (last updated Mar 17, 2016)
+
+[Dose]
+doseTable :: Oral Kratom Dosages (dried leaf)
+2014 Standard (formerly Super Grade)
+Threshold1-2 grams
+Light2-4 grams
+Common3-5 grams
+Strong4-8 grams
+
+
+
+Please note that the dose charts below are for very low potency kratom leaf and leaf powders that are no longer commonly sold in 2014.
+
+
+
+Oral Kratom Dosages (dried leaf)
+Enhanced (Extract Added)
+Threshold1 gram
+Light1-2 grams
+Common2-3 grams
+Strong3-6 grams
+
+
+
+Oral Kratom Dosages (dried leaf)
+Premium Grade
+Threshold2-4 grams
+Light3-5 grams
+Common4-10 grams
+Strong8-15 grams
+
+
+
+
+Oral Kratom Dosages (dried leaf)
+Low Potency (very uncommon as of 2008)
+Threshold3-7 grams
+Light5-10 grams
+Common10-20 grams
+Strong20-50 grams
+Onset : 5-15 minutes
+Duration : 2-5 hours
+Normal After Effects : 3-6 hours
+doseText :: According to a report by the National Drugs and Poisons Schedule Committee of Australia, "Poisindex indicates that in adults, a dose of 50 mg of pure mitragynine has produced motor excitement, rombergism [unsteadiness on feet with eyes closed], giddiness and tremors of the face, extremities and tongue."
+notes :: null
+
+[Chemistry]
+chemTable :: NAME :	7-Hydroxymitragynine
+CHEMICAL NAME :	7a-Hydroxy-7H-mitragynine
+CHEMICAL FORMULA	C23H30N2O5
+MOLECULAR WEIGHT :	414.49
+moleculeURL :: null

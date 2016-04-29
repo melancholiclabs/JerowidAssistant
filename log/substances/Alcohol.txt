@@ -1,0 +1,113 @@
+[Substance]
+
+id :: 45
+name :: Alcohol
+url :: https://www.erowid.org/chemicals/alcohol/alcohol.shtml
+category :: Chemicals
+commonNames :: Liquor; Spirits; Beer; Wine
+effectsClassification :: Depressant Intoxicant
+chemicalName :: ethyl-alcohol
+description :: Alcohol is one of the most common strong psychoactives used by humans. It has a long history of use and its intoxicating effects are well-studied and -documented.
+imageURL :: https://www.erowid.org/chemicals/alcohol/images/alcohol_summary1.jpg
+effectsURL :: https://www.erowid.org/chemicals/alcohol/alcohol_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/alcohol/alcohol_images.shtml
+healthURL :: https://www.erowid.org/chemicals/alcohol/alcohol_health.shtml
+lawURL :: https://www.erowid.org/chemicals/alcohol/alcohol_law.shtml
+chemistryURL :: https://www.erowid.org/chemicals/alcohol/alcohol_chemistry.shtml
+
+[Effects]
+duration :: Alcohol Duration
+Oral
+Total Duration	1.5 - 3 hrs
+Onset	15 - 30 mins
+Coming Up	15 - 20 mins
+Plateau	30 - 90 mins
+Coming Down	45 - 60 mins
+&nbsp;	&nbsp;
+After Effects	1 - 2 hrs
+Hangover / Day After	1 - 36 hrs
+positiveEffects :: relaxation	mood lift, happiness, giddiness	increased sociability	lowered inhibitions / reduced social anxiety	analgesia (kills pain)
+neutralEffects :: slurred speech	flushed skin	drowsiness, sleepiness	nystagmus, difficulty focusing eyes	changed (often increased) response to sexual stimuli	tolerance with repeated use within a few days	changed aesthetic appreciation: normally beautiful things can seem ugly, things normally seen as ugly judged beautiful.	"beer goggles" &mdash; others appear more attractiveref	mild visual distortions at high doses	reduced impulse control
+negativeEffects :: decreased coordination	nausea, vomiting (vomiting while unconscious can kill)	reduced ability to judge own impairment	emotional volatility (anger, violence, sadness, etc)	reduced ability to attain/maintain erection in most males	increased difficulty in achieving orgasm in some females	frequent urination (more with beer or wine), diuretic effect	dizziness and confusion	blackouts and memory loss at high doses	coma and death at extreme doses	brain and liver damage (cirrhosis) with heavy use	lowered inhibitions and increased confusion can lead to unwanted and negative sexual encounters (date rape)	hangover, lasting 12-36 hours, from mild to severe after heavy use	fetal damage in pregnant women at high dose or frequency
+description :: 
+experienceReports :: null
+
+[Images]
+imageEntryList :: Poster	https://www.erowid.org/chemicals/show_image.php?i=alcohol/poster_anti-prohibition1.jpg	Anti-prohibition poster c. 1932.	Image from the Chicago Historical Society.
+A place to stop for chicha in Peru.	https://www.erowid.org/chemicals/show_image.php?i=alcohol/chicha_vendor__i2012e0306_disp.jpg	Chicha is a common fermented drink made from corn or other grains, varying by region. To advertise fresh chicha in a semipublic drinking house or restaurant, hosts tie a red plastic bag to a pole--a modern replacement for the more traditional hanging of red geraniums. [Chinchero, Peru]	Photo by Erowid Crew. &copy; 2012 Erowid.org
+Box of Single-Use Breathylzers in Impulse-Buy Spot in France	https://www.erowid.org/chemicals/show_image.php?i=alcohol/alcohol_breathylzer_single_use__i2013e0192_disp.jpg	A blue box of individually-wrapped single-use alcohol breathylzers. Ethylotest 'a usage unique'. Redline Ethylotest.	Photo by Lux &copy; 2013 Erowid.org
+Ethyl Alcohol 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=alcohol/alcohol_ethyl_2d.gif	Still 2D image of the Ethyl Alcohol molecule.	Image by Erowid. &copy; 2006 Erowid.org
+Ethyl Alcohol 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=alcohol/alcohol_ethyl_3d.jpg	Still 3D image of the Ethyl Alcohol molecule.	Image by Erowid, &copy; 1999 Erowid.
+Ethyl Alcohol 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=alcohol/alcohol_ethyl__.mol	Rotating 3D image of the Ethyl Alcohol molecule.	Image by Erowid. &copy; 2004 Erowid.org
+Methyl Alcohol 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=alcohol/alcohol_methyl_2d.gif	Still 2D image of the Methyl Alcohol molecule.	Image by Erowid. &copy; 2006 Erowid.org
+
+[Health]
+notes :: null
+deaths :: null
+warnings :: null
+cautions :: null
+benefits :: null
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Alcohol
+REGULATED	Yes
+STATUS	Over-The-CounterAge Restricted
+SCHEDULE	Un-Scheduled
+federalLawText :: In the United States, alcohol sales are largely regulated at the state level. Although alcohol is available over-the-counter :	
+
+All state laws restrict alcohol purchase to those who are 21 years old or older.	There is no federal law prohibiting consumption of alcohol by minors, and state laws vary.	It is legal to brew beer and ferment wine for personal consumption without a license.	In order to sell beer or wine, a license is required.	It is federally illegal to distill hard alcohol (even for personal consumption) without a license.	It is illegal in all states to operate vehicles with a blood alcohol content of 0.08%; however, levels lower than 0.08% are illegal in some states and/or some situations: BAC limits of 0.01% to 0.05% are in place in some states for drivers under 21 years old; on the federal level, for drivers operating a vehicle requiring a commercial driver's license the BAC limit is 0.04%; for drivers of common carriers (such as buses), the BAC limit is 0.01%.	
+
+
+
+Spirits #	(from the Bureau of Alcohol, Tobacco, and Firearms)	
+"You cannot produce spirits for beverage purposes without paying taxes and without prior approval of paperwork to operate a	distilled spirits plant. [See 26 U.S.C. 5601 & 5602 for some of the criminal penalties.] There are numerous requirements that must	be met that make it impractical to produce spirits for personal or beverage use. Some of these requirements are paying special tax,	filing an extensive application, filing a bond, providing adequate equipment to measure spirits, providing suitable tanks and	pipelines, providing a separate building (other than a dwelling) and maintaining detailed records, and filing reports. All of these	requirements are listed in 27 CFR Part 19.	
+Spirits may be produced for nonbeverage purposes for fuel use only without payment of tax, but you also must file an application,	receive ATF's approval, and follow requirements, such as construction, use, records and reports."
+stateLaw :: 
+internationalLaw :: World Drinking Age Limits at ICAP.org	World Drinking Ages at potsdam.edu
+Australia	Illegal to sell any alcohol containing beverages to anyone under 18. (thanks ATB)
+Belgium	Though the drinking age in Belgium is 16 for beer/wine and 18 for liquor, practically, there is little restriction on purchase by age. (thanks JR)
+Brazil	Though the drinking age in Brazil is 18, enforcement is reportedly very lax. (thanks H)
+Canada	The laws respecting alcohol are determined by the province or territory not by the federal government. In the North West Territories, alcohol use is restricted by the municipality not by the NWT government. Communities in the NWT have the right to ban alcohol completely if the local government desires. Legal drinking age of 19 in Ontario are a draw for US citizens 19 &amp; 20 years old. (thanks S, C, DA90) Alberta 18, Manitoba 18, Quebec 18, 19 in other provinces.
+Cyprus	We have been told that the drinking age is 17, and that one must be 16 to enter clubs where alcohol is served. The laws are reportedly widely ignored and underage people can often go into bars and be served. (unconfirmed) (thanks D)
+Denmark	Alcohol above 1.2% may not be sold to those under 16. Must be 18 to buy alcohol in a bar/restaurant.
+Dominican Republic	The legal drinking age in the Dominican Republic is 18. We received an unconfirmed report that ID is seldom required for purchase.
+Finland	Brewing of beer and fermenting wine for personal consumption is legal, but not if you intend to sell the product. Production of hard liquour by distilling is prohibited even for personal consumption. Drinks containing 4.7 % by volume or less of alcohol are sold in grocery stores, kiosks etc., while beverages with higher levels of alcohol are sold only in regulated liquor shops. Possession of alcohol by minors is well tolerated.
+France	Practically, little restriction on purchase by age.
+Germany (Deutschland	Beer, Wine, and lower alcohol beverages are available in vending machines, making age restriction difficult, though they are required to be located at commercial and supervised locations or that the machines confirm age through the use of a bank card. Legal age for purchasing beer and wine is 16 and 18 years old for distilled alcohol-containing beverages. (unconfirmed) (thanks jt, PM) (last updated Dec 7 2009)
+Hungary	The legal drinking age is 18, but according to visitors, the law is widely ignored. Small stores sell alcohol without checking ID, but large large and corporate vendors always ask for age verifiying identification. (thanks z) (last updated Feb 12 2010)
+Iran	Alcohol ingestion is strictly illegal under Islamic Religious Law in Iran and those caught can be whipped, fined, or jailed. However, the WHO reports: "Religious minorities can buy alcoholic beverages from very few specifically licensed shops owned by shopkeepers of the same minority." An Erowid reader describes the law this way: "It is usually illegal to buy or sell alcohol in Iran, but there are some exceptions. Christians (Armenians), Jews, and some other minorities are allowed to sell alcoholic beverages. These minorities are also only supposed to sell alcohol to members of their own minority, but they don't really ask--or even care--about what your background is. A lot of non-minority Iranians drink, but they do it secretly." See WHO's Alcohol Policy PDF. (thanks K,S) (last updated Oct 6 2009)
+Israel	Legal drinking age is 18, but it is rarely enforced, 'carding' is very uncommon. Hard alcohol can be purchased at any food store. (unconfirmed) (thanks MD)
+Italy	Practically, little restriction on purchase by age. (thanks SK)
+Japan	Legal age is 20 for purchase, available in vending machines, making age restriction difficult. (unconfirmed) (thanks N)
+Latvia	Legal age is 18 for purchase, no age limit for drinking.
+Mexico	While the legal age for drinking is 18, we have received several reports that the age limit is commonly disregarded by vendors and law enforcement.
+Netherlands	As of Jan 1 2014, legal age to purchase any alcoholic beverage or drink in public is 18. Violations subject to fines. See Opgroeienzonderalcohol.nl (thanks TS)
+Norway	Packaged distilled liquors sold only in liquor stores, while beer is sold in a variety of stores. Beverages with less than 22% alcohol are legal to sell to persons 18 and older, but those with more than 22% alcohol may only be sold to those 20 or older. (thanks Y, O)
+Peru	Drinking age officially 18, although it can be purchased by those under 18 easily except at large supermarkets and fancy bars. (thanks DB)
+Poland	18 or over legal, but widely sold to younger people. (unconfirmed) (thanks RaN)
+Romania	18 or over legal to purchase, but We have been told that the law is "universally ignored in cities and rural areas. It is not illegal to possess alcohol or be drunk under age. Alcohol is sold everywhere from gas stations to malls and hotels. Romanians distill moonshine that is 195 proof and sold by vendors on the streets. There is a sap-based alcohol sold at some restaraunts. Romania has strict drunk driving laws." (unconfirmed) (thanks BB)
+Serbia	Must be 18 or older to buy alcohol, but law is widely ignored. (thanks A)
+South Africa	We have been told that one must be 18 or over to purchase alcohol, including beer and wine. The legal limit for driving is 0.05% BAC. Sales are not allowed without a licence, but shebeens (illegal bars) abound in the townships, and are now getting official recognition through legislation. Licensing is determined by individual provinces. In Gauteng shops can sell alcohol on Sundays, which is banned in most other provinces. (unconfirmed) (thanks DMS)
+Spain	Widely available in vending machines. (thanks MB)
+Sweden	Rigorous checking of age. Beverages over 3.5% alcohol are sold only
+Rigorous checking of age.  Beverages over 3.5% alcohol are sold only	in special liquor stores called Systembolaget which have an age restriction of 20. Drinking age in
+in special liquor stores called Systembolaget which have an age restriction of 20.  Drinking age in	bars is 18. (unconfirmed) (thanks G, M)
+Switzerland	Beer and wine 16 and over, spirits 18 and over. We are told that alcoholic drinks must be sold so that they are clearly distinguishable from non-alcoholic drinks. It's illegal to sell beer, wine and cider to teenager under 16. It's illegal to sell spirits (e.g. liquor), aperitifs (e.g. martini) and 'alcopops' (e.g. smirnoff ice) to teenager under 18. It is allowed to drink and show the bottle in public. (thanks VF)
+Thailand	One visitor reports that "Beer is available everywhere, also for minors, also brandy and rice wine, with no real control based on age. During some public holidays the sale of alcohol of all kind is prohibited. Drunk driving is prohibited, but enforcement is uncommon, despite a high toll." (unconfirmed) (thanks aa) (last updated Aug 17, 2012)
+Turkey	Laws have reportedly been changing between 2008 and 2010, with more restrictions added. The previous drinking age was as low as 12, but one visitor says it is 16 as of July 2010. Other resources state the drinking age is 18. See New restrictive regulation on alcohol (2008). (unconfirmed) (thanks bp) (last updated July 24 2010)
+U.K.	A new Alcohol Licensing Act came into effect in January 2005. For more details, see U.K. Alcohol Age Limits.
+
+[Chemistry]
+chemTable :: NAME :	Ethyl Alcohol
+CHEMICAL NAME :	Ethanol
+ALTERNATE CHEMICAL NAMES : 	 absolute alcohol; anhydrous alcohol; dehydrated alcohol
+ALTERNATE CHEMICAL NAMES : 	 ethyl hydrate; ethyl hydroxide
+CHEMICAL FORMULA	C2H6O
+MOLECULAR WEIGHT	46.07
+MELTING POINT	-114.1&#176; C
+BOILING POINT	78.5&#176; C
+FLASH POINT	13&#176; C
+LD50	10.6 g/kg (young rats), 7.06  g/kg (old rats) orally
+From the Merck Index 12th Edition
+moleculeURL :: https://www.erowid.org/chemicals/alcohol/images/archive/alcohol_ethyl_3d_mid.jpg

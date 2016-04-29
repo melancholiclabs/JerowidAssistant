@@ -1,0 +1,63 @@
+[Substance]
+
+id :: 270
+name :: Diazepam
+url :: https://www.erowid.org/pharms/diazepam/diazepam.shtml
+category :: Pharms
+commonNames :: Valium; Diastat; Zetran
+effectsClassification :: Anxiolytic; Sedative; Benzodiazepine
+chemicalName :: 7-chloro-1,3-dihydro-1-methyl-5-phenyl-2H-1,4-benzodiazepin-2-one
+description :: Diazepam (valium) is a benzodiazepine anxiolytic used in the treatment of anxiety disorders, seizures, muscle spasms, and alcohol withdrawal. It is one of the best known benzodiazepines.
+imageURL :: https://www.erowid.org/pharms/diazepam/images/diazepam_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/diazepam/diazepam_images.shtml
+lawURL :: https://www.erowid.org/pharms/diazepam/diazepam_law.shtml
+chemistryURL :: https://www.erowid.org/pharms/diazepam/diazepam_chemistry.shtml
+
+[Images]
+imageEntryList :: 5 mg Valium Tablets	https://www.erowid.org/pharms/show_image.php?i=diazepam/valium_tablet3.jpg	Color photo of two white 5 mg Valium tablets bearing the imprint "5/VALIUM || ROCHE". [USA]	Photo by RhiNO, &copy; 2005 Erowid.org
+10 mg Valium Tablets	https://www.erowid.org/pharms/show_image.php?i=diazepam/valium_tablet4.jpg	Color photo of two Mexican 10 mg Valium tablets bearing the imprint "ROCHE / 10". [USA]	Photo by C. Whisky, &copy; 2005 Erowid.org
+10 mg Valium Tablets	https://www.erowid.org/pharms/show_image.php?i=diazepam/valium2.jpg	Color photo showing the front and back of a blister pack of 10 mg Valium tablets from a Mexican pharmacy.	Photo by Anonymous Photographer, &copy; 2000 Erowid.
+10 mg European Valium	https://www.erowid.org/pharms/show_image.php?i=diazepam/valium_tablet__i2006e0134_disp.jpg	A collection of 10 mg European Valium tablets by Roche, with the imprint "ROCHE 10". [Argentina]	Photo by Cynosure. &copy; 2006 Erowid.org
+10 mg Valium Tablets	https://www.erowid.org/pharms/show_image.php?i=diazepam/valium_tablet5.jpg	Photo showing 10 mg Valium tablets from India bearing the imprint "VALIUM / 10". [CA, USA]	Photo by Boris B., &copy; 2005 Erowid.org
+5 mg & 10 mg Valium Tablets	https://www.erowid.org/pharms/show_image.php?i=diazepam/valium_tablet__i2005e0498_disp.jpg	Color photo of two Diazepam tablets (5 & 10 mg) produced by Roche Pharmaceuticals, bearing the imprints "ROCHE 5" and "ROCHE 10". [France]	Photo by Arecibo. &copy; 2006 Erowid.org
+10 mg Diazepam Tablets	https://www.erowid.org/pharms/show_image.php?i=diazepam/diazepam_tablet__i2002e0105_disp.jpg	10 mg Mano brand diazepam tablets. [Thailand]	Photo by Murple. &copy; 2006 Erowid.org
+10 mg Diazepam Tablets	https://www.erowid.org/pharms/show_image.php?i=diazepam/diazepam_tablet__i2006e0114_disp.jpg	A small pile of green generic 10 mg diazepam tablets with the imprint "MYLAN 477". [NC, USA]	Photo by Colin. &copy; 2006 Erowid.org
+Blue Diazepam Tablets (10mg each, marked 10 | APO)	https://www.erowid.org/pharms/show_image.php?i=diazepam/diazepam_tablets__i2014e0285_disp.jpg	A pile of blue diazepam tablets on a black background. Each tablet contains 10mg of diazepam. Tablets are marked with a APO | 10. [Canada]	Photo by Knowledge. &copy; 2014 Erowid.org
+Vial of Diazepam	https://www.erowid.org/pharms/show_image.php?i=diazepam/diazepam_liquid__i2010e0639_disp.jpg	Vial of DBL brand diazepam solution for injection. 10 mg/2ml for iv use only. [Australia]	Photo by NightLight. &copy; 2010 Erowid.org
+10 mg Diazepam ampoules	https://www.erowid.org/pharms/show_image.php?i=diazepam/valium_liquid__i2006e0160_disp.jpg	A box of 5 Valium 10 mg ampoules used for injection. [Switzerland]	Photo by Eldopa. &copy; 2006 Erowid.org
+Psychopax (Diazepam Liquid)	https://www.erowid.org/pharms/show_image.php?i=diazepam/diazepam_liquid_psychopax1.jpg	Color photo of a bottle of Psychopax brand liquid diazepam. [Austria]	Photo by mindperformer, &copy; 2005 Erowid.
+Valium Advertisement (Roche)	https://www.erowid.org/pharms/show_image.php?i=diazepam/valium_advert1.jpg	Color photo of a 1993 Valium advertisement from a magazine "Do Not Substitute"	Photo by Anonymous Contributor.
+Diazepam 2D Molecule	https://www.erowid.org/pharms/show_molecule.php?i=diazepam/diazepam_2d.gif	Still 2D image of the Diazepam molecule.	Image by Erowid, &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Diazepam
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule IV
+CLASSIFICATION	Depressant
+federalLawText :: Diazepam (Valium) is Schedule IV in the U.S. This means it is illegal to sell without a license and illegal to possess without a valid license or prescription.
+stateLaw :: null
+internationalLaw :: Australia	Diazepam is available as a normal prescription drug. (unconfirmed) (thanks SF)
+Canada	Benzodiazepines (including diazepam) are Schedule IV under Canadian law. See http://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-26.html#h-29. (thanks e) (last updated Jul 30 2012)
+Denmark	Diazepam is available as a prescription drug. (unconfirmed) (thanks J)
+France	Diazepam is Schedule IV in France and available as a prescription drug. As a controlled substance, it is illegal to sell or possess without a license or prescription. (thanks FB) (last updated Feb 1 2013)
+Germany	Diazepam is available as a prescription drug when sold in packages that do not contain more than 250mg, as a solution with less than 10% diazepam, or 10mg per tablet/dose-unit. There are specialized BTMG 'narcotic prescriptions' that can be signed by three doctors and allow for more prescription diazepam. (unconfirmed) (thanks L, OJK) (last updated Jul 1 2013)
+Mexico	We have been told that one can purchase 10 mg tablets of valium over-the-counter in at least some parts of Mexico without ID or a prescription. (unconfirmed) (thanks F)
+The Netherlands	Most benzodiazepeines are available with a prescription in the Netherlands. Preparation, possession, adaption, delivery, providing and transport, of benzodiazepines are prohibited, because they are scheduled on "List II" of the "Opium Law". Possession of small quantities (for personal use) of prohibited substances is typically not prosecuted. Recreational use of benzodiazepines, is, as with any other substance, not prohibited in the Netherlands. Benzodiazepines approved for medical use in the Netherlands: Alprazolam, Bromazepam, Brotizolam, Chloordiazepoxide (in english chlordiazepoxide), Clobazam, Clonazepam, Clorazepinezuur (in english clorazepate), Diazepam, Flunitrazepam, Flurazepam, Loprazolam, Lorazepam, Lormetazepam, Midazolam, Nitrazepam, Oxazepam, Prazepam, Temazepam, as well as Zolpidem and Zopiclone. (thanks K) (last updated Oct 11, 2012)
+Romania	Diazepam is available as a prescription drug. (unconfirmed) (thanks PS)
+Serbia	Diazepam (sold as Bensedin) is available as a prescription drug in 2.5 mg, 5 mg, and 10 mg doses, and in liquid form for IM/IV use. Some pharmacies will sell diazepam to customers without prescription. One visitor writes that 30 5 mg tablets are around 70 dinars ($1 USD) in 2010. (unconfirmed) (thanks O,B) (last updated Apr 26, 2010)
+Singapore	Diazepam is available as a prescription drug. (unconfirmed) (thanks DK)
+Sweden	Diazepam (Valium) is available with prescription in 2 mg, 5 mg, and 10 mg oral tablets, and in 5 and 10 mg rectal preparations. (unconfirmed) (thanks OO) (last updated Jan 7 2010)
+Switzerland	Diazepam (Valium) is available in 2 mg, 5 mg, and 10 mg tablets with a prescription. (unconfirmed) (thanks SAM)
+Thailand	In Jan 2015, one visitor reported that street vendors in Thailand will sell diazepam tablets (10 x 10mg for 350 baht), easy to find in Bangkok. Also, in May 2014, one visitor reports that diazepam could be purchased from pharmacies without prescription. (unconfirmed) (thanks b, p) (last updated Jan 30, 2015)
+United Kingdom (UK, Britain, England, Wales, Scotland)	Diazepam is a prescription-only drug in the UK sold in 2mg, 5mg, and 10mg tablets. (thanks cmw) (last updated Feb 17 2011)
+Vietnam	Multiple visitors report that generic Diazepam can be purchased without prescription over the counter at street pharmacies throughout Vietnam, though many pharmacies will not sell it without prescription. At one pharmacy without prescription, 10 x 5 mg generic tablets were sold in blister packs for 4-8USD with the Roche brand selling for 10 USD. (two confirmations) (thanks pm, ds, MPA) (last updated Feb 26, 2013)
+
+[Chemistry]
+chemTable :: NAME :	Diazepam, Valium
+CHEMICAL NAME :	7-chloro-1,3-dihydro-1-methyl-5-phenyl-2H-1,4-benzodiazepin-2-one
+CHEMICAL NAME :	7-chloro-1-methyl-5-phenyl-2H-1,4-benzodiazepin-2-one
+CHEMICAL FORMULA	C16H13ClN2O
+MOLECULAR WEIGHT	284.7445
+moleculeURL :: null

@@ -1,0 +1,55 @@
+[Substance]
+
+id :: 82
+name :: Harmala Alkaloids
+url :: https://www.erowid.org/chemicals/harmala/harmala.shtml
+category :: Chemicals
+commonNames :: Harmala; Harmine; Harmaline
+effectsClassification :: MAOI; Psychedelic
+chemicalName :: Various
+description :: Harmala alkaloids are naturally occurring Monoamine Oxidase Inhibitors which are best known for their use in combination with tryptamine source plants in ayahuasca brews.
+imageURL :: https://www.erowid.org/chemicals/harmala/images/harmala_summary1.jpg
+imagesURL :: https://www.erowid.org/chemicals/harmala/harmala_images.shtml
+lawURL :: https://www.erowid.org/chemicals/harmala/harmala_law.shtml
+chemistryURL :: https://www.erowid.org/plants/syrian_rue/syrian_rue_chemistry.shtml
+
+[Images]
+imageEntryList :: Harmala HCl Extracted from P. harmala	https://www.erowid.org/chemicals/show_image.php?i=harmala/peganum_harmala_extract_crystals__i2013e0234_disp.jpg	Brownish-orange crystals of harmala hydrochloride extracted from Peganum harmala. [USA]	Photo by Spectraligh Research. &copy; 2014 Erowid.org
+Harmala Extract Under Blacklight	https://www.erowid.org/chemicals/show_image.php?i=harmala/harmala_extract1.jpg	Beautiful color photo of Mimosa hostilis extract with recently added Syrian Rue extract. The harmala alkaloids from the Syrian Rue glow under blacklight.	Photo by Anonymous Photographer. &copy; 2005 Erowid.org
+Harmala Extract	https://www.erowid.org/chemicals/show_image.php?i=harmala/harmala_extract_powder__i2005e0425_disp.jpg	A small pile of harmala extract next to a penny for size comparison.	Photo by shermanisland. &copy; 2009 Erowid.org
+Harmala Alkaloids Freebase	https://www.erowid.org/chemicals/show_image.php?i=harmala/harmala_extract__i2008e0936_disp.jpg	Washed harmala alkaloid freebase extracted from syrian rue.	Photo by He Who Abides. &copy; 2009 Erowid.org
+Harmala Alkaloid Powder	https://www.erowid.org/chemicals/show_image.php?i=harmala/harmala_extract_powder__i2008e0937_disp.jpg	Washed harmala alkaloids freebase in powder form.	Photo by He Who Abides. &copy; 2009 Erowid.org
+Harmala Crystals	https://www.erowid.org/chemicals/show_image.php?i=harmala/harmala_crystals__i2009e0462_disp.jpg	Purified harmala crystals, extracted from syrian rue using acetic acid method. [Alberta, Canada]	Photo by Anonymous. &copy; 2010 Erowid.org
+Harmine 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=harmala/harmine_2d.gif	Still 2D image of the Harmine molecule.	Image by Erowid. &copy; 2001 Erowid.org
+Harmine 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=harmala/harmine_3d.jpg	Still 3D image of the Harmine molecule.	Image by Erowid. &copy; 1999 Erowid.org
+Harmine 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=harmala/harmine__.mol	Rotating 3D image of the Harmine molecule.	Image by Erowid. &copy; 1999 Erowid.org
+Harmaline 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=harmala/harmaline_2d.gif	Still 2D image of the Harmaline molecule.	Image by Erowid. &copy; 2001 Erowid.org
+Harmaline 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=harmala/harmaline_3d.jpg	Still 3D image of the Harmaline molecule.	Image by Erowid. &copy; 1999 Erowid.org
+Harmaline 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=harmala/harmaline__.mol	Rotating 3D image of the Harmaline molecule.	Image by Erowid. &copy; 1999 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Harmala
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Harmala is uncontrolled in the United States. This means it is generally considered legal to buy, possess, and distribute (sell, trade or give). If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: Canada	Harmaline and Harmalol are schedule III in Canada. (Note: Canadian schedules are very different than U.S. schedules)
+France	As of May 3, 2005, France added Banisteriopsis caapi, Peganum harmala, Psychotria viridis, Diplopterys cabrerana, Mimosa hostilis, Banisteriopsis rusbyana, harmine, harmaline, tetrahydroharmine (THH), haroml, and harmalol to the list of controlled substances. See France Control Ayahuasca Plants and Chemicals. Earlier, in Jan 2005, a Paris court of appeals determined that Ayahuasca is not considered a preparation of DMT and is therefore not a controlled substance.
+
+[Chemistry]
+chemTable :: NAME :	Harmine
+CHEMICAL NAME :	7-Methoxy-1-methyl-9H-pyrido[3,4-b]indole
+ALTERNATE CHEMICAL NAMES :	7-Methoxy-1-methylpyrido[3,4-b]indole
+ALTERNATE CHEMICAL NAMES :	banisterine; yageine; telepathine; leucoharmine.
+CAS#	442-51-3
+CHEMICAL FORMULA	C13H12N2O
+MOLECULAR WEIGHT	212.25
+MELTING POINT	262&#176; C (dec) - (Hydrochloride dihydrate crystals)
+MELTING POINT	321&#176; C (anhydrous) - (Hydrochloride dihydrate crystals)
+SOLUBILITY	freely soluble in hot water
+OTHER	Flouresces in solution
+LD50	38 mg/kg i.v.(mice)
+From the Merck Index 12th Edition
+moleculeURL :: https://www.erowid.org/chemicals/ayahuasca/images/archive/harmine_3d_mid.jpg

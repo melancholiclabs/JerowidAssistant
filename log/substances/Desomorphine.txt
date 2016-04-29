@@ -1,0 +1,54 @@
+[Substance]
+
+id :: 64
+name :: Desomorphine
+url :: https://www.erowid.org/chemicals/desomorphine/desomorphine.shtml
+category :: Chemicals
+commonNames :: Krokodil, Crocodile, Permonid
+effectsClassification :: Opioid; Sedative; Stimulant
+chemicalName :: 4,5-alpha-epoxy-17-methylmorphinan-3-ol
+description :: Desomorphine is an opioid that has gained attention because of low-quality black market synthesis in Russia, where it began being sold as "krokodil" in 2010. Synthesized from codeine (using iodine and red phosphorous, in a process similar to that used for street methamphetamine) the final street product is often contaminated with corrrosive, toxic chemicals. Heavy opioid users who inject street desomorphine can experience serious medical problems. News reports sometimes refer to desomorphine as "flesh eating" because of these problems.
+imageURL :: https://www.erowid.org/chemicals/desomorphine/images/desomorphine_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/desomorphine/desomorphine_basics.shtml
+lawURL :: https://www.erowid.org/chemicals/desomorphine/desomorphine_law.shtml
+chemistryURL :: https://www.erowid.org/chemicals/desomorphine/desomorphine_chemistry.shtml
+
+[Basics]
+description :: Krokodil is a street name that refers to desomorphine, a semi-synthetic opioid commonly synthesized from codeine. Desomorphine's effects are similar to heroin or oxycodone and include euphoria, sedation, pain relief, and suppression of the body's natural drive to breathe. Codeine is converted into desomorphine to increase potency and make the resulting drug more euphoric. [ Main Desomorphine Vault ]
+descriptionSections :: dose	Krokodil is commonly used orally or injected as an impure liquid. The dose varies widely based on the purity of the substance and the tolerance of the user. In early human studies of pure desomorphine, the effects of 1 mg were approximately equivalent to the effects of 10 mg of morphine when the substances were injected under the skin.1
+price	In 2011, anecdotal reports from Russia suggest that 10 tablets of over-the-counter codeine with acetaminophen could be purchased for 120 Russian Rubles or $3.71 USD. This quantity was said to produce enough desomorphine to substitute for 500 Rubles or $15.46 USD worth of heroin.2 Although there are reports of street desomorphine appearing in the United States, we do not have reliable price information.
+law	Desomorphine is a Schedule I drug under the United States Code (USC) Title 21 Controlled Substance Act. Desomorphine is also controlled internationally under Single Convention on Narcotic Drugs of 1961.
+chemistry	Desomorphine is an opioid analog with a chemical structure similar to morphine. The structural differences produce a more rapid onset and shorter duration of action than morphine. Desomorphine salts are most commonly injected and are highly soluble in water. The solubility of desomorphine freebase in water is 1425 mg/L at 25 degrees C.3 It is soluble in acetone and ethyl acetate and appears dark red when dissolved in alcohol solutions.4 The pKa1 of the amine is 9.69.5  In Moscow, analytical labs have found a number of different chemicals in street krokodil: Desomorphine (Morphinan-3-ol, 4,5-epoxy-17-methyl-, (5alpha)-); Tropicamide (N-Ethyl-3-hydroxy-2-phenyl-N-(4-pyridinylmethyl) propanamide);  6-desoxycodeine (Morphinan-3-ol, x,y-didehydro-4,5-epoxy-3-O-methyl-17-methyl-); 6-desoxymorphine (Morphinan-3-ol, x,y-didehydro-4,5-epoxy-17-methyl-); Metamizole/Analgin ([(1,5-Dimethyl-3-oxo-2-phenyl-2,3-dihydro-1H-pyrazol-4-yl)methylamino]methanesulfonic acid, sodium salt).12
+pharmacology	There is incomplete data regarding the pharmacology of desomorphine. The reported effects of desomorphine and the structural similarity to morphine suggest that desomorphine is a potent mu opioid agonist.  In 1942, a study was conducted comparing the effects of 1 mg desomorphine to 10 mg morphine injected subcutaneously in 902 patients with cancer. Pain relief averaged 2 hours and 25 minutes in the 126 patients that received desomorphine and 3 hours and 7 minutes in the 776 patients that received morphine.1
+production	Clandestine manufacture of desomorphine involves two steps: the extraction of codeine from pharmacuetical products, followed by the synthesis of desomorphine from the codeine. The extraction of codeine involves mixing the codeine source (which often contains acetaminophen and other substances) with organic solvents such as gasoline, adding a strong base such as lye and then adding an acidic solution such as hydrochloric acid to produce water soluble codeine salts that will reside in the aqueous layer. The codeine can be further extracted but many will proceed directly with the next step. The extracted codeine is mixed with iodine, hydrochloric acid, and red phosphorus to reduce the codeine to desocodeine. Subsequently the desocodeine is demethylated itto desomorphine in a one-pot synthesis that may take 45 minutes. There are some reports of attempts at neutralization at the end of the reaction using cigarette ash or sodium bicarbonate. Despite these efforts the solution is often quite acidic with a pH less than 3.2 Analysis of Russian samples shows that what is purported to be desomorphine is often a sloppy mixture of 4 synthetic analogues of desomorphine, codeine, and other chemicals resulting from poor synthesis procedures. The actual desomorphine content of krokodil samples ranged from traces to 75%.6
+history	Desomorphine was first patented in 1932 in the United States as a derivative of morphine. It gained international attention in 2010 when Russian news sources reported an outbreak of severe medical cases resulting from intravenous injection of impure street Krokodil. Reports of use in Russia date back to at least 2003. 8
+terminology	The Substance:Desomorphine, krokodil, crocodile.
+effects :: The effects of desomorphine are similar to the other opiates. Positive effects often include euphoria, sedation, and analgesia (relief of pain). Common negative effects include constipation, nausea and vomiting, itching, urinary retention, decreased libido, and respiratory depression. Neutral reactions include constriction of the pupils (miosis), flushing, and a pins-and-needles feeling (parathesia). Serious medical complications can include respiratory failure, allergic reactions, seizures, and physical and psychological dependency, which can all lead to death. When impure or acidic desomorphine is injected, it can cause pain, skin discoloration, and additional serious medical problems.
+effectsSections :: onset	When injected intravenously, the effects can be felt within seconds to minutes. When taken orally, effects take between 15 and 90 minutes to begin, based on experience and stomach contents.
+duration	Like other opiates, when injected intravenously, a rapid euphoria is produced followed by a longer period of sedation lasting approximately 2-3 hours.
+visuals	Desomorphine is not known to cause any visual effects outside of those associated with simple sedation and drowsiness.
+problems :: 
+problemsSections :: contraindications	Do not operate heavy machinery. Do Not Drive. Opioids should not be mixed with other opioids, any sedative, or with any central nervous system depressant because those combinations can increase the risk of death.
+addiction	Desomorphine has been shown to have a greater addictive potential than morphine.7 The rapid onset of action produces an intense "rush" that is both pleasurable and drives many users to compulsively use and abuse the substance in a manner similar to heroin.  Repeated administration of any opiate can cause physical dependency, which requires increasing doses to produce the desired effect and a withdrawal syndrome if the substance is no longer taken.
+long	Desomorphine, when produced in clandestine home labs is notoriously impure and contaminated with toxic substances. Injection can cause immediate damage and destruction of skin, blood vessels, muscles and bone. Iodine used in the synthesis process can cause thyroid and muscle damage. Phosphorus, also a contaminant, is known to damage cartilage. The damaged tissue is susceptible to infection, which may lead to abscesses, inflammation and destruction of the veins (thrombophlebitis), and death of the soft tissue. The constellation of related tissue damage has lead many media reports to refer to desomorphine as a "flesh eating" or "flesh rotting" drug.910 Pure desomorphine itself is not known to cause these effects. Intravenous injection of street krokodil is also well known to cause life threatening blood stream infections, destruction of the heart valves, and death. Because desomorphine is short acting compared to morphine and heroin, the need for more frequent injection increases the risks of infection from Hepatitis C Virus and HIV.8
+death	As with most opioids, death can occur at high doses because of respiratory depression. Street desomorphine carries additional potentially fatal risks associated with injecting impure chemicals into the body.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+LSA
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule I
+CLASSIFICATION	Depressant
+federalLawText :: Desomorphine is a Schedule I controlled substance under US law.
+stateLaw :: null
+internationalLaw :: 
+
+[Chemistry]
+chemTable :: NAME :	Desomorphine (Krokodil)
+CHEMICAL NAME :	4,5a-epoxy-17-methylmorphinan-3-ol
+ALTERNATE CHEMICAL NAMES :	dihydrodesoxymorphine-D;
+CHEMICAL FORMULA	C17H21NO2
+MOLECULAR WEIGHT	271.36
+MELTING POINT	162-164&#176; C (Hemihydrate, from ethyl acetate); 232&#176; Hydrogen sulfate dihydrate browns at 210C and is unmelted at 230C
+moleculeURL :: https://www.erowid.org/chemicals/desomorphine/images/archive/desomorphine_2d.png

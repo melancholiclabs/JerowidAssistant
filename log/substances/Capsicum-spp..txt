@@ -1,0 +1,10 @@
+[Substance]
+
+id :: 148
+name :: Capsicum spp.
+url :: https://www.erowid.org/plants/capsicum/capsicum.shtml
+category :: Plants
+botanicalClassification :: Family :Solanaceae, Genus :Capsicum, Species :annum; frutescens; chinense; pubescenscommonNames :: Chile Peppers
+effectsClassification :: Spice; Irritant
+description :: The Capsicum genus includes chile peppers, bell peppers, and paprika. Several species have been cultivated in Mexico for thousands of years as spices, foods, and medicines. A number of plants in the genus contain the chemical capsaicin, which produces the burning sensation associated with spicy foods.
+imageURL :: https://www.erowid.org/plants/capsicum/images/capsicum_summary1.jpg

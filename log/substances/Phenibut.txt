@@ -1,0 +1,56 @@
+[Substance]
+
+id :: 339
+name :: Phenibut
+url :: https://www.erowid.org/smarts/phenibut/phenibut.shtml
+category :: Smarts
+commonNames :: PhGABA; Noofen; beta-phenyl-GABA
+effectsClassification :: Nootropic; Anxiolytic
+chemicalName :: &beta;-Phenyl-&gamma;-aminobutyric acid
+description :: Phenibut is a GABA derivative marketed as a dietary supplement in the United States. It has been used in clinical practice in Russia since the 1960s.
+imageURL :: https://www.erowid.org/smarts/phenibut/images/phenibut_summary1.jpg
+basicsURL :: https://www.erowid.org/smarts/phenibut/phenibut_basics.shtml
+imagesURL :: https://www.erowid.org/smarts/phenibut/phenibut_images.shtml
+lawURL :: https://www.erowid.org/smarts/phenibut/phenibut_law.shtml
+chemistryURL :: https://www.erowid.org/smarts/phenibut/phenibut_chemistry.shtml
+
+[Basics]
+description :: Phenibut is sold as a nutritional supplement within the United States, and in Russia it is prescribed for its anxiolytic and sedative effects. Phenibut is used to help stabilize mood and as a sleep aid. It has a long half-life. [ Main Phenibut Vault ]
+descriptionSections :: dose	Doses vary from less than 500 mg to 4 grams. Sometimes additional redosing is conducted.
+price	$0.30 to $1.00 USD per gram.
+law	Phenibut is not a controlled substance in the United States, where sales, distribution, and labelling are regulated by FDA rules if it is sold as a dietary supplement.
+chemistry	The chemical name for phenibut is "&Beta;-phenyl-&gamma;-aminobutyric acid".
+pharmacology	Phenibut is a GABA receptor agonist.
+production	Production Summary Needed.
+history	Phenibut was developed by V. Perekalin and his team in the USSR in the 1960s. It is still available in Russia as a "neuropsychotropic" drug.
+terminology	The Substance:PhGABA; Noofen; beta-phenyl-GABA; phenigamma; fenibut; phenybut; The Experience:No common terms known.
+effects :: Feeling of wellbeing, relaxation, slight disinhibition comparable to the effects of low-dose alcohol. Can reduce anxiety or in some people induce it after several days of use. At high doses, effects can include intoxication, nausea, and vomiting.
+effectsSections :: onset	Effects can first be felt after around 60 to 90 minutes. Typically takes 2-4 hours for full effect to manifest when consumed orally.
+duration	4-10 hours; longer with redosing.
+visuals	Not known for inducing visual effects.
+problems :: Side effects can include headache. At higher doses, blurred vision or nystagmus, lack of coordination, depressed respiration, nausea, memory loss ("blacking out"), and hangover have been reported. Tolerance develops rapidly. Rebound anxiety can develop after 2-3 days of use.
+problemsSections :: contraindications	Pregnant women should consult their doctor before taking phenibut. Phenibut may interact with alcohol, benzodiazepines, or other gaba-affecting substances. Care should be taken when consuming phenibut in combination with other psychoactive drugs.
+addiction	Withdrawal symptoms after abrupt discontinuation of phenibut use are commonly reported, often characterized by restless anxiety, reduced sleep quality, and free-floating anxiety.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Images]
+imageEntryList :: Phenibut Powder	https://www.erowid.org/smarts/show_image.php?i=phenibut/phenibut_container__i2012e0077_disp.jpg	Phenibut powder in a white container. Commercially available in the United States (mid-2000s). [CA, USA]	Photo by Anonymous. &copy; 2012 Erowid.org
+Phenibut 2D Molecule	https://www.erowid.org/smarts/show_molecule.php?i=phenibut/phenibut_2d.jpg	Still 2D image of the Phenibut molecule.	Image by Erowid, &copy; 2012 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Phenibut
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: Phenibut is an uncontrolled sustance in the United States meaning it is legal to possess without any sort of license or prescription. Sales, distribution, and labelling are regulated by FDA rules if sold for human consumption.
+stateLaw :: null
+internationalLaw :: 
+
+[Chemistry]
+chemTable :: NAME :	Phenibut
+CHEMICAL NAME :	&Beta;-phenyl-&gamma;-aminobutyric acid
+CHEMICAL FORMULA	C10H13NO2
+MOLECULAR WEIGHT :	179.216 g/mol
+moleculeURL :: https://www.erowid.org/smarts/phenibut/images/archive/phenibut_2d.jpg

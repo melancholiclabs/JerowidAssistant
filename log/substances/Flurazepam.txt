@@ -1,0 +1,30 @@
+[Substance]
+
+id :: 280
+name :: Flurazepam
+url :: https://www.erowid.org/pharms/flurazepam/flurazepam.shtml
+category :: Pharms
+commonNames :: Dalmane
+effectsClassification :: Anxiolytic; Sedative; Benzodiazepine
+chemicalName :: 7-chloro-1-[2-(diethylamino)ethyl]-5-( o -fluorophenyl)-1,3-dihydro-2 H -1,4-benzodiazepin-2-one dihydrochloride (flurazepam hydrochloride)
+description :: Flurazepam (Dalmane) is a benzodiazepine anxiolytic used in the treatment of insomnia.
+imageURL :: https://www.erowid.org/pharms/flurazepam/images/flurazepam_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/flurazepam/flurazepam_images.shtml
+lawURL :: https://www.erowid.org/pharms/flurazepam/flurazepam_law.shtml
+
+[Images]
+imageEntryList :: Flurazepam	https://www.erowid.org/pharms/show_image.php?i=flurazepam/flurazepam_capsule1.jpg	Color photo showing a number of blue and white Flurazepam capsules. (Belgium)	Photo by Anonymous Photographer, &copy; 2006 Erowid.org
+Flurazepam	https://www.erowid.org/pharms/show_image.php?i=flurazepam/flurazepam_capsule2.jpg	Color photo showing 15 mg blue and white Flurazepam capsules imprinted with "West-ward || Flurazepam 15" . (S. Florida)	Photo by SFL Skatah, &copy; 2006 Erowid.org
+Flurazepam 2D Molecule	https://www.erowid.org/pharms/show_molecule.php?i=flurazepam/flurazepam_2d.gif	2D image of the Flurazepam molecule.	Image by Erowid, &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Flurazepam
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule IV
+CLASSIFICATION	Depressant
+federalLawText :: Flurazepam is Schedule IV in the U.S. This means it is illegal to sell without a license and illegal to possess without a valid license or prescription.
+stateLaw :: null
+internationalLaw :: Canada	Benzodiazepines (including flurazepam) are Schedule IV under Canadian law. See http://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-26.html#h-29. (thanks e) (last updated Jul 30 2012)
+The Netherlands	Most benzodiazepeines are available with a prescription in the Netherlands. Preparation, possession, adaption, delivery, providing and transport, of benzodiazepines are prohibited, because they are scheduled on "List II" of the "Opium Law". Possession of small quantities (for personal use) of prohibited substances is typically not prosecuted. Recreational use of benzodiazepines, is, as with any other substance, not prohibited in the Netherlands. Benzodiazepines approved for medical use in the Netherlands: Alprazolam, Bromazepam, Brotizolam, Chloordiazepoxide (in english chlordiazepoxide), Clobazam, Clonazepam, Clorazepinezuur (in english clorazepate), Diazepam, Flunitrazepam, Flurazepam, Loprazolam, Lorazepam, Lormetazepam, Midazolam, Nitrazepam, Oxazepam, Prazepam, Temazepam, as well as Zolpidem and Zopiclone. (thanks K) (last updated Oct 11, 2012)

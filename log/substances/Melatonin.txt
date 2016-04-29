@@ -1,0 +1,33 @@
+[Substance]
+
+id :: 336
+name :: Melatonin
+url :: https://www.erowid.org/smarts/melatonin/melatonin.shtml
+category :: Smarts
+commonNames :: Various
+effectsClassification :: Sleep Regulator
+chemicalName :: N-[2-(5-methoxy-1h-indol-3-yl)ethyl]acetamide
+description :: Melatonin is a hormone produced by the pineal gland and involved in the regulation of sleep. It is used as a sleep aid and to help reset the body's clock and help reduce jet-lag.
+imageURL :: https://www.erowid.org/smarts/melatonin/images/melatonin_summary1.jpg
+imagesURL :: https://www.erowid.org/smarts/melatonin/melatonin_images.shtml
+lawURL :: https://www.erowid.org/smarts/melatonin/melatonin_law.shtml
+
+[Images]
+imageEntryList :: Melatonin Capsules	https://www.erowid.org/smarts/show_image.php?i=melatonin/melatonin_capsule__i2005e0962_disp.jpg	3 mg capsules of Melatonin next to the bottle. [Thessaloniki, Greece]	Photo by Tinkal. &copy; 2007 Erowid.org
+Melatonin 2D Molecule	https://www.erowid.org/smarts/show_molecule.php?i=melatonin/melatonin_2d.gif	Still 2D image of the Melatonin molecule.	Image by Erowid, &copy; 2001 Erowid.org
+Melatonin 3D Rotating Molecule	https://www.erowid.org/smarts/show_molecule.php?i=melatonin/melatonin__.mol	Rotating 3D image of the Melatonin molecule.	Image by Erowid, &copy; 2001 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Melatonin
+REGULATED	No
+STATUS	Over-The-CounterSupplement
+SCHEDULE	Un-Scheduled
+federalLawText :: Melatonin is unscheduled in the United States. This means it is legal to buy, possess, and distribute (sell, trade or give). If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: Australia	As of March 2009, melatonin is not currently available without prescription in Australia. There are products sold over the counter without prescription that are labeled melatonin, but the fine print makes clear that they are either homeopathic (no actual melatonin content) or 'herbal'. Melatonin can be obtained by getting a prescription and then buying it from a chemist. The Therapeutic Goods Administration refuses to provide specific information about whether melatonin will become a non-prescription drug, despite pressures to do so by the public. (thanks BK) (last updated Mar 25, 2009)
+Canada	Melatonin is reportedly available over the counter in grocery stores and pharmacies. (thanks E) (last updated Mar 19, 2013)
+Finland	Melatonin (melatoniini) available only with a prescription in Finland. (unconfirmed) (thanks J]
+Netherlands (Nederlands)	Melatonin available over the counter in health and drug stores in the Netherlands. (unconfirmed) (thanks a) (last updated May 22, 2013)
+Norway	Melatonin (melatoniini) available only with a prescription in Norway and is sometimes seized by customs if ordered from outside Norway. (thanks GAK)
+United Kingdom (Britain, England, Wales, Scotland)	Melatonin available in health food shops and through the internet, but is not generally available at pharmacists/chemists. (unconfirmed) (thanks O) (last updated Mar 24 2011)

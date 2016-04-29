@@ -1,0 +1,27 @@
+[Substance]
+
+id :: 235
+name :: Mint
+url :: https://www.erowid.org/herbs/mint/mint.shtml
+category :: Herbs
+botanicalClassification :: Family :Lamiaceae (Former: Labiatae), Genus :Mentha, Species :piperita (peppermint); spicata (spearmint)commonNames :: Mint; [...]
+uses :: Spice; Muscle relaxant; Treatment for stomach ailments; Anxiolytic
+description :: Mint is a perennial herb that grows up to 3 ft tall with square stems. The plant spreads by means of runners and bears tiny white to purple flowers on short stalks.
+imageURL :: https://www.erowid.org/herbs/images/herbs_spacer_summary.jpg
+imagesURL :: https://www.erowid.org/herbs/mint/mint_images.shtml
+lawURL :: https://www.erowid.org/herbs/mint/mint_law.shtml
+
+[Images]
+imageEntryList :: Mentha piperita var critata	https://www.erowid.org/herbs/show_image.php?i=mint/mentha_piperita__i2005e1303_disp.jpg	A Mentha piperita var. critata (Peppermint) specimen roughly one foot high growing in a garden box in October. [MS, USA]	Photo by Anonymous. &copy; 2007 Erowid.org
+Mentha spicata	https://www.erowid.org/herbs/show_image.php?i=mint/mentha_spicata__i2004e0155_disp.jpg	A collection of healthy Mentha spicata (Spearmint) plants. [USA]	Photo by Finn. &copy; 2007 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Mint
+REGULATED	No
+STATUS	Food Approved
+SCHEDULE	Un-Scheduled
+federalLawText :: Mint (Mentha spp) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.	
+Mentha piperita and Mentha spicata are approved for food use as a spice or seasoning in the U.S. and appear in the FDA's list of substances Generally Recognized As Safe (GRAS).
+stateLaw :: null
+internationalLaw :: 

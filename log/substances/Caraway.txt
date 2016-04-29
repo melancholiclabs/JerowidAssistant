@@ -1,0 +1,26 @@
+[Substance]
+
+id :: 210
+name :: Caraway
+url :: https://www.erowid.org/herbs/caraway/caraway.shtml
+category :: Herbs
+botanicalClassification :: Family :Umbelliferae, Genus :Carum, Species :carvicommonNames :: Caraway; Carvi; Kummel
+uses :: Spice; Breath Sweetener; Digestive Aid; Cough Aid
+description :: A biennial herb which grows up to 2 feet tall with feathery leaves resmbling those of carrots. It's small seeds are the most commonly used part of the plant.
+imageURL :: https://www.erowid.org/herbs/images/herbs_spacer_summary.jpg
+imagesURL :: https://www.erowid.org/herbs/caraway/caraway_images.shtml
+lawURL :: https://www.erowid.org/herbs/caraway/caraway_law.shtml
+
+[Images]
+imageEntryList :: Carum carvi	https://www.erowid.org/herbs/show_image.php?i=caraway/carum_carvi1.jpg	Close-up color photo of Caraway in bloom.	Photo by Alberto Tucci, Erbeofficinali.com, &copy; 2001 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Caraway
+REGULATED	No
+STATUS	Food Approved
+SCHEDULE	Un-Scheduled
+federalLawText :: Caraway (Carum carvey) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.	
+Carum carvey is approved for food use as a spice or seasoning in the U.S. and appears in the FDA's list of substances Generally Recognized As Safe (GRAS).
+stateLaw :: null
+internationalLaw :: 

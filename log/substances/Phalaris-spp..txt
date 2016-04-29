@@ -1,0 +1,50 @@
+[Substance]
+
+id :: 182
+name :: Phalaris spp.
+url :: https://www.erowid.org/plants/phalaris/phalaris.shtml
+category :: Plants
+botanicalClassification :: Family :Poaceae, Genus :Phalaris, Species :aquatica (=tuberosa); arundinacea; canariensiscommonNames :: P. arundinacea - Reed Canary Grass; Canary Reed Grass P. aquatica - Harding Grass
+effectsClassification :: Psychedelic
+description :: Phalaris aquatica, arundinacea, and canariensis are species of waist-high, blue-green, perennial grasses which contain DMT.
+imageURL :: https://www.erowid.org/plants/phalaris/images/phalaris_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/phalaris/phalaris_images.shtml
+lawURL :: https://www.erowid.org/plants/phalaris/phalaris_law.shtml
+
+[Images]
+imageEntryList :: Phalaris arundinacea	https://www.erowid.org/plants/show_image.php?i=phalaris/phalarais_arundinacea__i2005e0141_disp.jpg	Phalaris arundinacea l. seed heads. [QB, Canada]	Photo by Ghyslain Drolet. &copy; 2007 Erowid.org
+Phalaris arundinacea	https://www.erowid.org/plants/show_image.php?i=phalaris/phalaris_arundinacea__i2005e0140_disp.jpg	A field of Phalaris arundinacea L. [QB, Canada]	Photo by Ghyslain Drolet. &copy; 2006 Erowid.org
+Phalaris arundinacea	https://www.erowid.org/plants/show_image.php?i=phalaris/phalaris_arundinacea__i2011e0486_disp.jpg	Three stages of Phalaris arundinacea grass development. [UK]	Photo by Farmer_Dodds. &copy; 2011 Erowid.org
+Phalaris arundinacea	https://www.erowid.org/plants/show_image.php?i=phalaris/phalaris_arundinacea7.jpg	Color scan of P. arundinacea leaves and seed heads. (Cape Town, S. Africa, 2002).	Photo by Michael Cordoba [freud@mweb.co.za], &copy; 2002 Erowid.org
+Phalaris arundinacea	https://www.erowid.org/plants/show_image.php?i=phalaris/phalaris_arundinacea8.jpg	Color scan of P. arundinacea leaves and various seed heads. (Cape Town, S. Africa, 2002).	Photo by Michael Cordoba [freud@mweb.co.za], &copy; 2002 Erowid.org
+Phalaris arundinacea	https://www.erowid.org/plants/show_image.php?i=phalaris/phalaris_arundinacea9.jpg	Color scan of a young immature P. arundinacea seed head. (Cape Town, S. Africa, 2002).	Photo by Michael Cordoba [freud@mweb.co.za], &copy; 2002 Erowid.org
+Phalaris arundinacea	https://www.erowid.org/plants/show_image.php?i=phalaris/phalaris_arundinacea10.jpg	Close-up of a P. arundinacea seed head. (Cape Town, S. Africa, 2002).	Photo by Michael Cordoba [freud@mweb.co.za], &copy; 2002 Erowid.org
+Phalaris arundinacea	https://www.erowid.org/plants/show_image.php?i=phalaris/phalaris_arundinacea1.jpg	Color photo of grass growing outdoors.	From Psychedelic Shamanism, by Jim DeKorne
+Phalaris arundinacea	https://www.erowid.org/plants/show_image.php?i=phalaris/phalaris_arundinacea6.jpg	Color photo of stem, leaf blades, and flowering top of reed canary grass collected in central Wisconsin.	Photo by Matty Boy
+Phalaris arundinacea	https://www.erowid.org/plants/show_image.php?i=phalaris/phalaris_arundinacea11.jpg	Small color photo of Phalaris arundinacea grass.	Photo by Alkaloidaholic, &copy; 2003 Erowid.org
+Phalaris arundinacea	https://www.erowid.org/plants/show_image.php?i=phalaris/phalaris_arundinacea_flower__i2007e1293_disp.jpg	Close-up of Phalaris arundinacea inflorescence (flower clusters). [Germany]	Photo by Zhah. &copy; 2009 Erowid.org
+Phalaris arundinacea	https://www.erowid.org/plants/show_image.php?i=phalaris/phalaris_arundinacea__i2007e1295_disp.jpg	Phalaris arundinacea growing on stream bank. [Germany]	Photo by Zhah. &copy; 2009 Erowid.org
+Phalaris arundinacea var. picta	https://www.erowid.org/plants/show_image.php?i=phalaris/phalaris_arundinacea_picta__i2007e1291_disp.jpg	Phalaris arundinacea var. picta or "striped ribbon grass". [Germany]	Photo by Zhah. &copy; 2009 Erowid.org
+Phalaris arundinacea	https://www.erowid.org/plants/show_image.php?i=phalaris/phalaris_arundinacea3.jpg	Color photo of growing grass.	Source unknown
+Phalaris arundinacea	https://www.erowid.org/plants/show_image.php?i=phalaris/phalaris_arundinacea4.jpg	Color photo of single flowering blade.	Source unknown
+Phalaris arundinacea Seeds	https://www.erowid.org/plants/show_image.php?i=phalaris/phalaris_arundinacea_seed__i2007e0953_disp.jpg	Phalaris arundinacea seeds in baggie with NYC transit subway coin.	Photo by zhah. &copy; 2007 Erowid.org
+Phalaris arundinacea Seeds	https://www.erowid.org/plants/show_image.php?i=phalaris/phalaris_arundinacea_seed1.jpg	Close-up photo of small pile of P. arundinacea seeds. (Missouri, USA, 2002).	Photo by Alkaloidaholic, &copy; 2002 Erowid.org
+Phalaris arundinacea	https://www.erowid.org/plants/show_image.php?i=phalaris/phalaris_arundinacea5.jpg	Black and white drawing.	Source unknown
+Phalaris aquatica	https://www.erowid.org/plants/show_image.php?i=phalaris/phalaris_aquatica1.jpg	Close-up color photo of flowering plant.	Source unknown
+Phalaris aquatica	https://www.erowid.org/plants/show_image.php?i=phalaris/phalaris_aquatica2.jpg	Very nice color photo of large bunch of grass.	Source unknown
+Phalaris brachystachys	https://www.erowid.org/plants/show_image.php?i=phalaris/phalaris_brachystachys__i2006e0013_disp.jpg	Small cluster of Pharlaris brachystachys seeding. [OR, USA]	Photo by Dorian. &copy; 2006 Erowid.org
+Phalaris canariensis	https://www.erowid.org/plants/show_image.php?i=phalaris/phalaris_canariensis1.jpg	Color photo of three grass flowers.	Photo by Harold Moen.
+Phalaris minor	https://www.erowid.org/plants/show_image.php?i=phalaris/phalaris_minor1.jpg	Color photo of flowering grass.	Phototographer unknown. Originally archived by Disembodied Eyes.
+Phalaris tuberosa	https://www.erowid.org/plants/show_image.php?i=phalaris/phalaris_tuberosa1.jpg	Color photo of large tuft of grass growing outdoors.	Photographer Unknown.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Phalaris Grass
+REGULATED	No
+STATUS	Ambiguous
+SCHEDULE	ContainsSchedule I Chemical
+CLASSIFICATION	Hallucinogen
+federalLawText :: DMT-containing Phalaris grass (P. quatica, P. arundinacea, P. canariensis, P. tuberosa) are not specifically controlled species in the United States. Live plants and seeds are bought and sold and are not generally considered illegal. However, DMT, one of the chemicals contained in these plants, is Schedule I in the U.S. Practically, this means that if an extraction is done on DMT containing Phalaris species, the resulting DMT is illegal to possess.	
+Large scale (especially commercial) extraction of DMT from Phalaris species falls into the realm of "clearly illegal" and would very likely be prosecuted. It is also possible that importation of DMT containing Phalaris species into the United States could result in problems with customs, especially if large volumes are imported.
+stateLaw :: null
+internationalLaw :: U.K.	Although DMT is Schedule I/Class A in the U.K., no Phalaris species is listed in the current U.K. laws and would thus be legal to possess until or unless it is prepared to ingest any DMT it contains. (thanks RT) (last updated May 2007)

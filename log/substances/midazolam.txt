@@ -1,0 +1,10 @@
+[Substance]
+
+id :: 291
+name :: midazolam
+url :: null
+category :: Pharms
+commonNames :: null
+effectsClassification :: null
+chemicalName :: null
+description :: null

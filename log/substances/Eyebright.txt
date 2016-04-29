@@ -1,0 +1,25 @@
+[Substance]
+
+id :: 219
+name :: Eyebright
+url :: https://www.erowid.org/herbs/eyebright/eyebright.shtml
+category :: Herbs
+botanicalClassification :: Family :Scrophulariaceae, Genus :Euphrasia, Species :officinaliscommonNames :: Meadow Eyebright; Red Eyebright
+uses :: Anti-inflammatory and astrigent; Remedy for mucous membrane problems; Used in inflammed, stinging, or light-sensitive eyes.
+description :: Eyebright is a delicate annual growing 2-8 inches tall. It has square, downy, branching stems with round to pointed leaves. Tiny red or white flowers are borne in spikes from the upper leaves.
+imageURL :: https://www.erowid.org/herbs/eyebright/images/eyebright_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/eyebright/eyebright_images.shtml
+lawURL :: https://www.erowid.org/herbs/eyebright/eyebright_law.shtml
+
+[Images]
+imageEntryList :: Euphrasia officinalis	https://www.erowid.org/herbs/show_image.php?i=eyebright/euphrasia_officinalis_flower__i2006e0344_disp.jpg	Flowering Eyebright (Euphrasia officinalis). [England]	Photo by Anonymous. &copy; 2007 Erowid.org.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Eyebright
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Eyebright (Euphrasia officinalis) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: 

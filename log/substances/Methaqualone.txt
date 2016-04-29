@@ -1,0 +1,88 @@
+[Substance]
+
+id :: 105
+name :: Methaqualone
+url :: https://www.erowid.org/chemicals/methaqualone/methaqualone.shtml
+category :: Chemicals
+commonNames :: Quaaludes; Ludes; Mandrax; Sopor
+effectsClassification :: Sedative Intoxicant
+chemicalName :: 2-methyl-3-(2-methylphenyl)-4(3H)-quinazolinone
+description :: Methaqualone is a synthetic sedative best known for its medical and recreational popularity in the 1970s.
+imageURL :: https://www.erowid.org/chemicals/methaqualone/images/methaqualone_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/methaqualone/methaqualone_basics.shtml
+effectsURL :: https://www.erowid.org/chemicals/methaqualone/methaqualone_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/methaqualone/methaqualone_images.shtml
+lawURL :: https://www.erowid.org/chemicals/methaqualone/methaqualone_law.shtml
+doseURL :: https://www.erowid.org/chemicals/methaqualone/methaqualone_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/methaqualone/methaqualone_chemistry.shtml
+
+[Basics]
+description :: Methaqualone (Quaalude) is a sedative/hypnotic central nervous system depressant similar to barbiturates. It is most often taken orally in tablet and produces a range of effects including light sedation, euphoria and sleep at lower doses to unconsciousness and sometimes seizures at high doses. [ Main Methaqualone Vault ]
+descriptionSections :: dose	Some users may take 75 mg doses throughout the day, while others may take 300 mg once a day. A common dose for recreational use is reported to be 300 mg. However tolerance develops quickly and some users may take up to 1,000 mg - 2,000 mg per day to achieve the same effects. Some users have died from taking as little as 8,000 mg (per day), while others have taken as much as 22,000 mg and survived.
+price	Pills mostly range from $5-$7 per 300 mg pill in 2003 in the United States.
+law	Methaqualone is illegal to possess without a license in the United States (Schedule I). Although it was once a widely prescribed medication, the DEA has listed it in the most highly scheduled category, which includes drugs with no recognized medical use, due to its potential for addiction and abuse.
+chemistry	Methaqualone, 2-methyl-3-(2-methylphenyl)-4(3H)-quinazolinone is one of the most powerful sedative/hypnotic compounds ever produced. It is structurally and functionally related to  glutethimide, methyprylon, and the barbiturates.
+pharmacology	Pharmacology Summary Needed.
+production	Much of the methaqualone that is used recreationally in the U.S. and other countries is synthesized in illegal labs. Blackmarket methaqualone is often called 'bootleg', after the underground process of alcohol production during US Prohibition in the early 20th Century. Bootleg methaqualone has been known to come from Colombia, where it is smuggled into the U.S. through Florida. Illegally synthesized methaqualone frequently contains adulterants, including other CNS depressants such as diazepam (Valium). Although methaqualone cannot be legally manufactured in the U.S. outside of research due to its Schedule I status, it is produced in other parts of the world as a legitimate pharmaceutical. It is available by prescription in Canada.<
+history	Methaqualone was first synthesized in India by a man named M.I. Gujral as an anti-malaria drug. In 1956/1965 (sources differ), it was introduced as a &quot;non-addicting&quot; hypnotic medication used to treat insomnia and anxiety. Unfortunately, it was soon found to cause just as much or even more drug dependence as the CNS depressants it was intended to replace. By 1968, methaqualone was reportedly the most widely prescribed sedative in the UK. By 1972 it was one of the most popular recreational psychoactive drugs in both the US and Britain. Methaqualone was placed on Schedule II in 1973, and finally on Schedule I in June of 1984, due to the problems that arose from its use.
+terminology	Brand Names:Quaalude, Sopor, Cateudil, Isonox, Motolon, Normi-Nox, Optimil, Parest, Revonal, Somnafac, Sovinal. The Substance:Methaqualone; Ludes; 714's; Dr. Jekyll and Mr. Hyde; Sopes; Mandrakes; Quacks. The Experience:Luding.
+effects :: Methaqualone is readily absorbed from the gastrointestinal tract. It is distributed in the body fat, liver, and brain tissue through plasma. Low doses (75-300 mg) of methaqualone taken orally tend to produce light sedation and sleepiness. Higher doses (300 mg+) can produce a more pronounced sedation and euphoria. Recreational users often resist the drug's soporific effects (i.e. force themselves to stay awake) in order to  achieve a dissociative high. Reported positive effects include: a sense of well being, loss of inhibition, increased pain threshold, loss of muscle coordination, tingling or numbness throughout the body, relaxation, calmness, increased self confidence, and sexual arousal. Fairly common unwanted side effects include hangover, nausea, stomach pain, vomiting, sweating, rapid heart beat, hives, and loss of apetite.
+effectsSections :: onset	Orally, methaqualone's effects begin around 20-45 minutes after ingestion.
+duration	Methaqualone's effects last 4-8 hours. Higher doses tend to last longer than lower doses.
+visuals	Visuals Summary Needed.
+problems :: In addition to the negative effects listed above, methaqualone can produce dizziness, anxiety, and restlessness (at lower doses), weakness, paranoia, panic, decreased erectile function in men, and somtimes difficulty achieving orgasm in both sexes. Especially at high doses, it can also cause extreme mental confusion and pronounced ataxia (loss of muscle contol). An overdose of methaqualone may lead to seizures, coma, or death.  Perhaps methaqualone's most problematic attribute is the rapid creation of tolerance in users and its cross tolerance with other sedative/hypnotic drugs. Cross tolerance means that if methaqualone is taken regularly,  subsequent doses of other sedatives must be much larger in order to achieve their normal effect. Methaqualone users who wish to use the substance multiple days in a row find themselves using increasingly large amounts. Several days to a week between doses are required to avoid tolerance and cross tolerance. Tolerance for the drug's euphoric effects develops more rapidly than tolerance to its respiratory depressant effects. This increases the risk of dangerous overdose as users increase their dose in order to feel as high as they did during earlier experiences.
+problemsSections :: contraindications	Do not operate heavy machinery. Do Not Drive.   Combination with other depressants can lead to dangerous and sometimes fatal reactions, mostly related to respiratory and other CNS suppression.
+addiction	As with many other sedative hypnotics, regular use of methaqualone can lead to physical addiction and psychological dependence. Daily use of even moderate doses can produce addiction in just a couple of weeks.  Psychological and physical dependence are very common with heavy methaqualone use (doses over 600 mg per day). Withdrawal symptoms include restlessness, irritability, antisocial behavior, insomnia, headache, mild tremors, loss of appetite, nausea and vomiting, abdominal cramps, muscle twitches, and in severe cases: mental confusion, delirium, nightmares, hallucinations, high fever, epileptic-like seizures that can lead to death, and severe cravings for the drug for long periods after withdrawal.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Effects]
+duration :: Methaqualone Duration
+Oral
+Total Duration	4.5 - 8 hrs
+Onset	30 mins
+Coming Up	30 mins
+Plateau	2 - 4 hrs
+Coming Down	2 - 4 hrs
+&nbsp;	&nbsp;
+After Effects	6 - 8 hrs
+Hangover / Day After	- - -
+positiveEffects :: relaxation	calmness	euphoria	tingling or numbness throughout the body	self confidence	sexual arousal
+neutralEffects :: drowsiness	incoordination	sleep
+negativeEffects :: dizziness	slurring of speech	anxiety and restlessness (at low doses)	weakness	agitation	paranoia, fear, and panic	decreases ability to perform sexually	possible loss of appetite, nausea, and vomiting	rapid development of tolerance leading to physical dependence
+description :: From the Encyclopedia of Psychoactive Drugs: Methaqualone, Carrol M, Gallo G, Snyder S, Lader MH, 1985:	
+
+"Methaqualone is a central nervous system depressant similar to barbiturates. When taken in moderate doses (150-300 mg) the drug produces depression of brain function and a quiet, deep sleep. Higher doses (more than 300 mg) have been known to cause general anaesthesia, depression, and seizures. Street users of methaqualone have reported a feeling of quiescence, relaxation, friendliness, and receptiveness, and a loss of inhibitions. These feelings led to methaqualones's reputation as an aphrodisiac, a drug that increases sexual desire, However, the notion that methaqualone enhances sexual performance and pleasure is not based on fact. Although methaqualone may lower inhibitions and increase sexual desire, it actually reduces an individual's ability to perform sexually.	
+Street Users often combine methaqualone with alcohol (known as "luding out"). This combination produces a pleasant sense of well being, an increased pain threshold, an impairment of proprioceptive (position) sense (which induces severe ataxia, or incoordination), and parathesthesia, or tingling of the fingers, lips, and tongue. The painless, pleasant ataxia [can give] the user illusions of indestructibility, which in turn may lead to euphoria. However, this state can be dangerous. There have been cases of users in this ataxic, euphoric state falling down a flight of stairs and not feeling the bruises until the following day...	
+Some street users describe the methaqualone sensation as peaceful and calm, as a rush, or as similar to being drunk. Others actually claim that it is fighting off the urge to sleep which gives them a methaqualone high."
+experienceReports :: null
+
+[Images]
+imageEntryList :: Methaqualone Capsules in Vial	https://www.erowid.org/chemicals/show_image.php?i=methaqualone/methaqualone_capsule__i2010e0163_disp.jpg	Glass vial containing two 400 mg sample capsules of methaqualone produced by Parke-Davis. [AZ, USA]	Photo by Karma Toast. &copy; 2011 Erowid.org
+Methaqualone Bottle and Box	https://www.erowid.org/chemicals/show_image.php?i=methaqualone/methaqualone_bottle__i2002e0082_disp.jpg	A 500 tablet stock bottle (and box) of Quaalude tablets containing 300 mg methaqualone from Rorer Pharmaceutical. [KY, USA]	Photo by Biopharma. &copy; 2008 Erowid.org
+Quaalude	https://www.erowid.org/chemicals/show_image.php?i=methaqualone/quaalude1.jpg	Color photo of a bottle of Quaalude tablets containing 300 mg Methaqualone.	Photo by Anonymous Photographer. &copy; 2002 Erowid.org
+Methaqualone Pills / Capsules	https://www.erowid.org/chemicals/show_image.php?i=methaqualone/methaqualone_pills1.jpg	Color photo of a several pills and capsules containing Methaqualone.	From Indiana Prevention Resource Center
+Methaqualone 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=methaqualone/methaqualone_2d.gif	Still 2D image of the Methaqualone molecule.	Image by Erowid. &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Methaqualone
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule I
+CLASSIFICATION	Depressant
+federalLawText :: Methaqualone is Schedule I in the United States. This means it is illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license.
+stateLaw :: null
+internationalLaw :: Australia	Methaqualone is Schedule 9 in Australia, meaning it is illegal without a license and deemed to have no medical value. (thanks UL)
+Canada	Methaqualone is Schedule III in Canada meaning it requires a prescription or license to legally possess.
+Germany	Methaqualone is Schedule III in Germany.
+United Kingdom, UK, Britain	Methaqualone is a Class B drug. (thanks s) (last updated Mar 3 2010)
+
+[Dose]
+doseTable :: 
+doseText :: Note: Frequent users of  Methaqualone build a tolerance for the drug. Dosages of over 300 mg can be dangerous for first time users. Also, some who use methaqualone recreationally sometimes drink alcohol or take other CNS depressants at the same time. Alcohol and other depressants/sleep aids can increase the effects of methaqualone and doses need to be adjusted down accordingly.                  Oral Methaqualone Dosages    Threshold  75 mg    Light  150 mg    Common  300 mg    Strong  600 mg    Heavy  over 600 mg  &nbsp;    Onset : 30 minutesDuration :   5 - 8 hoursNormal   After Effects : 6 - 8 hours
+notes :: null
+
+[Chemistry]
+chemTable :: 
+moleculeURL :: https://www.erowid.org/chemicals/methaqualone/images/methaqualone_2d_sm.jpg

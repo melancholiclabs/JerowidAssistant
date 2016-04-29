@@ -1,0 +1,21 @@
+[Substance]
+
+id :: 226
+name :: Hemlock
+url :: https://www.erowid.org/herbs/hemlock/hemlock.shtml
+category :: Herbs
+botanicalClassification :: Family :N.O. Umbelliferae, Genus :Conium, Species :maculatumcommonNames :: Poison hemlock; Potted Parsley; Spotted Cowbane; St.-Bennet's-herb; Musquash Root
+uses :: Poison; Antispasmodic; Sedative; Socrates, condemned to die, committed suicide by drinking hemlock juice.
+description :: Hemlock is a biennial herb with smooth, purple-spotted hollow stems. The leaves are highly divided into very small, fern-like leaflets. White flowers occur are umbrella-like and resemble Queen Ann's Lace. The plant has a strong unpleasant odor.
+imageURL :: https://www.erowid.org/herbs/images/herbs_spacer_summary.jpg
+lawURL :: https://www.erowid.org/herbs/hemlock/hemlock_law.shtml
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Conium maculatum
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: Hemlock (Conium maculatum) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: 

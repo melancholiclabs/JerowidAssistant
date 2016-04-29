@@ -1,0 +1,22 @@
+[Substance]
+
+id :: 233
+name :: Licorice
+url :: https://www.erowid.org/herbs/licorice/licorice.shtml
+category :: Herbs
+botanicalClassification :: Family :Fabaceae (=Leguminosae), Genus :Glycyrrhiza, Species :glabracommonNames :: Licorice; Sweet Root; Sweetwort;
+uses :: Flavoring; Food Dye; Laxative; Expectorant; Treatment for ulcers, rheumatism, and arthritis
+description :: Licorice is an erect herb growing from a stringy taproot up to 4 feet long which is brown on the outside and yellow on the inside. The plant grows 3-7 ft tall and has 1-2 inch long yellow-green, slightly sticky leaves. Flowers are 1/2 inch long and purple or lavender.
+imageURL :: https://www.erowid.org/herbs/licorice/images/licorice_summary1.jpg
+lawURL :: https://www.erowid.org/herbs/licorice/licorice_law.shtml
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Licorice
+REGULATED	No
+STATUS	Food Approved
+SCHEDULE	Un-Scheduled
+federalLawText :: Licorice (Glycyrrhiza glabra) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.	
+Licorice (Glycyrrhiza spp) is approved for food use as a spice or seasoning in the U.S. and appears in the FDA's list of substances Generally Recognized As Safe (GRAS).
+stateLaw :: null
+internationalLaw :: 

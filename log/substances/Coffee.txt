@@ -1,0 +1,38 @@
+[Substance]
+
+id :: 151
+name :: Coffee
+url :: https://www.erowid.org/plants/coffee/coffee.shtml
+category :: Plants
+botanicalClassification :: Family :Rubiaceae, Genus :Coffea, Species :arabica; canephoracommonNames :: Coffee; Java; Joe
+effectsClassification :: Stimulant
+description :: Coffea arabica is a large bush whose beans contain caffeine, theophylline and theobromine. The beans are dried, roasted and ground, and then extracted with water to produce coffee. Coffee is one of the most common psychoactive drinks in the world and has a long history of human use.
+imageURL :: https://www.erowid.org/plants/coffee/images/coffee_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/coffee/coffee_images.shtml
+lawURL :: https://www.erowid.org/plants/coffee/coffee_law.shtml
+
+[Images]
+imageEntryList :: Coffea arabica	https://www.erowid.org/plants/show_image.php?i=coffee/coffea_arabica4.jpg	Color photo of small potted C. arabica plant.	Photo by Murple, &copy; 2000 Erowid.
+Coffea arabica rubiaceae	https://www.erowid.org/plants/show_image.php?i=coffee/coffea_arabica_rubiaceae1.jpg	Color photo of flowering Coffea arabica branch.	Photo by Gerald D. Carr, from the University of Hawaii Botany Department.
+Coffea arabica Fruit	https://www.erowid.org/plants/show_image.php?i=coffee/coffea_arabica_fruit__i2009e0888_disp.jpg	Close-up of a Coffea arabica branch showing green fruits. [Germany]	Photo by uriel5000. &copy; 2009 Erowid.org
+Coffea arabica Fruit	https://www.erowid.org/plants/show_image.php?i=coffee/coffea_arabica_berries1.jpg	Color photo of fresh picked coffee berries. Each berry contains 2 seeds in a thin, sweet, cherry-like pulp. [Washington D.C.]	Photo by Murple, &copy; 2002 Erowid.org
+Coffea arabica	https://www.erowid.org/plants/show_image.php?i=coffee/coffea_arabica1.jpg	Color photo of plant with berries.	Photo by Thomas Schoepke, from www.plant-pictures.com
+Coffea arabica rubiaceae	https://www.erowid.org/plants/show_image.php?i=coffee/coffea_arabica1.jpg	Color photo of branch with berries.	Photo by Harold St. John, from the University of Hawaii Botany Department.
+Coffea arabica rubiaceae	https://www.erowid.org/plants/show_image.php?i=coffee/coffea_arabica_rubiaceae2.jpg	Color photo of large plant with berries.	Photo by Harold St. John, from the University of Hawaii Botany Department.
+Roasted Coffee Beans	https://www.erowid.org/plants/show_image.php?i=coffee/coffee_beans__i2005e0042_disp.jpg	A pile of roasted coffee beans.	Photo by Anonymous. &copy; 2007 Erowid.org
+Coffea arabica	https://www.erowid.org/plants/show_image.php?i=coffee/coffea_arabica2.jpg	Color drawing.	From Kohler's Medicinal Plants, &copy; 1995-2003 Missouri Botanical Garden.
+Coffea arabica	https://www.erowid.org/plants/show_image.php?i=coffee/coffea_arabica_botanical_drawing1.jpg	Color drawing showing plant, flowers, and fruit.	From "An Introduction to Materia Medica and Pharmacology".
+Coffea arabica	https://www.erowid.org/plants/show_image.php?i=coffee/coffea_arabica3.jpg	Black and white drawing.	Artist Unknown.
+Caffeine 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=caffeine/caffeine_3d.jpg	Still 3D image of the Caffeine molecule.	Image by Erowid, &copy; 2000 Erowid.
+Caffeine 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=caffeine/caffeine__.mol	Rotating 3D image of the Caffeine molecule.	Image by Erowid, &copy; 2000 Erowid.
+Caffeine 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=caffeine/caffeine_3d_mid-2.gif	Still 3D image of the Caffeine molecule.	Source unknown.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Coffee
+REGULATED	No
+STATUS	Food Approved
+SCHEDULE	Un-Scheduled
+federalLawText :: Coffee arabica is uncontrolled in the United States and is approved for human ingestion. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: 

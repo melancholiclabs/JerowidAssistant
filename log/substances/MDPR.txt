@@ -1,0 +1,18 @@
+[Substance]
+
+id :: 99
+name :: MDPR
+url :: https://www.erowid.org/chemicals/mdpr/mdpr.shtml
+category :: Chemicals
+commonNames :: N-Propyl-MDA
+effectsClassification :: Unknown; Phenethylamine
+chemicalName :: 3,4-methylenedioxy-N-propylamphetamine
+description :: MDPR is a synthetic phenethylamine. Very little is known about its possible effects as there is nearly no history of human use.
+imageURL :: https://www.erowid.org/chemicals/images/chemicals_spacer_summary.jpg
+imagesURL :: https://www.erowid.org/chemicals/mdpr/mdpr_images.shtml
+
+[Images]
+imageEntryList :: MDPR Powder	https://www.erowid.org/chemicals/show_image.php?i=mdpr/mdpr_powder1.jpg	Color photo of MDPR Powder.	Photo by Murple, &copy; 2002 Erowid.org Erowid-BSD License.
+MDPR Powder	https://www.erowid.org/chemicals/show_image.php?i=mdpr/mdpr_powder2.jpg	Color photo of MDPR Powder in a glass vial.	Photo by Murple, &copy; 2002 Erowid.org Erowid-BSD License.
+MDPR 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=mdpr/mdpr_2d.jpg	Still 2D image of the MDPR molecule.	Image by Erowid. &copy; 2002 Erowid.org
+MDPR 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=mdpr/mdpr__.mol	Rotating 3D image of the MDPR molecule.	Image by Erowid. &copy; 2002 Erowid.org

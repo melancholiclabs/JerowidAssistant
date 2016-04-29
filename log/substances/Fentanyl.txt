@@ -1,0 +1,35 @@
+[Substance]
+
+id :: 277
+name :: Fentanyl
+url :: https://www.erowid.org/pharms/fentanyl/fentanyl.shtml
+category :: Pharms
+commonNames :: China White; Sublimaze (liquid); Duragesic (transdermal patch); Actiq (oral transmucosal "lollipop"); Fentora (buccal)
+effectsClassification :: Analgesic; Anaesthetic
+chemicalName :: N-(1-phenethyl-4-piperidyl)propionanilide
+description :: Fentanyl is a short-acting synthetic opiate analgesic which is active at very low doses. Its effects are compared to heroin and it has been sold on the street as heroin, causing some deaths.
+imageURL :: https://www.erowid.org/pharms/fentanyl/images/fentanyl_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/fentanyl/fentanyl_images.shtml
+lawURL :: https://www.erowid.org/pharms/fentanyl/fentanyl_law.shtml
+
+[Images]
+imageEntryList :: Fentanyl Transdermal Patch	https://www.erowid.org/pharms/show_image.php?i=fentanyl/fentanyl_patch1.jpg	Photo showing the thin wrapper of a transdermal fentanyl patch (100 ug/hr).	Photo by Anonymous Photographer, &copy; 2005 Erowid.org
+Fentanyl Patch	https://www.erowid.org/pharms/show_image.php?i=fentanyl/fentanyl_patch__i2011e0223_disp.jpg	Package of a 50mcg/hr (5.10 mg) Fentanyl patch. [IN, USA]	Photo by Themang. &copy; 2011 Erowid.org
+Fentanyl Patches	https://www.erowid.org/pharms/show_image.php?i=fentanyl/fentanyl_patch__i2009e0496_disp.jpg	Fentanyl patch showing box and packaging [WA, USA]	Photo by Cottrell. &copy; 2009 Erowid.org
+Liquid Fentanyl in Glass Ampule	https://www.erowid.org/pharms/show_image.php?i=fentanyl/fentanyl_ampule__i2006e2282_disp.jpg	A glass ampule on a green medical cloth containing 100mcg Fentanyl per 2mL in injectable solution.	Photo by Shadow. &copy; 2006 Erowid.org
+Fentanyl Lollipop	https://www.erowid.org/pharms/show_image.php?i=fentanyl/fentanyl_lollipop1.jpg	Color photo of the packaging of a fentanyl lollipop (400 ug).	Photo by Eric W., &copy; 2006 Erowid.org
+Ketamine, Oxycodone, and Fentanyl	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketamine_vial_fentanyl__i2010e0201_disp.jpg	Color photo of a bottle of Ketanest, two fentanyl (Actiq) lollipops, and two 80 mg oxycodone tablets.	Photo by Shadow. &copy; 2010 Erowid.org
+Fentanyl 2D Molecule	https://www.erowid.org/pharms/show_image.php?i=fentanyl/fentanyl_2d.gif	Still 2D image of the Fentanyl molecule.	Image by Erowid, &copy; 2004 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Fentanyl
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule II
+CLASSIFICATION	Opiate
+federalLawText :: Fentanyl is Schedule II in the United States. This means it is illegal to sell without a DEA license and illegal to buy or possess without a license or prescription.
+stateLaw :: null
+internationalLaw :: Australia	Fentanyl is a border controlled substance under Criminal Code Act 9.1.314 and is additionally controlled by several states and territories. (thanks Z)
+Canada	Fentanyl is schedule I in Canada. (Note: Canadian schedules are very different than U.S. schedules). In at least some parts of Ontario, those prescribed fentanyl patches must return their used patches in order to receive prescription refills. See http://www.pcchu.ca/2014/02/18/local-healthcare-providers-collaborate-to-address-misuse-of-fentanyl-in-peterborough/ and http://www.mykawartha.com/news-story/4905577-fentanyl-patch-program-aims-to-reduce-accidental-overdoses/. One visitor tells us that this policy will be implemented for all of Ontario as of Jan 1, 2015, but we've been unable to find confirmation of that. (thanks G) (last updated Oct 13 2014)
+Italy (Italia)	Listed in Tabella I of "Tabelle delle sostanze stupefacenti e psicotrope", making it illegal to possess, purchase, or sell. (see Tabelle delle sostanze stupefacenti e psicotrope. (thanks a) (last updated Dec 16, 2015)

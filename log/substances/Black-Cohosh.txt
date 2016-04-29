@@ -1,0 +1,26 @@
+[Substance]
+
+id :: 204
+name :: Black Cohosh
+url :: https://www.erowid.org/herbs/black_cohosh/black_cohosh.shtml
+category :: Herbs
+botanicalClassification :: Family :Ranunculaceae, Genus :Cimicifuga, Species :racemosacommonNames :: Black cohosh; Squaw root; Black snake root; Rattle weed; bugbane
+uses :: Menopause Treatment; Mild Sedative; Anti-spasmodic
+description :: A North American perennial producing clumps of quadrangular stems, up to 9 feet tall. It has large, alternate leaves with toothed edges. Flowers are petalless and greenish white, growing in tall spears above the foliage. The rhizome (root) is the most commonly used part.
+imageURL :: https://www.erowid.org/herbs/images/herbs_spacer_summary.jpg
+imagesURL :: https://www.erowid.org/herbs/black_cohosh/black_cohosh_images.shtml
+lawURL :: https://www.erowid.org/herbs/black_cohosh/black_cohosh_law.shtml
+
+[Images]
+imageEntryList :: Cimicifuga racemosa Root	https://www.erowid.org/herbs/show_image.php?i=black_cohosh/cimicifuga_racemosa_root__i2005e0082_disp.jpg	Nice photo showing the root of Cimicifuga racemosa (Squaw Root). [WV, USA]	Photo by C. Ely. &copy; 2006 Erowid.org
+Cimicifuga racemosa	https://www.erowid.org/herbs/show_image.php?i=black_cohosh/cimicifuga_racemosa_plant__i2006e0338_disp.jpg	Cimicifuga racemosa (black cohosh) plant with a 6 foot central flower stalk with supporting stake.	Photo by DarkSide. &copy; 2006 Erowid.org.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Cimicifuga racemosa
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Cimicifuga racemosa (Black Cohosh) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: 

@@ -1,0 +1,24 @@
+[Substance]
+
+id :: 342
+name :: Pramiracetam
+url :: https://www.erowid.org/smarts/pramiracetam/pramiracetam.shtml
+category :: Smarts
+commonNames :: CI-879
+effectsClassification :: Cognitive Enhancement; Memory
+chemicalName :: 2-(2-oxopyrrolidin-1-yl)-N-[2-(diisopropylamino)ethyl]acetamide
+description :: Pramiracetam is similar in nature to piracetam though more potent and less-well researched. It is said to enhance memory and cognitive function.
+imageURL :: https://www.erowid.org/smarts/images/smarts_spacer_summary.jpg
+imagesURL :: https://www.erowid.org/smarts/pramiracetam/pramiracetam_images.shtml
+chemistryURL :: https://www.erowid.org/smarts/pramiracetam/pramiracetam_chemistry.shtml
+
+[Images]
+imageEntryList :: Pramiracetam Powder	https://www.erowid.org/smarts/show_image.php?i=pramiracetam/pramiracetam_powder__i2011e0864_disp.jpg	A small pile of pramiracetam powder next t its bottle. [Canada]	Photo by Lithuanian. &copy; 2012 Erowid.org
+Pramiracetam 2D Molecule	https://www.erowid.org/smarts/show_molecule.php?i=pramiracetam/pramiracetam_2d.gif	Still 2D image of the Pramiracetam molecule.	Image by Erowid, &copy; 2001 Erowid.org
+Pramiracetam 3D Rotating Molecule	https://www.erowid.org/smarts/show_molecule.php?i=pramiracetam/pramiracetam__.mol	Rotating 3D image of the Pramiracetam molecule.	Image by Erowid, &copy; 2001 Erowid.org
+
+[Chemistry]
+chemTable :: NAME :	Pramiracetam
+CHEMICAL NAME :
+CHEMICAL FORMULA	C14H27N3O2
+moleculeURL :: null

@@ -1,0 +1,33 @@
+[Substance]
+
+id :: 274
+name :: Dronabinol
+url :: https://www.erowid.org/pharms/dronabinol/dronabinol.shtml
+category :: Pharms
+commonNames :: Marinol
+effectsClassification :: Appetite Stimulant; Analgesic; Cannabinoid
+chemicalName :: (6aR,10aR)-6,6,9-trimethyl-3-pentyl-6a,7,8,10a-tetrahydrobenzo[c]chromen-1-ol
+description :: Dronabinol is a synthetic form of delta-9-THC, the primary active ingredient in Cannabis. It is presecribed as an appetite stimulant and for treating neuropathic pain in the United States. Dronabinol is one of the examples used to point out the inconsistency of the U.S. and U.N. controlled substance rules and definitions because THC both falls under the classifications as "no accepted medical use" and "accepted medical use".
+imageURL :: https://www.erowid.org/pharms/dronabinol/images/marinol_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/dronabinol/dronabinol_images.shtml
+lawURL :: https://www.erowid.org/pharms/dronabinol/dronabinol_law.shtml
+
+[Images]
+imageEntryList :: 5 mg and 10 mg Dronabinol Gelcaps	https://www.erowid.org/pharms/show_image.php?i=dronabinol/dronabinol_capsule__i2011e0850_disp.jpg	On the left, a pile of 5 mg round orange dronabinol gelcaps (marked "UM"). On the right, a pile of 10 mg oblong orange dronabinol gelcaps (marked "PAR 869"). [FL, USA]	Photo by JitterBob. &copy; 2012 Erowid.org
+Marinol	https://www.erowid.org/pharms/show_image.php?i=dronabinol/marinol2.jpg	Color photo of a 10 mg Marinol pill.	Photo by k4--3, &copy; 2001 Erowid.org
+Marinol	https://www.erowid.org/pharms/show_image.php?i=dronabinol/marinol4.jpg	Color photo of three orange 10 mg Marinol pills, labelled "UM". (U.S.A.)	Photo by DoctorX, &copy; 2002 Erowid.org
+Marinol	https://www.erowid.org/pharms/show_image.php?i=dronabinol/marinol5.jpg	Color photo of two brown 5 mg Marinol pills, labelled "RL". (North Carolina)	Photo by Phill, &copy; 2002 Erowid.org
+Marinol Towel	https://www.erowid.org/pharms/show_image.php?i=dronabinol/marinol6.jpg	Photo of a pharmaceutical company promotional towl for Marinol (dronabinol) (Seattle, WA).	Photo by Bug, &copy; 2002 Erowid.
+Marinol	https://www.erowid.org/pharms/show_image.php?i=dronabinol/marinol3.jpg	Color photo of a bottle of Marinol pills.	Photographer unknown.
+Marinol	https://www.erowid.org/pharms/show_image.php?i=dronabinol/marinol1.jpg	Color photo of a 10 mg Marinol pill.	Photographer unknown.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Dronabinol
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule III
+CLASSIFICATION	Hallucinogen
+federalLawText :: While tetrahydrocannabinols, the active chemicals contained in Cannabis plants, are Schedule I in the United States (making them federally illegal to cultivate, buy, possess, or distribute), an exception has been made for dronabinol (synthetic THC). Dronabinol is Schedule III when "in sesame oil and encapsulated in a soft gelatin capsule in a U.S. Food and Drug Administration approved product". Dronabinol was moved from Schedule II to Schedule III in July 1999.
+stateLaw :: null
+internationalLaw :: 

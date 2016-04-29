@@ -1,0 +1,111 @@
+[Substance]
+
+id :: 117
+name :: Nitrous Oxide
+url :: https://www.erowid.org/chemicals/nitrous/nitrous.shtml
+category :: Chemicals
+commonNames :: Laughing Gas; Cartridges; Hippy Crack; N2O, Nangs
+effectsClassification :: Dissociative Anaesthetic Gas
+chemicalName :: nitrous oxide
+description :: Nitrous Oxide is an anaesthetic gas best known for its use in dentistry and as a whipped cream propellant. It is widely available and its effects are short lasting.
+imageURL :: https://www.erowid.org/chemicals/nitrous/images/nitrous_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/nitrous/nitrous_basics.shtml
+effectsURL :: https://www.erowid.org/chemicals/nitrous/nitrous_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/nitrous/nitrous_images.shtml
+healthURL :: https://www.erowid.org/chemicals/nitrous/nitrous_health.shtml
+lawURL :: https://www.erowid.org/chemicals/nitrous/nitrous_law.shtml
+chemistryURL :: https://www.erowid.org/chemicals/nitrous/nitrous_chemistry.shtml
+
+[Basics]
+description :: Nitrous Oxide (N2O) is a simple gas that, when inhaled, causes rapid analgesia (pain relief), euphoria, mild sedation, and sometimes psychedelic dissociation. It has been used in dentistry since the mid 1800's and recreationally since the late 1700's when it earned the name 'laughing gas' because of its tendency to cause laughter in those who inhale. [ Main Nitrous Vault ]
+descriptionSections :: dose	Nitrous is most frequently used in the form of whipped cream chargers, small metal cartridges which are 'cracked' either into a whipped cream canister or with a special 'cracker' into a balloon for inhalation. A single cartridge is between one and three lungs full of gas. One or two lung fulls is generally enough for a short nitrous experience although many people choose to use many cartridges throughout the course of a night.
+price	nitrous chargers are sold for between .50 and 1.50 USD per cartridge depending on store and size of purchase. Balloons of nitrous at parties are sold from 3-5$ per balloon. Tank-refills of medical grade nitrous oxide are diverted from non recreational medical, chemical, and industrial use. A single standard whippet cartridge contains 8 grams of nitrous oxide.
+law	Nitrous Oxide is unscheduled in the United States and available over the counter. In many states it is illegal to sell Nitrous to a minor and in some states it is specifically illegal to inhale Nitrous Oxide for intoxication purposes. Nitrous oxide is controlled differerently around the world. A few countries control it as a pharmaceutical, while many allow its possession for food uses without any licensing.
+chemistry	Nitrous Oxide (N2O) is an extremely simple naturally occurring gas which is produced synthetically for sale.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	Nitrous Oxide gas was first discovered by English scientist Joseph Priestley in 1772 and was first published about in 1776. In 1799 Humphry Davy gave Nitrous to visitors at the Pneumatic Institute and coined the term "laughing gas". Through his experiments he discovered Nitrous oxide's analgesic effects in 1800. From 1800 to 1840, Nitrous was primarily used for recreation at travelling public shows, but in 1844-1845 Nitrous was recognized as having some medical use in dentistry. In the late 1800's William James published some accounts of his work with Nitrous Oxide and called its effects of "some metaphysical significance". Nitrous has remained popular throughout the 20th Century and is sold over the counter in small cartridges ("whippets") for making whipped cream and in large tanks for industrial and medical purposes.
+terminology	The Substance:Nitrous Oxide; Nitrous; Laughing Gas; Hippy Crack; N2O. The Experience:No common terms known.
+effects :: Effects Summary Needed.
+effectsSections :: onset	When inhaled, Nitrous generally reaches full effects within a few seconds.
+duration	Effects from a single inhalation of Nitrous Oxide last a few minutes. Most recreational Nitrous use consists of multiple inhalations over a period of time.
+visuals	Some closed eye visuals effects are common with strong nitrous effects, though most often consist of patterns. Less common are more coherent visuals and are notoriously hard to remember after the effects have diminished. Open eye visuals are most often described as distortions of space and a purple or grey-blue hue.
+problems :: Although generaly considered quite safe when used medically and sparingly, it has some negative health consequences when used chronically. Heavy Nitrous use can lead to a depletion of vitamin B12. This can cause numbing of fine nerve endings, especially noticeable in the fingers and toes. Supplements of B12 may reduce the chances of this occurring in heavy users. Shots of B12 are given as a treatment for advanced depletion. If left untreated B12 deficiency can lead to long-term damage.  Most of the acute dangers associated with Nitrous Oxide are related to accidents during ingestion. In medical applications, Nitrous is dispensed in combination with Oxygen. Inhaling Nitrous alone is not required to get full effects, the effects are the result of the nitrous in the system, not of oxygen deprivation. It is important for users to take breaths of air between hits.  A handful of people also suffocate each year while using nitrous in the US when the balloon, garbage bag, or mask used to inhale the nitrous stays on the person's face as they fade from consciousness. Some tank-users also suffocate when the valve is left open in a confined space such as a car or small room.
+problemsSections :: contraindications	Contraindications Summary Needed.
+addiction	Nitrous has gained the nickname 'hippy-crack' because it lends itself to repeated and compulsive use for some people. While uncommon, it is not unheard of to find individuals who use Nitrous many times a day, every day, generally among those with easy access to large quantities.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Effects]
+duration :: Nitrous Oxide Duration
+Inhaled (single breath)
+Total Duration	1-5 mins
+Onset	0 - 1 mins
+Coming Up	15 - 30 secs
+Plateau	1 - 5 mins
+Coming Down	10 mins
+&nbsp;	&nbsp;
+After Effects	15 - 30 mins
+Hangover / Day After	- - -
+positiveEffects :: increased giggling and laughing	mood lift, euphoria, exhilaration	sound distortion	dream-like state	minor to strong hallucinations & visualizations
+neutralEffects :: reduction of external stimuli	clumsiness, loss of dexterity, loss of balance	analgesia	'buzzing' sensation in perhipheral nerves
+negativeEffects :: nausea (especially if combined with alcohol or used for long periods)	headaches are not uncommon as effects recede (especially when used without oxygen)	reduction of vitamin B12 levels in the body, especially with regular use	numbness in extremities (fingers, nose, lips) with heavy, regular use, see Nitrous Health
+description :: There is currently no Effects Description for this substance.
+experienceReports :: null
+
+[Images]
+imageEntryList :: Nitrous Oxide Hardware Collage	https://www.erowid.org/chemicals/show_image.php?i=nitrous/nitrous_collage2.jpg	A color collage of Nitrous Oxide hardware including a box of cartridges, a cartridge 'cracker', balloon, and whipped cream can.	Photos by Erowid. &copy; 2002 Erowid.org
+Nitrous Oxide Cartridges	https://www.erowid.org/chemicals/show_image.php?i=nitrous/nitrous_cartridge1.jpg	Nitrous Oxide box and cartridges for use with a whipped cream dispenser.	Photo by Erowid. &copy; 2000 Erowid.org
+Nitrous Oxide Cracker	https://www.erowid.org/chemicals/show_image.php?i=nitrous/nitrous_cracker3.jpg	Nice close-up photo of a Nitrous Oxide cartridge inside a cracker. [CA, USA]	Photo by Oranges and Stimpysmurf. 2002 Erowid.
+Nitrous Oxide Hardware	https://www.erowid.org/chemicals/show_image.php?i=nitrous/nitrous_cracker4.jpg	Color photo of a Nitrous Oxide cartridge, cracker, and balloon. [CA, USA]	Photo by Oranges and Stimpysmurf. 2002 Erowid.
+Nitrous Oxide Cartridges	https://www.erowid.org/chemicals/show_image.php?i=nitrous/nitrous_oxide_cartridge__i2002e0401_disp.jpg	A pile of blue Leland nitrous oxide cartridges showing warning printed on side. [CA, USA]	Photo by Oranges & Stimpysmurf. &copy; 2006 Erowid.org
+Nitrous Oxide Cartridges	https://www.erowid.org/chemicals/show_image.php?i=nitrous/nitrous_oxide_cartridge__i2005e1595_disp.jpg	Close-up photo showing an open box of silver nitrous oxide cartridges. [CA, USA]	Photo by Linus X. &copy; 2006 Erowid.org
+Nitrous Oxide Cartridges	https://www.erowid.org/chemicals/show_image.php?i=nitrous/nitrous_package1.jpg	Color photo of a box of food grade EZ-Whip nitrous oxide chargers.	Photographer unknown.
+Nitrous Oxide Cartridges	https://www.erowid.org/chemicals/show_image.php?i=nitrous/nitrous_package2.jpg	Color photo of a box of food grade ISI-brand nitrous chargers.	Photo by Erowid. &copy; 2002 Erowid.org
+Nitrous Oxide Hardware	https://www.erowid.org/chemicals/show_image.php?i=nitrous/nitrous_oxide_hardware__i2001e0106_disp.jpg	Nitrous Oxide cartridges, cracker, and red balloon.	Photo by Anonymous. &copy; 2009 Erowid.org
+Nitrous Oxide Dispenser	https://www.erowid.org/chemicals/show_image.php?i=nitrous/nitrous_oxide_dispenser__i2007e0876_disp.jpg	ISI Brand Whip Cream Dispenser with vinyl tubing attachment. [OR, USA]	Photo by Logical Chaos. &copy; 2007 Erowid.org
+Nitrous Oxide Tank	https://www.erowid.org/chemicals/show_image.php?i=nitrous/nitrous_tank1.jpg	Color photo of a tank of automotive grade Nitrous Oxide. (Australia)	Photo by Haggas. &copy; 2002 Erowid.org
+Nitrous Oxide Tank Label	https://www.erowid.org/chemicals/show_image.php?i=nitrous/nitrous_label1.jpg	Color photo of the label from a tank of Nitrous Oxide.	Photo by Anonymous Photographer. &copy; 2000 Erowid.org
+Nitrous Cracker & Balloon	https://www.erowid.org/chemicals/show_image.php?i=nitrous/nitrous_cracker1.jpg	Color photo of Nitrous cracker with balloon. (Missouri)	Photo by Alkaloidaholic. &copy; 2002 Erowid.org
+Nitrous Cartridge & Cracker	https://www.erowid.org/chemicals/show_image.php?i=nitrous/nitrous_cracker2.jpg	Color photo of Nitrous oxide cartridge and cracker.	Photo by Anonymous Photographer. &copy; 2001 Erowid.org
+Oily Contaminant in Food Grade ISI Nitrous Oxide Cartridges	https://www.erowid.org/chemicals/show_image.php?i=nitrous/nitrous_contaminant1.jpg	Color photo of oily residue after discharging ~12 ISI cartridges.	Photo by Erowid. &copy; 2002 Erowid.org
+Advertisement for "Sedation Dentistry"	https://www.erowid.org/chemicals/show_image.php?i=nitrous/sedation_dentistry__i2008e1308_disp.jpg	Advertisement in Penn Valley, California for "Sedation Dentistry" [Penn Valley, CA, USA]	Photo by Erowid. &copy; 2008 Erowid.org
+Nitrous Oxide 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=nitrous/n20__.mol	Rotating 3D image of the Nitrous Oxide molecule.	Image by Erowid. &copy; 2001 Erowid.org
+
+[Health]
+notes :: null
+deaths :: null
+warnings :: null
+cautions :: null
+benefits :: null
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Nitrous
+REGULATED	No
+STATUS	FDA Regulated
+SCHEDULE	Un-Scheduled
+federalLawText :: Nitrous is available over-the-counter in kitchen stores and head shops. At this point its sale for human consumption is federally regulated under FDA rules. Possession is not illegal, but sale or distribution for human consumption can be prosecuted under the Food Drug and Cosmetics Act. However, in many states is it illegal to sell or distribute nitrous oxide to a minor and in many states it is illegal to consume nitrous oxide for recreational purposes. It is also illegal in many states to inhale nitrous oxide for intoxication purposes.	
+There are cases where sale of nitrous oxide has been prosecuted under the 'misbranding' clause of the FDCA.
+stateLaw :: State Laws Concerning Nitrous Oxide (May 2002)	State by State Inhalant Legislation (somewhat out of date, 1997)
+California	California state law prohibits the possession of nitrous oxide with the intent to use it as a psychoactive unless it is administered by medical personnel. See California penal code 381b : "381b. Any person who possesses nitrous oxide or any substance containing nitrous oxide, with the intent to breathe, inhale, or ingest for the purpose of causing a condition of intoxication,elation, euphoria, dizziness, stupefaction, or dulling of the senses or for the purpose of, in any manner, changing, distorting, or disturbing the audio, visual, or mental processes, or who knowingly and with the intent to do so is under the influence of nitrous oxide or any material containing nitrous oxide is guilty of a misdemeanor. This section shall not apply to any person who is under the influence of nitrous oxide or any material containing nitrous oxide pursuant to an administration for the purpose of medical, surgical, or dental care by a person duly licensed to administer such an agent."
+Florida	A new 2005 law in Florida makes possession and use of nitrous oxide for inhaling pruposes a second-degree misdemeanor, punishable by 60 days in jail and a $500.00 fine. Selling, purchasing, transferring, or possessing more than 16 grams of nitrous oxide for the purpose of inhaling is now a third-degree felony punishable by five (5) years in prison and a $5,000.00 fine. Florida also closed a loophole that allowed nitrous oxide and nitrous oxide paraphernalia (used to store, transfer, or inhale nitrous oxide) to be sold in tobacco shops. Now the use or possession with intent to use such nitrous oxide paraphernalia is a first-degree misdemeanor punishable by one (1) year in jail and a $1,000.00 fine. See Florida State Statute Title XLVI Chapter 877.111. (thanks D5)
+Oregon	Oregon controls Nitrous Oxide as an inhalant under Chapter 229, section 1. It makes the possession of inhalants illegal "for the purpose of inducing intoxication".
+internationalLaw :: Australia	We believe that as of July 1, 2004, Australia now adds a number of police powers for searching and detaining individuals under 18 and seizing "volatile inhalants" from them. The Oct 2004 Australian Government Institute of Criminology seems to have out of date information and doesn not mention the new rule. More up to date information can be found at the Australian Drug Info Clearinghouse.
+Brazil	Nitrous is legal for medical use only, but is available for purchase over the internet. (unconfirmed) (thanks P)
+Canada	Nitrous chargers widely available over-the-counter. We have been told that many stores will only sell to people 25 and older. Other visitors describe buying whipe-cream chargers without being asked for ID. (unconfirmed) (thanks J) (last updated Sep 24, 2015)
+Netherlands	Nitrous chargers are widely available over-the-counter. The use of nitrous oxide for recreational purposes is legal (not prohibited). Nitrous oxide is legally sold to the general public for food use, though it is technically illegal to sell for recreational use (it is considered a prescription medicine when inhaled). Many stores regularly sell to people under 18. (thanks K, LB) (last updated Oct 11, 2012)
+New Zealand	In April, 2005, the New Zealand Ministry of Health reviewed the use of Nitrous Oxide and declared that much of the importation, sale, and possession was for "misuse" and in violation of the Medicines Act of 1981. Nitrous Oxide whip cream chargers have become difficult to buy over-the-counter as of May 1, 2005. See Ministry of Health Background Information on Nitrous Oxide and Scoop.co.nz.
+U.K.	Nitrous Oxide is widely available in the United Kingdom. In the UK possesion of nitrous for non-inhalant use is not controlled and is legal. It is illegal to sell or provide nitrous oxide to someone under 18 years old "if he knows or has reasonable cause to believe that the substance is, or its fumes are, likely to be inhaled by the person under the age of eighteen for the purpose of causing intoxication.". See http://www.legislation.gov.uk/ukpga/1985/26/section/1. One visitor tells us the law is only only enforced against locations such as night clubs that sell or allow to be sold nitrous oxide and have been warned by authorities. (thanks D) (last updated Jan 24, 2013)
+
+[Chemistry]
+chemTable :: NAME :	Nitrous Oxide
+ALT. CHEMICAL NAMES :	Dinitrogen monoxide; hyponitrous acid anydride; factitious air.
+CHEMICAL FORMULA	N2O
+MOLECULAR WEIGHT	44.01
+MELTING POINT	- 90.81&#176; C
+BOILING POINT	- 88.46&#176; C
+SOLUBILITY	Slightly Water Soluble
+CAS #	10024-97-2
+From the Merck Index 12th Edition
+moleculeURL :: https://www.erowid.org/chemicals/nitrous/images/archive/nitrous-oxide_3d_mid.jpg

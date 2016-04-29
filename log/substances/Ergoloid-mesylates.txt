@@ -1,0 +1,32 @@
+[Substance]
+
+id :: 334
+name :: Ergoloid mesylates
+url :: https://www.erowid.org/smarts/hydergine/hydergine.shtml
+category :: Smarts
+commonNames :: Hydergine; Gerimal; Niloric
+effectsClassification :: Anti-oxidant; Memory; Blood Flow; Dementia
+chemicalName :: Dihydroergotoxine mesylate
+description :: Ergoloid mesylates are ergot alkaloids which act as neuroprotective anti-oxidants. They are also said to increase blood flow to the brain and generally increase cognitive abilities though the evidence is contradictory on these points. It was approved by the FDA in 1951.
+imageURL :: https://www.erowid.org/smarts/hydergine/images/hydergine_summary1.jpg
+basicsURL :: https://www.erowid.org/smarts/hydergine/hydergine_basics.shtml
+
+[Basics]
+description :: Hydergine has a reputation for offering relief from age-related mental decline. There is evidence to suggest that there is some truth behind these claims. The FDA has approved Hydergine for use by those over 60 who are experiencing mental decline. [ Main Hydergine Vault ]
+descriptionSections :: dose	Dose Summary Needed.
+price	Price Summary Needed.
+law	Law Summary Needed.
+chemistry	Chemistry Summary Needed.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	Hydergine was developed in the 1940's by Albert Hofmann (who is best known for discovering LSD) while working for Sandoz Pharmaceuticals.
+terminology	The Substance:Hydergine; Dihydroergotoxine; Ergoloid mesylates. The Experience:No common terms known.
+effects :: Effects Summary Needed.
+effectsSections :: onset	Onset Summary Needed.
+duration	Duration Summary Needed.
+visuals	Visuals Summary Needed.
+problems :: Problems Summary Needed.
+problemsSections :: contraindications	Pregnant women should consult their doctor before taking Hydergine during pregnancy.
+addiction	Addiction Potential Summary Needed.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.

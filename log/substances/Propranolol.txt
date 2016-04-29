@@ -1,0 +1,11 @@
+[Substance]
+
+id :: 307
+name :: Propranolol
+url :: https://www.erowid.org/pharms/propranolol/propranolol.shtml
+category :: Pharms
+commonNames :: Inderal; Deralin; Sumial
+effectsClassification :: Blood pressure regulator; Beta blocker; Calmative
+chemicalName :: [2-hydroxy-3-(naphthalen-1-yloxy) propyl] (propan-2-yl) amine
+description :: Propranolol is the first of the pharmaceutical "beta blockers", blocking activity of epinephrine on Beta-1 and Beta-2 adrenergic receptors. It is used in the treatment of high blood pressure, anxiety and migraine, and may have other psychoactive effects involving memory.
+imageURL :: https://www.erowid.org/pharms/propranolol/images/propranolol_summary1.jpg

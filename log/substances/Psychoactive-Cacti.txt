@@ -1,0 +1,125 @@
+[Substance]
+
+id :: 145
+name :: Psychoactive Cacti
+url :: https://www.erowid.org/plants/cacti/cacti.shtml
+category :: Plants
+botanicalClassification :: Family :Cactaceae, Genus :Trichocereus (New: Echinopsis), Species :
+bridgesii; cuzcoensis; fulvinanus; pachanoi; peruvianus; macrogonus; taquimbalensis; terscheckii; validus; werdermannianus
+commonNames :: T. pachanoi - San PedroT. peruvianus - Peruvian TorchT. terscheckii - Cardon Grande
+effectsClassification :: Psychedelic
+description :: Most psychoactive cacti contain mescaline as their primary active chemical. The best known of these are San Pedro, Peruvian Torch, and Peyote.
+imageURL :: https://www.erowid.org/plants/cacti/images/cacti_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/cacti/cacti_images.shtml
+lawURL :: https://www.erowid.org/plants/cacti/cacti_law.shtml
+chemistryURL :: https://www.erowid.org/plants/cacti/cacti_chemistry.shtml
+
+[Images]
+imageEntryList :: Ariocarpus fissuratus	https://www.erowid.org/plants/show_image.php?i=cacti/ariocarpus_fissuratus1.jpg	Color photo of a single potted A. fissuratus	Photo by Murple, &copy; 2000 Erowid.org
+Coryphantha macromeris	https://www.erowid.org/plants/show_image.php?i=cacti/coryphantha_macromeris1.jpg	Color photo of a potted Coryphantha macromeris cacti (non-mescaline containing).	Photo by MeneerCactus, &copy; 2002 Erowid.org
+Echinocereus triglochidatus	https://www.erowid.org/plants/show_image.php?i=cacti/echinocereus_triglochidatus1.jpg	Color photo of two potted E. triglochidatus cacti.	Photo by Murple, &copy; 2000 Erowid.org
+Mammillaria heyderii	https://www.erowid.org/plants/show_image.php?i=cacti/mammillaria_heyderii1.jpg	Nice color photo of a single M. heyderii.	Photo by Michael S. Smith. Used with permission.
+Trichocereus atacamensis	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_atacamensis1.jpg	Color photo of a Trichocereus atacamensis card&ograve;n herbarium display by the Botanical Preservation Corps, Palenque Mexico.	Photo by Freeblood, &copy; 2000 Erowid.org
+Trichocereus bridgesii - Flowering	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_bridgesii_flower1.jpg	Close-up color photo of T. bridgesii with one large white flower.	Photo by Bob Wallace, &copy; 2000 Erowid.org
+Trichocereus bridgesii - Flowering	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_bridgesii_flower2.jpg	Color photo of T. bridgesii with one large white flower.	Photo by Bob Wallace, &copy; 2000 Erowid.org
+Trichocereus bridgesii var. longaspinus	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_bridgesii1.jpg	Color photo of a tall T. bridgesii var. longaspinus (long spined).	Photo by Erowid, &copy; 1999 Erowid.org
+Trichocereus bridgesii	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_bridgesii3.jpg	Color photo of a cultivated T. bridgesii fma. monstrosus.	Photo by Erowid, &copy; 1999 Erowid.org
+Trichocereus bridgesii	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_bridgesii4.jpg	Color photo of a T. bridgesii fma. monstrosus with a cluster of new branches.	Photo by Erowid, &copy; 1999 Erowid.org
+Trichocereus bridgesii	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_bridgesii5.jpg	Color photo of a small T. bridgesii fma. monstrosus.	Photo by Murple, &copy; 2000 Erowid.org
+Trichocereus bridgesii var. eusaporous	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_bridgesii2.jpg	Color photo of a tall T. bridgesii var. eusaporous (good-tasting).	Photo by Erowid, &copy; 1999 Erowid.org
+Trichocereus macrogonus	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_macrogonus3.jpg	Color photo of a 2 ft tall T. macrogonus, approx 5" in diameter.	Photo by Erowid, &copy; 1999 Erowid.org
+Trichocereus macrogonus	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_macrogonus2.jpg	Color photo of a 3 ft tall T. macrogonus.	Photo by Erowid, &copy; 1999 Erowid.org
+Trichocereus macrogonus	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_macrogonus1.jpg	Color photo of a 8" tall T. macrogonus with an additional 1 ft tall new growth.	Photo by Erowid, &copy; 1999 Erowid.org
+Trichocereus pachanoi	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi2.jpg	Color photo of 3 potted San Pedros growing in Northern California.	Photo by Erowid, &copy; 1998 Erowid.org
+Trichocereus pachanoi	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi4.jpg	Color photo of a single potted San Pedro growing in Northern California.	Photo by Erowid, &copy; 1998 Erowid.org
+Trichocereus pachanoi - Flowering	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi_flower7.jpg	Beautiful color photo of a heavily blooming San Pedro cactus.	Photo by Erowid, &copy; 2004 Erowid.org
+Trichocereus pachanoi - Flowering	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi_flower8.jpg	Color photo of two open San Pedro flowers.	Photo by Erowid, &copy; 2004 Erowid.org
+Trichocereus pachanoi - Flowering	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi_flower9.jpg	Close-up color photo of the center of a San Pedro flower	Photo by Erowid, &copy; 2004 Erowid.org
+Trichocereus pachanoi	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi__i2008e1334_disp.jpg	A single potted Trichocereus pachanoi (San Pedro) cactus at a plant shop. [PA, USA]	Photo by Adam Valenzano. &copy; 2009 Erowid.org
+Trichocereus pachanoi - Flowering	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi_flower1.jpg	Beautiful color photo of a San Pedro cactus flower.	Photo by Larry Gerald, used by Erowid with permission.
+Trichocereus pachanoi - Flowering	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi_flower10.jpg	Flowering San Pedro cactus.	Photo by Entheomation, &copy; 2004 Erowid.org
+Trichocereus pachanoi - Flowering	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi_flower2.jpg	Color photo of a San Pedro with two large flowers.	Photo by Anonymous Photographer, &copy; 2000 Erowid.org
+Trichocereus pachanoi - Flowering	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi_flower6.jpg	Color photo of a San Pedro with five large flowers growing from the tip.	Photo by Steve H., &copy; 2000 Erowid.org
+Trichocereus pachanoi - Flowering	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi_flower3.jpg	Color photo of a small potted San Pedro cactus with a single large white flower.	Photo by Murple, &copy; 2000 Erowid.org
+Trichocereus pachanoi - Flowering	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi_flower4.jpg	Color photo showing the side-view of a San Pedro in full bloom.	Photo by Murple, &copy; 2000 Erowid.org
+Trichocereus pachanoi - Flowering	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi_flower5.jpg	Color photo showing the side-view of a blooming San Pedro. The bloom has not yet opened	Photo by Murple, &copy; 2000 Erowid.org
+Flowering Trichocereus pachanoi	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi_flower__i2003e0981_disp.jpg	Large flowering Trichocereus pachanoi. [KS, USA]	Photo by Entheomation. &copy; 2006 Erowid.org
+Trichocereus pachanoi Seeds	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi_seeds__i2007e0956_disp.jpg	Trichocereus pachanoi (san pedro) seeds in package with growing instructions.	Photo by zhah. &copy; 2007 Erowid.org
+Trichocereus pachanoi - Pup	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi_pup1.jpg	#1 in the series showing a T. pachanoi pup just beginning to grow at the base of a larger specimen. Tennessee	Photo by Scruff, &copy; 2000 Erowid.org
+Trichocereus pachanoi - Pup	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi_pup2.jpg	#2 in the series showing a T. pachanoi pup just beginning to grow at the base of a larger specimen. Tennessee	Photo by Scruff, &copy; 2000 Erowid.org
+Trichocereus pachanoi	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi__i2005e1928_disp.jpg	Young 3 month old Trichocereus pachanoi grown from 5" cutting and showing fast growth. [USA]	Photo by FlowGnome. &copy; 2009 Erowid.org
+Trichocereus pachanoi - Pup	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi_pup3.jpg	#3 in the series showing a T. pachanoi pup beginning to grow at the base of a larger specimen. Tennessee	Photo by Scruff, &copy; 2000 Erowid.org
+Trichocereus pachanoi - Pup	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi_pup4.jpg	#4 in the series showing a T. pachanoi pup beginning to grow at the base of a larger specimen. Tennessee	Photo by Scruff, &copy; 2000 Erowid.org
+Trichocereus pachanoi - Pup	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi_pup5.jpg	#5 in the series showing a T. pachanoi pup growing at the base of a larger specimen. Tennessee	Photo by Scruff, &copy; 2000 Erowid.org
+Trichocereus pachanoi - Pup	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi_pup6.jpg	#6 in the series showing a T. pachanoi pup growing at the base of a larger specimen. Tennessee	Photo by Scruff, &copy; 2000 Erowid.org
+Trichocereus pachanoi - Pup	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi_pup7.jpg	#7 in the series showing a T. pachanoi pup growing at the base of a larger specimen. Tennessee	Photo by Scruff, &copy; 2000 Erowid.org
+Trichocereus pachanoi - Pup	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi_pup8.jpg	#8 in the series showing the new T. pachanoi now a couple of inches tall, growing at the base of a larger specimen. Tennessee	Photo by Scruff, &copy; 2000 Erowid.org
+Trichocereus pachanoi	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi6.jpg	Color photo of a group of San Pedro growing in a window.	Photo from 'Psychedelic Shamanism', by Jim DeKorne
+Trichocereus pachanoi	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi7.jpg	Color photo of three San Pedro growing indoors.	Photo from knehnav, used by Erowid with permission.
+Trichocereus pachanoi	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi8.jpg	Color photo of six foot specimen growing in a yard.	Photographer unknown.
+Trichocereus pachanoi	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi9.jpg	Color photo of six foot specimen growing in a yard.	Photographer unknown.
+Trichocereus pachanoi	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi11.jpg	Color photo of three potted San Pedro.	Photo by Scruff, &copy; 2000 Erowid.org
+Trichocereus pachanoi	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi10.jpg	Color photo of a rare and sacred four ribbed San Pedro. The base of the specimen is five ribbed.	Photo by Chris Giblin, used by Erowid with permission.
+Trichocereus pachanoi fma. cristata	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi_cristata1.jpg	Color photo of a T. pachanoi fma. cristata (crested form). Specimen is a recently planted cutting approximately 2 inches long. It is an cutting from the so called "B clone" mutant San Pedro from Sacred Succulents, which alternates between monstrose and cristate growth. Washington D.C.	Photo by Murple, &copy; 2000 Erowid.org
+Trichocereus pachanoi fma. cristata	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi_cristata2.jpg	Color photo of a T. pachanoi fma. cristata (crested form). Specimen is a recently planted cutting approximately 2 inches long. It is an cutting from the so called "B clone" mutant San Pedro from Sacred Succulents, which alternates between monstrose and cristate growth.	Photo by Murple, &copy; 2000 Erowid.org
+Trichocereus pachanoi monstruosa	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi__i2015e0135_disp.jpg	A Trichocereus pachanoi monstruosa (monster form) cactus viewed from above. [The Netherlands]	Photo by Viridiplantae. &copy; 2016 Erowid.org
+Trichocereus pachanoi fma cristata & monstrosus	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi_forms1.jpg	Color photo of three potted T. pachanoi fma cristata (crested form) and 1 potted T. pachanoi fma monstrosus (monstrous form).	Photo by Murple, &copy; 2000 Erowid.org
+Trichocereus spp. var. Jules Giant	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_jules_giant1.jpg	Color photo of a Jules Giant, as sold by Allies. We believe this is a variety of T. pachanoi.	Photo by Erowid, &copy; 1998 Erowid.org
+Trichocereus spp. var. Jules Giant	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_jules_giant2.jpg	Color photo of a Trichocereus spp. var Jules Giant. Believed to be a variety of T. pachanoi.	Photo by Murple, &copy; 2000 Erowid.org
+Trichocereus spp. var. Jules Giant	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi12.jpg	Color photo of two Trichocereus pachanoi. Note how both cacti shrink to a very narrow stalk near the top indicating lack of sun.	Photo by St. Anthrope, &copy; 2000 Erowid.org
+Ayahuasca and San Pedro tea in Peru.	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi_tea__i2012e0289_disp.jpg	In the central market of Cuzco, Peru, San Pedro tea and ayahuasca are displayed in dusty soda bottles alongside altar items and dried cuttings of Banisteriopsis caapi vine and Trichocereus pachanoi cactus. [Cuzco, Peru]	Photo by Erowid Crew. &copy; 2012 Erowid.org
+San Pedro & ayahuasca sign in Peru.	https://www.erowid.org/plants/show_image.php?i=cacti/san_pedro_sign__i2012e0310_disp.jpg	Some hotels and New Age centers in Cuzco, Peru offer a choice between ayahuasca and San Pedro (Trichocereus pachanoi) journeys. [Cuzco, Peru]	Photo by Erowid Crew. &copy; 2012 Erowid.org
+Peruvian sign advertizing San Pedro cactus.	https://www.erowid.org/plants/show_image.php?i=cacti/san_pedro_sign__i2012e0308_disp.jpg	Tourists in Cuzco, Peru can buy dried or fresh cactus in shops or the central market. [Cuzco, Peru]	Photo by Erowid Crew. &copy; 2012 Erowid.org
+Trichocereus peruvianus	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_peruvianus12.jpg	Nice close-up photo of a classic Trichocerus peruvianus	Photo by Michael S. Smith, &copy; 2002 Erowid.org
+Trichocereus peruvianus	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_peruvianus6.jpg	Nice color photo of single 14" tall T. peruvianus.	Photo by Erowid, &copy; 1999 Erowid.org
+Trichocereus peruvianus	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_peruvianus5.jpg	Color photo of single 2 foot tall T. peruvianus.	Photo by Erowid, &copy; 1999 Erowid.org
+Trichocereus peruvianus	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_peruvianus__i2002e0612_disp.jpg	Detailed top view of Trichocereus peruvianus. Grown in tempetature range from 10-110 F. [CA, USA]	Photo by Collin. copy; 2009 Erowid.org
+Trichocereus peruvianus	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_peruvianus__i2002e0611_disp.jpg	A Trichocereus peruvianus cactus with two small buttons. [CA, USA]	Photo by Collin. &copy; 2010 Erowid.org
+Trichocereus peruvianus	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_peruvianus8.jpg	Close-up color photo of the spines of a T. peruvianus.	Photo by Erowid, &copy; 1999 Erowid.org
+Trichocereus peruvianus	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_peruvianus4.jpg	Color photo of a cross-section of a T. peruvianus. Shows the woody core of the cacti as well as the way the flesh of a cut cacti receeds as it dries (this was cut flat).	Photo by Erowid, &copy; 1999 Erowid.org
+Trichocereus peruvianus	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_peruvianus9.jpg	Very interesting color photo of an old, nearly dead T. peruvianus which has lost all flesh except for a small patch at the base of the now dried bone-like structure of the woody-core. Out of the small patch of remaining flesh has grown a beautiful new growth..	Photo by Erowid, &copy; 1999 Erowid.org
+Trichocereus peruvianus	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_peruvianus7.jpg	Color photo of a new pup growing off the top of a cut T. peruvianus.	Photo by Erowid, &copy; 1999 Erowid.org
+Trichocereus peruvianus	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_peruvianus10.jpg	Color photo of small T. peruvianus.	Photo by Erowid, &copy; 1999 Erowid.org
+Trichocereus peruvianus	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_peruvianus10.jpg	Color photo of nice blue T. peruvianus specimen.	Photo by Erowid, &copy; 1999 Erowid.org
+Trichocereus peruvianus	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_peruvianus1.jpg	Color photo of single T. peruvianus.	Photo from knehnav, used by Erowid with permission.
+Trichocereus peruvianus	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_peruvianus2.jpg	Color photo of single T. peruvianus.	Photo from knehnav, used by Erowid with permission.
+Trichocereus peruvianus	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_peruvianus3.jpg	Color photo of single T. peruvianus.	Photo from knehnav, used by Erowid with permission.
+Trichocereus spachianus	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_spachianus1.jpg	Color photo of a single potted T. spachianus next to tape measure showing size.	Photo by Murple, &copy; 2000 Erowid.org
+Trichocereus terscheckii	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_terscheckii2.jpg	Color photo of a small cultivated T. terscheckii 1.5 ft tall and 7 " in diameter.	Photo by Erowid, &copy; 1999 Erowid.org
+Trichocereus terscheckii	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_terscheckii3.jpg	Color photo of a small cultivated T. terscheckii 5" tall and 4" in diameter.	Photo by Erowid, &copy; 1999 Erowid.org
+Trichocereus terscheckii	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_terscheckii5.jpg	Color photo of a small potted T. terscheckii.	Photo by Murple, &copy; 2000 Erowid.org
+Trichocereus terscheckii	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_terscheckii4.jpg	Color photo of a small Trichocereus terscheckii.	Photo by Murple, &copy; 2000 Erowid.org
+Trichocereus werdermannianus	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_werdermannianus1.jpg	Color photo of the 8" cross-section of a T. werdermannianus.	Photo by Erowid, &copy; Erowid Erowid.org
+Trichocereus spp.	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_spp1.jpg	Color photo of an unidentified Trichocereus species growing outdoors.	Photographer unknown.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Mescaline-containing Cacti
+REGULATED	No
+STATUS	Ambiguous
+SCHEDULE	ContainsSchedule I Chemical
+CLASSIFICATION	Hallucinogen
+federalLawText :: San Pedro and the other columnar mescaline-containing cacti are not specifically scheduled, but they contain the controlled substance mescaline. Mescaline is a Schedule I substance in the U.S. Because of their ubiquitous availability through nurseries and major plant vendors across the country, as well as in arboretums and on government property, simple possession of columnar mescaline-containing cacti with no intent to ingest is de facto legal.	
+Sellers (or anyone) who represent the cactus as a source of mescaline or sell them for their psychoactive properties (for "getting high") are at far higher risk of prosecution. Any preparation of the cactus for ingestion would likely turn the plant into a clearly scheduled (illegal) material. We are not aware of any convictions for the possession or sale of non-peyote mescaline-containing cacti such as San Pedro, but this does not mean that the cacti are "legal", it just means that the cactus has not been considered a problem and is currently not treated as a controlled plant by the police. We have been told of one prosecution (and subsequent guilty plea) for sale of powdered mescaline-containing cactus material.	
+
+
+For more information, see Discussion of the US Legal Status of Non-Peyote Mescaline-Containing Cacti.
+stateLaw :: Illinois	One man who sold powdered columnar cacti in Illinois was prosecuted after police found multiple kilograms of dried and powdered mescaline-containing cactus. The police went to his home after a noise complaint for a neighbor. He eventually plead guilty to felony possession of a controlled substance and was sentenced to 2.5 years, despite dried cactus being sold on ebay and other sites at the time. (thanks m) (last updated Oct 16, 2013)
+South Dakota	One visitor commented:
+One visitor commented:  	"I have a friend who had his residence searched; the police siezed around 30g of dried Peruvian Torch cactus flesh, 4oz of dried Amanita muscaria mushrooms, and a very small amount of cannabis seeds and stems. He was charged with possession of a controlled substance (a class 4 felony in South Dakota) because the cacti contained a scheduled substance (mescaline). He gave no information to the police with regard to ingesting the cacti or mushrooms. [...] Apparently, the prosecutors and the judge found that posession of dried cacti flesh (in combination with posession of other "drugs") is a viable means of prosecuting somebody for posession of a controlled substance." (unconfirmed) (thanks K)
+Brazil	We are told that although mescaline and peyote are illegal in Brazil, Peruvian Torch and San Pedro are not. (unconfirmed) (thanks JAB)
+Canada	It appears that possession and sales of San Pedro and related cacti are not prosecuted in Canada. If they are dried or otherwise prepared for use, they would likely be considered mescaline-containers and would be prosecuted under
+It appears that possession and sales of San Pedro and related cacti are not prosecuted in Canada.  If they are dried or otherwise prepared for use, they would likely be considered mescaline-containers and would be prosecuted under	the 2001 Controlled Drugs and Substances Act (which replaced the older Narcotics Control Act) in which mescaline is listed as a schedule III drug. Please see Peyote Law, Canada for more information. (thanks DSK)
+Germany	We are told it is legal to possess a living mescaline-containing cacti, but that intent to process into a psychoactive preparation is illegal. (unconfirmed) (thanks BT)
+Ireland	While mescaline is scheduled in Ireland (see Mescaline Law Vault), we are told that fresh and dried mescaline-containing cacti are sold openly and that dried San Pedro is sold in headshops. There have reportedly been raids but no successful prosecutions, just confiscation. (Nov 2007) (unconfirmed) (thanks S, A)
+Switzerland	San Pedro and Peruvian Torch cacti are listed as prohibited substances in Switzerland. (see Liste des stup&eacute;fiants prohib&eacute;s, thanks V)
+United Kingdom	A 2007 court case in the U.K. resulted in a decision that left dried mescaline-containing cacti legal to sell and possess. The case (see Regina v. Saul Sette) was thrown out by the judge on the grounds that the law did not clearly make dried chips or powder illegal. This certainly indicates that fresh growing cacti are also not controlled at this time. Note that peyote is also not controlled in the United Kingdom. (last updated Jun 2007)
+RELATED LINKS	Peyote Law
+Peyote Law	Mescaline Law
+internationalLaw :: null
+
+[Chemistry]
+chemTable :: NAME :	3,4,5-Trimethoxybenzeneethanamine (Mescaline)
+QUANTITY :	between 1-10% of T. pachanoi alkaloids
+From Sacred Cacti & Selected Succulents
+moleculeURL :: https://www.erowid.org/chemicals/mescaline/images/archive/mescaline_3d_mid.jpg

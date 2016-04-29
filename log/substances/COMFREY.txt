@@ -1,0 +1,26 @@
+[Substance]
+
+id :: 214
+name :: COMFREY
+url :: https://www.erowid.org/herbs/comfrey/comfrey.shtml
+category :: Herbs
+botanicalClassification :: Family :Boraginaceae (Borage), Genus :Symphytum, Species :officinalecommonNames :: Blackwort; Knitbone; Bruisewort
+uses :: Comfrey leaves are used in natural green dye. It is used in lotion to help soften skin.
+description :: A perennial growing from 3-5 feet tall. Dark green oval leaves grow on an erect deep green, hairy stem that branches at the top. The lower leaves may be 10 inches long, the upper ones smaller. Pale yellow to purplish bell-shaped flowers are about 1/2 inch long and bloom in clusters.
+imageURL :: https://www.erowid.org/herbs/comfrey/images/comfrey_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/comfrey/comfrey_images.shtml
+lawURL :: https://www.erowid.org/herbs/comfrey/comfrey_law.shtml
+
+[Images]
+imageEntryList :: Symphytum officinale	https://www.erowid.org/herbs/show_image.php?i=comfrey/symphytum_officinale_plant__i2005e1365_disp.jpg	A small potted comfrey (Symphytum officinale) plant.	Submitted by T. Wiedemann. &copy; 2006 Erowid.org
+Symphytum officinale	https://www.erowid.org/herbs/show_image.php?i=comfrey/symphytum_officinale1.jpg	Color photo of plant.	Photographer Unknown.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Comfrey
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Comfrey (Symphytum officinale) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: 

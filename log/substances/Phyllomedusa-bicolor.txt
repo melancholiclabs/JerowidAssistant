@@ -1,0 +1,15 @@
+[Substance]
+
+id :: 351
+name :: Phyllomedusa bicolor
+url :: https://www.erowid.org/animals/phyllomedusa/phyllomedusa.shtml
+category :: Animals
+botanicalClassification :: Family :Hylidae, Genus :Phyllomedusa, Species :bicolorcommonNames :: Giant Monkey Frog; Sapo Mono; Kambo
+effectsClassification :: Psychedelic
+description :: Phyllomedusa bicolor is a large green noctural frog that lives in the trees of the Peruvian and Brazilian Amazon. Adult frogs secrete a material which is used by the native Mayoruna indians as a hunting aid. The secretion is introduced into the blood stream through small breaks in the skin, after which the active peptides contained in the secretion can produce somewhat severe gastrointestinal and cardiovascular side-effects, followed by increase in strength, heightened senses, and resistance to hunger and thirst.
+imageURL :: https://www.erowid.org/animals/phyllomedusa/images/phyllomedusa_summary1.jpg
+imagesURL :: https://www.erowid.org/animals/phyllomedusa/phyllomedusa_images.shtml
+
+[Images]
+imageEntryList :: Phyllomedusa bicolor	https://www.erowid.org/animals/show_image.php?i=phyllomedusa/phyllomedusa_bicolor_male__i2007e1174_disp.jpg	Close-up photo showing a captive-bred male Phyllomedusa bicolor. [UK]	Photo by Smaa. &copy; 2007 Erowid.org
+Phyllomedusa bicolor	https://www.erowid.org/animals/show_image.php?i=phyllomedusa/phyllomedusa_bicolor_male__i2007e1175_disp.jpg	Photo showing captive-bred male Phyllomedusa bicolor. [UK]	Photo by Smaa. &copy; 2007 Erowid.org

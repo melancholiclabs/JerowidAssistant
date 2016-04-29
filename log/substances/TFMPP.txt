@@ -1,0 +1,66 @@
+[Substance]
+
+id :: 130
+name :: TFMPP
+url :: https://www.erowid.org/chemicals/tfmpp/tfmpp.shtml
+category :: Chemicals
+commonNames :: None
+effectsClassification :: Stimulant
+chemicalName :: 3-trifluoromethylphenylpiperazine monohydrochloride
+description :: TFMPP is a synthetic piperazine most commonly combined with BZP. This combination has gained popularity in some countries as a legal alternative to other stimulants. TFMPPs effects alone are not well known.
+imageURL :: https://www.erowid.org/chemicals/tfmpp/images/tfmpp_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/tfmpp/tfmpp_basics.shtml
+imagesURL :: https://www.erowid.org/chemicals/tfmpp/tfmpp_images.shtml
+lawURL :: https://www.erowid.org/chemicals/tfmpp/tfmpp_law.shtml
+
+[Basics]
+description :: 3-Trifluoromethylphenylpiperazine Monohydrochloride (TFMPP) is a piperazine and a CNS stimulant. Its stimulant properties are not considered particularly interesting on their own. TFMPP has been found in some samples of Ecstasy pills in the U.S. [ Main TFMPP Vault ]
+descriptionSections :: dose	TFMPP is used orally at doses of between 25-100 mg, usually in combination with BZP or other piperazines. Effects last 5-8 hours.
+price	Price Summary Needed.
+law	TFMPP is unscheduled in the United States. This makes it legal to buy, sell, or possess. Sales for human consumption are regulated by the FDA.
+chemistry	Chemistry Summary Needed.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	History Summary Needed.
+terminology	The Substance:TFMPP. The Experience:No common terms known.
+effects :: Description Summary Needed.
+effectsSections :: onset	Onset Summary Needed.
+duration	Duration Summary Needed.
+visuals	Visuals Summary Needed.
+problems :: Problems Summary Needed.
+problemsSections :: contraindications	Contraindications Summary Needed.
+addiction	Addiction Potential Summary Needed.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Images]
+imageEntryList :: TFMPP Powder	https://www.erowid.org/chemicals/show_image.php?i=tfmpp/tfmpp1.jpg	Color photo of a bottle of TFMPP powder from Zurich, Switzerland.	Photo by el dopa. &copy; 2002 Erowid.org
+BZP & TFMPP Packets	https://www.erowid.org/chemicals/show_image.php?i=bzp/bzp_tfmpp_powder__i2007e0442_disp.jpg	Packets containing 1 g of BZP and TFMPP [UK]	Photo by Anonymous. &copy; 2007 Erowid.org
+Piperazine-Containing "Transformer" Tablet	https://www.erowid.org/chemicals/show_image.php?i=piperazines/piperazine_tablet__i2009e0034_disp.jpg	Purple "transformer" tablet believed to contain both BZP and TFMPP. [MN, USA]	Photo by Anonymous. &copy; 2009 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+TFMPP
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: Update: On March 18, 2004, TFMPP's emergency scheduling was *removed*. According to the DEA's Federal Register entry:	
+
+"... under recommendation of the Food and Drug Administration (FDA) and a scientific evaluation of the National Institute on Drug Abuse (NIDA), the DHHS did not recommend control of TFMPP. Accordingly, TFMPP will no longer be controlled under the CSA after March 19, 2004."	
+
+Previous Status: On July 18th, 2002, the DEA announced its intent to schedule BZP & TFMPP. On September 20, after two months, they issued their final order to temporarily place both BZP and TFMPP in Schedule I. The temporary scheduling will last up to 18 months or until they permanently schedule the substance. See the DEA's final order to emergency schedule for more details.
+stateLaw :: Florida	Schedule I. See http://leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0800-0899/0893/0893.html. (last updated Jul 21, 2012)
+Georgia	TFMPP is listed as a Schedule I controlled substance. (thanks ns) (last updated Aug 26 2009)
+Hawaii	TFMPP appears to be Schedule I in Hawaii. See July 2004 Amendment.
+Texas	TFMPP was briefly added to Schedule I in Texas in October 2002, but then removed on April 27, 2004.
+internationalLaw :: Australia	TFMPP is controlled nationally in Australia and is also specifically listed in most Australian states. The Australian National SUSDP's rulings are automatically added to each state's laws, thus TFMPP is controlled in every Australian state. Although the state-by-state listings of chemicals is mostly a point of trivia and not very important to the legal situation, it appears that BZP and TFMPP are scheduled in the highest drug restriction schedule in Vic, NSW, SA, NT and Qld. (thanks TW of http://shaman-australis.com.au/)
+Belgium	TFMPP was added to the list of illegal psychotropic substances on Nov 8, 2004 [Moniteur Belge/Belgisch
+TFMPP was added to the list of illegal psychotropic substances on Nov 8, 2004 [Moniteur Belge/Belgisch	Staatsblad].
+Canada	BZP and TFMPP are now in Schedule III in Canada. See http://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-25.html#h-28. (thanks m) (last updated Jun 19 2012)
+China	Controlled in China as a Category I psychotropic substance, illegal to sell, buy, import, export, and manufacture 4-methylmethcathinone as of September 2010. See China's SFDA announcement. (thanks n) (last updated Nov 25, 2015)
+Finland	TFMPP was banned in Finland in December 2014. A new government regulation was enacted in Finland that banned over 100 psychoactive chemicals. See Finland's Prohibited Psychoactive Substances: December 19, 2014. (last updated Dec 26, 2014)
+Germany (Deutschland	TFMPP was added to Anlage II in January, 2012. See www.bundesrat.de/cln_236/nn_8336/SharedDocs/Drucksachen/2012/0301-400/317-12,templateId=raw,property=publicationFile.pdf/317-12.pdf. (thanks nr) (last updated Oct 15, 2012)
+Greece	TFMPP became a controlled substance in Greece on Feb 18, 2003 [EU Legal Database].
+Greece	TFMPP became a controlled substance in Greece on Feb 18, 2003 [EU Legal Database].
+Israel	In December 2007, TFMPP was added to Israel's list of controlled substances, making it illegal to buy, sell, or possess. (thanks A)
+Poland	TFMPP is controlled in Poland. See http://isap.sejm.gov.pl/DetailsServlet?id=WDU20111050614+2011%2406%2408&min=1. (thanks p) (last updated Aug 1 2011)

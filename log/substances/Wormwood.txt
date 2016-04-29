@@ -1,0 +1,63 @@
+[Substance]
+
+id :: 197
+name :: Wormwood
+url :: https://www.erowid.org/plants/wormwood/wormwood.shtml
+category :: Plants
+botanicalClassification :: Family :Compositae (Composite), Genus :Artemisia, Species :absinthiumcommonNames :: Absinthe; Absinthium; Green Ginger; Madderwort
+effectsClassification :: Unknown
+description :: Artemisia absinthium is a silvery-green perennial herb growing up to 1.5 meters tall which contains the volatile oil thujone. It is added to distilled ethanol to create absinthe. Its effects alone are not well understood.
+imageURL :: https://www.erowid.org/plants/wormwood/images/wormwood_summary1.jpg
+basicsURL :: https://www.erowid.org/plants/wormwood/wormwood_basics.shtml
+imagesURL :: https://www.erowid.org/plants/wormwood/wormwood_images.shtml
+chemistryURL :: https://www.erowid.org/plants/wormwood/wormwood_chemistry.shtml
+
+[Basics]
+description :: Wormwood refers to several species in the genus Artemisia in the Compositae family. It most often refers to Artemisia absinthium, a perennial, shrubby herb native to Europe, North Africa, Asia, and North and South America. Wormwood is famous for its extremely bitter taste. Its whitish-grey fuzzy leaves give off a strong, acrid smell when crushed. Wormwood oil is largely composed of thujone, a psychoactive terpene that is chemically similar to camphor. Today it is best known as the primary additive to the liquor absinthe. Less commonly, wormwood has been smoked or brewed into tea for its psychoactive effects. Despite its reputation, wormwood is not a hallucinogen. Like camphor, thujone causes seizures in sufficient dose ranges, and can be fatal. [ Main Wormwood Vault ]
+descriptionSections :: dose	Wormwood is generally used as a source of thujone and not ingested alone. Many reports describe ingestion of preperations, extracts, or oils of unknown thujone content. Note: ingesting unknown amounts of thujone can be dangerous (see Poisoning below).
+price	Dried wormwood foliage is widely available at a cost of approximately $2.00 per ounce (2007). Live plants, extracts and oils vary in price.
+law	Wormwood use in food is regulated in the U.S. by the FDA (Title 21, Chapter 1, Part 172.510) which specifies that Artemisia spp. are permitted as a food additive only if they are "thujone free". Wormwood foliage and extracts are typically sold in the U.S. with the disclaimer "not for human consumption". Neither Artemisia spp. nor thujone are scheduled under the U.S. Controlled Substances Act.
+chemistry	The active ingredients in wormwood are the volatile terpenes alpha- and beta-thujone, both of which are isomers of camphor.
+pharmacology	The effects of thujone are believed to be mediated by modulation of the GABA(A) receptor, and inhibition of the serotonin 5-HT3 receptor may be involved as well. Widespread speculation that thujone acts on cannabanoid receptors was disproven by Meschler and Howlett in 1999.
+production	Artemesia absinthium grows wild throughout the world, and is especially common in southern Switzerland. It is easily grown from seed.
+history	The earliest-known reference to wormwood occurs in an ancient Egyptian medical text called Ebers papyrus (ca. 1550 BCE). Wormwood is referred to in the Bible several times. It was known as a purgative and vermifuge in Europe throughout the Middle Ages, and it was used as an additive to beers and wines in the seventeenth century. Its popularity soared with the absinthe explosion in the early nineteenth century, but it gained notoriety when wormwood was exaggeratedly associated with physical and mental maladies. Restrictions were put on the use of wormwood throughout Europe and the United States in the early twentieth century.
+terminology	The Substance:Wormwood; Absinthe; Green Ginger; Madderwort. The Experience:No common terms known.
+effects :: The primary reported effects of wormwood ingestion are a mild, hazy disorientation accompanied by a dreamlike or surreal feeling sometimes called "the dollhouse effect". This refers to the appearance of things as though they are idealized copies of themselves, as if they are from a dollhouse. Other reported effects include a feeling of mental lucidity, stimulation, mild euphoria, and a sense of relaxation. Effects are frequently described as mild, and sometimes as "boring".
+effectsSections :: onset	Limited data. Depending on amount and potency of material used, the effects of smoked wormwood may be felt immediately or come on gradually over a period of twenty minutes or more. When taken orally as a tea the effects can take 1 to 2 hours to manifest.
+duration	Limited data. It appears that the effects of smoked wormwood last 2-4 hours. Wormwood tea seems to cause a slower peak, and primary effects may last for 3-4 hours.
+visuals	Objects may look unusually vivid or striking, but hallucinations or distinct visuals have not been reported.
+problems :: Alpha- and beta-thujone, the psychoactive agents in wormwood, are convulsants. High doses of wormwood can cause seizures, renal failure, and death. While informal estimates of the ratio of effective dose to lethal dose appear to be relatively high (around 1 to 1-200), it is difficult to control dose levels, particularly when dealing with extracts and oils that may vary dramatically in thujone content.
+problemsSections :: contraindications	Contraindications Summary Needed.
+addiction	Neither wormwood nor thujone are physically addicting nor likely to cause psychological dependence. Withdrawal effects following discontinuation have not been reported.
+long	Speculation regarding the neurotoxicity of wormwood has been common since the early nineteenth century, culminating in fears that it was responsible for so-called absinthism, a putative neurotoxic syndrome associated with absinthe consumption and responsible for its widespread ban. Strong evidence now exists that most of those particular fears were baseless, but the health impact of heavy or long-term wormwood use is unknown.
+death	Thujone is a convulsant agent. Poisoning events involving wormwood are rare, but this may in part be due to the rareness of its use. Weisbord et al. (1997) report a case of nearly-fatal acute renal failure following the ingestion of 10 ml wormwood oil ordered over the internet. Erowid has received one report of a person who was hospitalized following ingestion of an entire bottle of wormwood essence. The amount of thujone consumed is not known in either case. Given the small number of reports of wormwood use, two known hospitalizations warrants extreme caution.
+
+[Images]
+imageEntryList :: Artemisia absinthium	https://www.erowid.org/plants/show_image.php?i=wormwood/artemisia_absinthium_plant__i2004e0148_disp.jpg	Full view of a 2 ft (60 cm) tall Artemisia absinthium plant. [Belgium]	Photo by F. Callebout. &copy; 2006 Erowid.org
+Artemisia absinthium Leaf	https://www.erowid.org/plants/show_image.php?i=wormwood/artemisia_absinthium_leaf__i2004e0149_disp.jpg	Closeup of a single Artemisia absinthium leaf. [Belgium]	Photo by F. Callebout. &copy; 2006 Erowid.org
+Artemisia absinthium	https://www.erowid.org/plants/show_image.php?i=wormwood/artemisia_absinthium__i2004e0150_disp.jpg	Artemisia absinthium top bud in May [Belgium]	Photo by F. Callebout. &copy; 2009 Erowid.org
+Artemisia absinthium	https://www.erowid.org/plants/show_image.php?i=wormwood/artemisia_absinthium9.jpg	Color photo of a mid-sized potted wormwood plant.	Photo by Murple, &copy; 2000 Erowid.
+Artemisia absinthium	https://www.erowid.org/plants/show_image.php?i=wormwood/artemisia_absinthium3.jpg	Close-up color photo of a single branch.	From Henriette's Herbal.
+Artemisia absinthium	https://www.erowid.org/plants/show_image.php?i=wormwood/artemisia_absinthium4.jpg	Color photo of plant.	From Henriette's Herbal.
+Artemisia absinthium	https://www.erowid.org/plants/show_image.php?i=wormwood/artemisia_absinthium5.jpg	Color photo of flowering plant.	From PharmaCD.
+Artemisia absinthium	https://www.erowid.org/plants/show_image.php?i=wormwood/artemisia_absinthium6.jpg	Color photo of flowering branch.	From PharmaCD.
+Artemisia absinthium	https://www.erowid.org/plants/show_image.php?i=wormwood/artemisia_absinthium8.jpg	Small color photo of a bushy wormwood plant.	Photographer unknown.
+Artemisia ludoviciana	https://www.erowid.org/plants/show_image.php?i=wormwood/artemisia_ludoviciana_plant__i2005e0416_disp.jpg	Photo showing a single Artemisia ludoviciana plant. [KS, USA]	Photo by M. Quetone. &copy; 2006 Erowid.org
+Artemisia ludoviciana	https://www.erowid.org/plants/show_image.php?i=wormwood/artemisia_ludoviciana_plant__i2005e0412_disp.jpg	Photo showing a number of densely packed Artemisia ludoviciana plants. [KS, USA]	Photo by M. Quetone. &copy; 2006 Erowid.org
+Artemisia absinthium	https://www.erowid.org/plants/show_image.php?i=wormwood/artemisia_absinthium1.jpg	Color drawing of plant, flower and seeds.	From Kohler's Medicinal Plants, &copy; 1995-2003 Missouri Botanical Garden.
+Artemisia absinthium	https://www.erowid.org/plants/show_image.php?i=wormwood/artemisia_absinthium2.gif	Color drawing of plant.	Artist unknown.
+Artemisia absinthium	https://www.erowid.org/plants/show_image.php?i=wormwood/artemisia_absinthium7.jpg	Color botanical drawing of wormwood plant.	Artist unknown.
+Oil of Wormwood	https://www.erowid.org/plants/show_image.php?i=wormwood/wormwood_oil__i2003e0147_disp.jpg	An old 1 oz medicinal bottle of "Oil of Wormwood".	Photo by J. Krieg. &copy; 2006 Erowid.org
+Thujone 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=absinthe/thujone_3d_mid.jpg	Still 3D image of the Thujone molecule.	Image by Erowid, &copy; 2000 Erowid.
+Thujone 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=absinthe/thujone__.mol	Rotating 3D image of the Thujone molecule.	Image by Erowid, &copy; 2000 Erowid.
+
+[Chemistry]
+chemTable :: NAME :	alpha-thujone
+CHEMICAL NAME :	4-Methyl-1-(1-methylethyl)bicyclo[3.1.0]hexan-3-one; 3-thujanone
+ALTERNATE CHEMICAL NAMES : 	(-)-Isothujone; (1S, 4R, 5R)-(-)-3-thujanone; thujon; thujone; (-)-thujone
+CHEMICAL FORMULA	C10H16O
+MOLECULAR WEIGHT	152.24
+MELTING POINT
+BOILING POINT	201&#176;C
+CAS #	546-80-5
+moleculeURL :: https://www.erowid.org/chemicals/absinthe/images/archive/thujone_3d_mid.jpg

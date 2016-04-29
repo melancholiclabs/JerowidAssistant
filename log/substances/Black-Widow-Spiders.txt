@@ -1,0 +1,17 @@
+[Substance]
+
+id :: 349
+name :: Black Widow Spiders
+url :: https://www.erowid.org/animals/blackwidow/blackwidow.shtml
+category :: Animals
+botanicalClassification :: Family :Theridiidae, Genus :Latrodectus, Species :mactanscommonNames :: Black Widow Spider
+effectsClassification :: Poisonous
+description :: Black Widow spiders are a notorious, mildly poisonous spider, shiny black with a characteristic hour-glass shaped red mark on the underside of their abdomen. Black Widow webs are extremely strong and springy. Despite being known for their poison, the danger is commonly overstated and often no symptoms beyond a red-ring occur after a bite, although severe cramping is more common in young children and the elderly.
+imageURL :: https://www.erowid.org/animals/blackwidow/images/blackwidow_summary1.jpg
+imagesURL :: https://www.erowid.org/animals/blackwidow/blackwidow_images.shtml
+
+[Images]
+imageEntryList :: Black Widow Spider	https://www.erowid.org/animals/show_image.php?i=blackwidow/blackwidow1.jpg	Color photo of a black widow spider in its web. [CA, USA]	Photo by Erowid, &copy; 2003 Erowid.org
+Black Widow Spider	https://www.erowid.org/animals/show_image.php?i=blackwidow/blackwidow2.jpg	Color photo of a black widow spider with a preying mantis in its web. [CA, USA]	Photo by Erowid, &copy; 2003 Erowid.org
+Black Widow Spider	https://www.erowid.org/animals/show_image.php?i=blackwidow/blackwidow3.jpg	Color photo of a black widow spider with a preying mantis in its web. [CA, USA]	Photo by Erowid, &copy; 2003 Erowid.org
+Black Widow Spider	https://www.erowid.org/animals/show_image.php?i=blackwidow/blackwidow4.jpg	Color photo of a black widow spider.	Photo by Entheomation, &copy; 2003 Erowid.org

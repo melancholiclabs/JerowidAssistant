@@ -1,0 +1,28 @@
+[Substance]
+
+id :: 243
+name :: Sage
+url :: https://www.erowid.org/herbs/sage/sage.shtml
+category :: Herbs
+botanicalClassification :: Family :Lamiaceae (Former: Labiatae), Genus :Salvia, Species :officinaliscommonNames :: Common Sage; Garden Sage; Meadow Sage; Scarlet Sage; True Sage
+uses :: Sore Throat and Canker Sore Remedy; Treatment for indigestion, colic, and fevers; Used externally as a lotion for wounds
+description :: Salvia officinalis is an aromatic, evergreen perennial, growing up to 2 feet tall, with 1.5-2 inches long leaves that are wooly, oval shaped, and grayish. The violet-blue flowers are arranged on the ends of squarish stems and branches. Contains thujone in essential oil.
+imageURL :: https://www.erowid.org/herbs/sage/images/sage_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/sage/sage_images.shtml
+lawURL :: https://www.erowid.org/herbs/sage/sage_law.shtml
+
+[Images]
+imageEntryList :: Salvia officinalis	https://www.erowid.org/herbs/show_image.php?i=sage/salvia_officinalis__i2010e0484_disp.jpg	Several Salvia officinalis (Sage) plants. [TX, USA]	Photo by DylanF. &copy; 2011 Erowid.org
+Salvia officinalis	https://www.erowid.org/herbs/show_image.php?i=sage/salvia_officinalis_purpurascens__i2004e0086_disp.jpg	Rooted cuttings of Salvia officinalis "Purpurascens" (purple sage) in a small pot. A couple of the leaves have mild mildew fungus on them. [Manchester, UK]	Photo by Spawnee. &copy; 2007 Erowid.org
+Salvia officinalis	https://www.erowid.org/herbs/show_image.php?i=sage/salvia_officinalis1.jpg	Color photo of S. officinalis plant.	Photographer unknown.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Salvia officinalis
+REGULATED	No
+STATUS	Food Approved
+SCHEDULE	Un-Scheduled
+federalLawText :: Sage (Salvia officinalis) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.	
+Sage (Salvia officinalis) is approved for food use as a spice or seasoning in the U.S. and appears in the FDA's list of substances Generally Recognized As Safe (GRAS).
+stateLaw :: null
+internationalLaw :: 

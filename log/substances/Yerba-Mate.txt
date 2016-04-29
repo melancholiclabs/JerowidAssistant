@@ -1,0 +1,38 @@
+[Substance]
+
+id :: 198
+name :: Yerba Mate
+url :: https://www.erowid.org/plants/yerba_mate/yerba_mate.shtml
+category :: Plants
+botanicalClassification :: Family :Aquifoliaceae, Genus :Ilex, Species :paraguariensiscommonNames :: Plant: South American holly; Beverage: yerba mat�; Paraguay tea; Braziliain tea; jesuit tea; ka'a (Guarani)
+effectsClassification :: Stimulant
+description :: Ilex paraguariensis is a small S. American tree that's leaves contain caffeine and other xanthines. The toasted leaves have a long history of use as a stimulant tea. Falsely rumored to contain a unique chemical mateine.
+imageURL :: https://www.erowid.org/plants/yerba_mate/images/yerba_mate_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/yerba_mate/yerba_mate_images.shtml
+doseURL :: https://www.erowid.org/plants/yerba_mate/yerba_mate_dose.shtml
+chemistryURL :: https://www.erowid.org/plants/yerba_mate/yerba_mate_chemistry.shtml
+
+[Images]
+imageEntryList :: Ilex paraguariensis with berries	https://www.erowid.org/plants/show_image.php?i=yerba_mate/ilex_paraguariensis_berries__i2005e1680_disp.jpg	Ilex paraguariensis (mate) in berry. [Australia]	Photo by T. Wiedemann. &copy; 2007 Erowid.org.
+Ilex paraguariensis Leaves	https://www.erowid.org/plants/show_image.php?i=yerba_mate/ilex_paraguariensis_leaf__i2005e0054_disp.jpg	Photo of low-lying mate leaves against soil. The leaves range from dark to light green, and appear to have a velvety texture. The leaf stem is purple. Photo taken at United States Botanic Garden. [DC, USA]	Photo by Anonymous. &copy; 2006 Erowid.org
+Ilex paraguariensis Trees	https://www.erowid.org/plants/show_image.php?i=yerba_mate/ilex_paraguariensis_tree__i2005e0363_disp.jpg	Wild Nativa Ilex paraguariensis (Yerba Mate) forests in Brazil. [Brazil]	Photo by NativeHerbs.com. &copy; 2006 Erowid.org
+Ilex paraguariensis Plant	https://www.erowid.org/plants/show_image.php?i=yerba_mate/yerba_mate_plant1.jpg	Color photo of small, potted Yerba Mate plant.	Photo by mindperformer, &copy; 2005 Erowid.
+Ilex paraguariensis	https://www.erowid.org/plants/show_image.php?i=yerba_mate/ilex_paraguariensis__i2005e0216_disp.jpg	Small potted Ilex paraguariensis (Yerba Mat) plant. [Austria]	Photo by Mindperformer. copy; 2009 Erowid.org
+Ground Yerba Mate	https://www.erowid.org/plants/show_image.php?i=yerba_mate/ilex_paraguariensis_ground__i2005e0362_disp.jpg	Three baskets of ground native Yerba Mate. [Brazil]	Photo by NativeHerbs.com. &copy; 2007 Erowid.org
+Yerba Mate Tea	https://www.erowid.org/plants/show_image.php?i=yerba_mate/yerba_mate_tea__i2005e0422_disp.jpg	Yerba Mate tea with gourd and bombilla. [NY, USA]	Photo by Matt. &copy; 2006 Erowid.org
+Bundles of Fresh Herbs for Terere	https://www.erowid.org/plants/show_image.php?i=yerba_mate/terare_herbs__i2012e0303_disp.jpg	Bundles of fresh herbs for terere are sold in markets throughout Paraguay. A tradition of the Guaran, the indigenous people of Paraguay, terere is a cold infusion of herbs such as yerba mate, yerba luisa (lemongrass), and mint. The popular beverage is imbibed throughout the day. [Asuncin, Paraguay]	Photo by Erowid Crew. copy; 2012 Erowid.org
+Yerba mate and other herbs for terere.	https://www.erowid.org/plants/show_image.php?i=yerba_mate/terere_herbs__i2012e0304_disp.jpg	A terere vendor mashes yerba mate and other herbs for a fresh infusion. [Asuncin, Paraguay]	Photo by Erowid Crew. &copy; 2012 Erowid.org
+Yerba Mate	https://www.erowid.org/plants/show_image.php?i=yerba_mate/yerba_mate1.jpg	Botanical drawing of Ilex paraguariensis.	From K�hler's Medicinal Plants (1887).
+Ilex guayusa	https://www.erowid.org/plants/show_image.php?i=yerba_mate/ilex_guayusa_drawing__i2002e0003_disp.jpg	Botanical drawing of Ilex guayusa. [test]	Unknown Artist.
+Caffeine 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=caffeine/caffeine_2d.gif	Still 2D image of the Caffeine molecule.	Image by Erowid, &copy; 2000 Erowid.
+Caffeine 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=caffeine/caffeine_3d_mid.jpg	Still 3D image of the Caffeine molecule.	Image by Erowid, &copy; 2000 Erowid.
+Caffeine 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=caffeine/caffeine__.mol	Rotating 3D image of the Caffeine molecule.	Image by Erowid, &copy; 2000 Erowid.
+
+[Dose]
+doseTable :: null
+doseText :: Yerba Mate (Ilex paraguariensis) contains caffeine, theobromine, and several other xanthines. The dried leaves of the plant contain approximately 1-2% caffeine. Practically this means a caffeine content of .7-1.8% of the dry tea weight becomes accessible in tea form. A single cup of mate beverage made with 10 g of dried yerba mat� tea contains approximately 70-180 mg of caffeine (similar to a cup of coffee). One heaping Tbsp of dried mat� weighs approximately 2 grams.  Mat� beverages made using tea bags have been found to contain less caffeine per weight of dried yerba mat� material than tea made using loose ground yerba mat� (.3% compared to 1-1.5%).1 A single cup of mate beverage made using a 3 g tea bag contains approximately 10-24 mg caffeine.    References  Pomilio AB, Trajtemberg S, Vitale AA. High-Performance Capillary Electrophoresis Analysis of mate infusions prepared from stems and leaves of Ilex paraguariensis using Automated Micellar Electrokinetic Capillary Chromatography. Phytochem Anal. 2002;13:235-241.   Related Links Caffeine Content of Yerba Mate: a brief summary Does Yerba Mat� Contain Caffeine or Mateine?
+notes :: null
+
+[Chemistry]
+chemTable :: null
+moleculeURL :: null

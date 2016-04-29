@@ -1,0 +1,10 @@
+[Substance]
+
+id :: 112
+name :: myristicin
+url :: null
+category :: Chemicals
+commonNames :: null
+effectsClassification :: null
+chemicalName :: null
+description :: null

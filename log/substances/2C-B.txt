@@ -1,0 +1,131 @@
+[Substance]
+
+id :: 3
+name :: 2C-B
+url :: https://www.erowid.org/chemicals/2cb/2cb.shtml
+category :: Chemicals
+commonNames :: Nexus; Bees; Venus; Bromo Mescaline; BDMPEA
+effectsClassification :: Psychedelic Phenethylamine
+chemicalName :: 4-bromo-2,5-dimethoxyphenethylamine
+description :: 2C-B is a synthetic psychedelic that first gained popularity as a legal Ecstasy replacement in the mid 1980s. It is known for having a strong physical component to its effects and a moderate duration.
+imageURL :: https://www.erowid.org/chemicals/2cb/images/2cb_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/2cb/2cb_basics.shtml
+effectsURL :: https://www.erowid.org/chemicals/2cb/2cb_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/2cb/2cb_images.shtml
+lawURL :: https://www.erowid.org/chemicals/2cb/2cb_law.shtml
+doseURL :: https://www.erowid.org/chemicals/2cb/2cb_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/2cb/2cb_chemistry.shtml
+
+[Basics]
+description :: 2C-B is a synthetic psychedelic that first gained popularity as a legal ecstasy replacement in the mid 1980s. It is generally considered to be somewhat 'gentler' than LSD or mushrooms, being less prone to catalyzing dissociated freak-outs or overwhelming panic attacks at normal recreational doses. 2C-B is also known for the strong body component of its effects which are alternately described as pleasurable energy or a 'sense of being in the body', and by others as an unpleasant 'buzzing' or body-load.  2C-B is still sometimes sold as "ecstasy", although this is rare because it is actively sought by many users for its unique effects. 2C-B is sometimes chosen for use in psychedelic psychotherapy because its short duration and less 'pushy' character. [ Main 2C-B Vault ]
+descriptionSections :: dose	A standard oral dose of 2C-B is between 10 and 40 mg. It is most frequently found in either powder or (small) pill form. Pills have commonly contained 5 mg, though this varies. 2C-B is also sometimes snorted for a shorter experience with quicker onset. Snorted doses are about 1/3 that of an oral dose and are legendarily painful. Underground market 2C-B has historically been of high quality because it has generally been sold to a relatively exclusive market of knowledgeable buyers.
+price	2C-B is often sold at ecstasy prices at clubs & parties, from 10-30$ per 'dose' (usually 15-25 mg). Purchased in large quantities it sells for 200-500$ per gram at retail levels or 100-300$ per gram at wholesale prices. (August 2000)
+law	2C-B is illegal to possess and sell in the United States (schedule I) and in most other countries. 2C-B was scheduled in the U.S. in 1993 and in most other countries between 1994 and 1998.
+chemistry	4-Bromo-2,5-dimethoxyphenethylamine (2C-B) is a synthetic chemical in the phenethylamine class. It is related structurally to mescaline, DOB, and distantly to MDMA.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	2C-B was first synthesized by Alexander Shulgin in 1974 while exploring homologues of DOB. Its psychoactivity was first discovered on June 25, 1975 by Dr. Shulgin who described it as "beautifully active". 2C-B was marketed in the late 1980s as an MDMA replacement after MDMA was scheduled in 1985. It was added to schedule I in the U.S. in 1994 and by 1999, it was illegal in most of the world.
+terminology	The Substance:2C-B; Nexus; Bees. The Experience:Tripping; To See Bees.
+effects :: In the beginning stages of onset, 2C-B is likely to cause a sort of indefinable feeling similar to anticipation or anxiety. There may be a feeling of energy in the body, and the sense that things are different than usual. As the effects intensify, a wide variety of perceptual changes may occur; pupil dilation, visual patterning and movement, mental stimulation, new perspectives, feelings of insight, emotional shifts (mood lift or introspection), anxiety and confusion. Many people find that the effects of 2C-B are more subtle or manageable than those of other psychedelics, allowing the user to more easily approach baseline thinking during the experience. Unlike some other psychoactives, many people find themselves able to eat shortly after peak effects subside. Closed-eye visuals are quite common with 2C-B. Open-eye visual patterning, color-shifts, and wavering or moving vision are common for many people and are more likely at higher doses
+effectsSections :: onset	Depending on how much and how recently one has eaten food, oral 2C-B generally takes 45-75 minutes to take effect. On a full stomach, onset can be considerably slower.
+duration	The primary effects of 2C-B last approximately 4-6 hours when taken orally. For many people there is an additional period of time (2-4 hrs) where it is difficult to go to sleep but where mood and mind-set are mostly back to baseline. The day-after effects of 2C-B are relatively mild, with most users reporting little to no lingering negative effects.
+visuals	Visuals Summary Needed.
+problems :: Many users do not enjoy the effects of 2C-B because of its unpleasant body effects or 'body load'. Unpleasant stomach effects, gastro-intestinal distress (diarrhea, cramps & gas) are not uncommon. There are also several reports of allergic type reactions causing increased mucus production, occasionally this results in coughing as mucus gathers in the windpipe and lungs.  Other possible negative effects include anxiety and unwanted or frightening thoughts and visions. 2C-B, though significantly lesser common than with LSD, can precipitate strong, temporary changes in an individual's experience of life and reality. It can be a powerful psychoactive experience, especially at higher doses, which is significantly affected by experiences, set and setting. Recent experiences, especially strong ones, can have a substantial effect on a trip. Physically or psychologically unsettling events in the days before a trip can blossom into more serious distress and trauma while tripping. It is important to be prepared for the possibility of encountering difficult or frightening mental states. The Psychedelic Crisis FAQ addresses some of the issues involved in dealing with a difficult trip.
+problemsSections :: contraindications	Do not take 2C-B if you are currently taking an MAOI. MAOIs are most commonly found in the prescription anti-depressants Nardil (phenelzine), Parnate (tranylcypromine), Marplan (isocarboxazid), Eldepryl (l-deprenyl), and Aurorix or Manerix (moclobemide). Ayahuasca also contains MAOIs (harmine and harmaline). 2C-B and MAOIs are a potentially dangerous combination. Check with your doctor if you are not sure whether your prescription medication is an MAOI. Do not operate heavy machinery. Do Not Drive. If you have a seizure or convulsive disorder or heart problems, you may be at higher risk for health problems when taking 2C-B. Diabetics should monitor their blood sugar closely as there have been some reports of problems. Individuals currently in the midst of emotional or psychological upheaval in their everyday lives should be careful about choosing to use psychedelics such as 2C-B as they can trigger even more difficulty. Individuals with a family history of schizophrenia or early onset mental illness should be extremely careful because psychedelics have been known to trigger latent psychological and mental problems.
+addiction	2C-B is neither physically addicting nor likely to cause psychological dependance. Withdrawal effects following discontinuation have not been reported. As with most substances, some people will use it more frequently than they are comfortable with. There is a short period of tolerance after 2C-B use. Using 2C-B two days in a row is likely to lead to a diminished experience the second day, though spaced 5-7 or more days apart, this effect is nearly non-existent.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Effects]
+duration :: 2C-B Duration
+Oral
+Total Duration	4 - 8 hrs
+Onset	45 - 75 mins
+Coming Up	15 - 30 mins
+Plateau	2 - 4 hrs
+Coming Down	1 - 2 hrs
+&nbsp;	&nbsp;
+After Effects	2 - 4 hrs
+Hangover / Day After	- - -
+positiveEffects :: mood lift, euphoria	increased giggling and laughing	feelings of empathy	feelings of insight	brightened colors / enhanced visual perception	closed- and open-eye visuals	mental and physical stimulation	enhanced tactile sensation/eroticism	increased access to spiritual ideation
+neutralEffects :: general change in consciousness (as with most psychoactives)	decreased appetite	pupil dilation	restlessness	unusual thoughts and speech	change in perception of time	unusual body sensations (facial flushing, chills, goosebumps, body energy)	change in body temperature regulation	ego softening (but less than LSD, mescaline, or psilocybin mushrooms)
+negativeEffects :: uncomfortable changes in body temperature (sweating/chills)	nausea and/or vomiting	tension, muscle twitching	confusion, difficulty concentrating, problems with activities requiring linear focus	insomnia	unpleasant visions	unwanted and overwhelming feelings	paranoia, fear, and panic
+description :: The effects of 2C-B have been described as a cross between the effects of LSD and MDMA, but that it is nothing like a combination of the two. It is mildly psychedelic, much less mind-expanding or disassociative than mushrooms or LSD, but much less directed than MDMA.	
+2C-B includes Open Eye Visual (OEV) effects which are usually described as crawling, shifting, or undulating, or cartooning. Closed Eye Visuals (CEVs) are present and increase with dosage. Many report a 'color shift' where objects seem to have red / green halos around them.	
+2C-B has a large 'body' component which some describe as "body tripping." Shulgin and others say that 2C-B can bring body-issues forward or make them more prominent and, in this way, some people say it can be a self-diagnostic tool for body work. Many, but not all, people experience stomach discomfort sometimes including mild diarrhea, gas, nausea and (rarely) vomiting. One user has reported a very a recurrent effect of increased mucus production at the base of the trachea, causing constant coughing during the effects of 2c-b, pseudoephedrine seems to clear this up.	
+In general, 2C-B has a somewhat 'positive' mood push as well as a mild stimulant effect, but it is far less stimulating and far less forcefully positive than MDMA. Some people find they can sleep once the peak is over (about 60-90mins after the effects start).	
+Most people experience 2C-B as being much 'lighter' on their body than MDMA with far less 'crash' and much less physically draining. It is also not as 'easy' as MDMA, in that it is more of a 'true' psychedelic -- allowing the users mind to become manifest and create the experience instead of being 'pushed' into a positive mood space as MDMA usually does.	
+Some people find the stimulating and body effects to combine in a way that is sensual or sexual and Shulgin has said that if an effective aphrodisiac is ever discovered, it will probably be patterned after 2C-B. Many people, however, find it very un-sexy with the body effects being experienced as somewhat disquieting.	
+Some people find 2C-B increases their ability to communicate verbally, while others find themselves unable to elucidate their ideas clearly. Some people describe a type of confusion that can be part of the experience, a type of 'stoned' feeling of mental and physical relaxation or floppiness which can translate in inability or lack of desire to go into complex intellectual processes.	
+2C-B at medium and low doses has the interesting character that it is often quite easy to move into and out of -- that going from feeling very involved in the experience to feeling quite 'sober' can be very fast and sometimes unexpected. Some people describe 2C-B as being more 'plastic' or 'malleable' than other psychedelics because one can learn to manipulate the depth of the effects.	
+2C-B can be used in some of the same ways MDMA is used for working through interpersonal issues and dealing with emotional conflicts.	
+'Inappropriate' smiling or giggling is common with 2C-B and other psychedelics.	
+As with all psychedelics, many people experience the coming up period as being somewhat cold and shivery.	
+As dose increases, the chance for feelings of fear and uncertainty increase.	
+As with other entheogens, it is unsafe to drive or use dangerous equipment with 2C-B because it effects attention span, visual acuity, concentration, and coordination. If you work with 2C-B, plan your entheogen experiences carefully and think ahead so you don't ever find yourself needing to drive during the experience.
+experienceReports :: null
+
+[Images]
+imageEntryList :: 2C-B tablets	https://www.erowid.org/chemicals/show_image.php?i=2cb/2c-b1.jpg	Color image of 7 small 5 mg 2C-B tablets and a penny.	Photo by Anonymous Photographer. &copy; 2000 Erowid.org
+2C-B tablets	https://www.erowid.org/chemicals/show_image.php?i=2cb/2c-b2.jpg	Color image of 2C-B tablets showing both top and side views.	Photo by Anonymous Photographer. &copy; 2000 Erowid.org
+2C-B vial	https://www.erowid.org/chemicals/show_image.php?i=2cb/2c-b4.jpg	Color image of a glass 22.5 mg vial of 2C-B. Courtesy N2O-Boy. (N. California, 2001).	Photo by Erowid. &copy; 2001 Erowid.org
+2C-B vial	https://www.erowid.org/chemicals/show_image.php?i=2cb/2cb_vial1.jpg	Color photo of a small pile of 22.5 mg vials of 2C-B. (N. California, 2001).	Photo by Erowid. &copy; 2001 Erowid.org
+2C-B vial	https://www.erowid.org/chemicals/show_image.php?i=2cb/2cb_vial2.jpg	Color photo of a 22.5 mg glass vial of 2C-B. (N. California, 2001).	Photo by Erowid. &copy; 2001 Erowid.org
+2C-B vial	https://www.erowid.org/chemicals/show_image.php?i=2cb/2c-b3.jpg	Color image of a glass 22.5 mg vial of 2C-B. (San Francisco, 2000).	Photo by Anonymous Photographer. &copy; 2000 Erowid.org
+2C-B-Tablets	https://www.erowid.org/chemicals/show_image.php?i=2cb/2c-b_tablet__i2006e1541_disp.jpg	Three 2C-B tablets with heart logos. [Holland]	Photo by MrSick. &copy; 2007 Erowid.org
+Relative Pill Dimensions	https://www.erowid.org/psychoactives/show_image.php?i=images/archive/pill_dimensions1.jpg	Image showing relative pill sizes and weights, inlcuding a 2C-B tablet.	Photo by Anonymous Photographer. &copy; 2000 Erowid.org
+2C-B 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=2cb/2c-b_2d.gif	Still 2D image of the 2C-B molecule.	Image by Erowid. &copy; 2006 Erowid.org
+2C-B 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=2cb/2c-b_3d_mid.jpg	Still 3D image of the 2C-B molecule.	Image by Erowid. &copy; 2000 Erowid.org
+2C-B 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=2cb/2cb__.mol	Rotating 3D image of the 2C-B molecule.	Image by Erowid. &copy; 2000 Erowid.org
+2C-B 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=2cb/2c-b_3d-2.jpg	Still 3D image of the 2C-B molecule.	Artist unknown.
+Ubulawu Nomathotholo Pack	https://www.erowid.org/chemicals/show_image.php?i=2cb/ubulawu_pack.jpg	Photo of the pack in which 2C-B tablets were distributed in South Africa by Drittewelle.	Photo by Erowid. &copy; 2002 Erowid.org
+Erox Pack	https://www.erowid.org/chemicals/show_image.php?i=2cb/2cb_pack2.jpg	Photo of the packaging of "Erox" 2C-B distributed by Drittewelle. (U.K.)	Photo by Bricoleur. &copy; 2002 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+2C-B
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule I
+CLASSIFICATION	Hallucinogen
+SCH. DATE	Jan 6, 1994
+federalLawText :: 2C-B is Schedule I in the United States. This means it is illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license.
+stateLaw :: null
+internationalLaw :: Australia	2C-B is controlled in Australia and is also on the list of substances subject to import and export controls. See Australian Psychoactive Law.
+Belgium	2-CB was added to the list of illegal psychotropic substances on April 30, 2002. See Moniteur Belge/Belgisch Staatsblad, where it is listed as "2-CB". (unconfirmed) (thanks s) (last updated Sep 14, 2011)
+Brazil	2C-B is listed as a controlled substance, making production, distribution, or possession illegal. It is reportedly uncommon in Brazil. (thanks P)
+Estonia	2C-B is Schedule I [reference]. (thanks TJJ)
+E.U	The U.N. Narcotics Commission added 2C-B to Schedule II in March 2001.
+Finland	2C-B is in Finland's list of controlled substances, in the hard-drug category. (last updated Oct 8, 2012)
+Canad	Schedule III. Listed as 4--bromo--2,5--dimethoxybenzeneethanamine.
+Italy (Italia)	Listed in Tabella I of "Tabelle delle sostanze stupefacenti e psicotrope", making it illegal to possess, purchase, or sell. (see Tabelle delle sostanze stupefacenti e psicotrope. (thanks a) (last updated Dec 16, 2015)
+Japa	Scheduled Summer 1998. Until that time it was marketed as a sexual aid named "Performax".
+Netherland	Scheduled as a hard drug on July 9th, 1997.
+Norway	Schedule II as of March 22, 2004. Listed as
+Schedule II as of March 22, 2004. Listed as 	4-bromo-2,5-dimethoxyphenethylamine. Norwegian Law Reference: http://www.lovdata.no/ltavd1/lt2004/t2004-1-05-39.html (thanks RAS)
+Poland	2C-B is schedule I (I-P group) in Poland. (No Reference)
+Russian Federation	2C-B became controlled in the Russian Federation starting October, 2011. See http://www.rg.ru/2011/10/19/narko-dok.html. (thanks n) (last updated Jan 2 2012)
+Spain	2C-B was added to Category 2 prohibited substances in 2002. (see announcement of the Ministerio de Sanidad y Consumo). (thanks B)
+Swede	2C-B was placed in schedule I in Sweden on Jun 13, 2002. It was first regulated April 1, 1999 through a new law, concerning "Compounds dangerous to ones health", a type of "emergency scheduling". Swedish Law Reference.
+Switzerland	2C-B is listed in Anhang D of the DetMV and is illegal to possess in Switzerland. See SwissMedic.ch. We believe it was added to the controlled list on 1/1/2002, but do not have any documentation of that date. (thanks P) (last updated May 31, 2009)
+U.K	2C-B is Schedule I in the U.K., making it illegal to sell, buy, or possess without a license.
+
+[Dose]
+doseTable :: 2C-B Dosages
+Oral
+Threshold	2 - 5 mg
+Light	5 - 15 mg
+Common	15 - 25 mg
+Strong	25 - 50 mg
+doseText :: 2C-B is an extraordinarily colorful psychedelic similar to LSD -- somewhat analytical and dissociative in higher doses or in those sensitive to those effects. It can be taken orally or nasally. It is most often found in either powder or pill form.
+notes :: None
+
+[Chemistry]
+chemTable :: NAME :	2C-B
+CHEMICAL NAME :	4-Bromo-2,5-dimethoxybenzeneethanamine
+ALTERNATE CHEMICAL NAMES : 	 4-bromo-2,5-dimethoxyphenethylamine
+ALTERNATE CHEMICAL NAMES : 	 BDMPEA; alpha-desmethyl DOB; MFT; nexus
+CHEMICAL FORMULA	C10H14BrNO2
+MOLECULAR WEIGHT	260.13  (HCl - 296.59)
+MELTING POINT	(HCl)  234-235� C.
+moleculeURL :: https://www.erowid.org/chemicals/2cb/images/archive/2c-b_3d_mid.jpg

@@ -1,0 +1,38 @@
+[Substance]
+
+id :: 352
+name :: Psychoactive Toad Venom
+url :: https://www.erowid.org/animals/toads/toads.shtml
+category :: Animals
+botanicalClassification :: Family :Bufonidae, Genus :Bufo [new: Incilius], Species :alvariuscommonNames :: Toad Venom
+effectsClassification :: Psychedelic
+description :: Several species of toads produce venom that contains psychoactive chemicals, but only Bufo alvarius venom contains 5-MeO-DMT, and in high enough quantities to smoke directly for effect. The venom of some Bufo species, including B. alvarius, contains trace amounts of bufotenin and some may also contain toxic chemicals. Bufo toad venom is poisonous if eaten.
+imageURL :: https://www.erowid.org/animals/toads/images/toads_summary1.jpg
+imagesURL :: https://www.erowid.org/animals/toads/toads_images.shtml
+lawURL :: https://www.erowid.org/animals/toads/toads_law.shtml
+
+[Images]
+imageEntryList :: Bufo alvarius Toad	https://www.erowid.org/animals/show_image.php?i=toads/bufo_alvarius__i2005e1977_disp.jpg	Close-up color photo of a B. alvarius toad	Photo by N. Johnson. &copy; 2006 Erowid.org
+Bufo alvarius	https://www.erowid.org/animals/show_image.php?i=toads/bufo_alvarius1.jpg	Color photo of the Bufo alvarius toad.	Photo from the Species Identification Network.
+Bufo alvarius	https://www.erowid.org/animals/show_image.php?i=toads/bufo_alvarius2.jpg	Color photo of the Bufo alvarius toad.	Photograph by J. G. Hall.
+Bufo alvarius	https://www.erowid.org/animals/show_image.php?i=toads/bufo_alvarius4.jpg	Color photo of the 2 Bufo alvarius toads.	Photo by Alkaloidaholic, &copy; 2003 Erowid.org
+Bufo alvarius	https://www.erowid.org/animals/show_image.php?i=toads/bufo_alvarius_drawing__i2006e0527_disp.jpg	Black and white illustration of a Bufo alvarius toad. [AZ, USA]	Image by Joseph Birkett. &copy; 2007 Erowid.org
+Bufo marinus	https://www.erowid.org/animals/show_image.php?i=toads/bufo_marinus1.jpg	Color photo of the Bufo marinus toad.	Photo by S.J. Richards.
+Bufo marinus	https://www.erowid.org/animals/show_image.php?i=toads/bufo_marinus2.jpg	Color photo of the Bufo marinus toad.	Photo by David Hillis, from the Species Identification Network.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Psychoactaive Toads
+REGULATED	No
+STATUS	Ambiguous
+SCHEDULE	May ContainSchedule I Chemical
+CLASSIFICATION	Hallucinogen
+federalLawText :: None of the Bufo species toads are specifically scheduled in the United States. They are sold openly by pet and animal stores, though they are somewhat uncommon.	
+In Nov 2007, a man was charged for possession of bufotenine after a Bufo alvarius toad was found in residence in Kansas City, Missouri (see article).	
+It has been reported to us that some stores (in CA in one example) will report that Bufo toads are illegal to sell. It's unclear whether this is true and if so whether it is due to federal, state, or local level laws.	
+Lovestone Arrest (2008): Dried toad venom containing bufotenin is sometimes sold as chan su for use in Traditional Chinese Medicine, or as an ingredient in a topical aphrodisiac called "stone", "lovestone", or "rock hard". These forumulations are readily available, and laws prohibiting the sale of this bufotenin-containing substance appear to be commonly unenforced. However, a love stone vendor in Richmond, Virginia was charged with sale of a Schedule I substance and pled guilty in March, 2008 (see Style Weekly article).
+stateLaw :: Arizona	Wild toads may not be possessed, sold, imported, traded, or released. Bufo marinus is subject to hunting restrictions. (see A.R.S. 17-306).
+California	Bufo marinus is designated a "species of special concern" by California's Department of Fish and Game - a formal recognition of their endangered status. This offers very limited legal protection, but may impact development in their native habitat. (see CDFG Bufo avlarius page).
+New Mexico	Bufo alvarius is designated "threatened" under New Mexico's Title 19, making it illegal to take, possess, transport, export, sell or offer for sale or ship (see law).
+internationalLaw :: Canada	The toads of this genus are not controlled in Canada. Neither 5-MeO-DMT nor Bufotenin are listed on the Controlled Drugs and Substances Act, the two active components of the toad's secretion. Additionally, Canada doesn't have laws restricting the importation of amphibians and reptiles because the cold climate kills off invasive cold-blooded species. (thanks m) (last updated May 6 2013)
+U.K.	Bufotenine is a Class A substance under English law, but the status of psychoactive toad venom is ambiguous, owing to the fact that it occurs naturally. It is possible that possession of a psychoactive toad could be considered a violation of the Wildlife and Countryside Act 1981. No one has been prosecuted thus far. (see Times Online article for more information.)

@@ -1,0 +1,32 @@
+[Substance]
+
+id :: 42
+name :: Acetylfentanyl
+url :: https://www.erowid.org/chemicals/acetylfentanyl/acetylfentanyl.shtml
+category :: Chemicals
+commonNames :: desmethyl fentanyl, wrongly called China White
+effectsClassification :: Analgesic; Anaesthetic
+chemicalName :: N-(1-phenethylpiperidin-4-yl)-N-phenylacetamid
+description :: Acetylfentanyl is a short-acting synthetic opioid analgesic active at low doses, although 50-100 times less potent than fentanyl, with dosages between 5mg and 20mg. It has been sold as fentanyl. Although first synthesized in 1968, it has been increasingly available in the 2010s and has been associated with deaths.
+imageURL :: https://www.erowid.org/chemicals/acetylfentanyl/images/acetylfentanyl_summary1.jpg
+lawURL :: https://www.erowid.org/chemicals/acetylfentanyl/acetylfentanyl_law.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Fentanyl
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule I (temporary)
+CLASSIFICATION	Opioid
+federalLawText :: As of July 17, 2015, Acetylfentanyl is Schedule I temporarily in the United States. This means it is illegal to sell without a DEA license and illegal to buy or possess without a license. See https://www.federalregister.gov/articles/2015/07/17/2015-17563/schedules-of-controlled-substances-temporary-placement-of-acetyl-fentanyl-into-schedule-i. It is extremely likely that acetylfentanyl will be permanently scheduled at the end of the temporary period.
+stateLaw :: null
+internationalLaw :: 
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

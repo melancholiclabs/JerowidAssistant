@@ -1,0 +1,16 @@
+[Substance]
+
+id :: 87
+name :: Inhalants
+url :: https://www.erowid.org/chemicals/inhalants/inhalants.shtml
+category :: Chemicals
+commonNames :: Gasoline; Acetone; Mineral Spirits; Freon; Computer Duster; Glue
+effectsClassification :: Anaesthetic; Intoxicant; Dissociative
+chemicalName :: Various
+description :: Inhalants are either chemicals in gaseous form or volatile solvents (liquids) that becomes gas at the time of use, which are inhaled by people for their psychoactive effects.
+imageURL :: https://www.erowid.org/chemicals/inhalants/images/inhalants_summary1.jpg
+imagesURL :: https://www.erowid.org/chemicals/inhalants/inhalants_images.shtml
+
+[Images]
+imageEntryList :: Computer Duster Used as Inhalant	https://www.erowid.org/chemicals/show_image.php?i=inhalants/canned_duster__i2008e0262_disp.jpg	"Dust-Off" computer duster, sometimes used as an inhalant. [CO, USA]	Photo by Anonymous. &copy; 2009 Erowid.org
+Two Inhalants	https://www.erowid.org/chemicals/show_image.php?i=inhalants/inhalants__i2008e1562_disp.jpg	Two inhalants. Left: 3M Dust Remover, Right: Nail Polish Remover (100% Acetone). [Midwest USA]	Photo by Shadymilkman. &copy; 2009 Erowid.org

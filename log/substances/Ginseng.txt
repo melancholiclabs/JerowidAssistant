@@ -1,0 +1,25 @@
+[Substance]
+
+id :: 225
+name :: Ginseng
+url :: https://www.erowid.org/herbs/ginseng/ginseng.shtml
+category :: Herbs
+botanicalClassification :: Family :Araliaceae, Genus :Panax, Species :ginseng; quinquefoliuscommonNames :: Tartar Root; Five-fingers
+uses :: Increases vitality and physical performance; Raises blood pressure; Treats depression and general weakness; Has an ancient reputation as an aphrodisiac
+description :: Ginseng's thin, single stem grows from a bud at the top of the root that rises and separates into a whorl of compound leaves. Small green flowers radiate, umbrella-like from the end of a stalk and are eventually replaced by red berries.
+imageURL :: https://www.erowid.org/herbs/ginseng/images/ginseng_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/ginseng/ginseng_images.shtml
+lawURL :: https://www.erowid.org/herbs/ginseng/ginseng_law.shtml
+
+[Images]
+imageEntryList :: Panax ginseng	https://www.erowid.org/herbs/show_image.php?i=ginseng/panax_ginseng_root1.jpg	Photo showing three ginseng roots, harvested in October. (Indiana)	Photo by Melissa, &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Ginseng
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Ginseng (Panax spp) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: Illinois	Illinois requires a license to pick and grow Ginseng. See Illinois Ginseng Conservation Law and Regulations: "This law requires licensing and regulation of persons engaged in harvesting or digging wild ginseng or cultivating ginseng in Illinois. It also requires licensing and regulation of dealers involved in the purchase of ginseng in or originating from Illinois." (thanks SSL) (last updated Jun 2007)
+internationalLaw :: 

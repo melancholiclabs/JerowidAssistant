@@ -1,0 +1,87 @@
+[Substance]
+
+id :: 162
+name :: Tabernanthe iboga
+url :: https://www.erowid.org/plants/iboga/iboga.shtml
+category :: Plants
+botanicalClassification :: Family :Apocynacae, Genus :Tabernanthe, Species :ibogacommonNames :: Iboga; Black bugbane; le bois sacre (sacred wood)
+effectsClassification :: Psychedelic
+description :: Tabernanthe iboga is a rainforest shrub growing to 2 meters. Its roots contains ibogaine, a strong long-lasting psychedelic that has been used traditionally in West African coming of age rituals. Iboga extracts are also used in treating opiate addiction.
+imageURL :: https://www.erowid.org/plants/iboga/images/iboga_summary1.jpg
+basicsURL :: https://www.erowid.org/plants/iboga/iboga_basics.shtml
+imagesURL :: https://www.erowid.org/plants/iboga/iboga_images.shtml
+lawURL :: https://www.erowid.org/plants/iboga/iboga_law.shtml
+
+[Basics]
+description :: Tabernanthe iboga is a leafy evergreen that grows to a height of 4-8 feet (1-3 m) in the undergrowth of the tropical forests of West Central Africa. It has large leaves (about 6 inches long) and clusters of white flowers. T. iboga contains the powerful psychoactive alkaloid ibogaine, which is found in the leaves and roots, and is especially dense in the root core. The plant has been used since at least the nineteenth century, and possibly earlier, in religious ceremonies. Iboga has received attention since the 1960s in Europe, North America, and Mexico as an anti-addiction therapy. [ Main T. Iboga Vault ]
+descriptionSections :: dose	Traditionally in Africa, parts of the root of the still-living iboga plant have been harvested and ground into a powder, which is usually eaten, or made into a tea (uncommon). In Bwiti religious ceremonies, varying amounts of root powder may be ingested over the course of several days, ranging from a teaspoon to (in extreme cases) upwards of several pounds over the entire period (dangerous - fatalities have been reported). Note: Care must be taken in distinguishing iboga power, which may be around 1% psychoactive alkaloids, from pure ibogaine.
+price	Iboga is illegal in the US and is not commonly available on the black market. It is sometimes available from ethnobotanical vendors in countries where it is legal.
+law	Tabernanthe iboga and ibogaine are both Schedule I controlled substances in the United States, making them illegal to buy, sell, or possess. Ibogaine is illegal in France. It appears to be legal or unregulated in Canada, Mexico, and some European countries.
+chemistry	The principle active chemical in Iboga is ibogaine, or 12-methoxyibogamine (C20H26N2O), an indole alkaloid. Iboga contains other active alkaloids including ibogamine, coronaridine, and tabernanthine.
+pharmacology	Ibogaine is slowly metabolized by the liver into noribogaine and other metabolites, some of which may be psychoactive. Ibogaine acts on numerous receptor systems, including the dopaminergic, serotonergic, nicotinic, GABA, and muscarinic systems. Some studies have produced limited evidence that ibogaine may pharmacologically interrupt the mechanisms of opiate dependence. Iboga also contains other psychoactive alkaloids which have received little, if any, study.
+production	Iboga is sometimes cultivated in West Africa for religious use.
+history	The first-known documentation of iboga use was in 1864 in Gabon. The Gabonese Fang people say that Iboga use was originally discovered by the Pygmies. In the late 19th Century the Bwiti church was founded, using iboga in initiation rites. Bwiti was driven underground by French colonial forces from the 1930s until the late 1950s. Now upwards of 20% of the Gabonese population is Bwitist.
+terminology	The Substance:Tabernanthe iboga; iboga; eboga or eboka (Fang); The Wood (Gabon). The Experience:Breaking open of heads (Bwiti).
+effects :: When taken in an entheogenic dose range, ibogaine often causes extreme nausea and vomiting which may be followed by numbness of skin, mild auditory and dreamlike visual hallucinations lasting for 3-4 hours. This is frequently followed by an intense autobiographical inventory of the events and signficance of one's life, lasting from 8-20 hours. Lingering physical effects such as difficulty sleeping may persist for an additional day or two.
+effectsSections :: onset	When taken orally, the effects of iboga typically begin within 45 minutes to three hours.
+duration	The most intense effects of iboga may last 24 hours or more, during which time a user may be immobilized. After-effects may last an additional day or two.
+visuals	Visuals Summary Needed.
+problems :: Several deaths have resulted directly from T. iboga use. Users frequently experience extreme nausea. Depending on dose, users may be incapacitated and/or immobilized for many hours. High doses of ibogaine (beginning at 75-100 mg/kg) have been shown to have neurotoxic effects in rats and non-human primates, although therapeutic doses may not be neurotoxic.
+problemsSections :: contraindications	Individuals with a history of heart ailments, high blood pressure, aneurysm or stroke, glaucoma, hepatic (liver) or renal (kidney) disorders, or hypoglycemia may be at higher risk. Do not operate heavy machinery. Do not drive. Due to its strong effects, Ibogaine should generally not be taken without a sober sitter present. Individuals should consider carefully before taking Ibogaine in situations where they are solely responsible for themself or anyone else.  Individuals in the midst of emotional or psychological upheaval, or with a history of psychological illness, should use extreme caution in taking ibogaine or any other powerful psychedelic.
+addiction	Ibogaine is neither physically addicting nor likely to cause psychological dependence. Withdrawal effects following discontinuation have not been reported.
+long	Long Term Health Problems Summary Needed.
+death	There are several known fatalities due to ibogaine use. Some deaths have occurred in clinical or quasi-clinical environments. Traditional iboga use is reported by some West Africans to be occassionally fatal, and there is at least one documented case of a fatality following ingestion of an unknown quantity of iboga root bark.
+
+[Images]
+imageEntryList :: Tabernanthe iboga	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga5.jpg	Color photo of T. iboga plant.	From the Dan Lieberman Image Library. Used by Erowid with permission.
+Tabernanthe iboga leaves	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga_leaf__i2012e0447_disp.jpg	Closeup of a cluster of Tabernanthe iboga leaves.	Photo by Keeper Trout. &copy; 2012 Erowid.org
+Tabernanthe iboga	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga6.jpg	Color photo of T. iboga leaves.	From the Dan Lieberman Image Library. Used by Erowid with permission.
+Grafted Tabernanthe iboga	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga_graft__i2007e1629_disp.jpg	Tabernanthe iboga grafted onto Tabernaemontana pandacaqui (Banana Bush) stock. [QLD, Australia]	Photo by Darren Williams. &copy; 2007 Erowid.org
+Tabernanthe iboga	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga8.jpg	Close-up color photo of T. iboga plant with fruit.	Photo by Knehnav. Used by Erowid with permission.
+Tabernanthe iboga	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga_leaf1.jpg	Close-up color photo of T. iboga leaf	Photo by Knehnav. Used by Erowid with permission.
+Tabernanthe iboga	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga4.jpg	Black and white photo of plant.	From Plants of The Gods by Schultes and Hofmann
+Tabernanthe iboga	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga1.jpg	Black and white photo of plant.	From Plants of The Gods by Schultes and Hofmann
+Tabernanthe iboga Root Powder	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga_root_powder__i2006e0054_disp.jpg	25 grams of Tabernanthe iboga root powder. [Germany]	Photo by Trippin' P. &copy; 2007 Erowid.org
+Ground T. iboga	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga9.jpg	Color photo of a 1 gram baggie of ground Tabernanthe iboga root purchased for 800 Yen. (Tokyo Japan)	Photo by Lucie25, &copy; 2002 Erowid.org
+T. iboga rootbark	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga10.jpg	Iboga rootbark and baggie containing 500 mg alkaloid extraction. [from Canada]	Photo by Murple, &copy; 2002 Erowid.org
+Tabernanthe iboga	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga_root1.jpg	Color photo of a large T. iboga root.	Photo by Knehnav. Used by Erowid with permission.
+Tabernanthe iboga Seeds	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga_seed__i2005e0129_disp.jpg	View of 10 fresh Iboga seeds imported from West Africa [Imported from west Africa]	Photo by Dna. &copy; 2007 Erowid.org
+Tabernanthe iboga Fruit	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga_fruit5.jpg	Color photo of sliced 'round pod' iboga fruit and seeds with 2cm diameter coin.	Photo by Torsten Wiedemann, &copy; 2004 T. Wiedemann and Erowid.
+Tabernanthe iboga Fruit	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga_fruit3.jpg	Color photo of 'round pod' iboga fruit on cultivated plant.	Photo by Torsten Wiedemann, &copy; 2004 T. Wiedemann and Erowid.
+Tabernanthe iboga Fruit	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga_fruit4.jpg	Color photo of 'long pod' iboga fruit on plant.	Photo by Torsten Wiedemann, &copy; 2004 T. Wiedemann and Erowid.
+Tabernanthe iboga fruit	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga_fruit__i2012e0445_disp.jpg	A single ripe Tabernanthe iboga fruit.	Photo by Keeper Trout. &copy; 2012 Erowid.org
+Green Tabernanthe iboga Fruit	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga_fruit__i2012e0446_disp.jpg	A green Tabernanthe iboga fruit still on the plant.	Photo by Keeper Trout. &copy; 2012 Erowid.org
+Tabernanthe iboga	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga_fruit1.jpg	Color photo of fruit.	From the Dan Lieberman Image Library. Used by Erowid with permission.
+Tabernanthe iboga	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga_fruit2.jpg	Color photo of T. iboga plant with fruit.	Photo by Knehnav. Used by Erowid with permission.
+T. iboga Seeds	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga_seed1.jpg	Color photo of a group of T. iboga seeds	Photo by Anonymous Photographer, &copy; 2000 Erowid.org
+T. iboga Seeds	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga_seed2.jpg	Color photo of three T. iboga seeds, two still encased in fruit matter.	Photo by Murple, &copy; 2003 Erowid.org
+T. iboga Seeds	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga_seed3.jpg	Color photo of three Tabernanthe iboga seeds next to a quarter for size comparison..	Photo by Anonymous Photographer, &copy; 2004 Erowid.org
+Tabernanthe iboga Flower	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga_flower__i2010e0547_disp.jpg	A single Tabernanthe iboga flower. [Canada]	Photo by Oneirogenia. &copy; 2011 Erowid.org
+Tabernanthe iboga Flower	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga_flower__i2012e0443_disp.jpg	Tabernanthe iboga flower still on the plant.	Photo by Keeper Trout. &copy; 2012 Erowid.org
+Tabernanthe iboga	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga3.jpg	Color drawing of flowering plant and root.	From Plants of The Gods by Schultes and Hofmann
+Tabernanthe iboga	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga2.jpg	Black and white botanical drawing of T. iboga plant, flower, seeds and roots.	From "De l'iboga et de l'ibogaine", by A. Landrin. (1905)
+Tabernanthe iboga Tincture	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga_tincture__i2011e0167_disp.jpg	A bottle containing 5 ml of Tabernathe iboga tincture. [Netherlands]	Photo by Anonymous. &copy; 2011 Erowid.org
+Tabernanthe iboga Extract	https://www.erowid.org/plants/show_image.php?i=iboga/tabernanthe_iboga_extract__i2010e0896_disp.jpg	An extract of Tabernanthe iboga in a small glass vial photographed at the 2010 Boom festival in Portugal. [Portugal]	Photo by Jon Hanna. &copy; 2011 Erowid.org
+Art	https://www.erowid.org/chemicals/show_image.php?i=ibogaine/ibogaine_art1.jpg	An ibogaine inspired piece of art.	Image copyright Dave Hunter GRFX (1999). Used by Erowid with permission.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Tabernanthe iboga
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule I
+CLASSIFICATION	Hallucinogen
+federalLawText :: The Tabernanthe iboga plant is listed as Schedule I in the United States under the Ibogaine chemical entry. Although the listing of the genus/species in the list of "trade and other names", the meaning of the entry seems clear. This means it is illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license.	
+Some have questioned whether the inclusion of Tabernanthe iboga under the Ibogaine chemical entry. For more discussion on this, see Iboga Plant Scheduling Details. If the seeds or other parts of the iboga plant do not contain ibogaine, then those parts may be in a legal gray area that has not been fully adjudicated in federal courts.
+stateLaw :: Louisiana	Effective Aug 8, 2005 (signed into law Jun 28, 2005) Louisiana Act No 159 makes 40 plants illegal, including A. peregrina and A. colubrina, when intended for human consumption. The law specifically excludes the "possession, planting, cultivation, growing, or harvesting" of these plants if used "strictly for aesthetic, landscaping, or decorative purposes." (Text of HLS_05RS-52 and Update June 2005)
+Tennessee 	Tennessee did not pass the proposed bill that would have banned dozens of plants as "hallucinogenic" when intended for human consumption. Instead, they banned only Salvia divinorum. See Comments on New State Laws Controlling the Consumption of Hallucinogenic Plants.
+internationalLaw :: Australia	Ibogaine is clearly illegal to import into Australia without a license, it is "Schedule IV" in the import laws: AU Import Regulations. Customs import restrictions would thus make any plant (such as Iboga) material that contains any amount of ibogaine subject to the Schedule IV import restrictions. Shaman Australis reports that plants containing ibogaine are blocked from import. Tabernanthe iboga, the plant, is not controlled within the borders of Australia and there is no evidence of addiction or widespread use of this plant. See Shaman Australis for more information. (Last updated Aug 2008)
+Belgium	We have been told that Tabernanthe iboga is listed as "officially unfit for human consumption". (unconfirmed) (thanks W)
+Canada	Tabernanthe iboga appears to be uncontrolled in Canada. We have been told that it is available in headshops in Vancouver. (thanks R)
+Costa Rica	Tabernanthe iboga appears to be uncontrolled in Costa Rica. The Tico Times and the Costa Rica Star have reported on iboga treatment centers and spiritual centers. (thanks Sh.)
+Finland	We have been told that Tabernanthe iboga and its parts are uncontrolled in Finland. (unconfirmed) (thanks S)
+France	Tabernanthe iboga, Tabernanthe manii, and ibogaine were all added to the list of controlled substances in France on March 12, 2007. See rb.juris-classeur.com: "Tabernanthe iboga, Tabernanthe manii, ibogaine, ses isom&egrave;res, esters, &eacute;thers et leurs sels qu'ils soient d'origine naturelle ou synth&eacute;tique ainsi que toutes pr&eacute;parations qui en contiennent." (thanks CHG) (last updated Mar 31, 2007)
+Japan	We have been told that powdered iboga root is available in headshops in Japan. (unconfirmed) (thanks S4M)
+Netherlands	We have been told that in 2005 that powdered iboga root is available in smart shops in the Netherlands. (unconfirmed) (thanks D)
+Poland	Iboga was controlled in Poland on May 9 2009. See http://isap.sejm.gov.pl/DetailsServlet?id=WDU20090630520. (thanks DP) (last updated Jan 26 2010)
+Slovenia	We have been told that T. Iboga as a plant (including it's dried and/or powdered parts, extracts and pure ibogaine) are not listed in any group of the PAS list, so it should be legal to possess. It is probably not legal to sell it as a food supplement. (unconfirmed) (thanks MA)

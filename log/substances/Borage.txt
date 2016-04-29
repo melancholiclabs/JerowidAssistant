@@ -1,0 +1,29 @@
+[Substance]
+
+id :: 206
+name :: Borage
+url :: https://www.erowid.org/herbs/borage/borage.shtml
+category :: Herbs
+botanicalClassification :: Family :Boraginaceae, Genus :Borago, Species :officinalis L.commonNames :: Starflower; Bee Bread; Common Bugloss
+uses :: Anti-inflammatory; Expectorant; Diaphoretic; Adrenal Gland Treatment; Stimulates milk flow in nursing women
+description :: An annual growing to 2 feet high. Large oval leaves with wavy edges grow alternately along branched, hollow stems. 5-pointed, edible white or blue flowers grow in drooping clusters.
+imageURL :: https://www.erowid.org/herbs/borage/images/borage_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/borage/borage_images.shtml
+lawURL :: https://www.erowid.org/herbs/borage/borage_law.shtml
+
+[Images]
+imageEntryList :: Borage officinalis	https://www.erowid.org/herbs/show_image.php?i=borage/borage_officinalis_flower1.jpg	Close up color photo of a blue Borage officinalis flower (N. California, October).	Photo by Erowid, &copy; 2002 Erowid.org
+Borage officinalis	https://www.erowid.org/herbs/show_image.php?i=borage/borage_officinalis_flower2.jpg	Close up color photo of a white Borage officinalis flower (N. California, October).	Photo by Erowid, &copy; 2002 Erowid.org
+Borage officinalis	https://www.erowid.org/herbs/show_image.php?i=borage/borage_officinalis_bud1.jpg	Close up color photo of a Borage officinalis flower bud (N. California, October).	Photo by Erowid, &copy; 2002 Erowid.org
+Borage officinalis	https://www.erowid.org/herbs/show_image.php?i=borage/borage_officinalis_plant1.jpg	Photo of a Borage officinalis plant in the very early stages of budding (N. California, October).	Photo by Erowid, &copy; 2002 Erowid.org
+Borage officinalis	https://www.erowid.org/herbs/show_image.php?i=borage/borage_officinalis_flower__i2001e0095_disp.jpg	Photo showing a purple Borage officinalis flower. []	Photo by Alberto Tucci, Erbeofficinali.com. &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Borage officinalis
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Borage officinalis is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: 

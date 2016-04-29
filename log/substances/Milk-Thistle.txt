@@ -1,0 +1,27 @@
+[Substance]
+
+id :: 234
+name :: Milk Thistle
+url :: https://www.erowid.org/herbs/milk_thistle/milk_thistle.shtml
+category :: Herbs
+botanicalClassification :: Family :Compositae (Composite), Genus :Silybum, Species :marianumcommonNames :: Milk Thistle; Marian Thistle; St. Mary's Thistle
+uses :: Liver Tonic (to treat cirrhosis, hepatitis and other liver ailments as well as skin conditions related to poor liver function); Liver Regenerative; May provide an antidote to A. phalloides, the death cap mushroom.
+description :: Milk Thistle is an annual or biennial herb growing up to 6 feet tall, with coarse, prickly-edged leaves streaked with white veins. Flowers are crimson to reddish-violet and grow in solitary globular heads 2 inches across.
+imageURL :: https://www.erowid.org/herbs/milk_thistle/images/milk_thistle_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/milk_thistle/milk_thistle_images.shtml
+lawURL :: https://www.erowid.org/herbs/milk_thistle/milk_thistle_law.shtml
+
+[Images]
+imageEntryList :: Flowering Silybum marianum	https://www.erowid.org/herbs/show_image.php?i=milk_thistle/silybum_marianum_flowers__i2005e0276_disp.jpg	Silybum marianum (Milk Thistle) growing on the side of a dirt road in height of bloom in September.	Photo by Shaina Prizznick, 2006 Erowid.org
+Milk Thistle Seeds	https://www.erowid.org/herbs/show_image.php?i=milk_thistle/milk_thistle1.jpg	Color photo of a small pile of whole milk thistle seeds.	Photo by Erowid, &copy; 2002 Erowid.org
+Milk Thistle Seeds	https://www.erowid.org/herbs/show_image.php?i=milk_thistle/milk_thistle2.jpg	Color photo of a small pile of milk thistle seeds next to a penny to show size.	Photo by Erowid, &copy; 2002 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Milk Thistle
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Milk Thistle (Silybum marianum) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: 

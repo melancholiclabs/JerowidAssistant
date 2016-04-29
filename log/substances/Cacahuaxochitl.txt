@@ -1,0 +1,26 @@
+[Substance]
+
+id :: 143
+name :: Cacahuaxochitl
+url :: https://www.erowid.org/plants/cacahuaxochitl/cacahuaxochitl.shtml
+category :: Plants
+botanicalClassification :: Family :Malvaceae (form. Bombacaceae), Genus :Quararibea, Species :funebriscommonNames :: Cacahuaxochitl; Rosita de Cacao; Molinillo
+effectsClassification :: Unknown
+description :: Quararibea funebris is an aromatic tree that's flowers are closely associated with traditional cacao use, especially as a froth thickener for the Oaxacan cacao drink tejate. It has been suggested as a possible identification of the Aztec entheogen "poyomatli".
+imageURL :: https://www.erowid.org/plants/cacahuaxochitl/images/cacahuaxochitl_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/cacahuaxochitl/cacahuaxochitl_images.shtml
+lawURL :: https://www.erowid.org/plants/cacahuaxochitl/cacahuaxochitl_law.shtml
+
+[Images]
+imageEntryList :: Quararibea funebris (Cacahuaxochitl) Flower against Leaf	https://www.erowid.org/plants/show_image.php?i=cacahuaxochitl/quararibea_funebris__i2007e0959_disp.jpg	Photos of Quararibea funebris flowers from the Kampong National Tropical Botanical Garden in Coconut  Grove, Florida. [FL]	Photo by Lichenology. &copy; 2007 Erowid.org
+Quararibea funebris (Cacahuaxochitl) Flower, Stem, and Leaf	https://www.erowid.org/plants/show_image.php?i=cacahuaxochitl/quararibea_funebris__i2007e0958_disp.jpg	Photo of Quararibea funebris from the Kampong National Tropical Botanical Garden in Coconut  Grove, Florida. [FL]	Photo by Lichenology. &copy; 2007 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Quararibea funebris
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: Cacahuaxochitl is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: 

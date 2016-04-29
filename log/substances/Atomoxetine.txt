@@ -1,0 +1,21 @@
+[Substance]
+
+id :: 254
+name :: Atomoxetine
+url :: https://www.erowid.org/pharms/atomoxetine/atomoxetine.shtml
+category :: Pharms
+commonNames :: Strattera
+effectsClassification :: ADHD Treatment
+chemicalName :: (-)-N-methyl-3-phenyl-3-(o-tolyloxy)-propylamine
+description :: Atomoxetine is a selective norepinephrine reuptake inhibitor (SNRI) approved as a less stimulating treatment for ADHD in 2002 (U.S.). The precise mechanism by which it produces its therapeutic effects is unknown, but is thought to be related to its SNRI action.
+imageURL :: https://www.erowid.org/pharms/atomoxetine/images/atomoxetine_summary2.jpg
+imagesURL :: https://www.erowid.org/pharms/atomoxetine/atomoxetine_images.shtml
+
+[Images]
+imageEntryList :: 60 mg Atomoxetine (Strattera) Capsule	https://www.erowid.org/pharms/show_image.php?i=atomoxetine/atomoxetine_capsule__i2007e1210_disp.jpg	A single blue and yellow 60 mg atomoxetine (Strattera) capsule produced by Lilly. [USA]	Photo by Yug Eno. &copy; 2009 Erowid.org
+40 mg Atomoxetine Capsules	https://www.erowid.org/pharms/show_image.php?i=atomoxetine/atomoxetine_capsule__i2007e0782_disp.jpg	Bottle and blue 40 mg atomoxetine (Strattera) capsules. [MN, USA]	Photo by 4nic8. &copy; 2009 Erowid.org
+40 mg Atomoxetine Capsule	https://www.erowid.org/pharms/show_image.php?i=atomoxetine/strattera_capsule1.jpg	A single blue 40 mg Strattera capsule.	Photo by Tyler Prashaw. &copy; 2006 Erowid.org
+25 mg Atomoxetine Capsules	https://www.erowid.org/pharms/show_image.php?i=atomoxetine/atomoxetine_capsule__i2007e0985_disp.jpg	25 mg atomoxetine (Strattera) capsules in blister packs and box. [QB, Canada]	Photo by anonymous. &copy; 2009 Erowid.org
+25 mg Atomoxetine Capsules	https://www.erowid.org/pharms/show_image.php?i=atomoxetine/atomoxetine_capsule__i2007e1242_disp.jpg	A collection of blue and white atomoxetine (Strattera) capsules on a table. [TN, USA]	Photo by anonymous. &copy; 2009 Erowid.org
+Atomoxetine Capsules and Bottle	https://www.erowid.org/pharms/show_image.php?i=atomoxetine/atomoxetine_capsule__i2008e1488_disp.jpg	Sample bottle of white 10 mg atomoxetine (Strattera) capsules used for the treatment of ADD/ADHD. [FL, USA]	Photo by Beersyourfriend. &copy; 2009 Erowid.org
+Atomoxetine 2D Molecule	https://www.erowid.org/pharms/show_image.php?i=atomoxetine/atomoxetine_2d.gif	Still 2D image of the Atomoxetine molecule.	Image by Erowid, &copy; 2006 Erowid.org

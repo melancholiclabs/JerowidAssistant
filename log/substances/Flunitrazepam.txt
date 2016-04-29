@@ -1,0 +1,63 @@
+[Substance]
+
+id :: 278
+name :: Flunitrazepam
+url :: https://www.erowid.org/pharms/flunitrazepam/flunitrazepam.shtml
+category :: Pharms
+commonNames :: Rohypnol; Hypnodorm; Narcozep; Ruffies; Roofies
+effectsClassification :: Sedative; Benzodiazepine
+chemicalName :: 5-(o-fluorophenyl)-1,3-dihydro-1-methyl-7-nitro-2H-1,4-benzodiazepin-2-one
+description :: Flunitrazepam is a benzodiazepine used as a sleep medication favored for its rapid onset and long duration. Flunitrazepam has a half-life of over 14 hours and an active metabolite, resulting in a very long total duration of effects. It received a lot of attention as a "date rape drug" in the U.S. in the 1990s.
+imageURL :: https://www.erowid.org/pharms/flunitrazepam/images/flunitrazepam_summary1.jpg
+basicsURL :: https://www.erowid.org/pharms/flunitrazepam/flunitrazepam_basics.shtml
+imagesURL :: https://www.erowid.org/pharms/flunitrazepam/flunitrazepam_images.shtml
+lawURL :: https://www.erowid.org/pharms/flunitrazepam/flunitrazepam_law.shtml
+
+[Basics]
+description :: Flunitrazepam is marketed as "Rohypnol" by Hoffman - La Roche in Latin America and Europe. It is sold as a treatment for insomnia as well as pre-anaesthetic medication. One of its primary actions is to cause anterograde amnesia, as well as general feelings of intoxication. It is used by some in the rave scene as a recreational psychoactive. While it is perhaps best known as a 'date rape drug' due to its use by a small number of people to facilitate date rape, this use is relatively rare. [ Main Flunitrazepam Vault ]
+descriptionSections :: dose	Flunitrazepam is available in .5, 1 and 2 mg tablets (although the 2 mg tablets were phased out between 1996-1999).
+price	Rohypnol is available on the black market for as little as $4-5 per tablet and as high as $15 per tablet.
+law	Flunitrazepam is Schedule IV in the United States, but more importantly it is not approved by the FDA for human consumption so it is not available by prescription and is not legal to possess. Reportedly U.S. customs seizes even small quantities coming across the borders, even by those with valid prescriptions from other countries.
+chemistry	Chemistry Summary Needed.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	History Summary Needed.
+terminology	Brand Names:Rohypnol (Hoffman-La Roche). The Substance:Flunitrazepam; Roofies; Rophies; Roche; Forget-me Pill; Circles; Mexican Valium; Rib; Roach-2; Roopies; Rope; Ropies; Ruffies; Roaches The Experience:No common terms known.
+effects :: Rohypnol can cause anterograde amnesia, decreased blood pressure, drowsiness, visual disturbances, dizziness, confusion, gastrointestinal disturbances, and urinary retention. Some people report that it feels similar to alcohol intoxication, but without a hangover.
+effectsSections :: onset	Onset Summary Needed.
+duration	Duration Summary Needed.
+visuals	Visuals Summary Needed.
+problems :: Problems Summary Needed.
+problemsSections :: contraindications	Contraindications Summary Needed.
+addiction	Addiction Potential Summary Needed.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Images]
+imageEntryList :: Rohypnol	https://www.erowid.org/pharms/show_image.php?i=flunitrazepam/rohypnol_tablet5.jpg	Color photo of the front of a 1 mg Rohypnol (Flunitrazepam) tablet imprinted with "542" by Roche Pharmaceuticals. (Sweden)	Photo by Theft, &copy; 2005 Erowid.
+Rohypnol Green Tablet	https://www.erowid.org/pharms/show_image.php?i=flunitrazepam/rohypnol_tablet3.jpg	Color photo of front and back of the Green 1 mg Greek "Hipnosodon" (Flunitrazepam) tablets by Roche Pharmaceuticals containing blue dye.	Photo by Erowid, &copy; 2001 Erowid.org
+Rohypnol White	https://www.erowid.org/pharms/show_image.php?i=flunitrazepam/rohypnol_tablet4.jpg	Color photo of 2 mg and 1 mg tablets of Flunitrazepam from Japan by Roche Pharmaceuticals.	Photo by Mean Cinderella, &copy; 2003 Erowid.
+Rohypnol	https://www.erowid.org/pharms/show_image.php?i=flunitrazepam/rohypnol2.jpg	Black and white photo of the back of a bubble-pack of 2 mg tablets of rohypnol, produced by Roche.	Photographer Unknown.
+Rohypnol 	https://www.erowid.org/pharms/show_image.php?i=flunitrazepam/rohypnol1.gif	Color photo showing front and back of the Rohypnol tablets. These tablets contain dye intended to color a drink if added to it.	Photo by Erowid, &copy; 2001 Erowid.org
+Rohypnol	https://www.erowid.org/pharms/show_image.php?i=flunitrazepam/rohypnol2.gif	Color photo of both sides of a Rohypnol tablet. This tablet has a single scoring on one side and "Roche" with a circled "1" on the other. Some pills have cross-scoring and a circled "2".	Photographer Unknown.
+Flunitrazepam	https://www.erowid.org/pharms/show_image.php?i=flunitrazepam/flunitrazepam1.jpg	Color photo of two 1 mg Greek "Hipnosodon" (Flunitrazepam) tablets by Roche Pharmaceuticals.	Photo by Anonymous Photographer, &copy; 2000 Erowid.
+Flunitrazepam	https://www.erowid.org/pharms/show_image.php?i=flunitrazepam/flunitrazepam2.jpg	Color photo of a bubblepack of 1 mg flunitrazepam tablets.	Photo by Anonymous Photographer, &copy; 2005 Erowid.
+Flunitrazepam	https://www.erowid.org/pharms/show_image.php?i=flunitrazepam/flunitrazepam3.jpg	Color photo of the front of a flunitrazepam box. (Belgium)	Photo by JDK, &copy; 2005 Erowid.
+Flunitrazepam 2D Molecule	https://www.erowid.org/pharms/show_molecule.php?i=flunitrazepam/flunitrazepam_2d.gif	Still 2D image of the Flunitrazepam molecule.	Image by Erowid, &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Flunitrazepam
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule IV
+CLASSIFICATION	Depressant
+federalLawText :: Flunitrazepam (rohypnol) is Schedule IV in the U.S. This means it is illegal to sell without a license and illegal to possess without a valid license or prescription.
+stateLaw :: Idaho	Flunitrazepam is Schedule I in Idaho. See Idaho Statutes.
+Minnesota	Flunitrazepam is Schedule I in Minnesota. See Minnesota Office of the Revisor of Statutes.
+Oklahoma	Flunitrazepam is Schedule I in Oklahoma. See Oklahoma Schedule I.
+internationalLaw :: Australia	We have been told that, in Australia, flunitrazepam is a Schedule 8 drug meaning that it is illegal to possess without a valid prescription or license. If one is caught with flunitrazepam without a valid prescription, they can be charged with Trafficking in a Drug of Dependance. Flunitrazepam is only allowed to be sold in 1 mg pills under the brand name Hypnodorm. (unconfirmed) (thanks SF) (last updated Mar 27, 2007)
+Canada	Flunitrazepam was added to Schedule I in 2012 (see http://www.parl.gc.ca/HousePublications/Publication.aspx?Docid=5124131&file=4). after having been Schedule III. (thanks pgg) (last updated Sep 25 2012)
+Germany	Flunitrazepam is available by prescription in Germany. Sold under the brand name "Rohypnol", produced by Roche, it comes in 10 or 20 tablet packages at 1 mg per tablet. Also available in 2 mg ampulla. (thanks T,PM) (last updated Mar 22, 2010)
+Norway	One visitor writes that flunitrazepam (sold as Flunipam) is a controlled substance and is a prescription-only drug. (unconfirmed) (thanks O) (last updated May 11 2010)
+Sweden	Flunitrazepam is a Class 2 drug in Sweden, with most other benzodiazepines in Class 4. Flunitrazepam is available as a prescription drug under the brand names Flunitrazepam and Fluscand. Comes in 20,50,100, and 250 tablet packages with each tablet at 0.5 or 1.0 mg. (unconfirmed) (thanks r) (last updated May 13 2011)

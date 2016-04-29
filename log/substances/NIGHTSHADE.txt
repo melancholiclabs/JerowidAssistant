@@ -1,0 +1,38 @@
+[Substance]
+
+id :: 239
+name :: NIGHTSHADE
+url :: https://www.erowid.org/herbs/nightshade/nightshade.shtml
+category :: Herbs
+botanicalClassification :: Family :Solanaceae, Genus :Atropa, Species :belladonnaGenus :SolanumSpecies :carolinense; citrullifolium; dulcamera; nigrum; physalifolium (=sarrachoides)commonNames :: A. belladonna: Belladonna; Deadly Nightshade S. carolinense: Horse Nettle; Apple of Sodom S. citrullifolium: Melon-leaf Nightshade S. dulcamara: Woody or Climbing Nightshade S. nigrum: Black or Common nightshade S. physalifolium: Green or Hairy Nighshade
+uses :: Used to treat minor burns, abrasions, and skin irritations.
+description :: A. belladonna - Black berries, purple flowers. Bushy plant growing 3-6 feet tall. S. carolinense - Small orange berries. S. citrullifolium - Fruit is enclosed in a prickly shell. S. dulcamera - Red berries, purple flowers. Perennial climber.  S. nigrum - Black berries, white flowers. Small bushy plant growing 1-2 feet tall. S. sarrachoides - Green berries, white flowers. Small plant growing 1-2 feet tall with hairy foliage that feels sticky to the touch.
+imageURL :: https://www.erowid.org/herbs/nightshade/images/nightshade_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/nightshade/nightshade_images.shtml
+lawURL :: https://www.erowid.org/herbs/nightshade/nightshade_law.shtml
+
+[Images]
+imageEntryList :: Solanum dulcamara	https://www.erowid.org/herbs/show_image.php?i=nightshade/solanum_dulcamara1.jpg	Color photo of S. dulcamara leaf. [September 2002, Northumberland, England]	Photo by George Strachan, &copy; 2002 Erowid.org
+Solanum dulcamara	https://www.erowid.org/herbs/show_image.php?i=nightshade/solanum_dulcamara2.jpg	Color photo of S. dulcamara berries. [September 2002, Northumberland, England]	Photo by George Strachan, &copy; 2002 Erowid.org
+Solanum dulcamara	https://www.erowid.org/herbs/show_image.php?i=nightshade/solanum_dulcamara3.jpg	Color photo of S. dulcamara flowers. [September 2002, Northumberland, England]	Photo by George Strachan, &copy; 2002 Erowid.org
+Solanum dulcamera	https://www.erowid.org/herbs/show_image.php?i=nightshade/erin-powell_pol_0574__i2003e0127_disp.jpg	A large cluster of berries on a mature Solanum dulcamara. This plant grows as a weed along the local creek. [IN, USA]	Photo by Erin-Powell. &copy; 2008 Erowid.org
+Solanum nigrum Plant	https://www.erowid.org/herbs/show_image.php?i=nightshade/solanum_nigrum1.jpg	Color photo showing the hairy leaves and small white flowers of an S. nigrum plant (cultivated outdoors in N. California).	Photo by Erowid, &copy; 2001 Erowid.org
+Solanum nigrum Plant	https://www.erowid.org/herbs/show_image.php?i=nightshade/solanum_nigrum2.jpg	Color photo showing a branch of an S. nigrum plant with berries and flowers. (N. California).	Photo by Erowid, &copy; 2001 Erowid.org
+Solanum nigrum Plant	https://www.erowid.org/herbs/show_image.php?i=nightshade/solanum_nigrum_plant1.jpg	Color photo of a 2 &frac12; foot tall S. nigrum plant cultivated outdoors in Northern California.	Photo by Erowid, &copy; 2001 Erowid.org
+Solanum nigrum Flower	https://www.erowid.org/herbs/show_image.php?i=nightshade/solanum_nigrum_flower1.jpg	Color photo showing the 5 petalled white S. nigrum flower. Flower is approx 7-8 mm across (N. California).	Photo by Erowid, &copy; 2001 Erowid.org
+Solanum nigrum Flower	https://www.erowid.org/herbs/show_image.php?i=nightshade/solanum_nigrum_flower2.jpg	Close-up color photo showing the white S. nigrum flower. Flower is approx 7-8 mm across (N. California).	Photo by Erowid, &copy; 2001 Erowid.org
+Solanum nigrum Berries	https://www.erowid.org/herbs/show_image.php?i=nightshade/solanum_nigrum_fruit2.jpg	Color photo showing both black (ripe) and green (unripe) S. nigrum berries. Berries are approx 7-8 mm in diameter. (N. California)	Photo by Erowid, &copy; 2001 Erowid.org
+Solanum nigrum Berries	https://www.erowid.org/herbs/show_image.php?i=nightshade/solanum_nigrum_fruit3.jpg	Color photo showing small green (unripe) S. nigrum berries. These unripe berries ranged from 3-6 mm in diameter. (N. California)	Photo by Erowid, &copy; 2001 Erowid.org
+Solanum nigrum Berries	https://www.erowid.org/herbs/show_image.php?i=nightshade/solanum_nigrum_fruit1.jpg	Color scan showing cross-sections of both ripe and unripe S. nigrum berries. Also shows oblong seeds approx 1.5 mm in diameter. (N. California)	Image by Erowid, &copy; 2001 Erowid.org
+Solanum nigrum Leaves	https://www.erowid.org/herbs/show_image.php?i=nightshade/solanum_nigrum3.jpg	Color scan showing a small number of S. nigrum leaves. (N. California)	Image by Erowid, &copy; 2001 Erowid.org
+Solanum nigrum Leaf	https://www.erowid.org/herbs/show_image.php?i=nightshade/solanum_nigrum_leaf1.jpg	Color scan showing a single S. nigrum leaf, as well as a magnification of the hairs on the leaf. (N. California)	Image by Erowid, &copy; 2001 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Nighshade
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: Nighshade is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: Louisiana	Effective Aug 8, 2005 (signed into law Jun 28, 2005) Louisiana Act No 159 makes 40 plants illegal, including Solanum carolinense, when intended for human consumption. The law specifically excludes the "possession, planting, cultivation, growing, or harvesting" of these plants if used "strictly for aesthetic, landscaping, or decorative purposes." (Text of HLS_05RS-52 and Update June 2005)
+internationalLaw :: 

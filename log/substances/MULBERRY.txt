@@ -1,0 +1,21 @@
+[Substance]
+
+id :: 238
+name :: MULBERRY
+url :: https://www.erowid.org/herbs/mulberry/mulberry.shtml
+category :: Herbs
+botanicalClassification :: Family :Moraceae (Mulberry), Genus :Morus, Species :rubra; alba; nigracommonNames :: M. rubra : Red Mulberry; American Mulberry M. alba : White Mulberry M. nigra : Black Mulberry; Common Mulberry
+uses :: Used in the cultivation of silkworms; Roots used as a laxative; Unripe fruit and young greens are said to have hallucinogenic properties and are known to contain Piperidine alkaloids.
+description :: Morus rubra is a fast-growing tree up to 50 ft tall with a light brown or grey trunk up to 1 foot in diameter. Fruits are tiny with one seed each, crowded into large clusters considered a single 'berry'.
+imageURL :: https://www.erowid.org/herbs/images/herbs_spacer_summary.jpg
+lawURL :: https://www.erowid.org/herbs/mulberry/mulberry_law.shtml
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Mulberry
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Mulberry (Morus spp) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: 

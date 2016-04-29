@@ -1,0 +1,23 @@
+[Substance]
+
+id :: 304
+name :: Pregabalin
+url :: https://www.erowid.org/pharms/pregabalin/pregabalin.shtml
+category :: Pharms
+commonNames :: Lyrica
+effectsClassification :: Anelgesic; Anticonvulsant; Anxiolytic
+chemicalName :: (S)-3-(aminomethyl)-5-methylhexanoic acid
+description :: Pregabalin is a GABA derivative used to treat neuropathic pain and seizures. It is approved for treatment of anxiety disorders in the EU. A small number of users (~4%) report euphoria after use, which led to its control in the U.S.
+imageURL :: https://www.erowid.org/pharms/pregabalin/images/pregabalin_summary1.jpg
+lawURL :: https://www.erowid.org/pharms/pregabalin/pregabalin_law.shtml
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Pregabalin
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule V
+CLASSIFICATION	Depressant
+federalLawText :: Pregabalin is Schedule V in the U.S. This means it is illegal to sell without a license and illegal to possess without a valid license or prescription.
+stateLaw :: null
+internationalLaw :: E.U.	Pregabalin is available as a prescription medicine in E.U. countries. (thanks A)

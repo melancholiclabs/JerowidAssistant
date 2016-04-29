@@ -1,0 +1,29 @@
+[Substance]
+
+id :: 319
+name :: Trazodone
+url :: https://www.erowid.org/pharms/trazodone/trazodone.shtml
+category :: Pharms
+commonNames :: Desyrel; Sideril; Trazon; Trialodine; Molipaxin
+effectsClassification :: Antidepressant; Sedative
+chemicalName :: 2-[3-{4 -(m-chlorophenyl)-1-piperazinyl] propyl]s-triazol[4,3-a]-pyridine-3(2H)-one monohydrochloride
+description :: Trazodone is a serotonin modulator used in the treatment of depression. It is also prescribed for the treatment of insomnia, post-traumatic stress disorder, aggressive behavior and cocaine withdrawal. It acts both through serotonin receptor antagonism and re-uptake blockade (Rotzinger 1998).
+imageURL :: https://www.erowid.org/pharms/trazodone/images/trazodone_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/trazodone/trazodone_images.shtml
+lawURL :: https://www.erowid.org/pharms/trazodone/trazodone_law.shtml
+
+[Images]
+imageEntryList :: Trazodone Tablets	https://www.erowid.org/pharms/show_image.php?i=trazodone/trazodone1.jpg	Color photo of three types of Trazodone tablets. US Generic 100 mg tablets, US Generic 50 mg tablets, and Japanese brand 25 mg tablets. (U.S. & Japan)	Photo by Mean Cinderella, &copy; 2002 Erowid.org
+50 mg Trazodone Tablets	https://www.erowid.org/pharms/show_image.php?i=trazodone/trazodone_tablet2.jpg	Generic white 50 mg trazodone tablets bearing the imprint "R || 439". Manufactured by Purepac. [IA, USA]	Photo by Pharmstudent, &copy; 2005 Erowid.org
+100 mg Trazodone Tablets	https://www.erowid.org/pharms/show_image.php?i=trazodone/trazodone_tablet__i2005e0495_disp.jpg	Nine 100 mg Trazodone tablets with the imprint "93 / 637" [WA, USA]	Photo by Anonymous. &copy; 2006 Erowid.org
+150 mg Trazodone Tablets	https://www.erowid.org/pharms/show_image.php?i=trazodone/trazodone_tablet__i2006e0174_disp.jpg	Front and back of two 150 mg Trazodone tablets imprinted with "APO-150 || 50/25/25/50". [BC, Canada]	Photo by Geoff Freeman. &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Trazodone
+REGULATED	Yes
+STATUS	Prescription Only
+SCHEDULE	Un-Scheduled
+federalLawText :: Trazodone (Desyrel) is unscheduled in the United States, but is available by prescription only. This means that sales and distribution are allowed only by those with a license and only to those with a prescription (according to FDA regulations). Possession is not illegal even without a prescription.
+stateLaw :: null
+internationalLaw :: 

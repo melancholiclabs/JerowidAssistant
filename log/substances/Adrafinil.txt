@@ -1,0 +1,45 @@
+[Substance]
+
+id :: 324
+name :: Adrafinil
+url :: https://www.erowid.org/smarts/adrafinil/adrafinil.shtml
+category :: Smarts
+commonNames :: Olmifon (discontinued)
+effectsClassification :: Stimulant
+chemicalName :: benzhydrylsulphinyl-acetohydroxamic acid
+description :: Adrafinil is a mild central nervous system stimulant used in the treatment of fatigue and sleepiness. It is said to increase mental acuity and is sometimes marketed as a "eugeroic" ("causing good arousal").
+imageURL :: https://www.erowid.org/smarts/adrafinil/images/olmifon_summary1.jpg
+imagesURL :: https://www.erowid.org/smarts/adrafinil/adrafinil_images.shtml
+healthURL :: https://www.erowid.org/smarts/adrafinil/adrafinil_health.shtml
+lawURL :: https://www.erowid.org/smarts/adrafinil/adrafinil_law.shtml
+chemistryURL :: https://www.erowid.org/smarts/adrafinil/adrafinil_chemistry.shtml
+
+[Images]
+imageEntryList :: Adrafinil Powder	https://www.erowid.org/smarts/show_image.php?i=adrafinil/adrafinil_powder__i2012e0332_disp.jpg	5 gram bag of adrafinil powder. [Washington DC, USA]	Photo by Murple. &copy; 2012 Erowid.org
+Olmifon Tablet	https://www.erowid.org/smarts/show_image.php?i=adrafinil/olmifon_tablet1.jpg	A single 300 mg tablet of Olmifon-brand Adrafinil.	Photo by Erowid, &copy; 2002 Erowid.org
+Adrafinil 2D Molecule	https://www.erowid.org/smarts/show_molecule.php?i=adrafinil/adrafinil_2d.gif	Still 2D image of the Adrafinil molecule.	Image by Erowid, &copy; 2001 Erowid.org
+Adrafinil 3D Rotating Molecule	https://www.erowid.org/smarts/show_molecule.php?i=adrafinil/adrafinil__.mol	Rotating 3D image of the Adrafinil molecule.	Image by Erowid, &copy; 2001 Erowid.org
+
+[Health]
+notes :: null
+deaths :: null
+warnings :: null
+cautions :: null
+benefits :: null
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Adrafinil
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: Adrafinil is an uncontrolled sustance in the United States meaning it is legal to possess without any sort of license or prescription. Sales, distribution, and labelling are regulated by FDA rules if sold for human consumption.
+stateLaw :: null
+internationalLaw :: France	First approved for sale in 1981, Adrafinil was sold as a prescription medication and online without prescription for many years and then withdrawn from the market in September 2011. See http://www.smarternootropics.com/2012/01/cephalon-europe-discontinues-olmifon-adrafinil/. (thanks m) (last updated Jan 19 2012)
+Laos	reportedly available over-the-counter but rare.
+New Zealand	Prescription only. See Medsafe.govt.nz. (thanks a) (last updated Sep 20 2010)
+South Africa	reportedly available over-the-counter but rare.
+
+[Chemistry]
+chemTable :: null
+moleculeURL :: https://www.erowid.org/smarts/adrafinil/images/archive/adrafinil_2d.gif

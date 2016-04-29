@@ -1,0 +1,11 @@
+[Substance]
+
+id :: 347
+name :: Vitamins
+url :: https://www.erowid.org/smarts/vitamins/vitamins.shtml
+category :: Smarts
+commonNames :: Many
+effectsClassification :: Vitamins
+chemicalName :: Various
+description :: Vitamins are organic (carbon-containing) molecules that are necessary for the functioning of the human body. They have a wide range of effects and functions.
+imageURL :: https://www.erowid.org/smarts/images/smarts_spacer_summary.jpg

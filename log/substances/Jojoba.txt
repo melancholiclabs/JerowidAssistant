@@ -1,0 +1,26 @@
+[Substance]
+
+id :: 230
+name :: Jojoba
+url :: https://www.erowid.org/herbs/jojoba/jojoba.shtml
+category :: Herbs
+botanicalClassification :: Family :Buxaceae, Genus :Simmondsia, Species :chinensis; californicacommonNames :: Jojoba; Goat-nut
+uses :: Wax from Jojoba beans were used in shampoo by American Indians and are still used in many modern shampoos.
+description :: Jojoba is an evergreen shrub which grows in abundance on rocky desert hillsides in Arizona, California, and Mexico. The seeds of the plant resemble coffee beans.
+imageURL :: https://www.erowid.org/herbs/images/herbs_spacer_summary.jpg
+imagesURL :: https://www.erowid.org/herbs/jojoba/jojoba_images.shtml
+lawURL :: https://www.erowid.org/herbs/jojoba/jojoba_law.shtml
+
+[Images]
+imageEntryList :: Simmondsia chinensis	https://www.erowid.org/herbs/show_image.php?i=jojoba/simmondsia_chinensis1.jpg	Color photo of leaves and branches of male plant.	Photo by Henriette Kress.
+Simmondsia chinensis	https://www.erowid.org/herbs/show_image.php?i=jojoba/simmondsia_chinensis2.jpg	Color photo of female plant.	Photo by Henriette Kress.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Jojoba
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Jojoba is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: 

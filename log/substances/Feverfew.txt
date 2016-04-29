@@ -1,0 +1,26 @@
+[Substance]
+
+id :: 220
+name :: Feverfew
+url :: https://www.erowid.org/herbs/feverfew/feverfew.shtml
+category :: Herbs
+botanicalClassification :: Family :Compositae (=Composite), Genus :Tanacetum (Former: Chrysanthemum), Species :partheniumGenus :MatricariaSpecies :parthenoidescommonNames :: Featherfew; Featherfoil; Bachelor's Button; Wild Chamomile
+uses :: Reduces fever and headaches including migraines; Leaves and stems are used to make a yellow dye.
+description :: A hardy biennial or perennial, growing up to 1 meter. Stem is erect, hairy, furrowed, and branching. Leaves are yellowish-green and strongly aromatic. Daisylike flowerheads, with white ray flowers surrounding nearly flat yellow centers (disc flowers), grow about 1 inch across.
+imageURL :: https://www.erowid.org/herbs/feverfew/images/feverfew_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/feverfew/feverfew_images.shtml
+lawURL :: https://www.erowid.org/herbs/feverfew/feverfew_law.shtml
+
+[Images]
+imageEntryList :: Tanacetum parthenium	https://www.erowid.org/herbs/show_image.php?i=feverfew/tanacetum_parthenium_flower__i2007e0380_disp.jpg	Flowering Tanacetum parthenium (Feverfew). [KY, USA]	Photo by Gary Eldridge. &copy; 2007 Erowid.org
+Tanacetum parthenium	https://www.erowid.org/herbs/show_image.php?i=feverfew/chrysanthemum_parthenium1.jpg	Color photo of large flowering plant. Image from The Illustrated Encyclopedia of Perennials.	Photographer Unknown.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Eyebright
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Feverfew (Chrysanthemum parthenium) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: 

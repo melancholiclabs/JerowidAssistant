@@ -1,0 +1,56 @@
+[Substance]
+
+id :: 4
+name :: 2C-B-Fly
+url :: https://www.erowid.org/chemicals/2cb_fly/2cb_fly.shtml
+category :: Chemicals
+commonNames :: 2C-Bromo-Fly
+effectsClassification :: Psychedelic Phenethylamine
+chemicalName :: 1-(8-Bromo-2,3,6,7-tetrahydrobenzo[1,2-b:4,5-b'] difuran-4-yl)-2-aminoethane
+description :: 2C-B-fly is a synthetic psychedelic with effects similar to those of 2C-B. It is very uncommon with only a short history of human use.
+imageURL :: https://www.erowid.org/chemicals/2cb_fly/images/2cb_fly_summary1.jpg
+effectsURL :: https://www.erowid.org/chemicals/2cb_fly/2cb_fly_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/2cb_fly/2cb_fly_images.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Effects]
+duration :: 2C-B-Fly Duration
+Oral
+Total Duration	6 - 10 hrs
+Onset	30 - 60 mins
+Coming Up	90 - 120 mins
+Plateau	2 - 4 hrs
+Coming Down	2 - 3 hrs
+&nbsp;	&nbsp;
+After Effects	2 - 12 hrs
+Hangover / Day After	- - -
+positiveEffects :: euphoria, mood lift	enhanced empathy/increased sociability	feelings of insight	brightening of colors	closed- and open-eye visuals	mental and physical stimulation	increased tactile sensation
+neutralEffects :: general change in consciousness (as with most psychoactives)	restlessness/stimulation	change in perception of time	pupil dilation	unusual thoughts and speech	reduced physical coordination	unusual body sensations (facial flushing, chills, goosebumps, body energy)	change in body temperature regulation	synesthesia	ego softening (but less than LSD, mescaline, or psilocybin mushrooms)
+negativeEffects :: uncomfortable changes in body temperature (sweating/chills)	dry mouth	nausea and/or vomiting	tension, muscle twitching	headache	confusion, difficulty concentrating, problems with activities requiring linear focus	insomnia	unwanted and overwhelming feelings	unpleasant visions	very elevated heart rate	paranoia, fear, and panic
+description :: The effects of 2C-B-fly have been described as somewhat similar to those of 2C-B. It is mildly psychedelic, much less mind-expanding or dissociative than mushrooms or LSD, but much less directed than MDMA.	
+2C-B-fly includes Open Eye Visual (OEV) effects which are usually described as morphing, rippling, shifting, or undulating. Closed Eye Visuals (CEVs) are present and increase with dosage. Some reports have described vivid mental images or visions (as opposed to visuals) with eyes closed.	
+2C-B-fly has a large "body" component which some describe as a body-buzz. In general, 2C-B-fly has a somewhat "positive" mood push as well as a mild stimulant effect, however, lethargy, or feeling "stoned" has also been reported.	
+Some people experience stomach discomfort including mild diarrhea, gas and nausea.	
+Some people find 2C-B-fly increases their ability to communicate verbally, while others find themselves unable to elucidate their ideas clearly. Some people describe confusion, and/or intense rushing feelings.	
+Many people report that 2C-B-fly effects come in waves, cycling between feeling very involved in the experience to feeling quite 'sober' at times. These changes can occur quite quickly and can be unexpected.	
+Some people complain of a lack of mind-manifesting qualities and suggest 2C-B-fly lacks the depth of other psychedelics. However, other users report good therapeutic potential.	
+As with all psychedelics, many people experience the coming up period as being somewhat uncomfortable. Effects may include shivering, temperature fluctuation, muscle tension, and excess energy.	
+As with other entheogens, it is unsafe to drive or use dangerous equipment with 2C-B-fly because it affects attention span, visual acuity, concentration, and coordination. If you use 2C-B-fly, plan your entheogen experiences carefully and think ahead so you don't ever find yourself needing to drive during the experience.
+experienceReports :: null
+
+[Images]
+imageEntryList :: Contaminated or Mislabeled 2C-B-Fly Powder	https://www.erowid.org/chemicals/show_image.php?i=2cb_fly/2cb_fly_batch_b1__i2009e0899_disp.jpg	A zip-lock bag containing 500 mg of powder identified on the label as 2C-B-fly. However, batch "b1" of this material (and possibly others) is suspected to be contaminated or mislabeled and has been associated with at least one death in October 2009. [U.K.]	Photo by Anonymous. &copy; 2009 Erowid.org
+TLC with Marquis Comparing "2C-B-Fly" Sample with References	https://www.erowid.org/chemicals/show_image.php?i=2cb_fly/2cb_fly_energy_control_tlc__i2009e0972_disp.jpg	A thin layer chromotraphic look at some Marquis-reagent treated samples of various phenethylamines, comparing with sample of chemical sold as 2C-B-fly that may have killed two people in October 2009.	Photo by EnergyControl (Spain). &copy; 2009 Erowid.org
+GC/MS of Fake 2C-B-Fly Indicates Bromo-Dragonfly	https://www.erowid.org/chemicals/show_image.php?i=2cb_fly/2cb_fly_energy_control_gcms__i2009e0975_custom.png	GC/MS Analysis of Sample of Fake Haupt-RC 2C-B-Fly Strongly Indicates Bromo-dragonfly with Impurities	Photo by Energy Control (Spain) . &copy; 2009 Erowid.org
+Mass Spectrum of Fake 2C-B-Fly Indicates Bromo-Dragonfly	https://www.erowid.org/chemicals/show_image.php?i=2cb_fly/2cb_fly_energy_control_gcms__i2009e0973_disp.jpg	Mass Spec Analysis of Sample of Fake Haupt-RC 2C-B-Fly Strongly Indicates Bromo-dragonfly with Impurities	Photo by Energy Control (Spain) . &copy; 2009 Erowid.org
+Gas Chromatograph Trace of Fake 2C-B-Fly Indicates Bromo-Dragonfly	https://www.erowid.org/chemicals/show_image.php?i=2cb_fly/2cb_fly_energy_control_gc__i2009e0974_disp.jpg	Gas Chromatograph Analysis of Sample of Fake Haupt-RC 2C-B-Fly Strongly Indicates Bromo-Dragonfly with Impurities	Photo by Energy Control (Spain) . &copy; 2009 Erowid.org
+2C-B-Fly 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=2cb_fly/2cb_fly_2d.gif	Still 2D image of the 2C-B-Fly molecule.	Image by Erowid. &copy; 2006 Erowid.org
+2C-B-Fly 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=2cb_fly/2cb_fly__.mol	Rotating 3D image of the 2C-B-Fly molecule.	Image by Erowid. &copy; 2006 Erowid.org
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

@@ -1,0 +1,80 @@
+[Substance]
+
+id :: 141
+name :: Brugmansia
+url :: https://www.erowid.org/plants/brugmansia/brugmansia.shtml
+category :: Plants
+botanicalClassification :: Family :Solanaceae, Genus :Brugmansia, Species :arborea; candida; sanguinea; ...commonNames :: Tree Datura; Angel's Trumpet; Floripondio; Maikoa
+effectsClassification :: Deliriant
+description :: Brugmansia is a small to mid-size tree with large, strong-smelling, trumpet-shaped flowers hanging downward. Most parts of the plant contain atropine, scopolamine and hyoscyamine. It has been used as an admixture plant in ayahuasca brews as well as in poisons and medicines in S. America.
+imageURL :: https://www.erowid.org/plants/brugmansia/images/brugmansia_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/brugmansia/brugmansia_images.shtml
+lawURL :: https://www.erowid.org/plants/brugmansia/brugmansia_law.shtml
+doseURL :: https://www.erowid.org/plants/datura/datura_dose.shtml
+
+[Images]
+imageEntryList :: Brugmansia arborea	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_arborea1.jpg	One White Flower. Kailua-Kona, Big Island Hawaii, 5/18/98.	Photo by Erowid, &copy; 1998 Erowid.org
+Brugmansia arborea	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_arborea_flower1.jpg	Beautiful photo showing a single white B. arborea flower.	Photo by T. S. Hansen, The Datura Collection, &copy; 2001 Erowid.org
+Brugmansia arborea	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_arborea__i2007e0988_disp.jpg	A large Brugmansia arborea tree in bloom. [LA, USA]	Photo by Anonymous. &copy; 2009 Erowid.org
+Brugmansia arborea	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_arborea2.jpg	Two White Flower. Kailua-Kona, Big Island Hawaii, 5/18/98.	Photo by Erowid, &copy; 1998 Erowid.org
+Brugmansia arborea	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_arborea3.jpg	White Flowers on 25 ft tree. Kailua-Kona, Big Island Hawaii, 5/18/98.	Photo by Erowid, &copy; 1998 Erowid.org
+Brugmansia arborea	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_arborea4.jpg	White Flowers on 15 ft tree. Kailua-Kona, Big Island Hawaii, 5/18/98.	Photo by Erowid, &copy; 1998 Erowid.org
+Brugmansia arborea	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_arborea5.jpg	Several white flowers on large bush in arboretum.	Photographer unknown.
+Brugmansia arborea Flower	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_arborea_flower2.jpg	Color photo showing the inside of a B. arborea flower.	Photo by T. S. Hansen The Datura Collection, &copy; 2001 Erowid.org
+Brugmansia arborea Fruit	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_arborea_fruit1.jpg	Color photo showing 7 stages of fruit development.	Photo by T. S. Hansen The Datura Collection, &copy; 2001 Erowid.org
+Brugmansia arborea Flower	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_arborea_flower3.jpg	Color photo showing a side view of a white Brugmansia arborea flower.	Photo by T. S. Hansen The Datura Collection, &copy; 2001 Erowid.org
+Brugmansia arborea Fruit	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_arborea_fruit2.jpg	Color photo a cross-section of a mature Brugmansia arborea fruit.	Photo by T. S. Hansen The Datura Collection, &copy; 2001 Erowid.org
+Brugmansia aurea	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_aurea1.jpg	Close-up color photo of two white B. aurea flowers. [Emeryville, CA, USA]	Photo &copy; Trout. Used by Erowid with permission.
+Brugmansia aurea	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_aurea2.jpg	Close-up photo of a single white B. aurea flowers. [Emeryville, CA, USA]	Photo &copy; Trout. Used by Erowid with permission.
+Brugmansia aurea	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_aurea_flower__i2002e0055_disp.jpg	A pair of Brugmancia aurea pink flowers taken in summer 2002. [TN, USA]	Photo by Josh Bogen. &copy; 2007 Erowid.org
+Brugmansia aurea pink	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_aurea_pink1.jpg	Color photo of a single white/pink flower.	From the Dan Lieberman Image Library. Used by Erowid with permission.
+Brugmansia x candida	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_xcandida1.jpg	Color photo of a single pinkish flower.	From Psychedelic Shamanism by Jim DeKorne
+Brugmansia aurea 'culebra'	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_xcandida_culebra1.jpg	Color photo of a Brugmansia aurea 'culebra' (also known as Methysticodendron amesianum) plant in flower.	Photo by Abbey Ethnobotanicals, &copy; 2000 Erowid.org
+Brugmansia aurea 'culebra'	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_xcandida_culebra2.jpg	Color photo of a Brugmansia aurea 'culebra' flower.	Photo by Abbey Ethnobotanicals, &copy; 2000 Erowid.org
+Brugmansia aurea 'culebra'	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_xcandida_culebra3.jpg	Close-up color photo of the leaves of Brugmansia aurea 'culebra'. [N. CA, USA]	Photo &copy; Trout. Used by Erowid with permission.
+Brugmansia x insignis	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_insignis_flower1.jpg	Photo of a small Brugmansia x insignis tree in full bloom with yellow/orange flowers. (Oakland, CA, USA)	Photo &copy; Trout. Used by Erowid with permission.
+Brugmansia x insignis	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_insignis_flower2.jpg	Photo of the inside of the bell of two yellow/orange Brugmansia x insignis flowers. (Oakland, CA, USA)	Photo &copy; Trout. Used by Erowid with permission.
+Brugmansia x insignis	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_insignis_flower3.jpg	Color photo of a single yellow/orange Brugmansia x insignis flower. (Oakland, CA, USA)	Photo &copy; Trout. Used by Erowid with permission.
+Brugmansia sanguinea	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_sanguinea__i2005e0241_disp.jpg	Brugmansia sanguinea flowers at three stages of development and a leaf. [Brussels, Belgium]	Photo by Nupulbalam. &copy; 2007 Erowid.org
+Brugmansia sanguinea	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_sanguinea_flower__i2005e0435_disp.jpg	The first beautiful bloom on a 5 year old Brugmansia sanguinea. [CA, USA]	Photo by Garrett Jay Paulus. &copy; 2007 Erowid.org
+Brugmansia sanguinea	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_sanguinea__i2009e0110_disp.jpg	Two large Brugmansia sanguinea ("borrachero") trees in full bloom. [Bogot DC, Colombia]	Photo by Lacara. &copy; 2009 Erowid.org
+Brugmansia sanguinea	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_sanguinea2.jpg	Two Orange/Red Mouthed, Yellow Fluted Flowers.	Photographer unknown.
+Brugmansia sanguinea	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_sanguinea3.jpg	Close-up of single flower.	Photographer unknown.
+Brugmansia sanguinea	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_sanguinea1.jpg	Three Orange/Red Mouthed, Yellow Fluted Flowers.	Photo from Plants of the Gods by Schultes and Hofmann.
+Brugmansia vulcanicola Flower	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_volcanicola_flower1.jpg	Close-up color photo of a single red B. vulcanicola flower. [Strybing Botanical Gardens, SF, CA, USA]	Photo &copy; Trout. Used by Erowid with permission.
+Brugmansia vulcanicola Leaves	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_volcanicola_leaves1.jpg	Close-up color photo of the leaves of a B. vulcanicola tree. [Strybing Botanical Gardens, SF, CA, USA]	Photo &copy; Trout. Used by Erowid with permission.
+Brugmansia vulcanicola Bark	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_volcanicola_bark1.jpg	Close-up color photo of the trunk / bark of a B. vulcanicola tree. [Strybing Botanical Gardens, SF, CA, USA]	Photo &copy; Trout. Used by Erowid with permission.
+Brugmansia vulcanicola	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_volcanicola1.jpg	Color photo of a small B. vulcanicola tree. [Strybing Botanical Gardens, SF, CA, USA]	Photo &copy; Trout. Used by Erowid with permission.
+Brugmansia 'Jamaican Yellow'	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia15.jpg	Color photo of a single 'Jamaican Yellow' Brugmansia flower from underneath.	Photo by Erowid, &copy; 1999 Erowid.org
+Brugmansia spp.	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_spp19.jpg	Color photo of a mid-size tree in heavy bloom with light pink flowers. [NSW, Australia]	Photo by K. Trout. Used by Erowid with permission.
+Brugmansia spp	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia4.jpg	One Orange Flower from 20 ft tree. Kailua-Kona, Big Island Hawaii, 5/18/98.	Photo by Erowid, &copy; 1998 Erowid.org
+Brugmansia spp	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia5.jpg	One White Flower from 6 ft plant. Northern California, 8/15/97.	Photo by Erowid, &copy; 1997 Erowid.org
+Brugmansia spp	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia6.jpg	Two White Flowers from 6 ft plant. Northern California, 8/15/97.	Photo by Erowid, &copy; 1997 Erowid.org
+Brugmansia spp.	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia17.jpg	Color photo of a small Brugmansia plant.	Photo by Scruff, &copy; 2000 Erowid.org
+Brugmansia spp	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia8.jpg	Yellow Flowers on 15 ft tree. Kailua-Kona, Big Island Hawaii, 5/18/98.	Photo by Erowid, &copy; 1998 Erowid.org
+Brugmansia spp	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia9.jpg	One Pink/Orange Flower from 15 ft tree. Kailua-Kona, Big Island Hawaii, 5/18/98.	Photo by Erowid, &copy; 1998 Erowid.org
+Brugmansia spp	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia10.jpg	Pink/Orange Flowers on 15 ft tree. Kailua-Kona, Big Island Hawaii, 5/18/98.	Photo by Erowid, &copy; 1998 Erowid.org
+Brugmansia spp	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia12.jpg	Pink/Orange Flowers on 15 ft tree. Kailua-Kona, Big Island Hawaii, 5/18/98.	Photo by Erowid, &copy; 1998 Erowid.org
+Brugmansia spp	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia11.jpg	Yellow Flowers on 20 ft tree. Kailua-Kona, Big Island Hawaii, 5/18/98.	Photo by Erowid, &copy; 1998 Erowid.org
+Brugmansia spp	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia13.jpg	Pink Flowers on 15 ft tree. Kailua-Kona, Big Island Hawaii, 5/18/98.	Photo by Erowid, &copy; 1998 Erowid.org
+Brugmansia spp.	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia1.jpg	Several Pink/White Flowers on a large bush in an arboretum.	Photographer unknown.
+Brugmansia spp flower	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_flower1.jpg	Inside the Bell of the Trumpet (yellow).	Photo by Ephialtes, &copy; 2000 Erowid.org
+Brugmansia spp	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia2.jpg	White Fluted, Pink Belled Flowers on small plant.	Photographer unknown.
+Brugmansia spp	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_painting1.jpg	Beautiful color painting of pink and white Brugmansia species.	Image by Anonymous Artist, submitted by Roger Bose. Used by Erowid with permission.
+Brugmansia spp	https://www.erowid.org/plants/show_image.php?i=brugmansia/brugmansia_painting2.jpg	Another beautiful color painting of pink and white Brugmansia species.	Image by Anonymous Artist, submitted by Roger Bose. Used by Erowid with permission.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Brugmansia spp.
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: Brugmansia is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: Louisiana	Effective Aug 8, 2005 (signed into law Jun 28, 2005) Louisiana Act No 159 makes 40 plants illegal, including Brugmansia arborea, when intended for human consumption. The law specifically excludes the "possession, planting, cultivation, growing, or harvesting" of these plants if used "strictly for aesthetic, landscaping, or decorative purposes." (Text of HLS_05RS-52 and Update June 2005)
+Tennessee 	Tennessee did not pass the proposed bill that would have banned dozens of plants as "hallucinogenic" when intended for human consumption. Instead, they banned only Salvia divinorum. See Comments on New State Laws Controlling the Consumption of Hallucinogenic Plants.
+internationalLaw :: 
+
+[Dose]
+doseTable :: null
+doseText :: As a general rule, Erowid neither recommends nor discourages the use of any psychoactive, however, in the case of tropane alkaloid-containing Solanaceae plants, we think it is important to note that an overwhelming majority of those who describe to us their use of Datura (and to a lesser extent, Belladonna, Brugmansia and Brunfelsia) find their experiences extremely mentally and physically unpleasant and not infrequently physically dangerous.  There is no way to guess a reasonable dose, because potency of the plant material itself and appropriate dose for an individual appear to vary so much. The question of what "reasonable" means for something that so often leads to such ridiculously negative effects is hard to say.  As an admixture plant in some traditional ayahuasca brews, smoking blends, or other preparations, parts of these plants are generally used in very low doses. Because of the serious adverse consequences associated with tropane alkaloids (scopolamine, atropine, hyoscyamine) intoxication and the wide variation in doses used, we are unwilling to even speculate about specific dosages for the leaves, flowers, and seeds of these plants.  If you are considering ingesting Datura-group plants, please read extensively from the collected experience reports and never take them without a reliable, sober sitter who understands the likely health issues and who can stop you from walking in front of traffic. Please note that fatalities from ingesting Datura do occur and hospitalizations seem to be quite common, in spite of the relatively low rates of psychoactive use of these plants.
+notes :: null

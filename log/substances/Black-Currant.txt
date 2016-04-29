@@ -1,0 +1,21 @@
+[Substance]
+
+id :: 205
+name :: Black Currant
+url :: https://www.erowid.org/herbs/black_currant/black_currant.shtml
+category :: Herbs
+botanicalClassification :: Family :Grossulariaceae, Genus :Ribes, Species :nigrum and americanumcommonNames :: Black currant; Blackcurrant; Johannisbeere ; Groseille
+uses :: Food (jam, jelly, juice), Health Food, Pigment
+description :: A European and North American annual leafy shrub growing up to 6 feet (2m) tall. It produces white flowers and shiny black spherical berries. It has a long history of use by humans and has several related species, including pink and white currants, gooseberry, buffalo currant, and others.
+imageURL :: https://www.erowid.org/herbs/images/herbs_spacer_summary.jpg
+lawURL :: https://www.erowid.org/herbs/black_currant/black_currant_law.shtml
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Ribes nigrum and americanum
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Ribes nigrum and R. americanum (Black Currant / Blackcurrant) are uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: 

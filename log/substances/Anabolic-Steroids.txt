@@ -1,0 +1,18 @@
+[Substance]
+
+id :: 313
+name :: Anabolic Steroids
+url :: https://www.erowid.org/pharms/steroids/steroids.shtml
+category :: Pharms
+commonNames :: Nandrolone; Oxandrolone; Oxymetholone; Stanozolol; [...]
+effectsClassification :: Building Muscle Mass;
+chemicalName :: Various
+description :: Anabolic steroids are synthetic derivatives of the male hormone testosterone. There are more than 100 kinds of anabolic stroids which are used in body building as well as in gender reassignment and the treatment of certain sexual dysfunctions.
+imageURL :: https://www.erowid.org/pharms/steroids/images/steroids_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/steroids/steroids_images.shtml
+
+[Images]
+imageEntryList :: Nandrolone	https://www.erowid.org/pharms/show_image.php?i=steroids/nandrolone_bottle__i2006e1939_disp.jpg	A 2 ml bottle of I.M. injectable nandrolone, brand name deca durabolin. [at the gym]	Photo by Anonymous. &copy; 2007 Erowid.org
+Testosterone	https://www.erowid.org/pharms/show_image.php?i=steroids/testosterone_ampule__i2006e0447_disp.jpg	Omnadren brand testosterone ampules, containing four forms of testosterone. [Canada]	Photo by Sonny. &copy; 2007 Erowid.org
+Three Steroids	https://www.erowid.org/pharms/show_image.php?i=steroids/steroids__i2006e1764_disp.jpg	Three commonly used steroids, often used concomitantly in what's known as a "stack." They are Testosterone Enanthate at the top, Deca-Durabolin brand Nandrolone on the right and Dianabol brand Methandrostenolone.	Photo by Semper-Hi. &copy; 2007 Erowid.org
+Various Steroids	https://www.erowid.org/pharms/show_image.php?i=steroids/steroids1.jpg	Color photo of selection of various steroids intercepted by customs officials as they were being carried across the U.S./Mexican border by an individual.	Photo by James R. Tourtellotte, public domain photo from U.S. Customs website

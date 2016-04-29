@@ -1,0 +1,15 @@
+[Substance]
+
+id :: 186
+name :: Sakae Naa
+url :: https://www.erowid.org/plants/sakae_naa/sakae_naa.shtml
+category :: Plants
+botanicalClassification :: Family :Combretaceae, Genus :Combretum, Species :quadrangularecommonNames :: Sakae Naa
+effectsClassification :: Analgesic; Reported kratom substitute
+description :: Sakae Naa (Combretum quadrangulare) is a small tree native to Southeast Asia, the leaves of which are reportedly used as a substitute for kratom in areas where kratom is banned. There is dispute about whether its effects are similar to the effects of kratom.
+imageURL :: https://www.erowid.org/plants/sakae_naa/images/sakae_naa_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/sakae_naa/sakae_naa_images.shtml
+
+[Images]
+imageEntryList :: Sakae Naa Crushed Leaves	https://www.erowid.org/plants/show_image.php?i=sakae_naa/sakae_naa__i2014e0003_disp.jpg	Crushed leaves of Sakae Naa (Combretum quadrangulare) sold as a kratom substitute.	Photo by JimmyJ. &copy; 2014 Erowid.org
+Sakae Naa Crushed Leaves	https://www.erowid.org/plants/show_image.php?i=sakae_naa/sakae_naa__i2014e0002_disp.jpg	Crushed leaves of Sakae Naa (Combretum quadrangulare) sold as a kratom substitute.	Photo by JimmyJ. &copy; 2014 Erowid.org

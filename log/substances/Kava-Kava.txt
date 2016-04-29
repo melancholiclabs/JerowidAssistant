@@ -1,0 +1,64 @@
+[Substance]
+
+id :: 165
+name :: Kava Kava
+url :: https://www.erowid.org/plants/kava/kava.shtml
+category :: Plants
+botanicalClassification :: Family :Piperaceae, Genus :Piper, Species :methysticumcommonNames :: Kava; Kawa; Awa; Waka; Lawena; Sakau; Yaqona
+effectsClassification :: Depressant; Intoxicant
+description :: Kava is a tropical evergreen shrub with large heart-shaped leaves and woody stems. Its thick roots are mashed or ground and made into a cold beverage used similarly to alcohol. It has a long history of ritual and recreational use in Pacific Polynesia and is now a common herbal product.
+imageURL :: https://www.erowid.org/plants/kava/images/kava_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/kava/kava_images.shtml
+lawURL :: https://www.erowid.org/plants/kava/kava_law.shtml
+chemistryURL :: https://www.erowid.org/plants/kava/kava_chemistry.shtml
+
+[Images]
+imageEntryList :: Piper methysticum	https://www.erowid.org/plants/show_image.php?i=kava/piper_methysticum1.jpg	Close-up color photo of leaves from a ten foot plant. Kailua-Kona, Big Island Hawaii, 5/18/98.	Photo by Erowid, &copy; 1998 Erowid.org
+Piper methysticum	https://www.erowid.org/plants/show_image.php?i=kava/piper_methysticum5.jpg	Color photo of a young Kava plant growing in a pot.	Photo by Christopher B, &copy; 2000 Erowid.org
+Piper methysticum	https://www.erowid.org/plants/show_image.php?i=kava/piper_methysticum__i2005e0055_disp.jpg	Closeup of a small Piper methysticum (Kava) plant, with label at the U.S. Botanical Garden Conservatory. [DC, USA]	Photo by Anonymous. &copy; 2007 Erowid.org
+Piper methysticum	https://www.erowid.org/plants/show_image.php?i=kava/piper_methysticum4.jpg	Close-up color photo of branches and leaves.	Photo by Kava Kauai. Used by Erowid with permission.
+Kava root	https://www.erowid.org/plants/show_image.php?i=kava/piper_methysticum_root1.jpg	Dried 7-10 yr old lateral Kava roots from Vanuatu.	Photo by Murple, &copy; 2002 Erowid.org
+Piper methysticum	https://www.erowid.org/plants/show_image.php?i=kava/piper_methysticum2.jpg	Color photo of plant growing wild.	Photographer Unknown.
+Piper methysticum	https://www.erowid.org/plants/show_image.php?i=kava/piper_methysticum3.jpg	Black and white drawing of plant and branch.	Photographer Unknown.
+Kava Tea	https://www.erowid.org/plants/show_image.php?i=kava/kava_tea__i2007e1168_disp.jpg	A glass of Kava tea with a cloth teabag. [CA, USA]	Photo by Ronan. &copy; 2007 Erowid.org
+Kava Root Powder	https://www.erowid.org/plants/show_image.php?i=kava/kava_powder__i2007e1166_disp.jpg	3 large teaspoons of Kava root powder next to a quarter for size comparison. [CA, USA]	Photo by Ronan. &copy; 2007 Erowid.org
+Kava Products	https://www.erowid.org/plants/show_image.php?i=kava/kava1.jpg	Color photo of a collection of kava capsules and extracts.	Photo by Erowid, &copy; 2001 Erowid.org
+Kava Capsules	https://www.erowid.org/plants/show_image.php?i=kava/kava_capsule1.jpg	Color photo of a bubble-pack of kava capsules.	Photo by Erowid, &copy; 2001 Erowid.org
+Kava Capsules	https://www.erowid.org/plants/show_image.php?i=kava/kava_capsule2.jpg	Color photo of a single kava capsule.	Photo by Erowid, &copy; 2001 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Piper methysticum
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Kava kava is unscheduled in the US (and most countries). It is legal to sell, possess, or ingest. It is sold in most health food stores in liquid extract or capsule form.
+stateLaw :: null
+internationalLaw :: Australia	Kava is disallowed in consumer products in Australia as of June 2007. According to the Australian Government's Office of Health Protection: "From 26 June 2007, the existing regulations on importation of kava were strictly enforced with the effect that commercial importations of kava were no longer allowed except for medical or scientific purposes. Incoming passengers who are over the age of 18 years are allowed to bring 2 kg of kava into Australia in their accompanied baggage." See http://www.health.gov.au/internet/main/publishing.nsf/Content/importation-of-kava. (thanks wj) (last updated May 6 2013)
+Brazil	We have been told that Kava is sold in herb shops in Brazil but that it's recreational use is very rare and unknown by the authorities. (unconfirmed) (thanks P)
+Britain	Britain has banned the sale all medicines containing kava extracts. We believe raw root powder is still legal for sale, but we aren't sure. (May 2003). See: Reuters, Dec 2002. It is not currently illegal to possess kava extracts in Britain.
+Britain has banned the sale all medicines containing kava extracts.  We believe raw root powder is still legal for sale, but we aren't sure. (May 2003).  See: Reuters, Dec 2002.   It is not currently illegal to possess kava extracts in Britain. 	It also appears that kava is now banned for import or sale for the purpose of ingestion (internal use): Statutory Instrument 2002 No.3170 : The Medicines for Human Use (Kava-kava) (prohibition) Order 2002 :The Stationery Office Ltd , UK Government E1856 12/02. CropWatch.org Kava Ban Update
+Canada	Canada's federal government agency, Health Canada, issued a stop order blocking the sales of kava products for human consumption in all of canada in August, 2002. As of this ruling, all products containing kava including drinks, supplements, etc have been banned for sale in Canada. Vendors in other countries regularly sell Kava products to Canadian customers and it is not illegal as a Canadian citizen to purchase or import kava products for personal use. Health Canada Natural Health Products Compliance Guide
+Europe	Kava is widely available in Europe but some countries regulate its sale.
+Ethiopia	Kava products available with no age limit. (unconfirmed)
+France	Kava supplements and products banned for sale. (unconfirmed) Reportedly, Piper methysticum is still available from herbalists.
+Germany	After a handful of deaths have been reported from kava-related liver failure, Germany is considering legislation to more tightly regulate its sale.
+Kava-Kava: Zulassung beschr�nkt	
+  	Die Zulassung des pflanzlichen Beruhigungsmittels Kava-Kava soll eingeschr�nkt werden. Nach Bekanntwerden von 18 F�llen von Lebervergiftung, von denen einer t�dlich endete und drei Transplantationen erforderlich machten, soll das Anti-Stress-Medikament k�nftig nur noch in extrem verd�nnter Mischung erh�ltlich sein."
+English: Loosely translated this means that Germany wants to tighten regulations regarding kava after 18 cases of liver poisoning. One of them died and three had to undergo liver transplantation. Kava products will have to be sold in much more diluted form.	(Reference)
+Israel	We have received conflicting reports about the legality of kava-containing products in Israel. One visitor tells us that Kava-containing products are legal to possess, import, and sell in Israel, but another says that a shop in Tel Aviv reported that kava is illegal in Israel. (unconfirmed) (thanks js, sm) (last updated Jan 6, 2011)
+Netherlands	Kava-containing products have been banned for general sale since jan 01 2003. (unconfirmed) (thanks JS)
+New Zealand	Kava-containing supplements sold at grocery stores. (unconfirmed) (thanks S)
+Norway	Kava supplements and products are not specifically controlled in Norway, but we have been told that the national health council considers it a prescription drug (available only from a pharmacy) based on it's use as a psychoactive drug. (unconfirmed)
+Sweden	Kava is banned from being sold within Sweden, but is allowed to be imported. (unconfirmed) (thanks G) (last updated May 11 2010)
+Switzerland	Laitan, a kavalactone pharmaceutical sold in pharmacies in Europe has been banned for sale in Switzerland. -- Source
+
+[Chemistry]
+chemTable :: NAME :	Kawain
+CHEMICAL NAME :	[R-(E)]-5,6-Dihydro-4-methoxy-6-(2-phenylethenyl)-2H-pyran-2-one
+ALTERNATE CHEMICAL NAMES : 	 5-hydroxy-3-methoxy-7-phenyl-2,6-heptadienoic acid delta-lactone; 4-methoxy-6-(&#223;-phenylvinyl)-5,6-dihydro-alpha-pyrone
+ALTERNATE CHEMICAL NAMES : 	 4-methoxy-6-styryl-5,6-dihydro-alpha-pyrone; kavain; gonosan
+CHEMICAL FORMULA	C14H14O3
+MOLECULAR WEIGHT	230.26
+From the Merck Index 12th Edition
+moleculeURL :: https://www.erowid.org/plants/kava/images/archive/kawain_3d_mid.jpg

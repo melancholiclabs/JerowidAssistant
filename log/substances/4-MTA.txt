@@ -1,0 +1,65 @@
+[Substance]
+
+id :: 31
+name :: 4-MTA
+url :: https://www.erowid.org/chemicals/4mta/4mta.shtml
+category :: Chemicals
+commonNames :: Flatliners
+effectsClassification :: Stimulant
+chemicalName :: 4-methylthioamphetamine
+description :: 4-MTA is a long-lasting synthetic stimulant and serotonin agonist. It is very uncommon, and best known for causing a number of deaths in Europe in the late 1990s.
+imageURL :: https://www.erowid.org/chemicals/images/chemicals_spacer_summary.jpg
+basicsURL :: https://www.erowid.org/chemicals/4mta/4mta_basics.shtml
+lawURL :: https://www.erowid.org/chemicals/4mta/4mta_law.shtml
+chemistryURL :: https://www.erowid.org/chemicals/4mta/4mta_chemistry.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Basics]
+description :: 4-MTA is a synthetic stimulant which has been seen primarily in Europe. Effects include mild stimulation (less than amphetamine or mdma) lasting for up to 12 hours. Because of the low level of effects and high level of unwanted side effects, most people try it only once. 4-MTA has been sold over-the-counter in smart shops in Holland for several years (1998-2000) and has also been sold, in tablet form, as "ecstasy" on the street.  4-MTA is a potent serotonin-releaser, and has been responsible for several deaths in Europe during the last few years (1998-2001). [ Main 4-MTA Vault ]
+descriptionSections :: dose	Dose Summary Needed.
+price	Price Summary Needed.
+law	4-MTA is not scheduled in the United States, so it is legal to possess. It has been placed in Schedule I by the U.N. Narcotics Commission.
+chemistry	Chemistry Summary Needed.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	4-MTA originated out of research being done by David Nichols at Purdue University.
+terminology	The Substance:4-MTA; Flatliner; Goldeneagle. The Experience:No common terms known.
+effects :: Effects Summary Needed.
+effectsSections :: onset	Onset Summary Needed.
+duration	Duration Summary Needed.
+visuals	Visuals Summary Needed.
+problems :: Problems Summary Needed.
+problemsSections :: contraindications	Do not take 4-MTA if you are currently taking an MAOI. MAOIs are most commonly found in the prescription anti-depressants Nardil (phenelzine), Parnate (tranylcypromine), Marplan (isocarboxazid), Eldepryl (l-deprenyl), and Aurorex or Manerix (moclobemide). Ayahuasca also contains MAOIs (harmine and harmaline). 4-MTA and MAOIs are a potentially dangerous combination. Check with your doctor if you are not sure whether your prescription medication is an MAOI. Do not operate heavy machinery. Do Not Drive. If you have a seizure or convulsive disorder or heart problems, you may be at higher risk for health problems when taking 4-MTA. Diabetics should monitor their blood sugar closely as there have been some reports of problems. Individuals currently in the midst of emotional or psychological upheaval in their everyday lives should be careful about choosing to use psychedelics such as 4-MTA as they can trigger even more difficulty. Individuals with a family history of schizophrenia or early onset mental illness should be extremely careful because psychedelics have been known to trigger latent psychological and mental problems.
+addiction	Addiction Potential Summary Needed.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+4-MTA
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Possible Analog
+federalLawText :: 4-MTA is unscheduled in the United States. It is possible that it could be considered an analog (of 4-methoxy-Amphetamine), in which case, sales for human consumption or possession with the intent to ingest could be prosecuted under the Federal Analogue Act though we are unaware of any such existing cases (6/21/04).
+stateLaw :: 
+internationalLaw :: Italy (Italia)	Listed in Tabella I of "Tabelle delle sostanze stupefacenti e psicotrope", making it illegal to possess, purchase, or sell. (see Tabelle delle sostanze stupefacenti e psicotrope. (thanks a) (last updated Dec 16, 2015)
+Japan	4-MTA was controlled in Japan in 2001 (unconfirmed) (thanks M)
+Poland	4-MTA is schedule I (I-P group) in Poland. (unconfirmed)
+United Kingdom	4-MTA is Schedule I/Class A in the U.K., making it illegal to sell, buy, or possess without a license. See Law UK. (thanks MG)
+
+[Chemistry]
+chemTable :: NAME :	4-MTA
+CHEMICAL NAME :	4-methylthioamphetamine
+ALTERNATE CHEMICAL NAMES : 	para-methylthioamphetamine
+CHEMICAL FORMULA
+MOLECULAR WEIGHT
+MELTING POINT
+moleculeURL :: null
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

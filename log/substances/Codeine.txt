@@ -1,0 +1,80 @@
+[Substance]
+
+id :: 267
+name :: Codeine
+url :: https://www.erowid.org/pharms/codeine/codeine.shtml
+category :: Pharms
+commonNames :: Tylenol w/Codeine; Codate; Codephos; Codamol
+effectsClassification :: Opioid Analgesic; Antitussive
+chemicalName :: (5alpha,6alpha)-7,8-Didehydro-4,5-epoxy-3-methoxy-17-methylmorphinan-6-ol
+description :: Codeine is an opiate used in the treatment of pain and to reduce coughing. It occurs naturally in the opium poppy and as such has a long history of human use.
+imageURL :: https://www.erowid.org/pharms/codeine/images/codeine_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/codeine/codeine_images.shtml
+lawURL :: https://www.erowid.org/pharms/codeine/codeine_law.shtml
+chemistryURL :: https://www.erowid.org/pharms/codeine/codeine_chemistry.shtml
+
+[Images]
+imageEntryList :: Tylenol 3 Tablets	https://www.erowid.org/pharms/show_image.php?i=codeine/codeine_tablet__i2004e0341_disp.jpg	Four Tylenol 3 tablets containing 300 mg acetaminophen (paracetamol) and 30 mg codeine phosphate each. Imprinted with "McNeil || 3". [Canada]	Photo by Tsyn. &copy; 2007 Erowid.org
+Codeine Tablets	https://www.erowid.org/pharms/show_image.php?i=codeine/codeine_tablet__i2005e0813_disp.jpg	Three Spanish codeine tablets bearing the imprint "C". Each tablet contains 28.7 mg of codeine phosphate. [Spain]	Photo by Mist. &copy; 2007 Erowid.org
+Generic Codeine Tablets	https://www.erowid.org/pharms/show_image.php?i=codeine/codeine_tablet__i2005e0807_disp.jpg	Several generic Safeway brand acetaminophen (paracetamol) with codeine tablets on a coin for size comparison. [BC, Canada]	Photo by Midnight. &copy; 2007 Erowid.org
+Codeine	https://www.erowid.org/pharms/show_image.php?i=codeine/codeine3.jpg	Color photo of small baggie containing blue Codeine Contin tablets manufactured by Purdue Frederick and bearing the imprint "PF || CC/50". Each tablet contains 26.5 mg codeine monohydrate and 31.35 mg codeine sulfate. [Canada]	Photo by Nog, &copy; 2002 Erowid.org
+Time-release Codeine Tablets	https://www.erowid.org/pharms/show_image.php?i=codeine/codeine_tablet__i2002e0110_disp.jpg	Five 50 mg time-released codeine tablets (Perduretas) next to a blister pack. [Spain]	Photo by Murple. &copy; 2007 Erowid.org
+Codeine Syrup & Opiate Syrup	https://www.erowid.org/pharms/show_image.php?i=codeine/codeine_syrup__i2007e0144_disp.jpg	A 500 ml bottle of "Squill Opiate Linctus" and a 500 ml bottle of Codeine Phosphate syrup both by Allied Drug Company (ADC). [Eastern Cape, South Africa]	Photo by Michael Knott. &copy; 2007 Erowid.org
+Codeine	https://www.erowid.org/pharms/show_image.php?i=codeine/codeine1.jpg	Color photo of various forms of codeine.	U.S. government Public Domain photo.
+Codeine	https://www.erowid.org/pharms/show_image.php?i=codeine/codeine2.jpg	Color photo of various forms of codeine.	U.S. government Public Domain photo.
+Codeine 2D Molecule	https://www.erowid.org/pharms/show_image.php?i=codeine/codeine_2d.gif	2D Codeine molecule image.	Image by Erowid, &copy; 2001 Erowid.org
+Codeine 3D Molecule	https://www.erowid.org/pharms/show_image.php?i=codeine/codeine_3d.jpg	Still 3D image of the Codeine molecule.	Image by Erowid, &copy; 2001 Erowid.org
+Codeine 3D Rotating Molecule	https://www.erowid.org/pharms/show_image.php?i=codeine/codeine__.mol	Rotating 3D image of the Codeine molecule.	Image by Erowid, &copy; 2000 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Codeine
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule II, III when < 90mg / unit, V when < 200mg/100gm
+CLASSIFICATION	- - -
+federalLawText :: Codeine is Schedule II in the United States. This means it is illegal to sell without a DEA license and illegal to buy or possess without a license or prescription.	
+Products such as Tylenol II-IV, which contain less than 90 mg codeine per dosage unit, are Schedule III. Products with less than 200 milligrams per 100 grams (or milliters) of dosage unit are Schedule V and are much less restricted.	
+In January 2014, the FDA announced that they were going to begin new, additional enforcement against unapproved prescription drugs in the US that contain codeine. See https://www.federalregister.gov/articles/2014/01/10/2014-00257/unapproved-and-misbranded-oral-and-injectable-drugs-labeled-for-prescription-use-containing-codeine#print_view. Apparently drug manufacturers had been producing new, commercially-available compounded products that had not gone through the FDA's rigorous new product approval process.
+stateLaw :: null
+internationalLaw :: Australia	Products (Panadeine) containing low doses of codeine (10mg or less codeine per unit) are available over-the-counter in Australia from Pharmacies (chemists) as Schedule 2 preparations. Products containing higher quanitites (12mg per unit) are sold behind the counter at pharmacies (Schedule 3), and stronger products (30mg per unit) are available by prescription from a doctor only. See Australian Codeine Law. (thanks F) (last updated Jan 17 2012)
+Bahamas	Products containing low to moderate doses of codeine are available for puchase over-the-counter in the Bahamas. One product, for example, is sold containing 8 mg codeine to 400 mg aspirin.
+Canada	Codeine is Schedule I in Canada. Products containing low quantities of codeine (such as Tylenol 1) can be purchased over-the-counter, but products with higher quantities require a prescription.
+Cayman Islands	We don't have any information about the exact legal status of codeine in the Cayman Islands, but we've been told that at least some pharmacies have it available without a prescription. (thanks E)
+Colombia	One visitor reported that tramadal, codeine with acetaminophen, hydrocodone with ibuprofen (5/200), and dihydrocodeine by itself can be purchased in Colombia over the counter in any drug store. (unconfirmed) (thanks p) (last updated Jun 12 2013)
+Costa Rica	Available without prescription over the counter in Costa Rica. (thanks MB, JB) (Last Updated Feb 11 2009)
+France	Low codeine products (such as codotussil, neocodion) are available without prescription over the counter in France. (thanks Z,A) (Last Updated Apr 10 14 2014)
+Greece	We've received conflicting information about codeine's legal status in Greece. One visitor described it as prescription only and another said it is not available at all, being completely illegal to sell in Greece. (unconfirmed) (thanks A) (last updated Jun 14 2010)
+Iran	We've been told that in Iran codeine is available over-the-counter without much control. (unconfirmed) (thanks MS)
+Japan	Products containing codeine (such as products with Chlorpheniramine maleate or acetaminophen/paracetamol) can be purchased over-the-counter in Japan. (unconfirmed) (thanks G)
+Kuwait	Codeine is only available by prescription in Kuwait. (unconfimred) (thanks D) (last updated June 27 2010)
+Lebanon	Products containing codeine (such as Tylenol w/codeine) can be purchased over-the-counter in Lebanon.
+Mexico	Codeine is Schedule I in pure form in Mexico and Schedule II when compounded with other drugs (such as acetaminophen). Although it requires a prescription to purchase, visitors have reported that some pharmacies will sell codeine-containing products without prescription. (unconfirmed) (thanks r) (last updated May 22, 2013)
+The Netherlands	Codeine has a complicated legal status in the Netherlands. Codeine is available both with and without a prescription. The preparation, possession, adaption, delivery, providing and transport, of pure codeine is prohibited, because it’s scheduled on 'list I' of the 'Opium Law' (List I drugs are considered hard drugs). Conversely, low-dose codeine cough syrup (0.5 mg codeine phosphate/ml) is available without prescription, and is unregulated. Other preparations are available with a prescription only, but are not regulated by the Opium Law. Prescription preparations of codeine with (with more than 100 mg codeine in each dose and/or prescription preparations with a concentration over 2.5% codeine), are regulated by the Opium Law. Prescriptions for preparations with this quantity of codeine require to comply with special requirements of an Opium-Law-prescription. Possession of small quantities (for personal use) of prohibited substances is typically not prosecuted. Recreational use of codeine, is, as with any other substance, NOT prohibited in the Netherlands. (thanks K) (last updated Oct 11, 2012)
+Nicaragua	Products containing low to moderate doses of codeine are available for puchase over-the-counter in the Nicaragua. Listed as controlled. (unconfirmed) (thanks MC)
+New Zealand	Products containing up to 12 mg codeine per tablet can be purchased over-the-counter in New Zealand.
+Poland	Products containing up to 15 mg codeine per dose are sold over-the-counter, usually/always with other ingredients such as acetaminophen/paracetamol, aspirin, ibuprofen, sulfoguiacol, and other herbs. Higher doses of codeine require a prescription. (unconfirmed) (thanks N) (last updated jan 3 2010)
+Portugal	Tablets containing codeine plus other substances are sold in pharmacies, some are OTC, some are prescription only. Many pharmacies will sell without a prescription. (unconfirmed) (thanks X)
+Russia	After news reporting an increase in the use of "crocodile" (extracted codeine from pharmaceuticals), codeine was made a prescription medication in Russia. See http://www.rt.com/news/prime-time/codeine-drug-law-russia-845/. (thanks e) (last updated Jul 19, 2012)
+Serbia	One visitor describes that Codeine-containing pain relievers with 65mg codeine and 600mg ibuprofen per tablet are available over the counter widely in Serbia. (unconfirmed) (thanks j) (last updated May 16 2012)
+Singapore	One visitor described that Codeine-containing pain relievers are Class B in Singapore and require a prescription. Another visitor described that Panadeine (8 mg codeine + acetaminophen/paracetamol) is available without prescription behind the counter at pharmacies, requiring ID and recording ID info in a log book. (unconfirmed) (thanks DK,A) (last updated June 24 2010)
+Spain	One visitor described that in the Barcelona area codeine is available over the counter at pharmacies at 15mg codeine per 325mg paracetamol. (thanks Z) (last updated Apr 10 2014)
+South Africa	Codeine is available over the counter without prescription when sold at low doses in forms combined with acetaminophen or ibuprofen. (unconfirmed) (thanks c) (last updated Jul 22 2013)
+Spain	As of 2013, codeine is available over-the-counter in some areas (Catalunya), but not in others. (thanks jf) (last updated Sep 7 2013)
+Sweden	Codeine is only available in Sweden with a valid prescription through pharmacies. Use and possession without proper prescription is considered a crime with punishments including fines and jail time. (thanks jf) (last updated Sep 7 2013)
+Thailand	Codeine-containing pain relievers such as Tylenol-2's are now reportedly controlled in Thailand, and are now difficult to find for sale by pharmacists without a prescription. (thanks CP,A) (last updated Jun 2010)
+Vietnam	Codeine-containing pain relievers such as Efferalgan (an effervescent) are widely available without prescription over the counter at street pharmacies throughout Vietnam. As of June 2011, 100 tablets of 30mg codeine/500mg acetaminophen cost around $15USD. (thanks W, MPA) (last updated June 24 2011)
+U.K.	Codeine is Schedule II/Class b in the U.K., making it illegal to buy or possess without a prescription. Products containing small amounts of codeine (such as Tylenol w/codeine, Feminax (8 mg), and Solpadeine Max or Neurofen Plus (12.5 mg)) are available over-the-counter without prescription. Codeine Linctus (200ml 15mg/5ml) are available in some pharmacies with no prescription needed and can also be purchased via amazon.co.uk from a UK-based online pharmacy, requiring answers to questions by email to fill the order. (thanks c) (last updated Jan 19 2012)
+Ukraine	Although Russia has made codeine a prescription medication in Russia in 2012, the law has not yet changed in the Ukraine. See http://www.rt.com/news/prime-time/codeine-drug-law-russia-845/. (thanks e) (last updated Jul 19, 2012)
+United Kingdom	Some availability of codeine over the counter, but visitor reported that they were weak at 8mg codeine per 500mg acetaminophen/paracetamol. (unconfirmed) (thanks Z) (last updated Apr 10 2014)
+Venezuela	Codeine-containing product called Preveral available over-the-counter in Venezuela. (unconfirmed) (thanks M)
+
+[Chemistry]
+chemTable :: NAME :	Codeine
+CHEMICAL NAME :	(5alpha,6alpha)-7,8-Didehydro-4,5-epoxy-3-methoxy-17-methylmorphinan-6-ol
+ALTERNATE CHEMICAL NAMES : 	methylmorphine, morphine monomethyl ether
+CHEMICAL FORMULA	C18H21NO3
+MOLECULAR WEIGHT	299.37
+MELTING POINT	154-156&#176; (monohydrate)
+From the Merck Index 12th Edition
+moleculeURL :: https://www.erowid.org/pharms/codeine/images/archive/codeine_3d_mid.jpg

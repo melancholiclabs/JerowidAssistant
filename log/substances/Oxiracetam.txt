@@ -1,0 +1,24 @@
+[Substance]
+
+id :: 338
+name :: Oxiracetam
+url :: https://www.erowid.org/smarts/oxiracetam/oxiracetam.shtml
+category :: Smarts
+commonNames :: Neuractiv; Neuromet; Hydroxypiracetam; CT-848
+effectsClassification :: Memory; Cognitive Enhancement
+chemicalName :: 4-hydroxy-2-oxo-1-pyrrolidineacetamide
+description :: Oxiracetam is similar to piracetam and is said to improve memory especially in the elderly. It is not approved by the FDA but is widely used in Europe.
+imageURL :: https://www.erowid.org/smarts/images/smarts_spacer_summary.jpg
+imagesURL :: https://www.erowid.org/smarts/oxiracetam/oxiracetam_images.shtml
+chemistryURL :: https://www.erowid.org/smarts/oxiracetam/oxiracetam_chemistry.shtml
+
+[Images]
+imageEntryList :: Oxiracetam Capsules	https://www.erowid.org/smarts/show_image.php?i=oxiracetam/oxiracetam_capsule__i2008e0955_disp.jpg	Two 80 mg oxiracetam capsules next to their bottle. [USA]	Photo by Illiadum. &copy; 2010 Erowid.org
+Oxiracetam 2D Molecule	https://www.erowid.org/smarts/show_molecule.php?i=oxiracetam/oxiracetam_2d.gif	Still 2D image of the Oxiracetam molecule.	Image by Erowid, &copy; 2001 Erowid.org
+Oxiracetam 3D Rotating Molecule	https://www.erowid.org/smarts/show_molecule.php?i=oxiracetam/oxiracetam__.mol	Rotating 3D image of the Oxiracetam molecule.	Image by Erowid, &copy; 2001 Erowid.org
+
+[Chemistry]
+chemTable :: NAME :	Oxiracetam
+CHEMICAL NAME :
+CHEMICAL FORMULA	C6H10N2O3
+moleculeURL :: null

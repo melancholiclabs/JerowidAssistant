@@ -1,0 +1,33 @@
+[Substance]
+
+id :: 94
+name :: mCPP
+url :: https://www.erowid.org/chemicals/mcpp/mcpp.shtml
+category :: Chemicals
+commonNames :: 3-CPP; CPP
+effectsClassification :: Stimulant
+chemicalName :: 1-(m-chlorophenyl)piperazine
+description :: mCPP is a 5-HT receptor agonist that has been used as a challenge drug in MDMA research, and has been studied for possible migraine-inducing effects. In the mid-2000s, it has shown up in pills sold as Ecstasy (Europe; USA).
+imageURL :: https://www.erowid.org/chemicals/mcpp/images/mcpp_summary1.jpg
+imagesURL :: https://www.erowid.org/chemicals/mcpp/mcpp_images.shtml
+lawURL :: https://www.erowid.org/chemicals/mcpp/mcpp_law.shtml
+
+[Images]
+imageEntryList :: mCPP	https://www.erowid.org/chemicals/show_image.php?i=mcpp/mcpp_bottle__i2005e0579_disp.jpg	Sigma bottle containing 5 g of mCPP. [NY, USA]	Photo by DevilDoc. &copy; 2007 Erowid.org
+mCPP Tablets	https://www.erowid.org/chemicals/show_image.php?i=mcpp/mcpp_tablet__i2006e0812_disp.jpg	Two shark logo tablets containing mCPP and trace amounts of MDMA. Published in October 2006 Microgram Bulletin. [IL, USA]	Photo from Microgram Bulletin. Public Domain.
+mCCP Tablets	https://www.erowid.org/chemicals/show_image.php?i=mcpp/mccp_tablet__i2007e0781_disp.jpg	Front and back of an mCCP tablet next to ruler for size comparison. [Croatia]	Photo by 124somzoK. &copy; 2007 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+mCPP
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: mCPP is uncontrolled in the United States. This means it is generally considered legal to buy, possess, and distribute (sell, trade or give). If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: Belgium	mCPP became controlled in Belgium on Oct 22, 2006. [EMCDDA reference]
+Denmark	mCPP became controlled in Denmark on Dec 3, 2005.
+Finland	mCPP became controlled in Finland in 2011. See http://www.hs.fi/kotimaa/Useista+muuntohuumeista+tulossa+huumausaineita/a1305555667050. (unconfirmed) (thanks h) (last updated Mar 16, 2013)
+Israel	In December 2007, mCPP was added to Israel's list of controlled substances, making it illegal to buy, sell, or possess. (thanks A)
+Malta	On May 4, 2007, mCPP was added to the Third Schedule of controlled substances in Malta under Legal Notice LN127. It is considered a psychotropic drug and is illegal to possess, except under special circumstances. (thanks SV)
+Slovak Republic	mCPP has been controlled in the Slovak Republic since Sepember 1, 2007. See http://www.infodrogy.sk/ActiveWeb/c/2647/zakon_o_omamnych_a_psychotropnych_latkach_bude_doplneny.html. (last updated Feb 17 2011)

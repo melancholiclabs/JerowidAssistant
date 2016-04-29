@@ -1,0 +1,51 @@
+[Substance]
+
+id :: 69
+name :: DOC
+url :: https://www.erowid.org/chemicals/doc/doc.shtml
+category :: Chemicals
+commonNames :: None
+effectsClassification :: Psychedelic Phenethylamine
+chemicalName :: 2,5-dimethoxy-4-chloroamphetamine
+description :: DOC is a psychedelic chemical similar in nature to DOB. It requires only very small dosages to produce full effects. It is uncommon as a substance for human ingestion.
+imageURL :: https://www.erowid.org/chemicals/doc/images/doc_summary1.jpg
+imagesURL :: https://www.erowid.org/chemicals/doc/doc_images.shtml
+lawURL :: https://www.erowid.org/chemicals/doc/doc_law.shtml
+doseURL :: https://www.erowid.org/chemicals/doc/doc_dose.shtml
+
+[Images]
+imageEntryList :: DOC Powder	https://www.erowid.org/chemicals/show_image.php?i=doc/doc_powder__i2005e1423_disp.jpg	250 mg DOC powder in a small plastic bag.	Anonymous Photographer. &copy; 2006 Erowid.org
+DOC	https://www.erowid.org/chemicals/show_image.php?i=doc/doc_powder__i2006e1650_disp.jpg	DOC powder (2,5-dimethoxy-4-chloroamphetamine) in a small plastic bag. [IL, USA]	Photo by Anonymous. &copy; 2007 Erowid.org
+DOC Capsules	https://www.erowid.org/chemicals/show_image.php?i=doc/doc_capsule__i2006e0365_disp.jpg	1 gram of DOC seperated into 4 mg gelcaps. [USA]	Photo by Anonymous. &copy; 2006 Erowid.org
+DOC	https://www.erowid.org/chemicals/show_image.php?i=doc/doc_vial__i2006e1007_disp.jpg	3 mg of DOC in liquid in a vile. [IL, USA]	Photo by Brian Newman. &copy; 2007 Erowid.org
+DOC 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=doc/doc_2d.gif	Still 2D image of the DOC molecule.	Image by Erowid. &copy; 2006 Erowid.org
+DOC 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=doc/doc__.mol	Rotating 3D image of the DOC molecule.	Image by Erowid. &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+DOI
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Likely Analog
+federalLawText :: DOC is unscheduled in the United States. It is likely that it would be considered an analog (of DOB), in which case, sales for human consumption or possession with the intent to ingest could be prosecuted under the Federal Analogue Act though we are unaware of any such existing cases (3/05/06).
+stateLaw :: Florida	Schedule I. See http://leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0800-0899/0893/0893.html. (last updated Jul 21, 2012)
+internationalLaw :: Australia	Unknown. May fall in Schedule II with DOB, but we have been unable to confirm this
+Canada	DOC is Schedule III in Canada, making it illegal to sell, buy, or possess without a license.
+China	Controlled in China as a Category I psychotropic substance, illegal to sell, buy, import, export, and manufacture 4-methylmethcathinone as of September 2010. See China's SFDA announcement. (thanks n) (last updated Nov 25, 2015)
+Denmark	Denmark added 2C-E, 2C-P, DOC, and DOI to the list of Schedule I controlled substances as of Paril 8, 2007. See ELDD. (Last Updates Apr 5 2007)
+Germany (Deutschland)	DOC is listed in Anlage I in Germany, making it illegal to buy, sell, or possess without a license. (thanks F)
+New Zealand	DOC is Schedule III (Class C) in New Zealand as an "amphetamine analogue" [reference].
+Poland	DOC is not controlled in Poland and no analog law covers it. See http://talk.hyperreal.info/ustawa-przeciwdzia-aniu-narkomanii-ustawy-pokrewne-t30408.html and http://isap.sejm.gov.pl/DetailsServlet?id=WDU20051791485 . (unconfirmed) (thanks zv) (last updated July 23 2011)
+U.K.	DOC is Schedule I/Class A in the U.K., making it illegal to sell, buy, or possess without a license.
+
+[Dose]
+doseTable :: Oral DOC Dosages
+Light1.0 - 1.5 mg
+Common1.5 - 2.5 mg
+Strong2.5 - 5.0 mg
+Heavy5.0 +
+Onset : 0.5 - 2.5 hours
+Duration : 8 - 20 hours (depending on dosage)
+Normal After Effects : 6 - 12 hours
+doseText :: DOC is a phenethylamine found most frequently in powder form. It is generally injested orally. Following are approximate dosages for pure DOC.
+notes :: null

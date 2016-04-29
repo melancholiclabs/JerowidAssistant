@@ -1,0 +1,28 @@
+[Substance]
+
+id :: 281
+name :: Gabapentin
+url :: https://www.erowid.org/pharms/gabapentin/gabapentin.shtml
+category :: Pharms
+commonNames :: Neurontin
+effectsClassification :: Anticonvulsant; Tranquilizer
+chemicalName :: 1-(aminomethyl)cyclohexanacetic acid
+description :: Gabapentin is prescribed -- usually in combination with other medications -- for the treatment of seizure disorders, though its anticonvulsant mechanism is not known. It is sometimes prescribed for the management of neuralgia (nerve pain) and has been prescribed off-label for the treatment of mood disorders, anxiety, and tardive dyskinesia (a neurological syndrome caused by the long-term use of neuroleptic drugs).
+imageURL :: https://www.erowid.org/pharms/gabapentin/images/gabapentin_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/gabapentin/gabapentin_images.shtml
+lawURL :: https://www.erowid.org/pharms/gabapentin/gabapentin_law.shtml
+
+[Images]
+imageEntryList :: Gabapentin Capsules	https://www.erowid.org/pharms/show_image.php?i=gabapentin/gabapentin_capsule__i2016e0009_disp.jpg	300 mg gabapentin capsules manufactured by Northstar. [PA, USA]	Photo by Yung Skillit. &copy; 2016 Erowid.org
+Gabapentin Tablets	https://www.erowid.org/pharms/show_image.php?i=gabapentin/gabapentin_tablet__i2008e1300_disp.jpg	Two generic 600 mg Gabapentin tablets showing front and back with imprint "4443 || 600". [AL, USA]	Photo by willtf78. &copy; 2008 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Gabapentin
+REGULATED	Yes
+STATUS	Prescription Only
+SCHEDULE	Un-Scheduled
+federalLawText :: Gabapentin (Neurontin) is unscheduled in the United States, but is available by prescription only. This means that sales and distribution are allowed only by those with a license and only to those with a prescription (according to FDA regulations). Possession is not illegal even without a prescription.
+stateLaw :: null
+internationalLaw :: Australia	Neurontin is available by prescription in Australia, costing around 80 AUD for 100 x 300 mg capsules. (unconfirmed) (thanks L) (last updated May 29 2007)
+Thailand	Neurontin is available at larger pharmacies without prescription. Pfizer-branded Neurontin packaged in 100, 300, or 600 mg tablets, a card of 10 600 mg tablets costs around 650Baht (around 19 USD) in 2012. (thanks J, L) (last updated Jul 11, 2012)

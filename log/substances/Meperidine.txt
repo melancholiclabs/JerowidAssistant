@@ -1,0 +1,29 @@
+[Substance]
+
+id :: 288
+name :: Meperidine
+url :: https://www.erowid.org/pharms/meperidine/meperidine.shtml
+category :: Pharms
+commonNames :: Demerol; Isonipecaine; Pethidine; Mepergan
+effectsClassification :: Analgesic
+chemicalName :: 1-methyl-4-phenylisonipecotic acid ethyl ester
+description :: Meperidine is a synthetic opioid analgesic used for the relief of moderate to severe pain. It is also prescribed off-label for the treatment of shivering.
+imageURL :: https://www.erowid.org/pharms/images/pharms_spacer_summary.jpg
+imagesURL :: https://www.erowid.org/pharms/meperidine/meperidine_images.shtml
+lawURL :: https://www.erowid.org/pharms/meperidine/meperidine_law.shtml
+
+[Images]
+imageEntryList :: Demerol (meperidine)	https://www.erowid.org/pharms/show_image.php?i=meperidine/meperidine1.jpg	Color photo showing various forms of Demerol (meperidine hydrochloride).	U.S. government Public Domain photo.
+Demerol	https://www.erowid.org/pharms/show_image.php?i=meperidine/meperidine2.jpg	Color photo showing various forms of Demerol (meperidine hydrochloride).	U.S. government Public Domain photo.
+Meprozine Capsules	https://www.erowid.org/pharms/show_image.php?i=meperidine/meprozine_capsule1.jpg	Photo showing red "Meprozine" capsules (containing 50 mg meperidine and 25 mg Promethazine) bearing the imprint "v4206". [USA]	Photo by Anonymous Photographer, &copy; 2005 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Meperidine
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule II
+CLASSIFICATION	Opiate
+federalLawText :: Meperidine is Schedule II in the United States. This means it is illegal to sell without a DEA license and illegal to buy or possess without a license or prescription.
+stateLaw :: null
+internationalLaw :: 

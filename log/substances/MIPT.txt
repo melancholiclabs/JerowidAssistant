@@ -1,0 +1,36 @@
+[Substance]
+
+id :: 110
+name :: MIPT
+url :: https://www.erowid.org/chemicals/mipt/mipt.shtml
+category :: Chemicals
+commonNames :: None
+effectsClassification :: Psychedelic Tryptamine
+chemicalName :: N-isopropyl-N-methyltryptamine
+description :: MIPT is a synthetic psychedelic. It is very uncommon and has nearly no history of human use.
+imageURL :: https://www.erowid.org/chemicals/mipt/images/mipt_summary1.jpg
+imagesURL :: https://www.erowid.org/chemicals/mipt/mipt_images.shtml
+lawURL :: https://www.erowid.org/chemicals/mipt/mipt_law.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Images]
+imageEntryList :: MIPT 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=mipt/mipt_2d.gif	Still 2D image of the MIPT molecule.	Image by Erowid. &copy; 2006 Erowid.org
+MIPT 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=mipt/mipt__.mol	Rotating 3D image of the MIPT molecule.	Image by Erowid. &copy; 2002 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+MIPT
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: MIPT is uncontrolled in the United States. This means it is generally considered legal to buy, possess, and distribute (sell, trade or give). It is possible that possession and sales could be prosecuted under the Federal Analog Act though we are unaware of any such existing cases. (8/23/04)
+stateLaw :: null
+internationalLaw :: Japan	MIPT is controlled as a "Designated Substance" (Shitei-Yakubutsu) by the Pharmaceutical Affairs Law, making it illegal to possess or sell (see Ref).
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

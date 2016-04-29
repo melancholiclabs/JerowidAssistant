@@ -1,0 +1,40 @@
+[Substance]
+
+id :: 60
+name :: Cathinone & Methcathinone
+url :: https://www.erowid.org/chemicals/cathinone/cathinone.shtml
+category :: Chemicals
+commonNames :: Cat
+effectsClassification :: Stimulant
+chemicalName :: (s)-2-amino-1-phenyl-l-propanone
+description :: Cathinone is a naturally occurring stimulant present in the Khat plant. Its effects and structure are similar to those of ephedrine and amphetamine.
+imageURL :: https://www.erowid.org/chemicals/cathinone/images/cathinone_summary1.jpg
+imagesURL :: https://www.erowid.org/chemicals/cathinone/cathinone_images.shtml
+lawURL :: https://www.erowid.org/chemicals/cathinone/cathinone_law.shtml
+chemistryURL :: https://www.erowid.org/chemicals/cathinone/cathinone_chemistry.shtml
+
+[Images]
+imageEntryList :: Cathinone 2D Molecule	https://www.erowid.org/chemicals/show_image.php?i=cathinone/cathinone_2d.gif	Still 2D image of the Cathinone molecule.	Image by Erowid. &copy; 2006 Erowid.org
+Methcathinone 2D Molecule	https://www.erowid.org/chemicals/show_image.php?i=methcathinone/methcathinone_2d.jpg	Still 2D image of the Methcathinone molecule.	Image by Erowid. &copy; 2001 Erowid.org
+Methcathinone 3D Rotating Molecule	https://www.erowid.org/chemicals/show_image.php?i=methcathinone/methcathinone__.mol	Rotating 3D image of the Methcathinone molecule.	Image by Erowid. &copy; 2001 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Cathinone
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule I
+CLASSIFICATION	Stimulant
+federalLawText :: Cathinone and Methcathinone are both Schedule I in the United States. This means they are illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license.
+stateLaw :: null
+internationalLaw :: Canada	Cathinone is schedule III in Canada.
+Israel	Cathinone, Cathine, and Methcathinone were added to the list of controlled Dangerous Drugs in early November, 2004 after cathinone was sold in capsules "Hagigat" and several people were reported to have required medical attention. See Haaretz.com. See Psychoactives Law : Israel. Further, Israel banned four "families" of substances and their derivatives in July 2010. The families are cathinones, methcathinones, amphetamines, and methamphetamines. The new rules are designed to preemptively ban new drugs before they are sold in Israel. See http://www.jpost.com/Israel/Article.aspx?id=181254. (Thanks A, KP, ELI) (last updated May 12 2011)
+Italy (Italia)	Listed in Tabella I of "Tabelle delle sostanze stupefacenti e psicotrope", making it illegal to possess, purchase, or sell. (see Tabelle delle sostanze stupefacenti e psicotrope. (thanks a) (last updated Dec 16, 2015)
+
+[Chemistry]
+chemTable :: NAME :	Cathinone
+CHEMICAL NAME :	(S)-2-Amino-1-phenyl-l-propanone
+CHEMICAL FORMULA	C9H11NO
+MOLECULAR WEIGHT	149.19
+From the Merck Index 12th Edition
+moleculeURL :: https://www.erowid.org/chemicals/cathinone/images/archive/cathinone_2d.jpg

@@ -1,0 +1,30 @@
+[Substance]
+
+id :: 244
+name :: St. John's Wort
+url :: https://www.erowid.org/herbs/sjwort/sjwort.shtml
+category :: Herbs
+botanicalClassification :: Family :Hypericaceae, Genus :Hypericum, Species :perforatumcommonNames :: St John's Wort; Sint Janskruid
+uses :: Anxiolytic; Treatment for pain, tension, and depression.
+description :: St John's Wort is a perennial herb growing from 1-3 feet tall. Erect stems branch in upper parts with small pale green leaves. Flowers are bright yellow in terminal clusters with long hairy yellow stamens.
+imageURL :: https://www.erowid.org/herbs/sjwort/images/sjwort_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/sjwort/sjwort_images.shtml
+lawURL :: https://www.erowid.org/herbs/sjwort/sjwort_law.shtml
+
+[Images]
+imageEntryList :: Hypericum perforatum Flower	https://www.erowid.org/herbs/show_image.php?i=sjwort/hypericum_perforatum_flower__i2007e0155_disp.jpg	A single Hypericum perforatum (Saint John's Wort) flower on a branch. [Eastern Cape, S Africa]	Photo by Michael Knott. &copy; 2007 Erowid.org
+Hypericum perforatum Flower	https://www.erowid.org/herbs/show_image.php?i=sjwort/hypericum_perforatum_flower__i2007e0156_disp.jpg	A close-up of a single yellow Hypericum perforatum (Saint John's Wort) flower. [Eastern Cape, S. Africa]	Photo by Michael Knott. &copy; 2007 Erowid.org
+Hypericum perforatum	https://www.erowid.org/herbs/show_image.php?i=sjwort/hypericum_perforatum1.jpg	Color photo of flower.	From Cornell University.
+Hypericum perforatum	https://www.erowid.org/herbs/show_image.php?i=sjwort/hypericum_perforatum2.jpg	Color photo of flowering branches.	From Cornell University.
+Hypericum perforatum	https://www.erowid.org/herbs/show_image.php?i=sjwort/hypericum_perforatum3.jpg	Color photo of branch section.	From Cornell University.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+St John's Wort
+REGULATED	No
+STATUS	Supplement
+SCHEDULE	Un-Scheduled
+federalLawText :: St John's Wort is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: Ireland	St John's Wort is available in 2006 in Ireland only by prescription.
+St John's Wort is available in 2006 in Ireland only by prescription.  	According to IrishHealth.com, the herb was banned for over-the-counter sales as of Jan 1, 2006. (thanks MF)

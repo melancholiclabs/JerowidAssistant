@@ -1,0 +1,11 @@
+[Substance]
+
+id :: 330
+name :: Gerovital H3
+url :: https://www.erowid.org/smarts/gerovital/gerovital.shtml
+category :: Smarts
+commonNames :: GH-3
+effectsClassification :: Anti-aging; Memory; Cognition
+chemicalName :: 4-aminobenzoic acid 2-(diethylamino)ethyl ester
+description :: Gerovital is a combination of procaine with an anti-oxidant and preservative. It has been marketed as a anti-aging drug, but double-blind studies have shown no efficacy and significant health risks. It was banned by the FDA in 1982.
+imageURL :: https://www.erowid.org/smarts/images/smarts_spacer_summary.jpg

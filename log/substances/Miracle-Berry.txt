@@ -1,0 +1,31 @@
+[Substance]
+
+id :: 236
+name :: Miracle Berry
+url :: https://www.erowid.org/herbs/miracle_berry/miracle_berry.shtml
+category :: Herbs
+botanicalClassification :: Family :Sapotaceae, Genus :Synsepalum, Species :dulcificum (=Richardella dulcifica)commonNames :: Miracle Fruit; Miracle Berry; Sweet Berry
+uses :: Miraculin, a protein contained in Miracle Berries, is used as a sweetening agent.
+description :: An evergreen shrub native to western Africa, berries of Synsepalum dulcificum contain a taste-modifying glycoprotein called miraculin that makes sour foods taste sweet. In 2008, miracle berries received a huge amount of press, associated with novel "flavor tripping" parties.
+imageURL :: https://www.erowid.org/herbs/images/herbs_spacer_summary.jpg
+basicsURL :: https://www.erowid.org/herbs/miracle_berry/miracle_berry_basics.shtml
+
+[Basics]
+description :: The Miracle Berry, also called Miracle Fruit or Miraculous Fruit, are small, reddish berries of the Sysepalum dulcificum (also known as Richadella dulcifica or Sideroxylon dulcificum), an evergreen shrub native to western Africa. While Miracle Berries are themselves rather bland, they contain a glycoprotein called miraculin that has the notable effect of making sour foods taste sweet. Miraculin temporarily causes the sweet taste buds to be stimulated by acids, meaning that normally-sour foods are experienced as sweet.  Some growers have reported that the Sysepalum dulcificum only produces berries after years of growth, and even then generates a relatively small yield, which has thus far prevented Miracle Berries from widespread availability. Mirculin is used as a sweetener in Japan, where scientists have reported growing modified lettuce that contains miraculin. As of June 2007 this lettuce does not appear to have reached market. [ Main Miracle Berry Vault ]
+descriptionSections :: dose	A single miracle berry alters taste perception for around half an hour.
+price	Not commonly sold in the United States.
+law	Miraculin was classified as a food additive by the FDA in 1974. As of 2007, miraculin has apparently not been taken through the FDA approval process necessary to market regulated products, and is not widely available in the United States.
+chemistry	The active agent in Miracle Berries is a glycoprotein called miraculin. It also contains high amounts of aspartic acid, valine, glycine, proline, threonine, and phenylalanine, with a high density of the sugars glucosamine and mannose.
+pharmacology	Miraculin binds to the taste buds. In nerve fibers normally stimulated by sweet tastes, miraculin increases responsiveness to acidity by 2-3 times, while simultaneously depressing response to sweeteners.
+production	Production Summary Needed.
+history	History Summary Needed.
+terminology	The Substance:Miracle Fruit; Miracle Berry; Synsepalum dulcificum; Miraculous Berry; Sweet Berry. The Experience:Flavor tripping.
+effects :: A single Miracle Berry produces rapid, dramatic effects. Sour foods such as limes, lemons, and vinegar are experienced as very sweet. One person describes an average lime tasting "like sorbet". Effects taper off gradually.
+effectsSections :: onset	The taste-altering effects of Miracle Berries are distinctly noticeable within 30 seconds to a minute after eating.
+duration	Miracle Berry effects are typically described as lasting for about half an hour, but have been reported to last as long as two hours.
+visuals	Visuals Summary Needed.
+problems :: Miracle Berries inhibit the natural aversion to acidic foods. It is possible to develop gastric distress or irritation to the mouth and throat by rapidly eating very sour foods while under the influence of Miracle Berries. One person writes: "A colleague and I once spent an evening experimenting with miracle berries. We drank straight lemon juice, sauerkraut juice, even vinegar. All tasted extremely sweet. Somehow we forgot how acidic these substances are. We awoke the next day to find our mouths full of ulcers."
+problemsSections :: contraindications	Be cautious not to over-indulge in highly-acidic foods that may cause irritation or gastric distress.
+addiction	Miracle Berries are not known to be either physically addicting or likely to cause psychological dependance.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.

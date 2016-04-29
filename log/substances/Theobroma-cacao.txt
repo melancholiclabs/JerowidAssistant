@@ -1,0 +1,55 @@
+[Substance]
+
+id :: 144
+name :: Theobroma cacao
+url :: https://www.erowid.org/plants/cacao/cacao.shtml
+category :: Plants
+botanicalClassification :: Family :Sterculiaceae , Genus :Theobroma, Species :cacaocommonNames :: Chocolate; cacao; cocoa
+effectsClassification :: Stimulant
+description :: Theobroma cacao is a medium sized tree which produces large bean filled fruit. These cacao beans are fermented and processed to create chocolate. They contain the stimulants caffeine and theobromine and have a long history of human use in S. America.
+imageURL :: https://www.erowid.org/plants/cacao/images/cacao_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/cacao/cacao_images.shtml
+lawURL :: https://www.erowid.org/plants/cacao/cacao_law.shtml
+
+[Images]
+imageEntryList :: Theobroma cacao (Sterculiaceae)	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao1.jpg	Color photo of tree.	Photo by Thomas Shoepke.
+Theobroma cacao	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao__i2005e0150_disp.jpg	Small potted Theobroma cacao tree in a 20 liter pot. [South America]	Photo by Hermes. &copy; 2007 Erowid.org
+Theobroma cacao Tree	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao_tree__i2012e0292_disp.jpg	Theobroma cacao fruit on the tree also showing leaves. [Vila Camboinha, Brazil]	Photo by Jon Hanna. &copy; 2012 Erowid.org
+Theobroma cacao leaves	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao_leaf__i2007h0006_disp.jpg	Close-up of a branch of Theobroma cacao leaves. [Costa Rica]	Photo by Erowid. &copy; 2007 Erowid.org
+Theobroma cacao Leaves	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao_leaf__i2007h0007_disp.jpg	A branch of Theobroma cacao leaves showing newer red leaves and older green leaves. [Costa Rica]	Photo by Erowid. &copy; 2007 Erowid.org
+Theobroma cacao	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao_leaf1.jpg	Color photo of leaves.	Photo by Erowid, &copy; 2001 Erowid.org
+Theobroma cacao	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao_sign1.jpg	Sign from botanical gardens near Hilo, Hawaii.	Photo by Erowid, &copy; 2001 Erowid.org
+Theobroma cacao leaves	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao_leaf__i2012e0454_disp.jpg	Shiny green Theobroma cacao leaves.	Photo by Keeper Trout. &copy; 2012 Erowid.org
+Theobroma cacao Seeds	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao_seed1.jpg	Color photo of cocoa seeds.	Photo by Erowid, &copy; 2002 Erowid.org
+Theobroma cacao Seeds	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao_seed2.jpg	Color photo of cocoa seeds.	Photo by Erowid, &copy; 2002 Erowid.org
+Theobroma cacao Seeds	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao_seed3.jpg	Color photo of cocoa seeds.	Photo by Erowid, &copy; 2002 Erowid.org
+Fresh Theobroma cacao seeds	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao_seeds__i2012e0294_disp.jpg	After the fruit is consumed (or discarded), the T. cacao seeds are dried on a screen. Once dry, they can be consumed raw as a mildly stimulating snack. However, many people toast them to make them crunchier before eating them, blending them in milk, or making their own chocoolate confections. [Vila Camboinha, Brazil]	Photo by Jon Hanna. &copy; 2012 Erowid.org
+Theobroma cacao Seeds	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao_seed4.jpg	Color photo of 3 cocoa seeds with shells removed.	Photo by Erowid, &copy; 2002 Erowid.org
+Theobroma cacao Seeds	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao_seed5.jpg	Color photo of a cocoa seed, broken in half, with mold visible. Approx 2cm long.	Photo by Erowid, &copy; 2002 Erowid.org
+Theobroma cacao Seeds	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao_seed6.jpg	Color photo of cocoa seeds with shells removed.	Photo by Erowid, &copy; 2002 Erowid.org
+Theobroma cacao Seed Shell	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao_seed7.jpg	Color photo of the empty shell of one cocoa seed.	Photo by Erowid, &copy; 2002 Erowid.org
+Theobroma cacao Seeds	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao_seed8.jpg	Color photo of cocoa seeds and shell.	Photo by Erowid, &copy; 2002 Erowid.org
+Theobroma cacao Seeds	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao_seed9.jpg	Color photo of cocoa seed and shell.	Photo by Erowid, &copy; 2002 Erowid.org
+Theobroma cacao Seeds	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao_seed10.jpg	Color photo of cocoa seeds and shell.	Photo by Erowid, &copy; 2002 Erowid.org
+Theobroma cacao Seeds	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao_seed11.jpg	Color photo of cocoa seeds with US penny (penny is 1.9cm diameter).	Photo by Erowid, &copy; 2002 Erowid.org
+Theobroma cacao Seeds	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao_seed12.jpg	Color photo of cocoa seeds and broken pieces of dried cocoa.	Photo by Erowid, &copy; 2002 Erowid.org
+Theobroma cacao	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao_fruit1.jpg	Color photo showing ripe orange Theobroma cacao fruit.	Photo by Erowid, &copy; 2001 Erowid.org
+Theobroma cacao Fruit	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao_fruit__i2012e0293_disp.jpg	Green Theobroma cacao fruit. Casually planted in many yards in areas of Brazil, T. cacao (chocolate) trees produce large fruit that is made into a juice and assorted liquors. Eaten fresh, it has a sweet-sour flavor somewhat reminiscent of moist bread. [Vila Camboinha, Brazil]	Photo by Jon Hanna. &copy; 2012 Erowid.org
+Theobroma cacao Fruit	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao_fruit__i2004e0151_disp.jpg	Close-up of a large Theobroma cacao fruit taken in Porto Seguro Bahia, Brazil. [Brazil]	Photo by Finn. &copy; 2007 Erowid.org
+Theobroma cacao Flower	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao_flower__i2012e0450_disp.jpg	A single Theobroma cacao flower.	Photo by Keeper Trout. &copy; 2013 Erowid.org
+Theobroma cacao	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao2.jpg	Color drawing of plant, flower and seeds.	From Kohler's Medicinal Plants, &copy; 1995-2003 Missouri Botanical Garden.
+Theobroma cacao	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao3.jpg	Color drawing of cacao bean exterior and interior.	From Kohler's Medicinal Plants, &copy; 1995-2003 Missouri Botanical Garden.
+Theobroma cacao	https://www.erowid.org/plants/show_image.php?i=cacao/theobroma_cacao_botanical_drawing1.jpg	Color drawing showing plant, flowers, and fruit.	From "An Introduction to Materia Medica and Pharmacology" (1942).
+Theobromine 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=chocolate/theobromine_2d.gif	2D molecule image.	Image by Erowid, &copy; 2001 Erowid.org
+Theobromine 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=chocolate/theobromine_3d.jpg	Still 3D image of the Theobromine molecule.	Image by Erowid, &copy; 2001 Erowid.org
+Theobromine 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=chocolate/theobromine__.mol	Rotating 3D image of the Theobromine molecule.	Image by Erowid, &copy; 2000 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Theobroma cacao
+REGULATED	No
+STATUS	Food Approved
+SCHEDULE	Un-Scheduled
+federalLawText :: Theobroma cacao is uncontrolled in the United States and is approved for human consumption. iThis means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: 

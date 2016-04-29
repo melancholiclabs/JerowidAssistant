@@ -1,0 +1,41 @@
+[Substance]
+
+id :: 126
+name :: Salvinorin B Ethoxymethyl Ether
+url :: https://www.erowid.org/chemicals/salvinorin_b_ethoxymethyl_ether/salvinorin_b_ethoxymethyl_ether.shtml
+category :: Chemicals
+commonNames :: Symmetry
+effectsClassification :: Psychedelic Diterpenoid
+chemicalName :: salvinorin B ethoxymethyl ether
+description :: Salvinorin B ethoxymethyl ether is a novel and unusually potent artificial salvinorin with an extremely limited history of human use.
+imageURL :: https://www.erowid.org/chemicals/images/chemicals_spacer_summary.jpg
+basicsURL :: https://www.erowid.org/chemicals/salvinorin_b_ethoxymethyl_ether/salvinorin_b_ethoxymethyl_ether_basics.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Basics]
+description :: Salvinorin B ethoxymethyl ether is a novel and unusually potent artificial salvinorin with an extremely limited history of use; the first known human bioassays occurred in 2008. [ Main Salvinorin B Ethoxymethyl Ether Vault ]
+descriptionSections :: dose	Threshold dose when vaporized is between 10 and 50 micrograms; marked effects occur between 150 and 300 micrograms. The potency of salvinorin B ethoxymethyl ether is rivaled only by a few synthetic compounds, such as LSD and some opioids.
+price	Has not been reported for sale anywhere.
+law	Salvinorin B ethoxymethyl ether is not specifically scheduled. However, it may be considered illegal in states where salvinorin A is scheduled if those states have controlled substance analog laws.
+chemistry	Salvinorin B ethoxymethyl ether is an artificial compound created via a semi-synthetic method using salvinorin B, which is not psychoactive, as the starting material.1
+pharmacology	Salvinorin B ethoxymethyl ether is among the most potent and selective kappa opioids reported to date. Although the naltrexone derivative nalfurafine (TRK-820) is even more potent, it shows much lower selectivity. Salvinorin B ethoxymethyl ether appears to exclusively target the kappa opioid receptors. Salvinorin B ethoxymethyl ether was shown to be about ten times as potent as salvinorin A in vitro, and this increased potency has been confirmed via limited human bioassays.
+production	Production Summary Needed.
+history	On October 24, 2007, Bioorganic & Medicinal Chemistry (online edition) published an article by Thomas A. Munro and his colleagues regarding their work with salvinorin B ethoxymethyl ether and several other salvinorin B alkoxymethyl ethers.
+terminology	The Substance:Symmetry. The Experience:No common terms known.
+effects :: Threshold dose when vaporized is between 10 and 50 micrograms. Marked effects occur at 150 to 300 micrograms, vaporized. Effects commence within seconds, peak in about a minute, and diminish rapidly after about five minutes, similar to salvinorin A. However, unlike with smoked or vaporized salvinorin A, minor effects are still noticeable at the half-hour point. Effects reported at doses of 100 to 200 micrograms include: spoked geometric closed- and open-eye visions, alterations in perspective, and palinopsia ("trails" or pronounced afterimages). At higher doses of up to 400 micrograms, effects reported include mental confusion, derealization, and more vivid geometric visions. A sense of "foreboding" has been reported at both lower and higher doses. The effects appear to be similar to those produced by salvinorin A, although one individual experienced with both compounds expressed the opinion that s/he would be able to distinguish between the two.2
+effectsSections :: onset	Effects of vaporizing the material begin within seconds.
+duration	Effects diminish rapidly after about five minutes, similar to salvinorin A. However, unlike with smoked or vaporized salvinorin A, minor effects are still noticeable at the half-hour point.
+visuals	In the very few people who have tried it, visual effects have included spoked geometric closed- and open-eye visions, alterations in perspective, and palinopsia ("trails" or pronounced afterimages). At higher doses of up to 400 micrograms, the visions can be more vivid and geometric.
+problems :: No problems have been reported from the use of salvinorin B ethoxymethyl ether. Potential problems may be similar to those found with salvinorin A or Salvia divinorum.
+problemsSections :: contraindications	There are no known contraindications related to salvinorin B ethoxymethyl ether. However, competitive opioid antagonists that include kappa opioid receptors among their target receptors, such as naltrexone (and to a lesser extent, naloxone), are likely to block the effects of salvinorin B ethoxymethyl ether.
+addiction	It is very unlikely that salvinorin B ethoxymethyl ether is addictive. However, it has not been studied for addiction liability.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

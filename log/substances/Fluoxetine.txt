@@ -1,0 +1,44 @@
+[Substance]
+
+id :: 279
+name :: Fluoxetine
+url :: https://www.erowid.org/pharms/fluoxetine/fluoxetine.shtml
+category :: Pharms
+commonNames :: Prozac; Sarafem; Zactin
+effectsClassification :: Antidepressant; SSRI
+chemicalName :: (+/-)-N-methyl-y-[4-(trifluoromethyl)-phenoxy] benzenepropanamine
+description :: Fluoxetine is a Selective Serotonin Reuptake Inhibitor (SSRI) which is widely prescribed in the treatment of depression. It is also used in the treatment of alcohol dependence and obsessive-compulsive disorder.
+imageURL :: https://www.erowid.org/pharms/fluoxetine/images/fluoxetine_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/fluoxetine/fluoxetine_images.shtml
+lawURL :: https://www.erowid.org/pharms/fluoxetine/fluoxetine_law.shtml
+chemistryURL :: https://www.erowid.org/pharms/fluoxetine/fluoxetine_chemistry.shtml
+
+[Images]
+imageEntryList :: Prozac	https://www.erowid.org/pharms/show_image.php?i=fluoxetine/prozac_capsule3.jpg	Color photo of the front of a blister pack of Prozac (Fluoxetine) capsules imprinted with "Lilly 3105". (Belgium)	Photo by JDK, &copy; 2005 Erowid.
+Prozac	https://www.erowid.org/pharms/show_image.php?i=fluoxetine/prozac2.jpg	Color photo of collection of a 20 mg Prozac capsules.	Photo by Zak Parmelee [zak@charter.net]. Used by Erowid with permission.
+Prozac Package	https://www.erowid.org/pharms/show_image.php?i=fluoxetine/prozac_package1.jpg	Color photo of the front of a package of Prozac (Fluoxetine) capsules. (Belgium)	Photo by JDK, &copy; 2005 Erowid.
+Fluoxetine Capsules	https://www.erowid.org/pharms/show_image.php?i=fluoxetine/floxetine_capsule__i2004e0295_disp.jpg	Two 20 mg blue and white Fluoxetine capsules (generic for Prozac) produced by Barr Laboratories bearing the imprint "barr / 20 mg || 877". [MI, USA]	Photo by Matt. &copy; 2009 Erowid.org
+Fluoxetine Tablets	https://www.erowid.org/pharms/show_image.php?i=fluoxetine/fluoxetine_tablet__i2004e0294_disp.jpg	Two white 10 mg Fluoxetine tablets (generic for Prozac) produced by Par Pharmaceutical and bearing the imprint "FL / 10 || G". [MI, USA]	Photo by Matt. &copy; 2009 Erowid.org
+Fluoxetine 2D Molecule	https://www.erowid.org/pharms/show_molecule.php?i=fluoxetine/fluoxetine_2d.jpg	Still 2D image of the Fluoxetine molecule.	Image by Erowid, &copy; 2001 Erowid.org
+Fluoxetine 3D Molecule	https://www.erowid.org/pharms/show_molecule.php?i=fluoxetine/fluoxetine_3d.jpg	Still 3D image of the Fluoxetine molecule.	Image by Erowid, &copy; 2001 Erowid.org
+Fluoxetine 3D Rotating Molecule	https://www.erowid.org/pharms/show_molecule.php?i=fluoxetine/fluoxetine__.mol	Rotating 3D image of the Fluoxetine molecule.	Image by Erowid, &copy; 2001 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Fluoxetine
+REGULATED	Yes
+STATUS	Prescription Only
+SCHEDULE	Un-Scheduled
+federalLawText :: Fluoxetine (Prozac) is unscheduled in the United States, but is available by prescription only. This means that sales and distribution are allowed only by those with a license and only to those with a prescription (according to FDA regulations). Possession is not illegal even without a prescription.
+stateLaw :: null
+internationalLaw :: Brazil	Fluoxetine is available by prescription only in Brazil. (thanks SLP)
+Mexico	Fluoxetine is available from some pharmacies without prescription. Unscheduled, so possession is likely to be legal, but its exact status is not known. (unconformed) (thanks e) (last updated Nov 12, 2014)
+Poland	Fluoxetine is available by prescription only in Poland. (thanks MK)
+Uruguay	Fluoxetine is available by prescription only in Uruguay. (unconfirmed) (thanks F)
+RELATED LINKS	None
+
+[Chemistry]
+chemTable :: NAME :	Fluoxetine, Prozac
+CHEMICAL FORMULA	C17H18F3NO
+MOLECULAR WEIGHT	309.3305
+moleculeURL :: null

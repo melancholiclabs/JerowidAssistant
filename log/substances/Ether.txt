@@ -1,0 +1,51 @@
+[Substance]
+
+id :: 75
+name :: Ether
+url :: https://www.erowid.org/chemicals/ether/ether.shtml
+category :: Chemicals
+commonNames :: Sweet Vitriol
+effectsClassification :: Anaesthetic Volatile Solvent
+chemicalName :: diethyl-ether
+description :: Ether is a volatile liquid that's vapors act as an anaesthetic when inhaled. It has been used both medically and recreationally since the late 1800s.
+imageURL :: https://www.erowid.org/chemicals/ether/images/ether_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/ether/ether_basics.shtml
+imagesURL :: https://www.erowid.org/chemicals/ether/ether_images.shtml
+chemistryURL :: https://www.erowid.org/chemicals/ether/ether_chemistry.shtml
+
+[Basics]
+description :: Diethyl ether is a highly volatile solvent. Like gasoline, it is a liquid which easily evaporates into a gaseous form and which is also highly flammable/explosive. It was used in the 19th and early 20th centuries as an anaesthetic though this is no longer true in the U.S.  Though recreational use is quite uncommon, diethyl ether has been used recreationally both orally (liquid) and inhaled (gas). Oral use has historically been in combination with alcohol, to reduce ether's burn in the mouth (see hoffmann's drops). Inhaled it is most commonly used by pouring it onto a rag and inhaling the fumes through the rag. [ Main Ether Vault ]
+descriptionSections :: dose	Dose Summary Needed.
+price	Price Summary Needed.
+law	Ether is not a scheduled substance in the U.S. It is available in several over-the-counter products, especially for automotive use. However, inhaling automotive grade ether is a bad idea due to contaminents. Medical or research grade ether is difficult to find or acquire.
+chemistry	Chemistry Summary Needed.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	Ether was first discovered in 1275 but was not commonly available until the mid 18th century. Touted for its ability to cause drunkeness (in travelling road shows called 'ether frolics' and as a medicinal cure, it didn't come into popular use as an anaesthetic until the late 1800s.
+terminology	The Substance:Ether; Diethyl Ether. The Experience:Huffing.
+effects :: Dizzying intoxication, often with nausea at higher effects levels. Causes visual blurring. An auditory echoing effect is common. The strong solvent smell (reminscent of nail polish remover or a paint thinner with a sweeter tone) is often described as persistent after use.
+effectsSections :: onset	When inhaled, effects are nearly instantaneous.
+duration	Effects from inhaling diethyl ether are relatively short-lived, though, as with many inhalants, users often repeatedly breathe the fumes over a period of time.
+visuals	Blurring of vision is common.
+problems :: Problems Summary Needed.
+problemsSections :: contraindications	Contraindications Summary Needed.
+addiction	Addiction Potential Summary Needed.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Images]
+imageEntryList :: Ethyl Ether	https://www.erowid.org/chemicals/show_image.php?i=ether/ethyl-ether_bottle__i2006e0366_disp.jpg	One 100 mL bottle of lab grade ethyl ether. [SC, USA]	Photo by Anonymous. &copy; 2007 Erowid.org
+
+[Chemistry]
+chemTable :: NAME	Diethyl Ether
+CHEMICAL NAME	Diethyl Ether
+ALTERNATE CHEMICAL NAMES	ethoxyethane, ether, diethyl ether, ethyl oxide, diethyl oxide, sulfuric ether
+CHEMICAL FORMULA	C4H10O
+MOLECULAR WEIGHT	74.12
+MELTING POINT	-116.3 - -123.3C
+BOILING POINT	bp760 34.6C, bp400 17.9C, bp200 +2.2C, bp100 -11.5C, bp10 -48.1C, bp1 -74.3C
+SOLUBILITY	
+Ether is slightly soluble in water and water is slightly soluble in ether.  A saturated water solution contains 8.43% (w/w) of ether at 15degrees and 6.05% (w/w) at 25degrees.  Ether saturated with water contains 1.2% H20 at 20degrees.  Solubility in water increased by HCl.  Soluble in concentrated hydrochloric acid.  Miscible with lower aliphatic alcohols, benzene, chloroform, petroleum ether, other fat solvents, many oils.  Azeotrope with water (1.3%), bp 34.2degrees.
+When shaken under absolute dry conditions, ether can generate enough static electricity to start a fire.
+From the Merck Index 12th Edition
+moleculeURL :: null

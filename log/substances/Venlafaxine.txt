@@ -1,0 +1,80 @@
+[Substance]
+
+id :: 321
+name :: Venlafaxine
+url :: https://www.erowid.org/pharms/venlafaxine/venlafaxine.shtml
+category :: Pharms
+commonNames :: Effexor; Efexor
+effectsClassification :: Antidepressant, Anxiolytic
+chemicalName :: (+/-)-1-[2-(dimethylamino)-1-(4-methoxyphenyl)ethyl] cyclohexanol
+description :: Venlafaxine is a serotonin and norepinephrine reuptake inhibitor which is used in the treatment of depression and general anxiety disorder. It is also used off-label to treat a variety of other disorders.
+imageURL :: https://www.erowid.org/pharms/venlafaxine/images/venlafaxine_summary1.jpg
+basicsURL :: https://www.erowid.org/pharms/venlafaxine/venlafaxine_basics.shtml
+effectsURL :: https://www.erowid.org/pharms/venlafaxine/venlafaxine_effects.shtml
+imagesURL :: https://www.erowid.org/pharms/venlafaxine/venlafaxine_images.shtml
+lawURL :: https://www.erowid.org/pharms/venlafaxine/venlafaxine_law.shtml
+doseURL :: https://www.erowid.org/pharms/venlafaxine/venlafaxine_dose.shtml
+chemistryURL :: https://www.erowid.org/pharms/venlafaxine/venlafaxine_chemistry.shtml
+
+[Basics]
+description :: Venlafaxine (Effexor) is an oral antidepressant. It is the first in a class of antidepressants known as the SNRI's (Serotonin, Norepinephrine Reuptake Inhibitors). It is also a weak inhibitor of the reuptake of dopamine. Venlafaxine is indicated in the treatment of depression and generalized anxiety disorder. It is structurally unrelated to known antidepressants and anxiolytics. Venlafaxine has an active metabolite, O-desmethylvenlafaxine (ODV).  Following oral administration, approx 92% of venlafaxine is absorbed (Regardless of it being an immediate release or extended release form). It is extensively metabolised in the liver and most of the parents drug and its metabolites are recovered in the urine. [PDR] [ Main Venlafaxine Vault ]
+descriptionSections :: dose	Dose Summary Needed.
+price	Price Summary Needed.
+law	Law Summary Needed.
+chemistry	Chemistry Summary Needed.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	History Summary Needed.
+terminology	The Substance:Venlafaxine. The Experience:No common terms known.
+effects :: Like most antidepressants, venlafaxine takes a few days to a few weeks to manifest its effectiveness. The antidepressant effect gradually builds up in stages following oral administration. Venlafaxine reaches steady-state plasma concentrations after three days of dosing. The reason why the antidepressant effect takes two weeks to a month to manifest is unknown. The reason for venlafaxine's anxiolytic (anti-anxiety) effect is also unknown.
+effectsSections :: onset	Although some effects of venlafaxine are felt in the first few hours, the primary purpose of it is as a long term (months to years) treatment for anxiety or depression and it can take 5 to 20 days for the effects to stabilize in users.
+duration	Venlafaxine has an active metabolite which means that after the body begins to process the drug, there is another chemical that forms that is also psychoactive. The total duration of these two is between 12 and 24 hours, though people sometimes report feeling withdrawal quickly after missing a dose.
+visuals	Visuals Summary Needed.
+problems :: Many people report side effects with venlafaxine. Because venlafaxine inhibits the reuptake of norepinephrine, it has cardiovascular effects. The most disturbing of these is hypertension. If you have hypertension, please please (!!!) discuss this with both your psychiatrist and the physician managing your vascular health.   The other side effects will sound familiar to anyone who has taken antidepressant or atypical-antipsychotic medications. Venlafaxine can cause anxiety, dizziness and insomnia (which is paradoxical to its anxiolytic effect). It can also cause a decrease in appetite and, consequently, weight.  Discontinuation syndrome (i.e. withdrawal symptoms) are common in those taking venlafaxine for weeks or months and then stopping. Symptoms can include severe depression, anxiety, chest pains, difficulty breathing, hypertension, techycardia, etc. Tapering slowly or treating with other SSRIs or using benzodiazepines can reduce or eliminate the withdrawal symptoms.  As with the SSRI's (Selective Serotonin Reuptake Inhibitors), venlafaxine may increase the risk of skin and mucous membrane bleeding. This is believed to be caused by the inhibition of reuptake of serotonin into platelets.  Suicide is a risk associated with depression and continues to be a risk until significant remission occurs. Because venlafaxine can take up to a month to become effective (and there may have to be dose adjustments following this period), psychological distress can occur before remission occurs even after treatment has been initiated.
+problemsSections :: contraindications	Do not take venlafaxine if you are currently taking an MAOI. MAOIs are most commonly found in the prescription anti-depressants Nardil (phenelzine), Parnate (tranylcypromine), Marplan (isocarboxazid), Eldepryl (l-deprenyl), and Aurorex or Manerix (moclobemide). Ayahuasca also contains MAOIs (harmine and harmaline). Venlafaxine and MAOIs are a potentially dangerous combination. Check with your doctor if you are not sure whether your prescription medication is an MAOI. If you have a seizure or convulsive disorder, you may be at higher risk for health problems when taking venlafaxine. It has recently come to light that venlafaxine may lower the seizure threshold. Venlafaxine may aggravate narrow angle glaucoma.  Some users have reported that cannabis can dangerously interact with venlafaxine, including one report of tachycardia, arrhythmia, and seizures.
+addiction	Because of the withdrawal symptoms when stopping venlafaxine, some users may find it difficult to stop taking venlafaxine without assisstance.
+long	Increases in serum cholesterol have been found in users of venlafaxine as well as increases in blood pressure.
+death	Venlafaxine has a higher "fatal toxicity index" (FTI, i.e. deaths as a proportion of consumption) than other antidepressants and SSRIs. Reviews of venlafaxine-related deaths have found that most are a result of negative drug interactions, with a number of ruled as suicides. In one review paper, Tramadol was found to be the most common drug in fatal drug interactions with venlafaxine (Pilgrim 2010).
+
+[Effects]
+duration :: null
+positiveEffects :: Reduction in depression	Reduction in anxiety
+neutralEffects :: Attenuation of appetite, decreasing with long term use	Increased appetite in some users	Yawning - persistent, frequent, decreasing with long term use	Change and/or sharpening of colors, sounds, taste & vision.  Sensitivity to loud noises/music.	Sweating	Shivers, Electrical-shock sensations, zaps
+negativeEffects :: Anorexia (rare)	Increased Anxiety	Hypertension	Nausea	Tremor, Leg Muscle Clenching	Muscle aching	Daytime Sleepiness	Disorientation, reduced physical coordination	Tunnel Vision, other visual effects	Sexual side-effects (Most common: decreased libido or inabilty to orgasm)	Difficulty sleeping at night or for prolonged periods	Severe Withdrawals when trying to stop reported by some users	Difficulty stopping taking the medication after 2-3 weeks of daily use	Night sweats, sweating/discomfort while sleeping
+description :: There is currently no Effects Description for this substance.
+experienceReports :: null
+
+[Images]
+imageEntryList :: Effexor Tablets	https://www.erowid.org/pharms/show_image.php?i=venlafaxine/venlafaxine_tablet__i2005e0514_disp.jpg	Photo showing several bottles of 75 mg Effexor (venlafaxine) tablets and 37.5 mg pharmacy blister packs, both by Wyeth Pharma. [E. KY, USA]	Photo by Biopharma. &copy; 2006 Erowid.org
+75 mg Effexor Capsules	https://www.erowid.org/pharms/show_image.php?i=venlafaxine/venlafaxine_capsule__i2005e0601_disp.jpg	Small pile of 75 mg Effexor XR (venlafaxine) capsules next to a prescription bottle. Capsules marked with "W Effexor XR / 75". [Nevada, USA]	Photo by Emma Rockwell. &copy; 2006 Erowid.org
+Effexor XR Capsules	https://www.erowid.org/pharms/show_image.php?i=venlafaxine/venlafaxine_capsule__i2007e1998_disp.jpg	Effexor XR capsules containing 150 mg of venlafaxine and imprinted with "W Effexor XR || 150" [NC, USA]	Photo by MadHatter. &copy; 2008 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Venlafaxine
+REGULATED	Yes
+STATUS	Prescription Only
+SCHEDULE	Un-Scheduled
+federalLawText :: Venlafaxine (Effexor) is unscheduled in the United States, but is available by prescription only. This means that sales and distribution are allowed only by those with a license and only to those with a prescription (according to FDA regulations). Possession is not illegal even without a prescription.
+stateLaw :: null
+internationalLaw :: 
+
+[Dose]
+doseTable :: Oral Venlafaxine Dosages
+Threshold37.5 mg
+Light75 mg
+Common150 mg
+Strong225 mg
+Heavy375 mg
+Onset : Gradual until peak concentrations are reached, often 3-14 days until effects have stabilized.
+Duration : 12-24 hours including active metabolites
+doseText :: Venlafaxine (Effexor) is an oral antidepressant. It is similar to the SSRI's (but not too similar!). Different dosage regimens are used depending on the indication (why it's being taken).      Oral Venlafaxine Dosages Threshold37.5 mg Light75 mg Common150 mg Strong225 mg Heavy375 mg    Onset : Gradual until peak concentrations are reached, often 3-14 days until effects have stabilized. Duration : 12-24 hours including active metabolites
+notes :: null
+
+[Chemistry]
+chemTable :: NAME :	Venlafaxine, Effexor
+CHEMICAL NAME :	(�)-1-[a [(dimethylamino)methyl] p-methoxybenzyl] cyclohexanol hydrochloride
+ALTERNATE NAMES :	Effexor
+CHEMICAL FORMULA	C17H27NO2
+MOLECULAR WEIGHT :	277.4
+moleculeURL :: https://www.erowid.org/pharms/venlafaxine/images/archive/venlafaxine_2d_mid.png

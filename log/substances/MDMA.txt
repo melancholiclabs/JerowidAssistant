@@ -1,0 +1,147 @@
+[Substance]
+
+id :: 98
+name :: MDMA
+url :: https://www.erowid.org/chemicals/mdma/mdma.shtml
+category :: Chemicals
+commonNames :: Ecstasy; E; X; XTC; Rolls; Beans; Adam; Molly
+effectsClassification :: Euphoric Empathogen; Stimulant; Phenethylamine
+chemicalName :: 3,4-methylenedioxymethamphetamine
+description :: MDMA is one of the most popular recreational psychoactives, most commonly sold as "ecstasy" (usually tablets) or "molly" (usually crystals). It is known for its empathogenic, euphoric, and stimulant effects, and has also been used in psychotherapy.
+imageURL :: https://www.erowid.org/chemicals/mdma/images/mdma_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/mdma/mdma_basics.shtml
+effectsURL :: https://www.erowid.org/chemicals/mdma/mdma_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/mdma/mdma_images.shtml
+healthURL :: https://www.erowid.org/chemicals/mdma/mdma_health.shtml
+lawURL :: https://www.erowid.org/chemicals/mdma/mdma_law.shtml
+doseURL :: https://www.erowid.org/chemicals/mdma/mdma_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/mdma/mdma_chemistry.shtml
+
+[Basics]
+description :: MDMA, or 'ecstasy' is a 'psychedelic amphetamine' that has gained popularity over the past 20 years because of its ability to produce strong feelings of comfort, empathy, and connection to others. It most frequently comes in tablet form, although it is also found in capsules or as powder. It is most frequently used orally and rarely snorted. MDMA use is closely tied to the underground rave (and dance club) scene throughout the world, but has also been widely used by therapists as an adjunct to psychotherapy.  Because MDMA is so popular and because it goes well with dance parties, the demand for it usually exceeds supply--especially at any given location on any given night. This creates an opening for unscrupulous individuals to sell virtually anything as 'ecstasy'. While 'ecstasy' is the popular name for MDMA, the functional definition of ecstasy is any pill represented as MDMA on the street. Ecstasy pills are notoriously unreliable in content, more so than most other street drugs, and commonly contain either caffeine, ephedrine, amphetamines, MDA, MDE, DXM, or--in rare cases--DOB, and don't necessarily contain MDMA or any psychoactive. This problem has led to the development of simple MDMA testing kits that may help give the user a general sense of the content of a pill. [ Main MDMA Vault ]
+descriptionSections :: dose	A standard oral dose of MDMA is between 80 - 150 mg. Most good quality pills contain somewhere in this range, generally 80-120 mg. A large percentage of users find that, unlike with many other psychoactives such as LSD or mushrooms, there is a 'sweet spot' in MDMA dosage. Once this spot is found, higher dosages are not particularly desirable as they don't increase the sought after effects or duration.
+price	The price of MDMA varies wildly depending on where it's purchased and in what quantity. Prices are much higher in the United States and Canada than they are in Europe. In the U.S., a single tablet purchased at a commercial event can cost as much as $50 though more commonly $10-$25. Purchased in higher quantities MDMA generally sells for $80-$200 per gram (about $8-25 per dose), with wholesale prices as low as $40 per gram. In Europe, in 2008 and 2009, prices were much lower at around 30-80 Euro per gram and 2-8 Euro per tablet.
+law	MDMA is illegal in the United States (Schedule I) and in most other countries. It is also listed as Schedule I in the International Convention on Psychotropic Substances, an international drug control treaty.
+chemistry	3,4-methylenedioxy-N-methamphetamine (MDMA) is a synthetic chemical that can be derived from an essential oil of the sassafras tree.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	MDMA was first synthesized in the 1890s and later patented by Merck pharmaceuticals on December 24, 1912, but it wasn't until the mid 1970s that articles related to its psychoactivity began showing up in scholarly journals. In the late '70s and early '80s MDMA was used as a psychotherapeutic tool and also started to become available on the street. Its growing popularity led to it being made illegal in the United States in 1985 and its popularity has continued to increase since then.
+terminology	The Substance:MDMA; Ecstasy; X; XTC; E; M; Adam; Molly, Thizz, Beans (Tablets); Rolls. The Experience:Rolling; X-ing; Thizzing; Wigging; Tripping.
+effects :: When the full effects of MDMA manifest, barring an uncommon negative reaction, users are likely to find that suddenly everything is right with the world. The primary effects sought by those using MDMA recreationally are the emotional openness, euphoria, stimulation, reduction of critical and cynical thoughts, and decrease of inhibitions that can accompany its use. MDMA is used by some individuals in a therapeutic setting to attempt to work through difficult interpersonal issues. Although MDMA can cause nystagmus (eye wiggles), most individuals experience few prominent open or closed eye visuals. A small percentage of users report significant visual distortions.
+effectsSections :: onset	Depending on how much and how recently one has eaten food, MDMA generally takes 30-60 minutes (although sometimes as long as 2 hours) to take effect. Unlike with many other psychoactives, the onset of MDMA is very quick. Often at the point one realizes that perhaps they are starting to notice effects, they are already 'launching' quickly towards the peak. This quick and extremely sharp 'launch' can be unnerving, feeling a bit like it's too quick and hard to know when it's going to end, but the feeling generally only lasts a few minutes until the full effects are reached.
+duration	The primary effects of MDMA last approximately 3-4 hours when taken orally. For many people there is an additional period of time (2-6 hrs) where it is difficult to go to sleep and there is definitely a noticeable difference from everyday reality, but which is not strong enough to be considered 'tripping'. Many people also experience a noticeable shift in mood for several days after use; for some this is a period of depression while others experience lifted mood.
+visuals	Visuals Summary Needed.
+crash	Some users of MDMA experience a dramatic worsening of mood as the peak effects wear off, often called the "crash". This is often the result of coming down from a wonderful experience, not wanting the feelings to go away, and being sad, scared, or annoyed afterwards. Crashes do not happen after every experience and some users never experience them. One of the primary problems associated with crashing is that some users find themselves redosing in order to stave it off.
+hangover	Hangover and the Week After  Many users report feeling extremely drained the day after MDMA use. This 'day after' effect means for many MDMA users that they need to plan 2 days for the experience: one for the peak experience and one recovery day, with very little planned. Many users also experience some level of post-MDMA depression, often starting on the second day after the experience and lasting for up to 5 days. A small percentage of users report depressive symptoms for weeks afterwards. Alternately, some users report feeling better than normal for a week or so after taking MDMA. The negative after-effects of taking MDMA appear to be worse with higher frequencies of use, higher dosages, and perhaps total lifetime usage.
+problems :: One of the primary problems with MDMA is the low quality of street ecstasy. Street ecstasy, especially pressed pills, is often mixed with a wide variety of adulterants that can cause a variety of negative side effects both unpleasant and dangerous. MDMA is a known neurotoxin, but how damaging it is to use is very controversial and quite complex.  Negative effects can include overheating, nausea, vomiting, jaw-clenching, eye-twitching, and dizziness, as well as depression and fatigue in following days. After frequent or heavy use, some users report bouts of dizziness or vertigo which gradually subside after cessation of use. There have been problems with MDMA users experiencing dehydration, hyperthermia, hyponatremia, exhaustion, blackouts, and a few cases of death generally while using MDMA at clubs or raves. MDMA users would be wise to drink water and take occasional breaks.  Another possible difficult situation arising from MDMA use is the release of emotions which one may be unprepared to deal with. This could include confronting past episode of abuse, re-experiencing painful memories, encountering emotional crises, or unearthing previously unrecognized feelings either alone or while in conversation with friends and loved ones. In these situations, therapists suggest one should try to remain calm and avoid fighting the feelings. Find a supportive friend and a safe, comfortable space to sit while working through the feelings. If at all possible, try to find support among friends as emergency rooms are poorly equipped to handle emotional crises.  Many users report that their enjoyment of MDMA seems to decrease as total lifetime usage increases. Some users report that E 'loses its magic' with as few as 10 experiences, while others have reported hundreds of uses before the empathic qualities fades or disappears. Most users stop taking E because of either an increased awareness or an actual increase in negative side effects during use, a reduced quality of the high, and increases in the post-MDMA depression and day after hangover. Most users report that when using more than once a month, or merely over increased total lifetime use, they need to increase the dosage in order to get positive effects with MDMA. Increased dosage is associated with increased side effects, hangover, and week-after depression.
+problemsSections :: contraindications	Do not take MDMA if you are currently taking an MAOI. MAOIs are most commonly found in the prescription anti-depressants Nardil (phenelzine), Parnate (tranylcypromine), Marplan (isocarboxazid), Eldepryl (l-deprenyl), and Aurorex or Manerix (moclobemide). Ayahuasca also contains MAOIs (harmine and harmaline). MDMA and MAOIs are a potentially dangerous combination. Check with your doctor if you are not sure whether your prescription medication is an MAOI. Avoid taking MDMA if you are currently using the protease inhibitor Ritonavir. This may be a life-threatening combination. Individuals with a history of heart ailments, high blood pressure, aneurysm or stroke, glaucoma, hepatic (liver) or renal (kidney) disorders, or hypoglycemia may be at higher risk. Avoid strong stimulants in combination with MDMA. Avoid high doses and frequent use. Recent studies suggest that the heavier and more frequent the use, the more concerning the long term after-effects may be. A small percentage (1-10% depending on race & family history) are "slow metabolizers", who have low levels of a liver enzyme (P450 2D6) which metabolizes many  drugs, including MDMA (as well as Prozac, DXM, and many other pharmaceuticals). These people may be more sensitive to MDMA, might require lower doses, and should be cautious.
+addiction	MDMA has the potential to be psychologically addicting. Individuals who use it regularly may find they have an increased desire to continue using it. There is a short period of tolerance after MDMA use. Using MDMA two days in a row is likely to lead to a greatly diminished experience the second day, though spaced 7 or more days apart, this effect is lessened. Some users report noticing reduced effects for up to 2 or 3 weeks after initial use.
+long	There is an ongoing debate about the possible neurotoxicity of MDMA. Most experts now agree that MDMA is neurotoxic, but there is little agreement on what the consequences of this toxicity are. Alcohol is also a neurotoxin, for instance, as are many other medications. There is some evidence of changes to the brain in those who use MDMA heavily and/or frequently and a few studies have shown reductions in memory & increases in depression and anxiety, but these studies have not been completely verified and debate continues. This is a very complicated issue.
+death	Risk of Death Summary Needed.
+
+[Effects]
+duration :: MDMA Duration
+Oral
+Total Duration	3 - 5 hrs
+Onset	20 - 90 mins
+Coming Up	5 - 20 mins
+Plateau	2 - 3 hrs
+Coming Down	1 - 2 hrs
+&nbsp;	&nbsp;
+After Effects	2 - 24 hrs
+Hangover / Day After	2 - 72+ hrs
+positiveEffects :: mild to extreme mood lift, euphoria	increased willingness to communicate	increase in energy (stimulation)	ego softening	decreased fear, anxiety, and insecurities	feelings of comfort, belonging, and closeness to others	feelings of love and empathy	forgiveness of self and others	a sense of inner peace and acceptance of self, others, and the world	increased awareness & appreciation of music	increased awareness of senses  (taste, smell, touch, hearing, vision)	increased tactile sensation (pleasure from the sense of touch and being touched)	life-changing spiritual experiences	sensations bright and intense	urge to hug and kiss people	analgesia, anti-nocioception, decreased pain perception
+neutralEffects :: decreased appetite	visual distortion	rapid, involuntary eye jiggling (nystagmus)	mild visual hallucinations (uncommon)	moderately increased heart rate and blood pressure (increases with dose)	restlessness, nervousness, shivering	change in body temperature regulation	upwellings of unexpected emotion, emotional lability	strong desire to do or want more when coming down
+negativeEffects :: inappropriate and/or unintended emotional bonding	anxiety or paranoia (less common than opposite)	agitation (less common than opposite)	tendency to say things you might feel uncomfortable about later	mild to extreme jaw clenching (trisma), tongue and cheek chewing, and teeth grinding (bruxia)	difficulty concentrating & problems with activities requiring linear focus	short-term memory scramble or loss & confusion	short periods of swooning, or disconnection from the external world, usually at very high doses or during brief blasts of intense rushing while coming up.	impaired ability to focus eyes / blurred vision (related to nystagmus and dilation)	muscle tension	insomnia, inability to fall asleep when physically tired	erectile disfunction and difficulty reaching orgasm	increase in body temperature, hyperthermia, dehydration (drink water)	hyponatremia (don't drink too much water)	nausea and vomiting	headaches, dizziness, loss of balance, and vertigo	sadness on coming down, sense of loss or immediate nostalgia	post-trip Crash - unpleasantly harsh comedown from the peak effect	hangover the next day, lasting days to weeks	mild depression and fatigue for up to a week	severe depression and/or fatigue (uncommon)	possible strong urge to repeat the experience, though not physically addictive	possible psychological crisis requiring hospitalization (psychotic episodes, severe panic attacks, etc) (rare)	possible liver toxicity (rare)	possible neurotoxicity (controversial)	small risk of death; approximately 2 per 100,000 new users have extreme negative reactions resulting in death (rare)
+description :: Some people are considerably more sensitive to MDMA than others. Those using MDMA for the first time or using material of an unknown purity and strength should be extremely careful.	
+Based on research from multiple labs, the effects of MDMA can increase non-linearly with increases in dosage. That is, increasing dosage from 100mg to 120mg (a 20% increase in dosage) can cause more than a 20% increase in experiential effects level. See Harris DS, Baggott M, et al. 2002 and de la Torre R, Farre M, et al. 2000. The current theory is that some metabolic pathway becomes saturated/overwhelmed somewhere around 1.5mg/kg and above, resulting in higher plasma levels and effects levels. The specific metabolic reason for this non-linearity has not yet been proven.
+experienceReports :: null
+
+[Images]
+imageEntryList :: Individual Ecstasy Tablets	https://www.erowid.org/chemicals/mdma/mdma_images_gallery1.shtml	A collection of over 250 close-up color photos of individual Ecstasy tablets.	Various Photographers. &copy; 2001-2009 Erowid.org
+2007 Ecstasy Pill Collage	https://www.erowid.org/chemicals/show_image.php?i=mdma/ecstasy_pill_collage__i2007h0004.jpg	Color collage of 99 different Ecstasy tablets.	Image by Erowid. &copy; 2007 Erowid.org
+2000 Ecstasy Pill Collage	https://www.erowid.org/chemicals/show_image.php?i=mdma/ecstasy_pill_collage1.jpg	Color collage of 99 different Ecstasy tablets.	Image by Erowid. &copy; 2000 Erowid.org
+Relative Pill Dimensions	https://www.erowid.org/psychoactives/show_image.php?i=images/archive/pill_dimensions1.jpg	Image showing relative pill sizes and weights, including an Ecstasy tablet.	Photo by Erowid. &copy; 2000 Erowid.org
+Ecstasy Pills	https://www.erowid.org/chemicals/show_image.php?i=mdma/ecstasy_pill19_group.jpg	Color photo of a selection of three different types of mdma tablets.	Photo by Anonymous Photographer, &copy; 1999 Erowid.
+Ecstasy Pills	https://www.erowid.org/chemicals/show_image.php?i=mdma/ecstasy_pill6_group.jpg	Color photo of a collection of Buddha MDMA tablets.	Photo by Obi Wayne Kenobi, used by Erowid with permission.
+Ecstasy Pills	https://www.erowid.org/chemicals/show_image.php?i=mdma/ecstasy_pill2_group.jpg	Color photo of a large quantity of green "CU" Ecstasy tablets.	Photo by Anonymous Photographer, &copy; 1999 Erowid.
+Ecstasy Pills	https://www.erowid.org/chemicals/show_image.php?i=mdma/ecstasy_collection1.jpg	Color photo of a collection of Motorola Ecstasy tablets.	Photo by jO5h, &copy; 2001 Erowid.orgrg.
+Ecstasy Tablets	https://www.erowid.org/chemicals/show_image.php?i=mdma/ecstasy_tablet__i2009e0830_disp.jpg	Ecstasy tablets weighing 500 mg and reportedly containing a fairly high dose of MDMA. [Delft, The Netherlands]	Photo by Anonymous. &copy; 2011 Erowid.org
+Red Ecstasy Tablet	https://www.erowid.org/chemicals/show_image.php?i=mdma/ecstasy_pill_red__i2010e0891_disp.jpg	An ecstasy tablet reportedly containing MDMA seen at 2010 Boom festival in Portugal. [Portugal]	Photo by Jon Hanna. &copy; 2011 Erowid.org
+MDMA Crystals	https://www.erowid.org/chemicals/show_image.php?i=mdma/mdma_crystal__i2011e0751_disp.jpg	Close up photo of two large chunks of crystal MDMA and a dime for size comparison. [MI, USA]	Photo by Herr Mannelig. &copy; 2011 Erowid.org
+MDMA Crystals	https://www.erowid.org/chemicals/show_image.php?i=mdma/mdma_crystal__i2012e0055_disp.jpg	A large MDMA crystal on a scale. [Czech Republic]	Photo by Vyhuleny UFO. &copy; 2012 Erowid.org
+MDMA powder	https://www.erowid.org/chemicals/show_image.php?i=mdma/mdma3.jpg	Color photo of 2.73 grams of pure MDMA pressed into a single block.	Photo by Anonymous Photographer, &copy; 2002 Erowid.orgrg.
+Crystalline MDMA Chunks	https://www.erowid.org/chemicals/show_image.php?i=mdma/mdma_chunks__i2010e0893_disp.jpg	A small bindle of crystalline MDMA chunks photographed at the 2010 Boom festival in Portugal. [Portugal]	Photo by Jon Hanna. &copy; 2011 Erowid.org
+Batman Ecstasy-Villain Commentary	https://www.erowid.org/chemicals/mdma/mdma_images3.shtml	Excerpts from a 1988 Batman comic where the villains are ecstasy users and dealers.	Batman Comic Issue 594 . &copy; 1988 DC Comics, Scan, &copy; 2001 Erowid.org
+Marquis Reagent Reaction	https://www.erowid.org/chemicals/show_image.php?i=mdma/marquis_sugar_salt__i2012e0168_disp.jpg	Side-by-side comparison of reaction of Marquis Reagent with cane sugar and table salt (sodium chloride) over a ten minute period.	Photo by Erowid. &copy; 2012 Erowid.org
+MDMA 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=mdma/mdma_2d.gif	Still 2D image of the MDMA molecule.	Image by Erowid, &copy; 2006 Erowid.
+MDMA 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=mdma/mdma_3d.jpg	Still 3D image of the MDMA molecule.	Image by Erowid, &copy; 1999 Erowid.
+MDMA 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=mdma/mdma__.mol	Rotating 3D image of the MDMA molecule.	Image by Erowid, &copy; 1999 Erowid.
+
+[Health]
+notes :: null
+deaths :: null
+warnings :: null
+cautions :: null
+benefits :: null
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+MDMA
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule I
+CLASSIFICATION	Hallucinogen
+federalLawText :: MDMA is Schedule I in the United States. This means it is illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license.	
+There are ongoing FDA-approved research projects underway in the U.S., under the Investigational New Drug (IND) program. There are not yet any formally approved medical uses of MDMA, though it now seems likely that MDMA will eventually be demonstrated to have legally viable medical uses.
+stateLaw :: null
+internationalLaw :: Austria	MDMA is illegal to buy, sell, or possess in Austria. (thanks JK).
+Belgium	MDMA is illegal to buy, sell, or possess in Belgium.
+Brazil	MDMA is listed as a controlled substance, making production, distribution, or possession illegal. (thanks P)
+Canada	MDMA is Schedule I in Canada. Prior to the March 2012 "Safe Streets and Communities Act" MDMA, amphetamines, and analogs had been Schedule III. (thanks S) (last updated May 26 2014)
+Denmark	MDMA is illegal to buy, sell, or possess in Denmark. (unconfirmed) (thanks Z)
+Egypt	MDMA is Schedule 3 in Egypt meaning it requires a prescription or license to legally possess. (unconfirmed) (thanks BP)
+Finland	MDMA is in Finland's list of controlled substances, in the hard-drug category. (last updated Oct 8, 2012)
+Germany	MDMA is Schedule I in Germany (the most restrictive category). It is illegal to buy, sell, or possess, except for limited medical or research purposes. (thanks JK).
+Italy (Italia)	Listed in Tabella I of "Tabelle delle sostanze stupefacenti e psicotrope", making it illegal to possess, purchase, or sell. (see Tabelle delle sostanze stupefacenti e psicotrope. (thanks a) (last updated Dec 16, 2015)
+Netherlands	MDMA is classified as a "hard drug" in the Netherlands, making it illegal to sell, manufacture, or possess in large amounts. However, possession of small amounts for personal use is ignored and generally not prosecuted, yet it is still illegal. (thanks F) (last updated Jun 19 2013)
+New Zealand	MDMA was recategorized from class B2 to the stricter class B1 controlled substance on Aug 2 2005. See legislation.govt.nz. (thanks M)
+Norway	MDMA is Schedule I in Norway, illegal to buy or possess without a license. See Norway Law (thanks Y)
+Peru	According to Article 2999 in the Peruvian penal code, personal possession of small amounts individual drugs is not a crime. The list of maximum quantities include 2000mg of cocaine, 5000 mg cocaine basic paste, 8000 mg of cannabis, 2000mg of cannabis derivatives, 1000 mg of opium latex or 200mg of opium derivatives, 250mg of MDA or MDMA. See http://howtoperu.com/2012/03/27/drugs-in-peru-laws-of-possession/. (unconfirmed) (thanks cr) (last updated Feb 26, 2013)
+Portugal	Effective July 2001, personal use of MDMA was decriminalized by Law 30/2000 (see text of law). Possession of less than 1 g is not regarded as a criminal offense, though the substance is liable to be seized and the possessor can be referred to mandatory treatment. Sale, or possession of quantities greater than the personal possession limit, are criminal offenses punishable by jail time. (thanks P)
+Sweden	MDMA is illegal to buy, sell, or possess in Sweden, but we have been unable to find the specifics of the law. (thanks G)
+U.K.	MDMA is Schedule I/Class A in the U.K., making it illegal to sell, buy, or possess without a license.
+
+[Dose]
+doseTable :: Oral MDMA Dosages
+Threshold30 mg
+Light40 - 75 mg
+Common (small or sensitive people)60 - 90 mg
+Common (most people)75 - 125 mg
+Common (large or less sensitive people)110 - 150 mg
+Strong150 - 200  mg
+Heavy200 +  mg
+Onset : 20 - 70 minutes (depending on form and stomach contents)
+Duration : 3 - 5 hours
+Normal After Effects : up to 24 hours
+doseText :: MDMA generally comes in the form of small tablets, capsules, or white powder. When found in tablet form (often referred to as "ecstasy"), it is common for MDMA to be combined with any of the following substances : MDMA, Caffeine, MDA, Methamphetamine, DXM, MDE, Pseudo/Ephedrine, Ketamine, BZP, and TFMPP. Chemical analysis of ecstasy tablets has found from 0 - 120 mg of MDMA as well as a variety of the above substances. Trying to calculate dosages from tablets containing unknown quantities of MDMA can be difficult, but a high quality tablet of street ecstasy (those containing MDMA alone) generally contains between 80 and 120 mg of MDMA. Some unusual tablets (especially in Europe) contain 150mg or more. The chart below shows what are considered recreational/therapeutic dosages for pure MDMA HCl (the most common crystalline form), measured in milligrams. Note that most Ecstasy and even crystalline MDMA is not 100% pure and may contain fillers or other drugs. See EcstasyData.org.     Oral MDMA Dosages Threshold30 mg Light40 - 75 mg Common (small or sensitive people)60 - 90 mg Common (most people)75 - 125 mg Common (large or less sensitive people)110 - 150 mg Strong150 - 200 mg Heavy200 + mg    Onset : 20 - 70 minutes (depending on form and stomach contents) Duration : 3 - 5 hours Normal After Effects : up to 24 hours     Overdose Effects: Vomiting, headaches and dizziness may result from too high a dose of MDMA. Some people are considerably more sensitive to MDMA than others. Be careful if you are using MDMA for the first time or using material of an unknown purity and strength. Always start low.
+notes :: null
+
+[Chemistry]
+chemTable :: NAME :	MDMA
+CHEMICAL NAME :	3,4-methylenedioxymethamphetamine
+ALTERNATE CHEMICAL NAMES :	
+3,4-methylenedioxy-n-methylamphetamine;
+N, alpha-Dimethyl-1,3-benzodioxole-5-ethanamine;
+methylenedioxy-n-methylamphetamine;
+N-methyl-3,4-methylenedioxyphenylisopropylamine;
+Ecstasy; E; XTC; Adam
+CHEMICAL FORMULA	C11H15NO2
+MOLECULAR WEIGHT	193.25
+MELTING POINT	147-148&#176; C (Hydrochloride crystals from isopropanol/n-hexane)
+MELTING POINT	152-153&#176; C (Hydrochloride crystals from isopropanol/ether)
+LD50	(mice) 97 mg/kg i.p.
+LD50	(rats) 49 mg/kg i.p.
+LD50	(guinea pigs) 98 mg/kg i.p.
+From the Merck Index 12th Edition
+moleculeURL :: https://www.erowid.org/chemicals/mdma/images/archive/mdma_3d_mid.jpg

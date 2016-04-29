@@ -1,0 +1,26 @@
+[Substance]
+
+id :: 224
+name :: Ginger
+url :: https://www.erowid.org/herbs/ginger/ginger.shtml
+category :: Herbs
+botanicalClassification :: Family :Zingiberaceae, Genus :Zingiber, Species :officinalecommonNames :: Shringara; Zingiberis
+uses :: Spice; Circulatory Stimulant; Decongestant; Used to Treat Fever, Sore Throats, and Muscle Sprains
+description :: Ginger is an herbaceous tropical perennial grows 2-4 feet tall from an aromatic, tuberous root. Leaves are grass-like and 6-12 inches long. Flowers are dense, red and yellow cone-like spikes 3 inches long at the end of a 6-12 inch stalk.
+imageURL :: https://www.erowid.org/herbs/ginger/images/ginger_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/ginger/ginger_images.shtml
+lawURL :: https://www.erowid.org/herbs/ginger/ginger_law.shtml
+
+[Images]
+imageEntryList :: Zingiber officinale	https://www.erowid.org/herbs/show_image.php?i=ginger/zingiber_officinale1.jpg	Photo of a fresh, raw ginger roon about six inches across. (England)	Photo by Smoking Mirrors, &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Ginger
+REGULATED	No
+STATUS	Food Approved
+SCHEDULE	Un-Scheduled
+federalLawText :: Ginger (Zingiber officinale) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.	
+Ginger (Zingiber officinale) is approved for food use as a spice or seasoning in the U.S. and appears in the FDA's list of substances Generally Recognized As Safe (GRAS).
+stateLaw :: null
+internationalLaw :: 

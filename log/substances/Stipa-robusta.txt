@@ -1,0 +1,31 @@
+[Substance]
+
+id :: 190
+name :: Stipa robusta
+url :: https://www.erowid.org/plants/stipa/stipa.shtml
+category :: Plants
+botanicalClassification :: Family :Gramineae, Genus :Stipa, Species :robusta (=vaseyi)commonNames :: Sleepy Grass
+effectsClassification :: Psychedelic
+description :: Stipa robusta is a perennial grass that is often infected with an Acremonium fungus which contains LSA and other related compounds. When infected, it is known for causing drowsiness and stupor in grazing horses.
+imageURL :: https://www.erowid.org/plants/stipa/images/stipa_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/stipa/stipa_images.shtml
+lawURL :: https://www.erowid.org/plants/stipa/stipa_law.shtml
+
+[Images]
+imageEntryList :: Stipa robusta	https://www.erowid.org/plants/show_image.php?i=stipa/stipa_robusta2.jpg	Color photo of a small tuft of Stipa robusta. [Austria]	Photo by Mindperformer, &copy; 2006 Erowid.org
+Stipa robusta seeds	https://www.erowid.org/plants/show_image.php?i=stipa/stipa_robusta_seeds3.jpg	Color photo of a few sleepy grass seeds. [Missouri, USA, 2002]	Photo by Alkaloidaholic, &copy; 2002 Erowid.org
+Stipa robusta seeds	https://www.erowid.org/plants/show_image.php?i=stipa/stipa_robusta_seeds1.jpg	Close-up color photo of a small pile of Stipa robusta seeds.	Photo by WolfGang, &copy; 2000 Erowid.
+Stipa robusta seeds	https://www.erowid.org/plants/show_image.php?i=stipa/stipa_robusta_seeds2.jpg	Color photo of a small pile of Stipa robusta seeds.	Photo by WolfGang, &copy; 2000 Erowid.
+Stipa robusta	https://www.erowid.org/plants/show_image.php?i=stipa/stipa_robusta1.jpg	Black and white drawing.	Drawing from Psychedelic Shamanism.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Stipa robusta
+REGULATED	No
+STATUS	Ambiguous
+SCHEDULE	ContainsSchedule I Chemical
+CLASSIFICATION	Hallucinogen
+federalLawText :: Stipa robusta (Sleepy Grass) is not a specifically controlled species in the United States. Live plants and seeds are bought and sold and are not generally considered illegal. However, LSA, one of the chemicals contained in these plants, is Schedule III in the U.S. Practically, this means that if an extraction is done on LSA-containing Stipa species, the resulting LSA is illegal to possess.	
+Large scale (especially commercial) extraction of LSA from Stipa species falls into the realm of "clearly illegal" and would very likely be prosecuted. It is also possible that importation of LSA-containing Stipa species into the United States could result in problems with customs, especially if large volumes are imported.
+stateLaw :: null
+internationalLaw :: 

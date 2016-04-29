@@ -1,0 +1,18 @@
+[Substance]
+
+id :: 193
+name :: Tea
+url :: https://www.erowid.org/plants/tea/tea.shtml
+category :: Plants
+botanicalClassification :: Family :Theaceae, Genus :Camellia, Species :sinensiscommonNames :: Tea (black, green, & oolong)
+effectsClassification :: Stimulant
+description :: Camellia sinensis is a small evergreen tree growing from 3-10 meters in height. Its caffeine-containing leaves have been used as a stimulant for thousands of years in South-East Asia.
+imageURL :: https://www.erowid.org/plants/tea/images/tea_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/tea/tea_images.shtml
+
+[Images]
+imageEntryList :: Camellia sinensis	https://www.erowid.org/plants/show_image.php?i=tea/camellia_sinensis__i2008e1501_disp.jpg	Camellia sinensis, a common shrub, growing in a garden in Greater Manchester. [Bolton, UK]	Photo by Davemuze. &copy; 2009 Erowid.org
+Camellia sinensis Leaf	https://www.erowid.org/plants/show_image.php?i=tea/camellia_sinensis_leaf__i2005e2016_disp.jpg	Closeup of a single mature Camellia sinensis (tea) leaf, taken at Kew Gardens. [England]	Photo by Erowid. &copy; 2007 Erowid.org
+Camellia sinensis	https://www.erowid.org/plants/show_image.php?i=tea/camellia_sinensis_leaf__i2006e1951_disp.jpg	Camellia sinensis plant growing in a feild in Asia. [East Asia]	Photo by Anonymous. &copy; 2007 Erowid.org
+Camellia sinensis	https://www.erowid.org/plants/show_image.php?i=tea/camellia_sinensis_botanical_drawing1.jpg	Color drawing of plant, flower, and fruit.	From "An Introduction to Materia Medica and Pharmacology" (1942).
+Camillia sinensis Flower	https://www.erowid.org/plants/show_image.php?i=tea/camillia_sinensis_flower__i2009e1037_disp.jpg	Camellia sinensis (Tea) flower on a rooted cutting. [CA, USA]	Photo by DL. &copy; 2009 Erowid.org

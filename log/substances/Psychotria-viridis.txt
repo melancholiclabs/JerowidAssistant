@@ -1,0 +1,46 @@
+[Substance]
+
+id :: 185
+name :: Psychotria viridis
+url :: https://www.erowid.org/plants/psychotria/psychotria.shtml
+category :: Plants
+botanicalClassification :: Family :Rubiaceae, Genus :Psychotria, Species :viridis; carthaginensiscommonNames :: Chacruna
+effectsClassification :: Psychedelic
+description :: Psychotria viridis is a shrub or small tree with small red fruit and long, narrow leaves which produce N,N-DMT. There is a long history of use of these leaves in South American ayahuasca brews.
+imageURL :: https://www.erowid.org/plants/psychotria/images/psychotria_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/psychotria/psychotria_images.shtml
+lawURL :: https://www.erowid.org/plants/psychotria/psychotria_law.shtml
+
+[Images]
+imageEntryList :: Psychotria alba	https://www.erowid.org/plants/show_image.php?i=psychotria/psychotria_alba1.jpg	Color photo of a Psychotria alba plant in partial sun [FL, USA].	Photo by IO Pan, &copy; 2004 Erowid.org
+Psychotria alba Berries	https://www.erowid.org/plants/show_image.php?i=psychotria/psychotria_alba_berry__i2003e0141_disp.jpg	Psychotria alba - Berries, seed [FL, USA]	Photo by IO-Pan. &copy; 2009 Erowid.org
+Psychotria viridis berries.	https://www.erowid.org/plants/show_image.php?i=psychotria/psychotria_viridis_berries__i2012e0295_disp.jpg	Ripening berries hang from a chacruna (Psychotria viridis) shrub, a major DMT source plant used in ayahuasca brews. [Vila Camboinha, Brazil]	Photo by Jon Hanna. &copy; 2012 Erowid.org
+Psychotria viridis Flower	https://www.erowid.org/plants/show_image.php?i=psychotria/psychotria_viridis_flower__i2014e0087_disp.jpg	A closeup photo of the white/yellow flower of a Psychotria viridis plant called Chacrona, Chacruna, or Rainha. [So Paulo, Brazil]	Photo by ABenedito &copy; 2014 Erowid.org
+Psychotria viridis Flower	https://www.erowid.org/plants/show_image.php?i=psychotria/psychotria_viridis_flower__i2014e0086_disp.jpg	A closeup photo of the white flower of a Psychotria viridis plant called Chacrona, Chacruna, or Rainha. [So Paulo, Brazil]	Photo by ABenedito. &copy; 2014 Erowid.org
+Psychotria viridis	https://www.erowid.org/plants/show_image.php?i=psychotria/psychotria_viridis2.jpg	Close-up color photo of small P. viridis plant.	Photo by Pedro Luz, &copy; 2000 Erowid.org
+Psychotria viridis Flower	https://www.erowid.org/plants/show_image.php?i=psychotria/psychotria_viridis_flower__i2016e0002_disp.jpg	Flower of a cultivated Psychotria viridis (Chacrona). [So Paulo, Brasil]	Photo by A. Benedito. &copy; 2016 Erowid.org
+Psychotria viridis	https://www.erowid.org/plants/show_image.php?i=psychotria/psychotria_viridis1.jpg	Color photo of a small P. viridis plant.	Photographer unknown.
+Psychotria viridis	https://www.erowid.org/plants/show_image.php?i=psychotria/psychotria_viridis4.jpg	Color photo of a fruiting P. viridis plant.	Photo by Kava Kauai. Used by Erowid with permission.
+Psychotria viridis Berries	https://www.erowid.org/plants/show_image.php?i=psychotria/psychotria_viridis_berry__i2003e0106_disp.jpg	Psychotria viridis berries ripening on the plant. [USA]	Photo by Charles Bikle. &copy; 2007 Erowid.org.
+Psychotria viridis Berries	https://www.erowid.org/plants/show_image.php?i=psychotria/psychotria_viridis_berry__i2003e0105_disp.jpg	Psychotria viridis berries ripening on the plant. [USA]	Photo by Charles Bikle. &copy; 2006 Erowid.org
+Psychotria viridis Berries	https://www.erowid.org/plants/show_image.php?i=psychotria/psychotria_viridis_berry__i2005e0326_disp.jpg	Closeup of a Psychotria viridis plant showing berries in different stages of maturity. [Australia]	Photo by T. Wiedemann. &copy; 2006 Erowid.org
+P. viridis and B. caapi	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi__i2005e0333_disp.jpg	Psychotria viridis leaves and Banisteriopsis caapi vine. [Obtained from Maya Ethnobotanicals]	Photo by UserAbuser. &copy; 2009 Erowid.org
+Psychotria viridis seeds	https://www.erowid.org/plants/show_image.php?i=psychotria/psychotria_viridis_seeds2.jpg	Color photo of P. viridis seeds with a penny for size comparison [CA, USA].	Photo by Erowid, &copy; 2004 Erowid.org
+Psychotria viridis seeds	https://www.erowid.org/plants/show_image.php?i=psychotria/psychotria_viridis_seeds3.jpg	Color photo of ten P. viridis seeds [CA, USA].	Photo by Erowid, &copy; 2004 Erowid.org
+Psychotria viridis seeds	https://www.erowid.org/plants/show_image.php?i=psychotria/psychotria_viridis_seeds1.jpg	Color photo of P. viridis seeds.	Photo by MTD, &copy; 2001 Erowid.org
+Psychotria carthagenensis	https://www.erowid.org/plants/show_image.php?i=psychotria/psychotria_carthagenensis_plant__i2005e0060_disp.jpg	Psychotria carthagenensis, a less common, active species used primarily by the Secoya. [Costa Rica]	Photo by Anonymous. &copy; 2006 Erowid.org
+Psychotria Hybrid Rooting Cutting	https://www.erowid.org/plants/show_image.php?i=psychotria/psychotria_hybrid_cutting__i2013e0262_disp.jpg	Psychotria 'Nexus' (hybrid of P. viridis and P. carthaginensis) leaf cutting showing root initiation. [Australia]	Photo by Daz. &copy; 2013 Erowid.org
+Psychotria viridis	https://www.erowid.org/plants/show_image.php?i=psychotria/psychotria_viridis3.jpg	Color drawing.	Source unknown.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Psychotria viridis
+REGULATED	No
+STATUS	Ambiguous
+SCHEDULE	ContainsSchedule I Chemical
+CLASSIFICATION	Hallucinogen
+federalLawText :: Psychotria viridis (Chacruna) is not a specifically controlled species in the United States. Live plants and seeds are bought and sold and are not generally considered illegal. However, DMT, one of the chemicals contained in these plants, is Schedule I in the U.S. Practically, this means that if an extraction is done on DMT containing Psychotria species, the resulting DMT is illegal to possess.	
+Large scale (especially commercial) extraction of DMT from Psychotria species falls into the realm of "clearly illegal" and would very likely be prosecuted. It is also possible that importation of DMT containing Psychotria species into the United States could result in problems with customs, especially if large volumes are imported.
+stateLaw :: null
+internationalLaw :: France	As of May 3, 2005, France added Banisteriopsis caapi, Peganum harmala, Psychotria viridis, Diplopterys cabrerana, Mimosa hostilis, Banisteriopsis rusbyana, harmine, harmaline, tetrahydroharmine (THH), haroml, and harmalol to the list of controlled substances. See France Control Ayahuasca Plants and Chemicals. Earlier, in Jan 2005, a Paris court of appeals determined that Ayahuasca is not considered a preparation of DMT and is therefore not a controlled substance.
+Germany	We are told it is legal to possess DMT-containing plants such as Psychotria viridis in Germany, but that intent to process it into a psychoactive preparation is illegal. In August 2008 we received a report that P. viridis is sold by internet vendors based inside of Germany. It does not appear to be listed in the BtMG. (unconfirmed) (thanks BT, R)

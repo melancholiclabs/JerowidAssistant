@@ -1,0 +1,31 @@
+[Substance]
+
+id :: 264
+name :: Citalopram (&amp; Escitalopram)
+url :: https://www.erowid.org/pharms/citalopram/citalopram.shtml
+category :: Pharms
+commonNames :: Celexa; Cipramil; Cipram; Lexapro
+effectsClassification :: Antidepressant; SSRI
+chemicalName :: 1-[3-(dimethylamino)propyl]-1-(4-fluorophenyl) 01,3-dihydro-5-isobenzofurancarbonitrile
+description :: Citalopram is a selective serotonin reuptake inhibitor (SSRI) prescribed as an anti-depressant. It was approved by the FDA in 1998. The S-isomer "Escitalopram" was approved by the FDA first in 2002.
+imageURL :: https://www.erowid.org/pharms/citalopram/images/citalopram_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/citalopram/citalopram_images.shtml
+lawURL :: https://www.erowid.org/pharms/citalopram/citalopram_law.shtml
+
+[Images]
+imageEntryList :: Citalopram Tablet	https://www.erowid.org/pharms/show_image.php?i=citalopram/citalopram_tablet__i2005e0972_disp.jpg	One whole and one half 20 mg Celexa (citalopram HBr) tablet next to penny for comparison. [Canada]	Photo by Torrid. &copy; 2007 Erowid.org
+Citalopram "Starter Pack"	https://www.erowid.org/pharms/show_image.php?i=citalopram/citalopram_tablet__i2005e0940_disp.jpg	Celexa brand citalopram "starter pack" with fourteen 20 mg tablets and dosing instructions. [MN, USA]	Photo by Spike. &copy; 2007 Erowid.org
+Citalopram Tablets	https://www.erowid.org/pharms/show_image.php?i=citalopram/citalopram_tablet__i2005e0802_disp.jpg	A box and three blister packed 20 mg citalopram tablets brand name Cipramil. [South Africa]	Photo by Michael Knott. &copy; 2007 Erowid.org
+20 mg Citalopram Tablets	https://www.erowid.org/pharms/show_image.php?i=citalopram/citalopram_tablet__i2006e1230_disp.jpg	White 20 mg citalopram (generic Celexa) tablets. [USA]	Photo by FlowGnome. &copy; 2009 Erowid.org
+Citalopram Tablets	https://www.erowid.org/pharms/show_image.php?i=citalopram/citalopram_tablet__i2005e0509_disp.jpg	20 mg tablets of generic citalopram hydrobromide poured from pharmacy stock bottle onto acrylic tablet counting tray. [KY, USA]	Photo by Biopharma. &copy; 2007 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Citalopram
+REGULATED	Yes
+STATUS	Prescription Only
+SCHEDULE	Un-Scheduled
+federalLawText :: Citalopram (Celexa) is unscheduled in the United States, but is available by prescription only. This means that sales and distribution are allowed only by those with a license and only to those with a prescription (according to FDA regulations). Possession is not illegal even without a prescription.
+stateLaw :: null
+internationalLaw :: INTERNATIONAL LAW	Australia #
+Australia	Citalopram is available as a normal prescription drug, but if your prescription is for more than 84 tablets per repeat, it requires special authorization. (unconfirmed) (thanks SF)

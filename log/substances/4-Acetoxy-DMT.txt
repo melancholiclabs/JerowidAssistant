@@ -1,0 +1,75 @@
+[Substance]
+
+id :: 19
+name :: 4-Acetoxy-DMT
+url :: https://www.erowid.org/chemicals/4_acetoxy_dmt/4_acetoxy_dmt.shtml
+category :: Chemicals
+commonNames :: 4-AcO-DMT; O-Acetylpsilocin; Psilacetin
+effectsClassification :: Psychedelic Tryptamine
+chemicalName :: 4-acetoxy-N,N-dimethyltryptamine
+description :: 4-Acetoxy-DMT is a synthetic psychedelic. Its effects and duration are similar to those of psilocybin/psilocin. It is probably metabolically converted into psilocin in the body, but there are also reasons to believe that 4-acetoxy-DMT might itself be active in the brain, producing effects that are distinct from psilocin.
+imageURL :: https://www.erowid.org/chemicals/4_acetoxy_dmt/images/4_acetoxy_dmt_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/4_acetoxy_dmt/4_acetoxy_dmt_basics.shtml
+effectsURL :: https://www.erowid.org/chemicals/4_acetoxy_dmt/4_acetoxy_dmt_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/4_acetoxy_dmt/4_acetoxy_dmt_images.shtml
+doseURL :: https://www.erowid.org/chemicals/4_acetoxy_dmt/4_acetoxy_dmt_dose.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Basics]
+description :: 4-Acetoxy-DMT is a synthetic psychedelic drug with a limited history of use. It is likely that, similar to psilocybin, it is rapidly converted by first-pass metabolism into psilocin. It is reportedly very similar to psilocybin/psilocin in effects, although it is sometimes described as "warmer" or "more euphoric" than psilocybin-containing mushrooms. Data regarding its use and effects is limited. [ Main 4-Acetoxy-DMT Vault ]
+descriptionSections :: dose	A common oral dose of 4-Acetoxy-DMT is between 10 and 25 mg. Several reports describe doses of 25-30 mg as very strong. Insufflation appears to produce more potent effects with a more rapid onset. A smoked dose of 40 mg of fumurate was described as extremely weak, comparable to the effects of 5 mg oral.
+price	Not commonly available. In September 2010, Internet vendors listed 4-Acetoxy-DMT at $200 to $350 per gram, significantly higher than a few years earlier.
+law	4-Acetoxy-DMT is unscheduled and uncontrolled in the United States, making it technically legal to possess. Sales or possession could be prosecuted under the Analog Act, although we are not aware of this having occurred. We are not aware of any other country where it is specifically listed as illegal.
+chemistry	4-Acetoxy-N,N-Dimethyltryptamine (4-AcO-DMT) is a synthetic chemical in the tryptamine class. It is related structurally to DMT, 5-MeO-DMT, bufotenine, psilocybin, psilocin, and the neurotransmitter serotonin (5-HT).
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	4-Acetoxy-DMT is a novel compound with relatively little availability on the research chemicals market. Since 2007, its use appears to primarily be confined to psychedelic connoisseurs.
+terminology	The Substance:4-Acetoxy-DMT; Psilacetin. The Experience:No common terms known.
+effects :: Psilocybin, present in magic mushrooms, is metabolized into psilocin; a similar situation likely occurs with 4-Acetoxy-DMT being metabolized into psilocin. The effects of 4-Acetoxy-DMT are said to be very similar to the effects of psilocybin/psilocin, although enough users have reported some differences that it is speculated that 4-Acetoxy-DMT may be uniquely active on its own, and not simply active due to (probably) being metabolized into psilocin. Users report dose-dependent colorful visual effects and a sense of physical energy or euphoria, sometimes accompanied by abstract, associative, "trippy" thought patterns, or derealization.  Several available reports of 4-Acetoxy-DMT compare it favorably to psilocybin, describing it as more euphoric, gentle, warm, and colorful. It has also been described as less jarring, and less likely to produce nausea. However, most of these comparisons are made with mushrooms, not pure psilocybin. In addition, it is unknown to what degree expectancy plays a role in shaping such experiences.
+effectsSections :: onset	Effects take about 30-40 minutes to begin, with peak effects at around 2 hours. The onset has been characterized as smoother, gentler, and more pleasant than the onset of mushrooms.
+duration	The primary effects of 4-Acetoxy-DMT typically last for about 4-6 hours. They have been described as lasting from 3-4 hours (low oral doses) to 8-10 hours (moderate to strong oral doses).
+visuals	Visuals have been described as being similar to those produced by psilocybin/psilocin, 2C-B, and DMT.
+problems :: As with all psychedelics, some people may experience the effects of 4-Acetoxy-DMT as confusing, frightening, or unpleasant. While 4-Acetoxy-DMT is pharmacologically similar to psilocybin and may well be similar in terms of its relative safety, it has not undergone toxicological studies and its possible harms are unknown. Some users may have idiosyncratic responses to dosage and effects.   A review of available reports suggests that many people have begun with doses that generated stronger effects than expeceted or desired, in the 25-30 mg range. One report describes a person who took "25 mg oral and had a 2 hr blackout, in which he curled up in a bed and mumbled nonsense to himself. He had absolutely no recollection of the 2 hours."
+problemsSections :: contraindications	Do not operate heavy machinery. Do not drive. The effects of 4-Acetoxy-DMT may be dramatically increased if used by individuals currently taking MAOIs. MAOI drugs include the prescription antidepressants Nardil (phenelzine), Parnate (tranylcypromine), Marplan (isocarboxazid), Eldepryl (l-deprenyl), and Aurorex or Manerix (moclobemide), as well as the harmala alkaloids present in Banisteriopsis caapi (ayahuasca) and Peganum harmala (Syrian rue). Check with your doctor if you are not sure whether your medication is an MAOI. Individuals currently in the midst of emotional or psychological upheaval in their everyday lives should be careful about choosing to use psychedelics as they can trigger even more difficulty. Individuals with a family history of schizophrenia or early onset mental illness should be extremely careful because psychedelics have been known to trigger latent psychological and mental problems.
+addiction	Owing to its pharmacological similarity to psilocybin, it is very unlikely that 4-Acetoxy-DMT is addictive. Howver, it has not been studied for addiction liability.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Effects]
+duration :: 4-Acetoxy-DMT Duration
+Oral
+Total Duration	3 - 6 hrs
+Onset	10 - 45 mins
+Coming Up	1 - 2 hrs
+Plateau	2 - 3 hrs
+Coming Down	1 - 2 hrs
+&nbsp;	&nbsp;
+After Effects	up to 14 hrs
+Hangover / Day After	- - -
+positiveEffects :: null
+neutralEffects :: null
+negativeEffects :: null
+description :: null
+experienceReports :: null
+
+[Images]
+imageEntryList :: 4-Acetoxy-DMT Powder	https://www.erowid.org/chemicals/show_image.php?i=4_acetoxy_dmt/4-acetoxy-dmt_powder__i2008e0894_disp.jpg	Small baggie of 4-Acetoxy-DMT powder. Identity confirmed by Energy Control testing. [BOOM Festival, Portugal]	Photo by Erowid. &copy; 2010 Erowid.org
+4-Acetoxy-DMT in Capsules	https://www.erowid.org/chemicals/show_image.php?i=4_acetoxy_dmt/4-acetoxy-dmt_capsule__i2010e0889_disp.jpg	A plastic baggie with capsules containing 4-Acetoxy-DMT, verified by Energy Control. Photographed at the 2010 Boom festival in Portugal. [Portugal]	Photo by Jon Hanna. &copy; 2011 Erowid.org
+
+[Dose]
+doseTable :: 4-Acetoxy-DMT Dosages
+Oral
+Threshold	2.5 mg
+Light	3 - 7 mg
+Common	8 - 20 mg
+Strong	25+ mg
+doseText :: 4-Acetoxy-DMT is a synthetic psychedelic most often found in powder form. Insufflated doses are similar to that of oral administration, but effects from insufflation come on more abruptly and do not last as long.
+notes :: null
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

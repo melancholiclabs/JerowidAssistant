@@ -1,0 +1,31 @@
+[Substance]
+
+id :: 315
+name :: Temazepam
+url :: https://www.erowid.org/pharms/temazepam/temazepam.shtml
+category :: Pharms
+commonNames :: Restoril
+effectsClassification :: Anxiolytic; Sedative; Benzodiazepine
+chemicalName :: 7-chloro-1,3-dihydro-3-hydroxy-1-methyl-5-phenyl-2H- 1,4-benzodiazepin-2-one
+description :: Temazepam is a benzodiazepine used in the short-term treatment of insomnia and anxiety.
+imageURL :: https://www.erowid.org/pharms/temazepam/images/temazepam_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/temazepam/temazepam_images.shtml
+lawURL :: https://www.erowid.org/pharms/temazepam/temazepam_law.shtml
+
+[Images]
+imageEntryList :: Mylan	https://www.erowid.org/pharms/show_image.php?i=temazepam/temazepam1.jpg	Color photo of a 15 mg Mylan capsule.	Photo from the Drug and Natural Medicine Advisor
+Restoril	https://www.erowid.org/pharms/show_image.php?i=temazepam/restoril1.jpg	Color photo of a 15 mg Restoril capsule.	Photo from the Drug and Natural Medicine Advisor
+Temazepam 2D Molecule	https://www.erowid.org/pharms/show_molecule.php?i=temazepam/temazepam_2d.gif	Still 2D image of the Temazepam molecule.	Image by Erowid, &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Temazepam
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule IV
+CLASSIFICATION	Depressant
+federalLawText :: Temazepam (Restoril) is Schedule IV in the U.S. This means it is illegal to sell without a license and illegal to possess without a valid license or prescription.
+stateLaw :: null
+internationalLaw :: Canada	Benzodiazepines (including tempzepam) are Schedule IV under Canadian law. See http://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-26.html#h-29. (thanks e) (last updated Jul 30 2012)
+The Netherlands	Most benzodiazepeines are available with a prescription in the Netherlands. Preparation, possession, adaption, delivery, providing and transport, of benzodiazepines are prohibited, because they are scheduled on "List II" of the "Opium Law". Possession of small quantities (for personal use) of prohibited substances is typically not prosecuted. Recreational use of benzodiazepines, is, as with any other substance, not prohibited in the Netherlands. Benzodiazepines approved for medical use in the Netherlands: Alprazolam, Bromazepam, Brotizolam, Chloordiazepoxide (in english chlordiazepoxide), Clobazam, Clonazepam, Clorazepinezuur (in english clorazepate), Diazepam, Flunitrazepam, Flurazepam, Loprazolam, Lorazepam, Lormetazepam, Midazolam, Nitrazepam, Oxazepam, Prazepam, Temazepam, as well as Zolpidem and Zopiclone. (thanks K) (last updated Oct 11, 2012)
+United Kingdom	Controlled, requires prescription for possession. The maximum sentence for possession is 2 years in prison and/or a fine. Supplying benzodiazepines without a license is illegal, the maximum sentence is 5 years in prison and/or a fine. (unconfirmed) (thanks DW)

@@ -1,0 +1,77 @@
+[Substance]
+
+id :: 184
+name :: Opium Poppy
+url :: https://www.erowid.org/plants/poppy/poppy.shtml
+category :: Plants
+botanicalClassification :: Family :Papaveraceae , Genus :Papaver, Species :somniferumcommonNames :: Opium Poppy; Plant of Joy; Mawseed
+effectsClassification :: Sedative; Euphoriant
+description :: Papaver somniferum is a annual that with brilliant white or red flowers growing on a central bulbous pod. When scratched, the pod produces a milkly latex called opium. This latex contains a variety of opiates including codeine and morphine. It has a long history of use in Asia and Europe.
+imageURL :: https://www.erowid.org/plants/poppy/images/poppy_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/poppy/poppy_images.shtml
+lawURL :: https://www.erowid.org/plants/poppy/poppy_law.shtml
+
+[Images]
+imageEntryList :: Papaver somniferum Flower	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum_flower_white__i2012e0423_disp.jpg	Papaver somniferum flower white	Photo by Keeper_Trout. &copy; 2014 Erowid.org
+Papaver somniferum	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum15.jpg	Lovely photo of a white and pink Papaver somniferum in bloom.	Photo by Anonymous Photographer, &copy; 2004 Erowid.org
+Papaver somniferum	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum16.jpg	Photo of a white and pink Papaver somniferum flower.	Photo by Anonymous Photographer, &copy; 2004 Erowid.org
+Papaver somniferum	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum9.jpg	Beautiful color photo of a deep red Papaver somniferum.	Photo by Eric Clausen, &copy; 2000 Erowid.org
+Papaver somniferum	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum_flower__i2012e0320_disp.jpg	A pink Papaver somniferum flower. [USA]	Photo by Ghostman. &copy; 2012 Erowid.org
+Papaver somniferum	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum10.jpg	Beautiful color photo of a white and magenta Papaver somniferum.	Photo by Eric Clausen, &copy; 2000 Erowid.org
+Field of Poppies	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum_flower__i2009e0354_disp.jpg	Nice photo showing a large field of white blooming Papaver somniferum grown in Tasmania, Australia for the licit pharmaceutical industry. [Tasmania, Australia]	Photo by Audacia. &copy; 2009 Erowid.org
+Opium Poppy Flower	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum_flower__i2009e0811_disp.jpg	A pure Afghani Opium Poppy flower. This strain's flower petals only stay on for 24 hours. Their beauty is short lived but has amazing colors! It is an early flowering strain that flowers 55 -65 days from planting. [CA, USA]	Photo by ICC. &copy; 2010 Erowid.org
+Papaver somniferum Pod	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum_pod4.jpg	Close-up color photo of a Papaver somniferum pod.	Photo by Eric Clausen, &copy; 2000 Erowid.org
+Papaver somniferum Pod	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum_pod__i2011e0485_disp.jpg	Papaver somniferum (opium poppy) pod scored and leaking latex. [UK]	Photo by Farmer Dodds. &copy; 2011 Erowid.org
+Papaver somniferum Pods	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum_pod9.jpg	Beautiful photo showing a pile of dried Papaver somniferum pods.	Photo by H.H. Whoops, &copy; 2005 Erowid.org
+Papaver somniferum Pod	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum_pod7.jpg	Color photo of the crown of a dried Papaver somniferum pod.	Photo by Erowid, &copy; 2001 Erowid.org
+Dried P. somniferum Giganthemum Pod	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum_giganthemum_pod__i2004e0083_disp.jpg	Dried pod from a Papaver somniferum Giganthemum.	Photo by Smokey Joe. &copy; 2006 Erowid.org
+Papaver somniferum Pod	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum_pod1.jpg	Color photo of seed pod.	Photographer unknown.
+Papaver somniferum Pod	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum_pod2.jpg	Color photo of seed pod dripping latex.	Photographer unknown.
+Papaver somniferum Pod	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum_pod3.jpg	Color photo of seed pod dripping latex.	Photographer unknown.
+Papaver somniferum Pod	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum_pod8.jpg	Close-up photo of a cross section of a Papaver somniferum seedpod. [Missouri]	Photo by Alkaloidaholic, &copy; 2003 Erowid.org
+Papaver somniferum	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum11.jpg	Close-up color photo several poppy plants against a fence. Shows both red flowers and pods.	Photo by Eric Clausen, &copy; 2000 Erowid.org
+Papaver somniferum	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum12.jpg	Close-up color photo several poppy plants against a fence. Shows both white / magenta flowers and pods.	Photo by Eric Clausen, &copy; 2000 Erowid.org
+Papaver somniferum	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum_plant1.jpg	Color photo of a very young P. somniferum plant.	Photo by Finn, &copy; 2004 Erowid.org
+Papaver somniferum	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum3.jpg	Color drawing of flower, plant, and seed pod.	Photo from Magic and Medicine of Plants taken of an original at the Library of the New York Botanical Gardens.
+Papaver somniferum	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum6.jpg	Color photo of blooming opium poppies in a field in Northern Thailand.	Photo by John W. Allen. Used by Erowid with permission.
+Papaver somniferum	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum7.jpg	Color photo of blooming opium poppies in a field in Northern Thailand.	Photo by John W. Allen. Used by Erowid with permission.
+Papaver somniferum	https://www.erowid.org/plants/show_image.php?i=poppy/poppy_field1.jpg	Color photo of a poppy field in northern Thailand.	Photo by John W. Allen. Used by Erowid with permission.
+Papaver somniferum	https://www.erowid.org/plants/show_image.php?i=poppy/poppy_field2.jpg	Color photo of a woman in a poppy field in northern Thailand.	Photo by John W. Allen. Used by Erowid with permission.
+Papaver somniferum	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum5.jpg	Color photo of a young Lisu girl (Northern Thailand) tending her village crop of opium poppies.	Photo by John W. Allen. Used by Erowid with permission.
+Papaver somniferum	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum8.jpg	Color photo of opium poppies in Seattle.	Photo by John W. Allen. Used by Erowid with permission.
+Papaver somniferum seeds	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum_seed1.jpg	Close-up color photo of a collection of P. somniferum seeds.	Image by Erowid, &copy; 2000 Erowid.org
+Papaver somniferum seeds	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum_seed3.jpg	Photo of a pile of P. somniferum seeds. [Canada]	Image by Carny, &copy; 2002 Erowid.org
+Papaver somniferum seeds	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum_seed2.jpg	Close-up photo of pile of P. somniferum "Persian Blue" poppy seeds. (Missouri, USA, 2002).	Photo by Alkaloidaholic, &copy; 2002 Erowid.org
+Papaver somniferum seed comparison	https://www.erowid.org/plants/show_image.php?i=poppy/poppy_seed_comparison1.jpg	Close-up color photo comparing four types of poppy seeds; California poppy, Prickly poppy, Commercially grown poppy seeds and organically grown opium poppy seeds.	Image by Erowid, &copy; 2000 Erowid.org
+Papaver somniferum	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum_drawing1.jpg	Color drawing of flower, plant, and seed pod.	Artist unknown.
+Papaver somniferum	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_somniferum_drawing2.jpg	Color botanical drawing of flower, plant, and seed pod.	Artist unknown.
+Papaver spp.	https://www.erowid.org/plants/show_image.php?i=poppy/poppy_flower3.jpg	Beautiful color photo of single poppy flower (unknown species).	Photo by Keats, &copy; 2002 Erowid.org
+Papaver spp.	https://www.erowid.org/plants/show_image.php?i=poppy/papaver_spp2.jpg	Close-up color photo of flower.	Photo by Gerald Carr.
+Papaver spp.	https://www.erowid.org/plants/show_image.php?i=poppy/papaver1.jpg	Color photo of plant without flowers.	Photographer unknown.
+Argemone mexicana	https://www.erowid.org/plants/show_image.php?i=poppy/argemone_mexicana1.jpg	Close-up color photo of several white flowers.	Photo from Cornell University.
+Argemone mexicana	https://www.erowid.org/plants/show_image.php?i=poppy/argemone_mexicana2.jpg	Color photo of plant with yellow flowers.	Photo from Cornell University.
+Argemone mexicana	https://www.erowid.org/plants/show_image.php?i=poppy/argemone_mexicana3.jpg	Color photo of plant with white flowers.	Photo from Cornell University.
+Argemone glauca	https://www.erowid.org/plants/show_image.php?i=poppy/argemone_glauca1.jpg	Color photo of plant with white flowers. Kailua-kona, Hawaii, 5/18/98.	Photo by Erowid, &copy; 1998 Erowid.org
+Argemone platyceras	https://www.erowid.org/plants/show_image.php?i=poppy/argemone_platyceras1.jpg	Color photo of flowering plant.	Photo by Henriette Kress.
+Argemone platyceras	https://www.erowid.org/plants/show_image.php?i=poppy/argemone_platyceras2.jpg	Close up color photo of single flower.	Photo by Henriette Kress
+Eschscholzia californica	https://www.erowid.org/plants/show_image.php?i=poppy/eschscholzia_californica_seeds1.jpg	Color photo of a collection of E. californica seeds.	Photo by Erowid, &copy; 2000 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Papaver somniferum
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule II
+CLASSIFICATION	Narcotic
+federalLawText :: Opium poppies are specifically scheduled under U.S. Law. The Controlled Substances Act, Schedule II, lists "Opium poppy and poppy straw" as well as "Concentrate of poppy straw (the crude extract of poppy straw in either liquid, solid or powder form which contains the phenanthrene alkaloids of the opium poppy)". Opium and its constituent chemicals are listed in Schedule II and some derivatives (such as Heroin) are listed in Schedule I.	
+There is some confusion in the law, however, because opium-producing poppies are widely grown around the US and Canada and the opium poppy seeds are omnipresent in cooking, breads, and deserts. The grey-blue poppy seeds sold in virtually every grocery store in the US contain low levels of opiates (not psychoactive at amounts used in cooking). Poppy pods are widely used in dry flower arrangements.	
+Law enforcement in the US is somewhat inconsistent about these plants, although there are continual attempts to try to stop them from being sold or grown. If poppies are grown as sources for opiates, there is no question that it violates the CSA. If poppies are purely grown for ornamental purposes, their legal position is somewhat less clear cut, since they are so widely grown and available.	
+Opium for legal commercial pharmaceutical use is grown with special government licenses around the world, although very little of it is grown inside the US. Large scale underground opium poppy growing is reported to take place in Mexico, Afghanistan, and many other countries in Asia. Much of the produced opium is converted into heroin because it is easier to ship and commands a higher price than raw opium.	
+
+The U.S. DEA recently re-affirmed in 2006 that Afghanistan is not a legal source for poppy products. See http://a257.g.akamaitech.net/7/257/2422/01jan20061800/edocket.access.gpo.gov/2006/E6-16325.htm:	
+
+(f) Notwithstanding paragraphs (a)(1) and (a)(2) of this section,	the Administrator shall permit, pursuant to 21 U.S.C. 952(a)(1) or	(a)(2)(A), the importation of approved narcotic raw material (opium,	poppy straw and concentrate of poppy straw) having as its source:	(1) Turkey,	(2) India,	(3) Spain,	(4) France,	(5) Poland,	(6) Hungary, and	(7) Australia.	(g) At least eighty (80) percent of the narcotic raw material	imported into the United States shall have as its original source	Turkey and India. Except under conditions of insufficient supplies of	narcotic raw materials, not more than twenty (20) percent of the	narcotic raw material imported into the United States annually shall	have as its source Spain, France, Poland, Hungary and Australia.
+stateLaw :: null
+internationalLaw :: Brazil	Papaver somniferum is controlled in Brazil, and requires a Ministry of Health license to cultivate. (thanks P)
+Canada	The "Opium Poppy (Papaver somniferum), its preparations, derivatives, alkaloids and salts" including all of the chemicals in poppies are controlled and listed in Schedule I in Canadian law. Seeds are specifically excepted from the list and are legal and readily available throughout Canada. (Note: Canadian schedules are very different than U.S. schedules). See Canadian Psychoactive Laws.
+Finland	Growing poppies is allowed for ornamental purposes and seeds are widely sold without restriction, but according to criminal law (chapter 50 section 1) growing Papaver somniferum to produce a drug is a crime. (unconfirmed) (thanks t) (last updated Sep 20 2010)

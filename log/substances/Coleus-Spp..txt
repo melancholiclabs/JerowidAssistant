@@ -1,0 +1,21 @@
+[Substance]
+
+id :: 152
+name :: Coleus Spp.
+url :: https://www.erowid.org/plants/coleus/coleus.shtml
+category :: Plants
+botanicalClassification :: Family :Lamiaceae (Former: Labiatae), Genus :Solenostemon (Former: Coleus), Species :pumilus; scutellarioides (Former: blumei)commonNames :: Coleus; Flame Nettle; Painted Nettle; Joseph's Coat
+effectsClassification :: Unknown
+description :: Coleus is an annual herb grown for its brilliant foliage. It has been used by the Mazatec indians of Oaxaca as a replacement for S. divinorum, though little is known about its effects or active chemicals.
+imageURL :: https://www.erowid.org/plants/coleus/images/coleus_summary1.jpg
+lawURL :: https://www.erowid.org/plants/coleus/coleus_law.shtml
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Coleus
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Coleus (Solenostemon scutellarioides) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: 

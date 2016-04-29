@@ -1,0 +1,67 @@
+[Substance]
+
+id :: 72
+name :: DPT
+url :: https://www.erowid.org/chemicals/dpt/dpt.shtml
+category :: Chemicals
+commonNames :: The Light; N,N-DPT
+effectsClassification :: Psychedelic Tryptamine
+chemicalName :: N,N-dipropyltryptamine
+description :: DPT is a relatively uncommon psychedelic tryptamine with effects somewhat similar to those of N,N-DMT. It is best known for having been used as a sacrament by the Temple of the True Inner Light.
+imageURL :: https://www.erowid.org/chemicals/dpt/images/dpt_summary1.jpg
+imagesURL :: https://www.erowid.org/chemicals/dpt/dpt_images.shtml
+lawURL :: https://www.erowid.org/chemicals/dpt/dpt_law.shtml
+doseURL :: https://www.erowid.org/chemicals/dpt/dpt_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/dpt/dpt_chemistry.shtml
+
+[Images]
+imageEntryList :: DPT HCl	https://www.erowid.org/chemicals/show_image.php?i=dpt/dpt_hcl1.jpg	Nice color photo of 200 mg of DPT HCl next to a metric ruler for size comparison.	Photo by Anonymous Photographer. &copy; 2003 Erowid.org
+DPT HCl	https://www.erowid.org/chemicals/show_image.php?i=dpt/dpt_hcl2.jpg	Color photo of a small 1 gram baggie of DPT powder.	Photo by Anonymous Photographer. &copy; 2003 Erowid.org
+DPT Freebase	https://www.erowid.org/chemicals/show_image.php?i=dpt/dpt_freebase1.jpg	Nice color photo of small pieces of waxy crystals of DPT freebase.	Photo by Anonymous Photographer. &copy; 2003 Erowid.org
+DPT Freebase	https://www.erowid.org/chemicals/show_image.php?i=dpt/dpt_freebase2.jpg	Color photo of a small 1 gram vial of DPT freebase.	Photo by Anonymous Photographer. &copy; 2003 Erowid.org
+DPT Vial	https://www.erowid.org/chemicals/show_image.php?i=dpt/dpt_vial__i2003e0576_disp.jpg	280 mg DPT powder in small glass vial. [Japan]	Photo by Anonymous. &copy; 2006 Erowid.org
+DPT Pipe	https://www.erowid.org/psychoactives/show_image.php?i=hardware/pipe_dpt1.jpg	Color photo of a DPT pipe alongside a parsley laced with DPT freebase.	Photo by Anonymous Photographer. &copy; 2000 Erowid.org
+DPT 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=dpt/dpt_2d.gif	Still 2D image of the DPT molecule.	Image by Erowid. &copy; 2006 Erowid.org
+DPT 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=dpt/dpt_3d.jpg	Still 3D image of the DPT molecule.	Image by Erowid. &copy; 2000 Erowid.org
+DPT 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=dpt/dpt__.mol	Rotating 3D image of the DPT molecule.	Image by Erowid. &copy; 2000 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+DPT
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: DPT is uncontrolled in the United States. This means it is generally considered legal to buy, possess, and distribute (sell, trade or give). If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: Florida	Schedule I. See http://leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0800-0899/0893/0893.html. (last updated Jul 21, 2012)
+Maine	DPT is listed as a schedule X substance in Maine.
+internationalLaw :: Belgium	DPT is listed as a controlled substance in Belgium's most restrictive category (approximately equivilant to US schedule II)
+Greece	DPT became a controlled substance in Greece on Feb 18, 2003 [EU Legal Database].
+Japan	DPT is controlled as a "Designated Substance" (Shitei-Yakubutsu) by the Pharmaceutical Affairs Law, making it illegal to possess or sell (see Ref)
+Portugal	DPT is in Table II-A of the "tables of plants, substances, and preparations subjet to control" list, the same list as MDMA, LSD, etc. (thanks PL) See Psychoactives Law : Portugal
+Sweden	We've been told that DPT is uncontrolled in Sweden (unconfirmed) (thanks KG)
+U.K. (Britain)	DPT is a Class A drug in the United Kingdom. Although DPT is not specifically listed but is covered by the tryptamine-clause in the Misuse of Drugs Act: "any compound...structurally derived from tryptamine or from a
+DPT is a Class A drug in the United Kingdom.  Although DPT is not specifically listed but is covered by the tryptamine-clause in the Misuse of Drugs Act: "any compound...structurally derived from tryptamine or from a	ring-hydroxy tryptamine by substitution at the nitrogen atom of
+ring-hydroxy tryptamine by substitution at the nitrogen atom of	the sidechain with one or more alkyl substituents but with no
+the sidechain with one or more alkyl substituents but with no	other substituent;" Misuse of Drugs Act. (thanks LIAS.)
+
+[Dose]
+doseTable :: DPT Dosage - Oral
+Threshold75 mg
+Common150 - 250 mg
+Strong200 - 350 mg
+Onset : 20 - 60 minutes (depending on stomach contents)
+Duration : 2 - 4 hours
+Normal After Effects : 2 - 3 hours
+doseText :: DPT is a synthetic tryptamine most similar in nature to DMT. It is weakly active orally, and active inhaled, insufflated, and IM. It is most often found in powder form. The charts below shows general dosages guidelines for DPT in milligrams (mg) with 4 different delivery routes...oral, insufflated (snorted), IM (intra-muscular), and inhaled (smoked/vaporized freebase oil). Even more than other tryptamines, DPT seems to have a wide range of effects at any particular dose, depending on the individual. This is reflected somewhat in the following ranges of dosages.
+notes :: null
+
+[Chemistry]
+chemTable :: NAME :	DPT
+CHEMICAL NAME :	N,N-Dipropyltryptamine; Dipropyltryptamin
+ALTERNATE CHEMICAL NAMES : 	 3-[2-(dipropylamino)ethyl]indole
+CHEMICAL FORMULA	C16H24N2
+MOLECULAR WEIGHT	244.38
+MELTING POINT	174.5-178&#176C; (Ott) (sol. in water)
+BOILING POINT
+From Pharmacotheon
+moleculeURL :: https://www.erowid.org/chemicals/dpt/images/archive/dpt_3d_mid.jpg

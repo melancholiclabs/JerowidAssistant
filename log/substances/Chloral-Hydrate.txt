@@ -1,0 +1,51 @@
+[Substance]
+
+id :: 261
+name :: Chloral Hydrate
+url :: https://www.erowid.org/pharms/chloral_hydrate/chloral_hydrate.shtml
+category :: Pharms
+commonNames :: Aquachloral; Noctec; Somnote; Welldorm; Mickey Finn; Knockout Drops
+effectsClassification :: Sedative
+chemicalName :: 1,1,1-trichloro-2,2-ethanediol
+description :: Chloral hydrate is one of the oldest sedative-hypnotics. It was first synthesized in 1832 and is still in use today to treat insomnia. It is perhaps best known for its use in a "Mickey Finn", a drink designed to render someone unconscious.
+imageURL :: https://www.erowid.org/pharms/chloral_hydrate/images/chloral_hydrate_summary1.jpg
+basicsURL :: https://www.erowid.org/pharms/chloral_hydrate/chloral_hydrate_basics.shtml
+imagesURL :: https://www.erowid.org/pharms/chloral_hydrate/chloral_hydrate_images.shtml
+lawURL :: https://www.erowid.org/pharms/chloral_hydrate/chloral_hydrate_law.shtml
+
+[Basics]
+description :: Chloral Hydrate is a pharmaceutical sedative with CNS depressant effects similar to barbiturates. It has been used as insomnia treatment, a pre-surgery sedative, and post-surgery anesthesia (pain control). It is perhaps best known for it's reputation as 'knockout drops', especially when used or given in combination with alcohol (also called a Mickey Finn). [ Main Chloral Hydrate Vault ]
+descriptionSections :: dose	Determining correct dosage is extremely important for chloral hydrate use, as overdosing can lead to death. Oral dosages (for adults) range from 250-1000 mg depending on diagnosis.
+price	Price Summary Needed.
+law	Chloral Hydrate is Schedule IV in the United States, making it illegal to sell without a license, and illegal to purchase or possess without a prescription.
+chemistry	Chemistry Summary Needed.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	History Summary Needed.
+terminology	The Substance:Chloral Hydrate; Mickey; Mickey Finn; Knockout Drops. The Experience:No common terms known.
+effects :: Causes drowsiness, and sedation/sleep at higher doses. Also inhibits respiration.
+effectsSections :: onset	Onset Summary Needed.
+duration	Duration Summary Needed.
+visuals	Visuals Summary Needed.
+problems :: The most common problems associated with chloral hydrate come as a result of mild overdoses. Common negative effects can include nausea, stomach pain, vomiting, dizziness, clumsiness, diarrhea, skin rash or hives, confusion and/or hallucination (rare). Severe overdose cases can lead to convulsion, difficulty swallowing, irregular heartbeat, cardiovascular depression, reduced blood pressure, shock, coma, and death. Repeated administration may lead to liver damage.
+problemsSections :: contraindications	Chloral hydrate passes into the breast milk and may cause drowsiness in babies of mothers using it. Chloral hydrate in combination with Central nervous system (CNS) depressants (medicine that causes drowsiness) may increase the depressant effects of both. Chloral hydrate in combination with Tricyclic antidepressants may increase the depressant effects of both. Individuals with a history of heart diseases may be at higher risk. Preexisting liver or kidney problems may cause an increase of chloral hydrate levels in the blood, increasing risks.
+addiction	Dependence may develop in those disposed towards addiction. Addiction is similar to alcohol dependence and can develop quickly, in a matter of weeks of regular use. Withdrawal symptoms can start within 12-24 hours after last use in those who have been using regularly. Withdrawal symptoms include weakness, nausea/vomiting, apprehension/anxiety, abdominal pains, insomnia, delirium tremons, etc.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Images]
+imageEntryList :: Chloral Hydrate (Somnote) Packaging	https://www.erowid.org/pharms/show_image.php?i=chloral_hydrate/chloral_hydrate_package__i2006e1446_disp.jpg	Back label of 500 mg chloral hydrate (Somnote) package. [PA, USA]	Photo by Lophophora. &copy; 2009 Erowid.org
+Chloral Hydrate	https://www.erowid.org/pharms/show_image.php?i=chloral_hydrate/chloral_hydrate_bottle__i2007e0164_disp.jpg	A glass bottle containing chloral hydrate crystals. [Easter Cape, S Africa]	Photo by Michael_Knott. &copy; 2007 Erowid.org
+Chloral Hydrate	https://www.erowid.org/pharms/show_image.php?i=chloral_hydrate/chloral_hydrate_bottle__i2007e0163_disp.jpg	Close-up of chloral hydrate crystals in a labelled glass bottle. [Eastern Cape, S Africa]	Photo by Michael_Knott. &copy; 2007 Erowid.org
+Chloral Hydrate	https://www.erowid.org/pharms/show_image.php?i=chloral_hydrate/chloral_hydrate1.jpg	Color photo of 5 different capsules containing chloral hydrate liquid.	U.S. government Public Domain photo.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Chloral Hydrate
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule IV
+CLASSIFICATION	Depressant
+federalLawText :: Chloral Hydrate is Schedule IV in the U.S. This means it is illegal to sell without a license and illegal to possess without a valid license or prescription.
+stateLaw :: null
+internationalLaw :: Germany	Chloral hydrate is available by prescription in a product called "Chloraldurat". (unconfirmed) (thanks D)

@@ -1,0 +1,29 @@
+[Substance]
+
+id :: 209
+name :: Calendula
+url :: https://www.erowid.org/herbs/calendula/calendula.shtml
+category :: Herbs
+botanicalClassification :: Family :Compositae, Genus :Calendula, Species :officinaliscommonNames :: Marigold; Calendula
+uses :: Calendula tea is used as a home remedy for gastritis and for women with painful menstruation or menopausal problems. Calendula gargle may soothe canker sores and toothaches. The blossoms are used in creams and compresses to treat localized skin problems.
+description :: A hardy annual growing up to 2 feet tall with ray shaped flowers ranging from pale yellow to bright orange. Fine hairs cover the stems and leaves.
+imageURL :: https://www.erowid.org/herbs/calendula/images/calendula_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/calendula/calendula_images.shtml
+lawURL :: https://www.erowid.org/herbs/calendula/calendula_law.shtml
+
+[Images]
+imageEntryList :: Flowering Calendula officinalis	https://www.erowid.org/herbs/show_image.php?i=calendula/calendula_officinalis_flower__i2005e1330_disp.jpg	Nice photo showing a Calendula officinalis plant with four yellow/orange flowers. [Belgium]	Photo by Maarten. &copy; 2006 Erowid.org
+Calendula officinalis Flower	https://www.erowid.org/herbs/show_image.php?i=calendula/calendula_officinalis_flower__i2005e1332_disp.jpg	Close-up photo of an orange Calendula officinalis flower. [Belgium]	Photo by Maarten. &copy; 2006 Erowid.org
+Calendula officinalis	https://www.erowid.org/herbs/show_image.php?i=calendula/calendula_officinalis2.jpg	Color photo of flower and bud.	Photographer Unknown.
+Calendula officinalis	https://www.erowid.org/herbs/show_image.php?i=calendula/calendula_officinalis1.jpg	Color botanical drawing.	From Kohler's Medicinal Plants, &copy; 1995-2003 Missouri Botanical Garden.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Calendula officinalis
+REGULATED	No
+STATUS	Food Approved
+SCHEDULE	Un-Scheduled
+federalLawText :: Calendula officinalis is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.	
+Calendula officinalis is approved for food use as a spice or seasoning in the U.S. and appears in the FDA's list of substances Generally Recognized As Safe (GRAS).
+stateLaw :: null
+internationalLaw :: 

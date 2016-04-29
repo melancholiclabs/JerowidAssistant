@@ -1,0 +1,184 @@
+[Substance]
+
+id :: 154
+name :: Datura spp.
+url :: https://www.erowid.org/plants/datura/datura.shtml
+category :: Plants
+botanicalClassification :: Family :Solanaceae, Genus :Datura, Species :ceratocaula; inoxia; metel; stramonium; ...commonNames :: Jimson Weed; Devil's Apple; Thorn Apple; Stinkweed; Devil's Weed; Malpitte; Moonflower; Toloache (D. inoxia)
+effectsClassification :: Deliriant
+description :: Datura is a woody-stalked, leafy herb growing up to 2 meters. It produces spiney seed pods and large white or purple trumpet-shaped flowers that face upward. Most parts of the plant contain atropine, scopolamine, and hyoscyamine. It has a long history of use both in S. America and Europe and is known for causing delirious states and poisonings in uninformed users.
+imageURL :: https://www.erowid.org/plants/datura/images/datura_summary1.jpg
+basicsURL :: https://www.erowid.org/plants/datura/datura_basics.shtml
+effectsURL :: https://www.erowid.org/plants/datura/datura_effects.shtml
+imagesURL :: https://www.erowid.org/plants/datura/datura_images.shtml
+healthURL :: https://www.erowid.org/plants/datura/datura_health.shtml
+lawURL :: https://www.erowid.org/plants/datura/datura_law.shtml
+doseURL :: https://www.erowid.org/plants/datura/datura_dose.shtml
+chemistryURL :: https://www.erowid.org/plants/datura/datura_chemistry.shtml
+
+[Basics]
+description :: Datura is a light green annual or biennial shrubby plant that grows from two to five feet tall (one to three meters). It has hairy leaves, spiny fruit, and vibrant flowers. The best known species are D. stramonium (Jimson Weed), D. metel, and D. inoxia. The plants, seeds, flowers, and roots have all been traditionally used for medicinal or visionary purposes around the world. Dried leaves have been made into smoking blends, sometimes with in combination with tobacco or cannabis, and all parts have been used to make teas and ointments. Because datura is plentiful in many parts of the world, it is sometimes ingested for its psychoactive effects by those who are unaware that its effects may be dangerous and are generally considered very unpleasant. [ Main Datura Vault ]
+descriptionSections :: dose	Datura seeds and flowers are usually more potent than the leaves and roots. Potency increases over the reproductive period and peaks while the plant is fruiting. As few as 10 datura seeds taken orally or one leaf brewed into a tea can produce profound perceptual changes, and 30-40 seeds is an extremely potent dose.
+price	Live datura plants are both common as garden/yard plants as well as being available from most garden supply and ethnobotanical companies. Prices of live plants vary by species and vendor. Most datura consumed is from live plants rather than being purchased pre-prepared.
+law	Datura is currently uncontrolled in the United States, though it has been outlawed for human consumption in a few states. Datura appears to be uncontrolled in most other countries as well.
+chemistry	The main active chemicals present in datura are the tropane alkaloids scopolamine, atropine, and hyoscyamine.
+pharmacology	Scopolamine and atropine are anticholinergic deliriants. They block muscarinic receptors, which in turn excites dopaminergic neurons. They are readily absorbed, partially metabolized by the liver, and mostly eliminated in urine, with a half-life of about four hours.
+production	Datura grows wild all over the world, and is commercially cultivated as a source of scopolamine. Many species are grown ornamentally.
+history	Datura has a long history of medicinal and visionary use in India, Africa, Europe, and the Americas. Its use has been reported in medieval European witchcraft as a "flying ointment".
+terminology	The Substance:Datura; Jimson Weed; Devil's Apple; Thorn Apple; Stinkweed; Devil's Weed; Malpitte; Moonflower; Toloache (D. inoxia). The Experience:No common terms known.
+effects :: The main effects of datura are delirium, extreme disorientation, and realistic hallucinations. Many users report periods of several hours in which they have no memory of what they were doing. Behavior is often irrational and accidental injury is a serious risk. Datura also causes physical effects including blurred vision/inability to focus the eyes (lasting up to several days), dryness of mouth, sedation or excitement, inhibited digestion, and an inability to perspire.
+effectsSections :: onset	When taken orally, the effects can begin in 20-30 minutes, but may take as long as 2-3 hours to be noticeable, depending on dose. When smoked, effects may begin in as quickly as 5 minutes.
+duration	A moderate datura dose lasts 8-12 hours, while strong doses can cause effects lasting for 2-3 days.
+visuals	Unlike the visual effects frequently reported with psychedelics such as LSD and psilocybin-containing mushrooms, datura causes frank hallucinations, meaning that the person cannot distinguish between the hallucinations and real objects. Elaborate visions and fantasies are common, sometimes including long conversations with imaginary persons. Smoking phantom cigarettes is often reported, even by non-smokers.
+problems :: The overwhelming majority of datura users describe their experience as very unpleasant and often physically dangerous. Users of datura commonly report blurred vision, sometimes lasting for several days. Datura may cause severe, long-lasting disorientation, confusion, delirium, and hallucinations. Accidents and self-injuries, sometimes requiring hospitalization, are alarmingly frequent among datura users. Several users of datura have reported committing crimes such as breaking and entering or assault while under the influence of datura. There are many reports of serious injury and arrest resulting from datura intoxication, and several deaths have been attributed to datura use. High doses of datura may be toxic.
+problemsSections :: contraindications	Do not take datura without a sober sitter. Do not operate heavy machinery. Do not drive. Do not swim. Avoid bodies of water. At least one drowning has been blamed on datura use.  Do not take datura in situations that may require you to be responsible for yourself or anyone else, or to be able to answer simple questions about who you are and what you are doing.
+addiction	Datura is not believed to be physically addicting nor likely to cause psychological dependence. Withdrawal effects following discontinuation have not been reported.
+long	Long Term Health Problems Summary Needed.
+death	Datura alkaloids can have toxic effects, including coma or death. 4-5 g of dried Datura stramonium leaves can contain a lethal dose of alkaloids, while flowers and seeds are considerably more potent.
+
+[Effects]
+duration :: Datura Duration
+Oral
+Total Duration	8 - 18 hrs
+Onset	20 - 120 mins
+Coming Up	60 - 120 mins
+Plateau	5 - 12 hours
+Coming Down	2 - 3 hours
+&nbsp;	&nbsp;
+After Effects	6 - 24 hrs
+Hangover / Day After	2 - 3 day
+positiveEffects :: euphoria	surreal interactions with world
+neutralEffects :: hallucinations, elaborate interaction with hallucinations	auditory hallucinations, auditory shifting and effects	smoking of phantom cigarettes	expands bronchial passages (sometimes used to treat asthma)	loss of appetite, thirst	inhibits digestion	clipped, flat speech	slurred speech	loss of sense of the passage of time
+negativeEffects :: dizziness, headache	dry mouth, dry eyes	inability to focus eyes (can persist for multiple days)	nausea, usually without vomiting	feeling of weakness	sedation, stupor	uncoordinated movement	fear, anxiety, panic	confusion, delirium, impaired cognitive function (sometimes leading to extremely dangerous behavior)	amnesia	hyperthermia	blockade of sweat glands, impairing heat dispersal	difficulty breathing	numbness	cardiac failure possible at large doses
+description :: There is currently no Effects Description for this substance.
+experienceReports :: null
+
+[Images]
+imageEntryList :: Datura ceratocaula Flower	https://www.erowid.org/plants/show_image.php?i=datura/datura_ceratocaula_flower__i2001e0035_disp.jpg	A closeup of a single white and purple Datura ceratocaula flower.	Photo by Chris Kamarampi. &copy; 2007 Erowid.org
+Datura ceratocaula	https://www.erowid.org/plants/show_image.php?i=datura/datura_ceratocaula_flower__i2011e0884_disp.jpg	A single flowering Datura ceratocaula specimen growing near a swamp. [Mexico]	Photo by Pathogen. &copy; 2013 Erowid.org
+Datura ceratocaula	https://www.erowid.org/plants/show_image.php?i=datura/datura_ceratocaula1.jpg	Color drawing of branch with flower.	Drawing from Plants of The Gods by Schultes and Hofmann
+Datura discolor	https://www.erowid.org/plants/show_image.php?i=datura/datura_discolor_flower__i2002e0014_disp.jpg	Nice photo showing Datura discolor flower and leaves. [UK]	Photo by Rol. &copy; 2007 Erowid.org
+Datura inoxia	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia15.jpg	Color photo of a D. inoxia in bloom.	Photo by Erowid, &copy; 2001 Erowid.org
+Datura inoxia Seedpod	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia_pod1.jpg	Color photo of a D. inoxia seed pod.	Photo by Erowid, &copy; 2001 Erowid.org
+Datura inoxia Seedpod	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia8.jpg	Close-up color photo of seed pod (thorn apple).	Photo by Scruff, &copy; 2000 Erowid.org
+Datura inoxia Seedpod	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia9.jpg	Close-up color photo of seed pod (thorn apple).	Photo by Scruff, &copy; 2000 Erowid.org
+Datura inoxia Flower	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia10.jpg	Color photo of a beautiful white flower just opening.	Photo by Scruff, &copy; 2000 Erowid.org
+Datura inoxia Flower	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia11.jpg	Color photo of a beautiful white flower just opening.	Photo by Scruff, &copy; 2000 Erowid.org
+Datura inoxia	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia6.jpg	Close-up of a small cluster of plants growing in Southern California (Sun City).	Photo by Bud Nichols, &copy; 2000 Erowid.org
+Datura inoxia	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia7.jpg	Close-up of a small cluster of plants growing in Southern California (Sun City).	Photo by Bud Nichols, &copy; 2000 Erowid.org
+Datura inoxia Flower	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia_flower4.jpg	Side view of a white D. inoxia flower. Tennessee.	Photo by Scruff, &copy; 2000 Erowid.org
+Datura inoxia Flower	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia_flower5.jpg	Front view of a white D. inoxia flower. Tennessee.	Photo by Scruff, &copy; 2000 Erowid.org
+Datura inoxia Flower	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia_flower6.jpg	Side view of a white D. inoxia flower just opening. Tennessee.	Photo by Scruff, &copy; 2000 Erowid.org
+Datura inoxia Flower	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia_flower7.jpg	Front view of a white D. inoxia flower. Tennessee.	Photo by Scruff, &copy; 2000 Erowid.org
+Datura inoxia Flower	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia_flower8.jpg	Color photo of a D. inoxia plant with a white flower bud just breaking open. Tennessee.	Photo by Scruff, &copy; 2000 Erowid.org
+Datura inoxia Flower	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia_flower9.jpg	Color photo of a D. inoxia flower bud just breaking open. Tennessee.	Photo by Scruff, &copy; 2000 Erowid.org
+Datura inoxia Leaf	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia_leaf1.jpg	Close-up color photo of a D. inoxia leaf. In Tennesee, these intricately patterned leafhoppers hang out only on the datura plants.	Photo by Scruff, &copy; 2000 Erowid.org
+Datura inoxia	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia3.jpg	Close-up of 2 plants with white flowers.	Photographer unknown.
+Datura inoxia	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia17.jpg	Color photo of a large D. inoxia plant in bloom. [Prescott Valley, AZ]	Photo by Lover of Reality, &copy; 2002 Erowid.org
+Datura inoxia	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia12.jpg	Color photo of a small potted D. inoxia plant. Tennessee.	Photo by Scruff, &copy; 2000 Erowid.org
+Datura inoxia	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia13.jpg	Color photo of a small potted D. inoxia plant. Tennessee.	Photo by Scruff, &copy; 2000 Erowid.org
+Datura inoxia	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia14.jpg	Color photo of a potted D. inoxia plant with two flower buds. Tennessee.	Photo by Scruff, &copy; 2000 Erowid.org
+Datura inoxia	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia4.jpg	Color photo of single large plant with both unopened flowers and seed pods.	Photo by J.R. Manhart.
+Datura inoxia Leaf	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia_leaf2.jpg	Close-up color image of a single D. inoxia leaf.	Photo by Erowid, &copy; 2001 Erowid.org
+Datura inoxia	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia1.jpg	Black and white drawing of branch, flower, and fruit.	Drawing from Psychedelic Shamanism.
+Datura inoxia	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia16.jpg	Black and white botanical drawing of D. inoxia.	From "The Badianus Manuscript", the oldest known American herbal, by Martinus de la Cruz and Juannes Badianus (1552).
+Datura inoxia	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia2.jpg	Close-up of two flowers.	Photographer unknown.
+Datura inoxia	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia5.jpg	Black and white photo of flower and fruit (seed pod).	Photographer unknown.
+Datura inoxia	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia_thorn1.jpg	Color photo of seed pod (thorn apple).	Photographer unknown.
+Datura inoxia	https://www.erowid.org/plants/show_image.php?i=datura/datura_inoxia_seed1.jpg	Photo of a small pile of Datura inoxia seeds.	Photo by Alkaloidaholic, &copy; 2003 Erowid.org
+Datura metel Flower	https://www.erowid.org/plants/show_image.php?i=datura/datura_metel4.jpg	Color photo of a beautiful deep purple flower.	Photo by Scruff, &copy; 2000 Erowid.org
+Datura metel Flower	https://www.erowid.org/plants/show_image.php?i=datura/datura_metel_flower5.jpg	Color photo of a just opening beautiful deep purple D. metel flower.	Photo by Scruff, &copy; 2000 Erowid.org
+Datura metel Flower	https://www.erowid.org/plants/show_image.php?i=datura/datura_metel_flower6.jpg	Color photo of a just opening beautiful deep purple D. metel flower.	Photo by Scruff, &copy; 2000 Erowid.org
+Datura metel Flower	https://www.erowid.org/plants/show_image.php?i=datura/datura_metel_flower7.jpg	Color photo of a just opening beautiful deep purple D. metel flower.	Photo by Scruff, &copy; 2000 Erowid.org
+Datura metel Flower	https://www.erowid.org/plants/show_image.php?i=datura/datura_metel_flower8.jpg	Color photo of a just opening beautiful deep purple D. metel flower.	Photo by Scruff, &copy; 2000 Erowid.org
+Datura metel Flower	https://www.erowid.org/plants/show_image.php?i=datura/datura_metel_flower9.jpg	Color photo of a just opening beautiful deep purple D. metel flower.	Photo by Scruff, &copy; 2000 Erowid.org
+Datura metel Flower	https://www.erowid.org/plants/show_image.php?i=datura/datura_metel_flower10.jpg	Color photo of a just opening beautiful deep purple D. metel flower.	Photo by Scruff, &copy; 2000 Erowid.org
+Datura metel Flower	https://www.erowid.org/plants/show_image.php?i=datura/datura_metel_flower11.jpg	Color photo of a fully open beautiful deep purple D. metel flower with white inside.	Photo by Scruff, &copy; 2000 Erowid.org
+Datura metel Flower	https://www.erowid.org/plants/show_image.php?i=datura/datura_metel_flower12.jpg	Side view of a fully open beautiful deep purple D. metel flower with white inside.	Photo by Scruff, &copy; 2000 Erowid.org
+Datura metel Flower	https://www.erowid.org/plants/show_image.php?i=datura/datura_metel_flower13.jpg	Side view of a fully open beautiful deep purple D. metel flower with white inside.	Photo by Scruff, &copy; 2000 Erowid.org
+Datura metel Flower	https://www.erowid.org/plants/show_image.php?i=datura/datura_metel_flower14.jpg	Side view of a fully open beautiful deep purple D. metel flower with white inside.	Photo by Scruff, &copy; 2000 Erowid.org
+Datura metel Flower	https://www.erowid.org/plants/show_image.php?i=datura/datura_metel_flower15.jpg	Side view of a fully open beautiful deep purple D. metel flower with white inside.	Photo by Scruff, &copy; 2000 Erowid.org
+Datura metel Flower	https://www.erowid.org/plants/show_image.php?i=datura/datura_metel_flower16.jpg	Side view of a fully open beautiful deep purple D. metel flower with white inside.	Photo by Scruff, &copy; 2000 Erowid.org
+Datura metel Flower	https://www.erowid.org/plants/show_image.php?i=datura/datura_metel_flower17.jpg	Side view of a fully open beautiful deep purple D. metel flower with white inside.	Photo by Scruff, &copy; 2000 Erowid.org
+Datura metel Flower	https://www.erowid.org/plants/show_image.php?i=datura/datura_metel_flower18.jpg	Side view of a fully open beautiful deep purple D. metel flower with white inside.	Photo by Scruff, &copy; 2000 Erowid.org
+Datura metel	https://www.erowid.org/plants/show_image.php?i=datura/datura_metel2.jpg	Color photo of plant with four deep purple double flowers.	Photo by Isabelle Liddle.
+Datura metel	https://www.erowid.org/plants/show_image.php?i=datura/datura_metel3.jpg	Color photo of plant with single light purple flower.	Photo by Isabelle Liddle.
+Datura metel Seedpods	https://www.erowid.org/plants/show_image.php?i=datura/datura_metel_seedpod__i2005e0087_disp.jpg	Closeup showing severl Datura metel seedpods and leaves. [BC, Canada]	Photo by Cory Davis. &copy; 2007 Erowid.org
+Datura metel Seedpod	https://www.erowid.org/plants/show_image.php?i=datura/datura_metel_pod1.jpg	Color photo of purple & green D. metel pod.	Photo by Scruff, &copy; 1999 Erowid.
+Datura metel Seedpod	https://www.erowid.org/plants/show_image.php?i=datura/datura_metel_pod2.jpg	Color photo of purple & green D. metel pod.	Photo by Scruff, &copy; 1999 Erowid.
+Datura metel	https://www.erowid.org/plants/show_image.php?i=datura/datura_metel1.jpg	Color drawing of branch with flower.	Drawing from Plants of The Gods, by Schultes & Hofmann
+Datura metel Flower	https://www.erowid.org/plants/show_image.php?i=datura/datura_metel_flower__i2014e0082_disp.jpg	An upright Datura metel flower, purple and white. Potted plant, leaves showing, on black background. [Sao Paulo, Brazil]	Photo by ABenedito. &copy; 2014 Erowid.org
+Datura stramonium var Tatula	https://www.erowid.org/plants/show_image.php?i=datura/datura_stramonium_flower1.jpg	Nice color photo of the flower of a Datura stramonium var tatula form bernhardii. [OH, USA]	Photo by Josh Ledington [pakelikakmk@yahoo.com], &copy; 2003 Erowid.org
+Datura stramonium var Tatula	https://www.erowid.org/plants/show_image.php?i=datura/datura_stramonium_seedpod1.jpg	Color photo of the seedpod of a Datura stramonium var tatula form bernhardii. [OH, USA]	Photo by Josh Ledington [pakelikakmk@yahoo.com], &copy; 2003 Erowid.org
+Datura stramonium var Tatula	https://www.erowid.org/plants/show_image.php?i=datura/datura_stramonium_leaf1.jpg	Nice color photo of the leaf of a Datura stramonium var tatula form bernhardii. [OH, USA]	Photo by Josh Ledington [pakelikakmk@yahoo.com], &copy; 2003 Erowid.org
+Datura stramonium var Tatula	https://www.erowid.org/plants/show_image.php?i=datura/datura_stramonium_stem1.jpg	Color photo showing the stem, seedpod and unopened flower of a Datura stramonium var tatula form bernhardii. [OH, USA]	Photo by Josh Ledington [pakelikakmk@yahoo.com], &copy; 2003 Erowid.org
+Datura stramonium Flower	https://www.erowid.org/plants/show_image.php?i=datura/datura_stramonium_flower__i2008e1064_disp.jpg	Datura stramonium flower growing on a large plant cultivated from seed [NC, USA]	Photo by Nikki Nebula. &copy; 2010 Erowid.org
+Datura stramonium Seedpod	https://www.erowid.org/plants/show_image.php?i=datura/datura_stramonium_seedpod__i2012e0324_disp.jpg	A small frog sitting on a ripe Datura stramonium seed pod. [USA]	Photo by Ghostman. &copy; 2012 Erowid.org
+Datura stramonium Seedpod	https://www.erowid.org/plants/show_image.php?i=datura/datura_stramonium_seedpod__i2003e0171_disp.jpg	A closeup of a Datura stramonium seedpod. [Finland]	Photo by Anonymous. &copy; 2007 Erowid.org
+Datura stramonium root	https://www.erowid.org/plants/show_image.php?i=datura/datura_stramonium_root1.jpg	Color photo of a Datura stramonium root. [Missouri, USA, 2002]	Photo by Alkaloidaholic, &copy; 2002 Erowid.org
+Datura stramonium Seedpod	https://www.erowid.org/plants/show_image.php?i=datura/datura_stramonium_thorn2.jpg	Beautiful Color photo of seed pod (thorn apple).	Photo from Dan Lieberman Image Library. Used by Erowid with permission.
+Datura stramonium Seedling	https://www.erowid.org/plants/show_image.php?i=datura/datura_stramonium_seedling1.jpg	Color photo showing two Datura stramonium seedlings.	Photo by Alkaloidaholic, &copy; 2003 Erowid.org
+Datura stramonium Seeds	https://www.erowid.org/plants/show_image.php?i=datura/datura_stramonium_seed__i2005e0247_disp.jpg	Scan showing Datura stramonium seeds next to a coin for size. [Italy]	Photo by Ooz. &copy; 2007 Erowid.org
+Datura stramonium Seeds	https://www.erowid.org/plants/show_image.php?i=datura/datura_stramonium_seed1.jpg	Photo of a baggie of Datura stramonium seeds.	Photo by Alkaloidaholic, &copy; 2003 Erowid.org
+Datura stramonium	https://www.erowid.org/plants/show_image.php?i=datura/datura_stramonium1.jpg	Color drawing of plant, flower, and seed pod.	From Kohler's Medicinal Plants, &copy; 1995-2003 Missouri Botanical Garden.
+Datura stramonium	https://www.erowid.org/plants/show_image.php?i=datura/datura_stramonium2.jpg	Color drawing of plant, flower, and seed pod.	Photographer unknown.
+Datura stramonium	https://www.erowid.org/plants/show_image.php?i=datura/datura_stramonium5.jpg	Black and white drawing of branch and flower.	Photo from Psychedelics Encyclopedia
+Datura stramonium	https://www.erowid.org/plants/show_image.php?i=datura/datura_stramonium6.jpg	Black and white drawing of branch with flowers.	Artist unknown.
+Datura weightii Seedpod	https://www.erowid.org/plants/show_image.php?i=datura/datura_weightii_seedpod1.jpg	Beautiful close-up photo showing a Datura weightii seedpod and seeds. [S. Sweden]	Photo by Edmund, &copy; 2005 Erowid.org
+Datura spp.	https://www.erowid.org/plants/show_image.php?i=datura/datura_spp_purple-white.jpg	Color photo of purple & white Datura.	Photo by William R. Barnard
+Datura spp.	https://www.erowid.org/plants/show_image.php?i=datura/datura_spp_triple-yellow.jpg	Color photo of triple yellow Datura.	Photo by William R. Barnard
+Datura spp.	https://www.erowid.org/plants/show_image.php?i=datura/datura1.jpg	Small color photo of plant with flower.	Photographer unknown.
+Datura spp.	https://www.erowid.org/plants/show_image.php?i=datura/datura2.jpg	Color photo of plant and flower.	Photo by Betty Armitage at Greenthumb Hothouse.
+Datura spp.	https://www.erowid.org/plants/show_image.php?i=datura/datura_spp_purple1.jpg	Beautiful color photo of a purple Datura flower.	Photo by Jaymer of Jaymer's Garden. Used by Erowid with permission.
+Datura metel Seedpod	https://www.erowid.org/plants/show_image.php?i=datura/datura_metel_seedpod__i2010e0476_disp.jpg	Datura seedpod identified as D. metel, but ID is questionable. [UK]	Photo by Chris Picken. &copy; 2010 Erowid.org
+Datura spp.	https://www.erowid.org/plants/show_image.php?i=datura/datura3.jpg	Color photo of plant with flower.	Photo from Maya Ethnobotanicals.
+Datura seeds	https://www.erowid.org/plants/show_image.php?i=datura/datura_spp_seeds1.jpg	Color photo of a collection of Datura seeds (unknown species).	Photo by Erowid, &copy; 2000 Erowid.org
+Ashtmador advertisement	https://www.erowid.org/plants/show_image.php?i=datura/datura_stramonium_asthmador_advertisement1.jpg	An advertisement for Datura-containing smokable asthma medication "Asthmador"	Photo by Unknown. &copy; unknown
+Back of Asthmador package	https://www.erowid.org/plants/show_image.php?i=datura/datura_stramonium_asthmador_package1.jpg	The back of an package of Asthmador "To relieve the distress of Bronchial Ashmatic Paroxysms, smoke one or two Asthmador Cigarettes, taking DEEP INHALATIONS." [United States]	Photo by Unknown. &copy; unknown
+
+[Health]
+notes :: Datura leaves, seeds, flowers, and roots contain psychoactive chemicals (scopolamine, atropine, and hyoscyamine) that not only cause delirium, extreme disorientation, and realistic hallucinations but also potentially dangerous anticholinergic physical effects. Datura ingestion has caused numerous hospitalizations and deaths around the world.	
+Physical symptoms of datura intoxication include: blurred vision, pupil dilation, skin flushing, fever, severe dry mouth, dry mucous membranes (in some cases leading to nose bleeds), decreased bowel movement, reduced urination, hyperthermia, hypertension, and tachycardia. The combination of delirium and dangerous overheating and cardiovascular stimulation can result in patients who are in physical danger but who are unaware of the symptoms they are experiencing and unable to seek help.	
+An older mnemonic for anticholinergic toxicity taught in medical schools was "Blind as a bat, mad as a hatter, red as a beet, hot as hell (or 'hot as a hare'), dry as a bone, the bowel and bladder lose their tone, and the heart runs alone."	
+Many users report periods of several hours in which they have no memory of what they were doing. Behavior is often irrational and accidental injury is a serious risk.
+deaths :: Deaths following datura use are sometimes the result of accidental injury from delirious intoxication and in other cases are a direct result of the anticholinergic physical effects of the drugs in the plant.
+warnings :: null
+cautions :: Dramatic Changes in Thinking.  Changes to thought processes, while among the primary reasons why people choose to use datura, can also significantly impair judgement. A sober sitter who assumes responsibility for the welfare of a person under the influence can reduce the chances of problems caused by impaired judgement.
+Hyperthermia/Overheating.  Hyperthermia is a common problem with high-dose datura. Dangerous overheating combined with lack of awareness of one's physical state can lead to possibly life-threatening emergencies.
+No Potential for Physical Dependence (Addiction). Physical dependence is unknown with datura use. Very few people enjoy the effects enough to repeat the experience frequently.
+benefits :: Medical Uses. Although datura plant materials have no approved medical uses, the component substances have a variety of medical uses including drying mucous membranes, protection against nerve gas, slowing bowel movements, reducing bladder spasms, reducing motion sickness, pupil dilation and slowing down of pupil reaction, among others.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Datura spp.
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: The Datura plant is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: Kansas	On April 24, 2008 Kansas SB 481 was signed into law, adding Datura stramonium to the state's list of Schedule I controlled substances. The law restricts "all parts of the plant presently classified botanically as datura stramonium, whether growing or not..." and "any extract from any part of such plant, and every compound, manufacture, salts, isomers and salts of isomers [of the plant]...". (see text of bill)
+Louisiana	Effective Aug 8, 2005 (signed into law Jun 28, 2005) Louisiana Act No 159 makes 40 plants illegal, including Datura spp., when intended for human consumption. The law specifically excludes the "possession, planting, cultivation, growing, or harvesting" of these plants if used "strictly for aesthetic, landscaping, or decorative purposes." (Text of HLS_05RS-52 and Update June 2005)
+Nevada	The state of Nevada lists as Schedule I "All parts of the plant presently classified botanically as Datura, whether growing or not, the seeds thereof, any extract from any part of such plant or plants, and every compound, manufacture, salt derivative, mixture or preparation of such plant or plants, its seeds or extracts, unless substances consistent with those found in such plants are present in formulations that the Food and Drug Administration of the Department of Health and Human Services has approved for distribution." [Nevada Legislature website]
+New Jersey	It appears that in New Jersey there is a public health law specifically regarding Datura stramonium which states that immediately upon notification of the existence of "wild, cultivated or hidden growth" of D. stramonium (this is the only variety named) the health department will dispatch an officer to destroy the plants. As far as we can tell, nowhere does it state that it is illegal to grow D. stramonium...only that it is the duty of the department of health to destroy it if they learn of its existence. New Jersey Statutes. 2A:170-77.8 (1997).
+Oklahoma	In response to an event earlier in 2004 where some youths were given datura tea by an adult, the Oklahoma legislature has passed a law to add "naturally occurring" to the definition of "synthetic controlled substance". This is believed to allow them to control datura when used "as a drug" in the style of the more inclusive analog-type laws: "a substance, whether synthetic or naturally occurring, that is not a controlled dangerous substance, but which produces a like or similar physiological or psychological effect on the human central nervous system that currently has no accepted medical use in treatment in the United States and has a potential for abuse." Perhaps natural will soon be redefined to include artificial, completing the circle. See DRCNet's notes on this, Oklahoma Statute.
+Tennessee 	Tennessee did not pass the proposed bill that would have banned dozens of plants as "hallucinogenic" when intended for human consumption. Instead, they banned only Salvia divinorum. See Comments on New State Laws Controlling the Consumption of Hallucinogenic Plants.
+internationalLaw :: Australia	We have been told that ote from AM : "Datura Stramonnium is listed as a schedule 1 poison Nationally. In N.S.W. Plants containing less than 0.25% alkaloids by weight are a schedule 2 Medicinal poison and must be prescribed by a medical proffesional, the exception in this case being for smoking preparations." (unconfirmed) (thanks AM)
+Brazil	Datura suaveolens is controlled in Brazil. Other datura species are not listed.
+Bulgaria	We have been told that growing or possessing datura is not prohibited under current law, though its use is uncommon. (unconfirmed) (thanks VB)
+Canada	Neither datura nor scopolamine are scheduled substances in Canada.
+India	Although we do not have information about the official status of datura in India, it has been reported to us that datura is commonly given in offerings to Lord Shiva and is sold near temples. It also grows wild in many areas. (unconfirmed) (thanks j) (last updated Dec 4 2012)
+Norway	In Norway the Datura (Jimsworht) plant is not on the list of narcotics. It is legal to buy and grow, but not to import the plant by mail. (unconfirmed) (thanks S,AB) (last updated May 14, 2009)
+U.K.	Datura is legal to grow and possess in the U.K.
+
+[Dose]
+doseTable :: null
+doseText :: As a general rule, Erowid neither recommends nor discourages the use of any psychoactive, however, in the case of tropane alkaloid-containing Solanaceae plants, we think it is important to note that an overwhelming majority of those who describe to us their use of Datura (and to a lesser extent, Belladonna, Brugmansia and Brunfelsia) find their experiences extremely mentally and physically unpleasant and not infrequently physically dangerous.  There is no way to guess a reasonable dose, because potency of the plant material itself and appropriate dose for an individual appear to vary so much. The question of what "reasonable" means for something that so often leads to such ridiculously negative effects is hard to say.  As an admixture plant in some traditional ayahuasca brews, smoking blends, or other preparations, parts of these plants are generally used in very low doses. Because of the serious adverse consequences associated with tropane alkaloids (scopolamine, atropine, hyoscyamine) intoxication and the wide variation in doses used, we are unwilling to even speculate about specific dosages for the leaves, flowers, and seeds of these plants.  If you are considering ingesting Datura-group plants, please read extensively from the collected experience reports and never take them without a reliable, sober sitter who understands the likely health issues and who can stop you from walking in front of traffic. Please note that fatalities from ingesting Datura do occur and hospitalizations seem to be quite common, in spite of the relatively low rates of psychoactive use of these plants.
+notes :: null
+
+[Chemistry]
+chemTable :: NAME :	Scopolamine
+CHEMICAL NAME :	Scopolamin, Hyoscin, hyoscine, Scopoderm TTS, Transderm-V
+ALTERNATE CHEMICAL NAMES : 	[7(S)-(1alpha, 2beta, 4beta, 5alpha, 7beta)]-alpha-(hydroxymethyl)benzeneacetic acid 9-methyl-3-oxa-9-azatricyclo-[3.3.1.0(2,4)]non-7-yl ester
+CHEMICAL FORMULA	C17H21NO4
+MOLECULAR WEIGHT	303.35
+From Pharmacotheon
+moleculeURL :: https://www.erowid.org/chemicals/scopolamine/images/archive/scopolamine_3d_mid.jpg

@@ -1,0 +1,26 @@
+[Substance]
+
+id :: 163
+name :: Justicia pectoralis
+url :: https://www.erowid.org/plants/justicia/justicia.shtml
+category :: Plants
+botanicalClassification :: Family :Acanthaceae, Genus :Justicia, Species :PectoraliscommonNames :: Masha-hari; Piri piri
+effectsClassification :: Unknown; Smell Enhancer
+description :: Justicia pectoralis is an erect herb growing up to 60 cm tall and producing white or pink flowers. Its leaves and stems contain coumarin, an anticoagulant. It is used medicinally in S. America and has been used as an admixture in virola snuffs, partially for its vanilla-like smell.
+imageURL :: https://www.erowid.org/plants/justicia/images/justicia_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/justicia/justicia_images.shtml
+lawURL :: https://www.erowid.org/plants/justicia/justicia_law.shtml
+
+[Images]
+imageEntryList :: Justicia pectoralis	https://www.erowid.org/plants/show_image.php?i=justicia/justicia_pectoralis1.jpg	Close-up color photo of a J. pectoralis plant with flowers.	Photo by Chris Kamarampi, &copy; 2003 Erowid.org
+Justicia pectoralis	https://www.erowid.org/plants/show_image.php?i=justicia/justicia_pectoralis2.jpg	Color photo of a flowering J. pectoralis.	Photo by Chris Kamarampi, &copy; 2003 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Justicia pectoralis
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Justicia pectoralis is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: 

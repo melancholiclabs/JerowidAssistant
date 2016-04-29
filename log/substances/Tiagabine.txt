@@ -1,0 +1,22 @@
+[Substance]
+
+id :: 316
+name :: Tiagabine
+url :: https://www.erowid.org/pharms/tiagabine/tiagabine.shtml
+category :: Pharms
+commonNames :: Gabitril
+effectsClassification :: Anticonvulsant
+chemicalName :: (-)-( R)-1-[4,4-Bis(3-methyl-2-thienyl)-3- butenyl] nipecotic acid hydrochloride
+description :: Tiagabine is an anticonvulsant prescribed as an add-on drug to help control epileptic seizures. It is believed to work by enhancing the inhibitory neurotransmitter GABA. It is also prescribed off-label in the treatment of bi-polar disorder [BPD], chronic anxiety disorder, and insomnia.
+imageURL :: https://www.erowid.org/pharms/images/pharms_spacer_summary.jpg
+lawURL :: https://www.erowid.org/pharms/tiagabine/tiagabine_law.shtml
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Tiagabine
+REGULATED	Yes
+STATUS	Prescription Only
+SCHEDULE	Un-Scheduled
+federalLawText :: Tiagabine (Gabitril) is unscheduled in the United States, but is available by prescription only. This means that sales and distribution are allowed only by those with a license and only to those with a prescription (according to FDA regulations). Possession is not illegal even without a prescription.
+stateLaw :: null
+internationalLaw :: 

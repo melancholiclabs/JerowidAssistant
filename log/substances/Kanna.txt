@@ -1,0 +1,38 @@
+[Substance]
+
+id :: 164
+name :: Kanna
+url :: https://www.erowid.org/plants/kanna/kanna.shtml
+category :: Plants
+botanicalClassification :: Family :Mesembryanthemaceae, Genus :Sceletium (Mesembryanthemum), Species :emarcidum; tortuosumcommonNames :: Kanna; Canna; Channa; Kaugoed
+effectsClassification :: Inebriating Sedative
+description :: Sceletium tortuosum is a succulent groundcover which produces showy white flowers with threadlike petals. Its fermented roots and leaves were chewed by the Hotentot tribe of S. Africa as a vision-inducing entheogen and inebriant. The plant contains mesembrine, though the pharmacology of kanna is not fully understood.
+imageURL :: https://www.erowid.org/plants/kanna/images/kanna_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/kanna/kanna_images.shtml
+lawURL :: https://www.erowid.org/plants/kanna/kanna_law.shtml
+
+[Images]
+imageEntryList :: Sceletium tortuosum	https://www.erowid.org/plants/show_image.php?i=kanna/sceletium_tortuosum__i2006e2057_disp.jpg	A Sceletium tortuosum plant, that is between six and seven years old. The older leaves brown and dry out to the thickness of a fly's wing, concentrating the alkaloids. [South Africa]	Photo by William Rafti. &copy; 2009 Erowid.org
+Sceletium tortuosum	https://www.erowid.org/plants/show_image.php?i=kanna/sceletium_tortuosum__i2001e0058_disp.jpg	6 week old Sceletium tortuosum growing under florescent lights in cactus soil, sand, and perlite. [PA, USA]	Photo by Mahatma Coat. &copy; 2006 Erowid.org
+Sceletium tortuosum	https://www.erowid.org/plants/show_image.php?i=kanna/sceletium_tortuosum_seedling__i2001e0059_disp.jpg	2 1/2 week old Sceletium tortuosum seedling growing in sand under flourescent lights. [PA, USA]	by Mahatma Coat. &copy; 2006 Erowid.org
+Sceletium tortuosum	https://www.erowid.org/plants/show_image.php?i=kanna/sceletium_tortuosum__i2004e0062_disp.jpg	Flowering Sceletium tortuosum (kanna) plant growing in container. [Switzerland]	Photo by Neonglow. &copy; 2006 Erowid.org
+Sceletium spp. Flower	https://www.erowid.org/plants/show_image.php?i=kanna/sceletium_spp_flower__i2005e0119_disp.jpg	Closeup photo of a single flower of either Sceletium emarcidum, S. exalatum, or S. rigidum. [Australia]	Photo by Ed Dunkel. &copy; 2006 Erowid.org
+Sceletium tortuosum	https://www.erowid.org/plants/show_image.php?i=kanna/sceletium_tortuosum1.jpg	Color photo of a small one year old Sceletium tortuosum plant, grown from seed [Denmark].	Photo by Ashoka, &copy; 2004 Erowid.org
+Sceletium tortuosum	https://www.erowid.org/plants/show_image.php?i=kanna/sceletium_tortuosum2.jpg	Color photo of flowering Sceletium tortuosum plant [S. Africa].	Photo by Finebush.com, &copy; 2004 Erowid.org
+Sceletium tortuosum	https://www.erowid.org/plants/show_image.php?i=kanna/sceletium_tortuosum3.jpg	Color photo showing dried Sceletium tortuosum [S. Africa].	Photo by Finebush.com, &copy; 2004 Erowid.org
+Sceletium emarcidum "Ed Strain"	https://www.erowid.org/plants/show_image.php?i=kanna/sceletium_emarcidum_leaf__i2005e0120_disp.jpg	Close-up of the leaves of Sceletium emarcidum, "Ed strain". [Australia]	Photo by Ed Dunkel. &copy; 2009 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Sceletium tortuosum
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: Kanna (Sceletium tortuosum) is uncontrolled in the United States by federal law. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA. Some states have enacted controls stricter than federal law (see below).
+stateLaw :: Louisiana	Effective Aug 8, 2005 (signed into law Jun 28, 2005) Louisiana Act No 159 makes 40 plants illegal, including some or all Mesembryanthemum species. It is our opinion that the legislature intended to include Kanna under the Mesembryanthemum spp. grouping. when intended for human consumption. The law specifically excludes the "possession, planting, cultivation, growing, or harvesting" of these plants if used "strictly for aesthetic, landscaping, or decorative purposes." (Text of HLS_05RS-52 and Update Jun 2005). (thanks ew) (last updated Aug 2010)
+internationalLaw :: Australia	Not currently controlled in Australia, selling for human consumption may be controlled by medical regulations and may not be legal. (unconfirmed) (thanks callan)
+Canada	Kanna is reportedly uncontrolled in Canada and is available through Canadian stores and online vendors. (thanks J, K) (last updated Jul 19, 2012)
+Germany (Deutschland)	One visitor writes that Kanna is uncontrolled in Germany. (unconfirmed) (thanks fm5000) (last updated Aug 9 2010)
+Netherlands	We have been told that Kanna is legal in The Netherlands, sold by quality smartshops and some online shops. (unconfirmed) (thanks W)
+Poland	We have been told that Kanna is legal in Poland and sold by multiple vendors. (unconfirmed) (thanks M)
+South Africa	Kanna is uncontrolled in South Africa, but if sold as a medicine or herbal product it is subject to the regulations of the SA Medicines Control. The same is true for one of its active ingredients called mesembrine. (unconfirmed)

@@ -1,0 +1,38 @@
+[Substance]
+
+id :: 294
+name :: Morphine
+url :: https://www.erowid.org/pharms/morphine/morphine.shtml
+category :: Pharms
+commonNames :: MS Contin; Oramorph; Roxanol; Avinza; Kapanol
+effectsClassification :: Opioid Narcotic Analgesic
+chemicalName :: (5a,6a)-7,8-didehydro-4,5-epoxy-17-methylmorphinan-3,6-diol
+description :: Morphine is an opiate used in the treatment of severe pain. It occurs naturally in the opium poppy and has a long history of human use.
+imageURL :: https://www.erowid.org/pharms/morphine/images/morphine_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/morphine/morphine_images.shtml
+lawURL :: https://www.erowid.org/pharms/morphine/morphine_law.shtml
+
+[Images]
+imageEntryList :: Morphine tablet	https://www.erowid.org/pharms/show_molecule.php?i=morphine/morphine_tablet1.jpg	Color photo of the front and back of an Oramorph time-release tablet containing 100 mg morphine and bearing the imprint "54/862 || 100" [CA, USA].	Image by Paul Hindt, &copy; 2004 Erowid.org
+Morphine tablet	https://www.erowid.org/pharms/show_molecule.php?i=morphine/morphine_tablet2.jpg	Color photo of two 30 mg tablets of Morphine sulphate (MS Contin).	Image by Osyrus, &copy; 2000 Erowid.org
+Morphine Sulphate Vial	https://www.erowid.org/pharms/show_image.php?i=morphine/morphine_vial__i2008e1376_disp.jpg	Close up showing a vial of Australian morphine sulphate tablets. [Australia]	Photo by Ergotoxine. &copy; 2009 Erowid.org
+Morphine syrette	https://www.erowid.org/pharms/show_molecule.php?i=morphine/morphine_syrette1.jpg	Color photo of a Morphine tartrate syrette (single-use syringe) as used in hospitals.	Image by DrugPix, &copy; 2004 Erowid.org
+Mrs. Winslow's Soothing Syrup	https://www.erowid.org/pharms/show_image.php?i=morphine/morphine_ad1.jpg	Photo of a Mrs Winslow's Soothing Syrup Trading Card. Mrs. Winslow's Soothing Syrup contained relatively high levels of morphine (65 mg per fluid ounce) and were marketed as a treatment for teething children, 1885-1890.	Artist unknown.
+Needle	https://www.erowid.org/pharms/show_image.php?i=morphine/object_morphine_needle1.jpg	Hypodermic syringe c. 1860 for use with morphine. Was equipped with gold needles.	Image from the Chicago Historical Society.
+Morphine 2D Molecule	https://www.erowid.org/pharms/show_image.php?i=morphine/morphine_2d.gif	2D image of a morphine molecule.	Image by Erowid, &copy; 2000 Erowid.org
+Morphine 3D Rotating Molecule	https://www.erowid.org/pharms/show_image.php?i=morphine/morphine__.mol	Rotating 3D image of the Morphine molecule.	Image by Erowid, &copy; 2000 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Morphine
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule II / III
+CLASSIFICATION	Opiate
+federalLawText :: Pure morphine or products which contain more than 50 mg per 100 milliliters (or per 100 grams) are Schedule II in the United States. This means they are illegal to sell without a DEA license and illegal to buy or possess without a license or prescription.	
+Products which contain less than 50 mg morphine per 100 milliliters (or per 100 grams) and which contain one or more active, nonnarcotic ingredient in recognized therapeutic amounts are Schedule III in the United States.	
+Schedule II drug prescriptions may only be refilled with a written prescription, Schedule III pharmaceuticals may be refilled using phoned prescription. (thanks DJM)
+stateLaw :: 
+internationalLaw :: Canada	Morphine is schedule I in Canada. (Note: Canadian schedules are very different than U.S. schedules)
+Portugal	Effective July 2001, personal use of morphine without a prescription was decriminalized by Law 30/2000 (see text of law). Possession of less than 2 g is not regarded as a criminal offense, though the substance is liable to be seized and the possessor can be referred to mandatory treatment. Sale, or possession of quantities greater than the personal possession limit, are criminal offenses punishable by jail time. (thanks P)
+Russia	One visitor reports that morphine is schedule II drug in the Russian Federation and is regulated such that it is not prescribed to the general public. It is used for treating pain in hospitals and administered to terminal cancer patients, etc. See Russian Schedules (thanks g) (last updated Mar 8, 2010)

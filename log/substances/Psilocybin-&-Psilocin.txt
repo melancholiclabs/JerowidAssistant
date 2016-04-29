@@ -1,0 +1,64 @@
+[Substance]
+
+id :: 125
+name :: Psilocybin & Psilocin
+url :: https://www.erowid.org/chemicals/psilocybin/psilocybin.shtml
+category :: Chemicals
+commonNames :: None
+effectsClassification :: Psychedelic Tryptamine
+chemicalName :: Psilocybin: O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine Psilocin: 4-hydroxy-N,N-dimethyltryptamine
+description :: Psilocybin and psilocin are naturally occurring psychedelics with a long history of human use. Both are present in 'psychedelic' or 'magic' mushrooms. Psilocybin, the better known of these two chemicals, is metabolized after ingestion into psilocin, which is the primary active chemical.
+imageURL :: https://www.erowid.org/chemicals/images/chemicals_spacer_summary.jpg
+imagesURL :: https://www.erowid.org/chemicals/psilocybin/psilocybin_images.shtml
+lawURL :: https://www.erowid.org/chemicals/psilocybin/psilocybin_law.shtml
+doseURL :: https://www.erowid.org/chemicals/psilocybin/psilocybin_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/psilocybin/psilocybin_chemistry.shtml
+
+[Images]
+imageEntryList :: Synthetic Psilocybin Crystalline Needles	https://www.erowid.org/chemicals/show_image.php?i=psilocybin/psilocybin_crystals__i2014e0223_disp.jpg	Fluffy needles of synthetic crystalline psilocybin, re-crystallized from boiling water. This is after the fourth recrystallization. Synthesized legally for use in the US for human research projects in 2014, under license by the DEA. Photo by Nicholas V. Cozzi, Ph.D.	Photo by Nicholas V. Cozzi. &copy; 2014 Erowid.org
+Psilocin Tattoo on Forearm	https://www.erowid.org/chemicals/show_image.php?i=psilocybin/psilocin_tattoo__i2007e0696_disp.jpg	Black ink tattoo of psilocin on forearm. [Cape Cod, USA]	Photo by Rev JD Tryptafiend. &copy; 2013 Erowid.org
+2D Psilocybin Molecule	https://www.erowid.org/plants/show_molecule.php?i=mushrooms/psilocybin_2d.jpg	2D Psilocybin Molecule on White Background	Image by Erowid, &copy; 2002 Erowid.org
+2D Psilocin Molecule	https://www.erowid.org/plants/show_molecule.php?i=mushrooms/psilocin_2d.gif	2D Psilocin Molecule	Image by Erowid, &copy; 2002 Erowid.org
+2D Baeocystin Molecule	https://www.erowid.org/plants/show_molecule.php?i=mushrooms/baeocystin_2d.gif	2D Baeocystin Molecule	Image by Erowid, &copy; 2002 Erowid.org
+3D Psilocybin Molecule	https://www.erowid.org/plants/show_molecule.php?i=mushrooms/psilocybin_3d.jpg	3D Psilocybin Molecule on Black Background	Image by Erowid, &copy; 2002 Erowid.org
+3D Psilocin Molecule	https://www.erowid.org/plants/show_molecule.php?i=mushrooms/psilocin_3d.jpg	3D Psilocin Molecule	Image by Erowid, &copy; 2002 Erowid.org
+3D Baeocystin Molecule	https://www.erowid.org/plants/show_molecule.php?i=mushrooms/baeocystin_3d.jpg	3D Baeocystin Molecule	Image by Erowid, &copy; 2002 Erowid.org
+3D Psilocybin Structure	https://www.erowid.org/plants/show_molecule.php?i=mushrooms/psilocybin__.mol	Rotating 3D psilocybin Molecule .mol file	Image by Erowid, &copy; 2002 Erowid.org
+3D Psilocin Structure	https://www.erowid.org/plants/show_molecule.php?i=mushrooms/psilocin__.mol	Rotating 3D psilocin Molecule .mol file	Image by Erowid, &copy; 2002 Erowid.org
+3D Baeocystin Structure	https://www.erowid.org/plants/mushrooms/images/archive/baeocystin__.mol	Rotating 3D Baeocystin Molecule .mol file	Image by Erowid, &copy; 2002 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Psilocybin
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule I
+CLASSIFICATION	Hallucinogen
+federalLawText :: Psilocybin and Psilocin are both Schedule I in the United States. This means they is illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license.	
+Psilocybin- or Psilocin-containing mushrooms have a slightly more complex legal status. Please see the Psilocybin-Containing Mushroom Law Vault.
+stateLaw :: null
+internationalLaw :: Brazil	Psilocybin and psilocin are listed as controlled substances, making production, distribution, or possession illegal. (thanks P)
+Italy (Italia)	Listed in Tabella I of "Tabelle delle sostanze stupefacenti e psicotrope", making it illegal to possess, purchase, or sell. (see Tabelle delle sostanze stupefacenti e psicotrope. (thanks a) (last updated Dec 16, 2015)
+Norway	Mushrooms that are dried, planted or otherwise "tampered with" and contain
+Mushrooms that are dried, planted or otherwise "tampered with" and contain	Psilocybin are considered Schedule I, and are illegal to buy or possess without a license.
+Psilocybin are considered Schedule I, and are illegal to buy or possess without a license.	Pure Psilocybin is also Schedule I. See Norway Law. (thanks Y)
+United Kingdom (Britain, U.K., England, Scotland, Wales)	Psilocin is listed as a Class A substance. While psilocybin is not listed, psilocybin is considered an "ester" of psilocin and is thus also included in Class A along with "Fungus (of any kind) which contains psilocin or an ester of psilocin". (last updated Jan 22, 2013)
+
+[Dose]
+doseTable :: Oral Psilocybin Dosages
+Threshold3 - 4 mg
+Light4 - 8 mg
+Common6 - 20 mg
+Strong20 - 40 mg
+Heavy35 + mg
+Onset : 15 - 20 minutes (when held in mouth)
+Onset : 30 - 60 minutes (when taken orally in capsule)
+Peak : 90 - 180 minutes
+Duration : 2 - 6 hours
+Normal After Effects : up to 8 hours
+doseText :: Psilocybin is the major psychoactive agent in psilocybian mushrooms. The main difference between psilocybin and psilocin is their relative stabilities...psilocin is much more easily oxidized, so deteriorates much more quickly than psilocybin. The following chart shows approximate oral dosages of psilocybin in mg.     Oral Psilocybin Dosages Threshold3 - 4 mg Light4 - 8 mg Common6 - 20 mg Strong20 - 40 mg Heavy35 + mg    Onset : 15 - 20 minutes (when held in mouth) Onset : 30 - 60 minutes (when taken orally in capsule) Peak : 90 - 180 minutes Duration : 2 - 6 hours Normal After Effects : up to 8 hours   Notes:  In 2006, Griffiths et al published research in which subjects were administered .43 mg/kg psilocybin (30 mg per 70kilogram adult) and 61% of participants experienced a "complete" mystical experience. (Griffiths RR, Richards WA, McCann U, Jesse R. "Psilocybin can occasion mystical-type experiences having substantial and sustained personal meaning and spiritual significance". Psychopharmacology. 2006)   In the early 1960s, Sandoz Pharmaceutical sold psilocybin in pink 2 mg pills. "The literature on mushroom research suggested using doses of 8 milligrams and each pill was 2 milligrams." (Leary T. High Priest 1995. pg 71.)  Timothy Leary's first use of Sandoz psilocybin was 4 mg, which he reported as a light but clearly above-threshold dose. His friends took 12 mg and 14 mg and had clear effects, including some visuals and altered/intoxicated behavior.  Rick Strassman's research administering psilocybin to subjects involved both .45 mg/kg and 0.9 mg/kg oral psilocybin. At 0.45 mg/kg the "subjects' experiences were strong, fully psychedelic. They could get out of bed but didn't want to." And at 0.9 mg/kg "they were pretty immobilized, but in touch with [researchers] when [they] needed to make contact." (R. Strassman, personal communication). A .45 mg/kg dose would be around 30 mg for a 150 pound person.  Fischer and Thatcher administered .16 mg/kg to subjects and described it as "mildly hallucinogenic" and "a dose which in most cases induces mild hallucinations in only some subjects". This dose caused small changes in visual perception, handwriting, and ability/willingness to perform dull tests. (Fischer 1970)  Leary et al. administered between 20 and 70 mg of psilocybin in their "Prisoner Rehabilitation" program, but settled on "30 mg. as a standard, moderate dose". However, word choice could get in the way here: 'moderate' may mean many things. Leary, later in the same paper, says "Psilocybin produces temporary states of spiritual conversion, interpersonal closeness and psychological insight. Forty-five percent of the entire inmate group clearly underwent a mystical, transcendent, death-rebirth experience. This figure should be modified, however. The results for running sessions improved so that 100% of our recent groups were undergoing transcendent experiences." The term 'moderate' must be read in the context where 100% of those moderate doses precipitated "transcendent" experiences. (Leary 1969)
+notes :: null
+
+[Chemistry]
+chemTable :: null
+moleculeURL :: https://www.erowid.org/plants/mushrooms/images/archive/psilocybin_3d_mid.jpg

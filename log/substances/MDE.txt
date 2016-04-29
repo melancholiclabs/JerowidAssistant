@@ -1,0 +1,44 @@
+[Substance]
+
+id :: 97
+name :: MDE
+url :: https://www.erowid.org/chemicals/mde/mde.shtml
+category :: Chemicals
+commonNames :: MDEA; Eve
+effectsClassification :: Euphoric Empathogen; Stimulant; Phenethylamine
+chemicalName :: 3,4-methylenedioxy-N-ethylamphetamine
+description :: MDE is a synthetic empathogen sometimes found in ecstasy tablets. It is closely related to MDMA though its effects are said to be milder and less stimulating.
+imageURL :: https://www.erowid.org/chemicals/images/chemicals_spacer_summary.jpg
+imagesURL :: https://www.erowid.org/chemicals/mde/mde_images.shtml
+lawURL :: https://www.erowid.org/chemicals/mde/mde_law.shtml
+doseURL :: https://www.erowid.org/chemicals/mde/mde_dose.shtml
+
+[Images]
+imageEntryList :: MDE	https://www.erowid.org/chemicals/show_image.php?i=mde/mde1.jpg	Color photo of 2 MDE tablets with a penny for size comparison.	Photo by Anonymous Photographer. &copy; 2002 Erowid.org
+MDE 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=mde/mde_2d.gif	Still 2D image of the MDE molecule.	Image by Erowid. &copy; 2006 Erowid.org
+MDE 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=mde/mde_3d.jpg	Still 3D image of the MDE molecule.	Image by Erowid. &copy; 2000 Erowid.org
+MDE 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=mde/mde__.mol	Rotating 3D image of the MDE molecule.	Image by Erowid. &copy; 2000 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+MDE
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule I
+CLASSIFICATION	Hallucinogen
+federalLawText :: MDE is Schedule I in the United States. This means it is illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license.
+stateLaw :: null
+internationalLaw :: Italy (Italia)	Listed in Tabella I of "Tabelle delle sostanze stupefacenti e psicotrope", making it illegal to possess, purchase, or sell. (see Tabelle delle sostanze stupefacenti e psicotrope. (thanks a) (last updated Dec 16, 2015)
+U.K.	MDE is Schedule I/Class A in the U.K., making it illegal to sell, buy, or possess without a license.
+
+[Dose]
+doseTable :: Oral MDE Dosages
+Threshold30 - 50 mg
+Common for small or sensitive people80 - 120 mg
+Common for most people120 - 150 mg
+Common for large or unsensitive people150 - 200 mg
+Required by few (side effects increase)200 +  mg
+Duration : 2 - 4 hours
+Normal After Effects : 3 - 6 hours
+doseText :: MDE generally comes in either tablet form or as a whitish powder. It is also frequently found in pills sold as MDMA. Following are approximate dosages in mg.
+notes :: null

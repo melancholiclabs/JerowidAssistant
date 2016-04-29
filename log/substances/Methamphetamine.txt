@@ -1,0 +1,121 @@
+[Substance]
+
+id :: 103
+name :: Methamphetamine
+url :: https://www.erowid.org/chemicals/meth/meth.shtml
+category :: Chemicals
+commonNames :: Meth; Speed; Crystal; Glass; Crank; Tweak; Yaba; Desoxyn&reg; Sisa
+effectsClassification :: Euphoric Stimulant
+chemicalName :: d-N-methylamphetamine
+description :: Methamphetamine is a strong physical and mental stimulant available in both prescription and street forms. It is relatively easy to synthesize which has contributed to its widespread use.
+imageURL :: https://www.erowid.org/chemicals/meth/images/meth_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/meth/meth_basics.shtml
+effectsURL :: https://www.erowid.org/chemicals/meth/meth_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/meth/meth_images.shtml
+lawURL :: https://www.erowid.org/chemicals/meth/meth_law.shtml
+doseURL :: https://www.erowid.org/chemicals/meth/meth_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/meth/meth_chemistry.shtml
+
+[Basics]
+description :: Methamphetamine is a stimulant chemical commonly used as a recreational drug. It is legally prescribed as a treatment for ADD under the brand name Desoxyn, for both children and adults. On the street, it is generally found as an odorless, white or off-white, bitter-tasting powder, though it is also found in pills, capsules and larger crystals. It is frequently snorted, but is also used orally, smoked, and injected.  Methamphetamine production is a relatively simple process, especially when compared to many other recreational drugs. It is frequently reported on in the media when home meth-producing labs are busted. [ Main Meth Vault ]
+descriptionSections :: dose	Dose Summary Needed.
+price	Methamphetamine is sold for $100-300 USD retail per gram for good quality crystals and $50-100 USD for wholesale or friend prices.
+law	Methamphetamine is Schedule II in the United States, meaning that it is illegal to buy, sell, or possess without a prescription. It is legally controlled in most countries, although it has medical uses, so it is also available by prescription in many places.
+chemistry	Powder methamphetamine is the hydrochloride salt form which is strongly hygroscopic (absorbs water from the air quickly). The HCl salt is smokable as is. Crystal meth "Crystal Meth" or "Ice" refer to methamphetamine grown into crystals. Though many people believe that Crystal Meth is the freebase form of methamphetamie HCl, this is not true. Methamphetamine is smokable in its normal HCL form, but taking the time to grow it into crystals makes it easier to smoke. Meth in visible crystals (rather than powder) is likely to be relatively pure as it is difficult to grow crystals from impure material. Methamphetamine freebase is an oil and is uncommon on the street.
+pharmacology	Pharmacology Summary Needed.
+production	The production of Methamphetamine is a fairly simple process which makes it easy to produce in makeshift home laboratories.
+history	While Amphetamine was first synthesized in 1887 in Germany, methamphetamine wasn't synthesized until 1919 in Japan.
+terminology	The Substance:Methamphetamine; Meth; Crystal Meth; Speed; Ice; Crank; Tweek or Tweak; Glass; Uppers; Yaba (Pill Form); Shabu Shabu (Pill Form). The Experience:Tweaking.
+effects :: Effects Summary Needed.
+effectsSections :: onset	Oral use takes about half an hour to produce effects. When smoked, effects are almost instantaneous, and nearly as quick when snorted.
+duration	4-8 hours when smoked.
+visuals	Visuals Summary Needed.
+problems :: Methamphetamine use generally increases the heart rate, blood pressure, body temperature, and rate of breathing of the user. Chronic use can lead to what is called 'Amphetamine Psychosis', resulting in paranoia, auditory and visual hallucinations, self-absorption, irritability, aggressive and erratic behavior, and picking at the skin. This can be magnified by lack of sleep which often accompanies heavy use of meth.  Methamphetamine is an anorexant, meaning it causes most people to lose interest in food. This is considered a benefit for many light users, but in regular or heavy users can lead to malnutrition. Methamphetamine is also believed to be neurotoxic.
+problemsSections :: contraindications	Do not take Methamphetamine if you are currently taking an MAOI. MAOIs are most commonly found in the prescription anti-depressants Nardil (phenelzine), Parnate (tranylcypromine), Marplan (isocarboxazid), Eldepryl (l-deprenyl), and Aurorex or Manerix (moclobemide). Ayahuasca also contains MAOIs (harmine and harmaline). MAOIs and Methamphetamin are a potentially dangerous combination. Check with your doctor if you are not sure whether your prescription medication is an MAOI. Individuals with heart disease (i.e. arteriosclerosis, hypertension) should be extremely careful as Methamphetamine use can cause increased demands on the heart. Intoxication can lead to hypertension that is refractory to treatment and even sudden cardiac arrest. Research shows that amphetamines used during pregnancy may decrease the birthweight of the baby as well as increasing the likelihood of cardiac abnormalities (heart problems) and possibly other birth defects. Methamphetamine is believed to be transferred through breast milk, so use while breast feeding is a bad idea.
+addiction	Methamphetamine causes significant tolerance, as well as psychological dependence. This combination can be particularly bad because the user is likely to have strong cravings for more meth, while at the same time being unable to reach a satisfactory high. Withdrawal from high doses can produce severe depression.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Effects]
+duration :: null
+positiveEffects :: increased energy and alertness	decreased need for sleep	increased sociability	mild to extreme mood lift, euphoria	increased sexuality
+neutralEffects :: excessive talking	decreased appetite, weight loss	sweating
+negativeEffects :: disturbed sleep patterns	tightened jaw muscles, grinding teeth (trismus and bruxia)	loss of appetite (anorexia), leading to poor nutrition and weight loss with heavy use	visual & auditory hallucinations, hearing voices (from sleep deprivation)	reduced enjoyment of eating	loss of interest in sex, over time	itching, welts on skin	nausea, vomiting, diarrhea	dry mouth, leading to serious tooth decay with chronic use	excessive excitation, hyperactivity	shortness of breath		moodiness & irritability	anxiousness & nervousness	aggressiveness	panic, suspiciousness, and paranoia	involuntary body movements (uncontrollable movement and/or twitches of fingers, facial & body muscles, lip-smaking, tongue protrusion, grimacing, etc.)	ego inflation, false sense of confidence and power, ego-inflation	aggressive and violent behavior	severe depression, suicidal tendencies	fatal kidney and lung disorders	possible brain damage	permanent psychological problems	lowered resistance to illnesses	liver damage	stroke	cardiovascular crises, chest pains, heart attacks	Damage to gums, teeth, and can lead to tooth loss
+description :: General Effects Notes	When methamphetamine is first used, the effects can often feel somewhat more like MDMA (Ecstasy) than a simple stimulant including a sense of euphoria, openness, and intellectual expansion. There can be a mild psychedelic component as the new user feels they see the world a little differently. The sensation of 'mind-expansion' and openness quickly fade after the first few uses and physical and mental stimulation dominate the experiential effects.	
+
+Routes of Administration	As with other psychoactives, different routes of administration have different profiles of	effects. Oral methamphetamine ingestion tends to lack rushing, has less euphoric effects, and	tends to cause far less of a feeling of wanting to do it again than the other methods. Smoking	and injecting methamphetamine are associated with stronger, more euphoric effects and these	are more associated with compulsive / addictive user patterns.	
+
+Addiction and Withdrawal	
+Users of large amount of amphetamines over a long period of time can develop an amphetamine psychosis, which is a mental disorder similar to paranoid schizophrenia. The psychosis is manifested by hallucinations, delusions, and paranoia. Bizarre, sometime violent, behavior is exhibited by those with amphetamine psychosis. Symptoms usually disappear within a few weeks after drug use stops.	
+Withdrawal Symptoms	
+Amphetamines have the potential to produce tolerance, which means that increased amounts of the drug are needed to achieve the desired effects. Withdrawal symptoms can occur when use of amphetamines is stopped abruptly. Users may experience fatigue; long, disturbed periods of sleep; irritability; intense hunger, and moderate to severe depression. The length and severity of the depression is related to how much and how often amphetamines were used.	
+	craving	exhaustion	depression	mental confusion	restlessness and insomnia	deep or disturbed sleep lasting up to 48 hours	extreme hunger	psychotic reaction	anxiety reactions		
+	Treatment (from FADAA)	
+Medical treatments include the use of antidepressant agents such as imipramine, desipramine, amitriptyline, dosepin, trazodone, or fluoxetine (Prozac). These affect serotonin, the neurotransmitter in the brain that deals with both depression and drug craving.	
+Sedatives such as Dalmane, chloral hydrate, Librium, phenobarbital, or even Valium are used, very carefully, on a short-term basis to treat anxiety or sleep disturbance problems. Antipsychotic medications such as Haldol, Thorazine, and others are also used to buffer the effects of unbalanced dopamine, the neurotransmitter that moderates paranoia and pleasurable sensation.	
+In addition to treating the physical and psychological aspects of craving, treatment providers should stress group counseling and peer pressure for compulsive amphetamine users, as these forms of therapy work well for this population.	
+
+Effects of use During Pregnancy	
+It is possible for babies of mothers who use amphetamines to be born with:	
+	cardiac defects	cleft palate	birth defects	addiction and withdrawal
+experienceReports :: null
+
+[Images]
+imageEntryList :: Methamphetamine Crystals	https://www.erowid.org/chemicals/show_image.php?i=meth/methamphetamine_crystals__i2016e0039_disp.jpg	About a gram of methamphetamine crystals and powder. [Midwest USA]	Photo by w4s. &copy; 2016 Erowid.org
+Methamphetamine Crystals	https://www.erowid.org/chemicals/show_image.php?i=meth/methamphetamine_crystal__i2010e0471_disp.jpg	Three large methamphetamine crystals sitting on a desk. [CA, USA]	Photo by Barbadison. &copy; 2011 Erowid.org
+Methamphetamine Crystals	https://www.erowid.org/chemicals/show_image.php?i=meth/methamphetamine_crystal__i2011e0868_disp.jpg	.01 bag of "glass" methamphetamine. [SW USA]	Photo by Mambo. &copy; 2011 Erowid.org
+Methamphetamine	https://www.erowid.org/chemicals/show_image.php?i=meth/methamphetamine3.jpg	Color photo of Methamphetamine crystals. Note the small drops of water forming due to the hygroscopic nature of the material.	Photo by Erowid. &copy; 2001 Erowid.org
+Methamphetamine Shards	https://www.erowid.org/chemicals/show_image.php?i=meth/methamphetamine_crystal__i2012e0161_disp.jpg	Methamphetamine hydrochloride crystals/shards after recrystallization from water. [Germany]	Photo by Nootropic. &copy; 2014 Erowid.org
+Methamphetamine	https://www.erowid.org/chemicals/show_image.php?i=meth/methamphetamine5.jpg	Color photo of Methamphetamine crystals. [Southeast USA]	Photo by Payin2Much. &copy; 2002 Erowid.org
+Methamphetamine	https://www.erowid.org/chemicals/show_image.php?i=meth/methamphetamine_crystal__i2014e0071_disp.jpg	Methamphetamine HCl, 99.9% pure. [Southwest USA]	Photo by Tramp. &copy; 2014 Erowid.org
+Methamphetamine	https://www.erowid.org/chemicals/show_image.php?i=meth/methamphetamine_crystals__i2003e0628_disp.jpg	High quality methamphetamine crystals. [Canada]	Photo by Jay. &copy; 2007 Erowid.org.
+Methamphetamine Injection Hardware	https://www.erowid.org/chemicals/show_image.php?i=meth/methamphetamine_hardware__i2009e0555_disp.jpg	A small vial of methamphetamine with injection hardware. [CA, USA]	Photo by Daxed. &copy; 2009 Erowid.org
+Methamphetamine Crystals	https://www.erowid.org/chemicals/show_image.php?i=meth/methamphetamine_crystals__i2012e0155_disp.jpg	Three shards of high-quality crystal methamphetamine "glass" on top on an iPhone. [California, USA]	Photo by JD. &copy; 2012 Erowid.org
+Methamphetamine	https://www.erowid.org/chemicals/show_image.php?i=meth/methamphetamine7.jpg	Color photo of Methamphetamine crystals. [Southeast USA]	Photo by Payin2Much. &copy; 2002 Erowid.org
+Methamphetamine	https://www.erowid.org/chemicals/show_image.php?i=meth/methamphetamine_crystals__i2005e1592_disp.jpg	About .5 grams of crystal Methamphetamine. [CA, USA]	Photo by Kisps. &copy; 2007 Erowid.org
+Methamphetamine	https://www.erowid.org/chemicals/show_image.php?i=meth/methamphetamine_crystal__i2013e0601_disp.jpg	Methamphetamine in shards, shake, and crushed crystal. [MN, USA]	Photo by OxydMethasota. &copy; 2014 Erowid.org
+Methamphetamine	https://www.erowid.org/chemicals/show_image.php?i=meth/methamphetamine4.jpg	Color photo of a small bag of "glass" grade Methamphetamine crystals.	Photo by Slut. &copy; 2001 Erowid.org
+Methamphetamine	https://www.erowid.org/chemicals/show_image.php?i=meth/methamphetamine2.jpg	Color photo of a small baggie of Methamphetamine crystals.	Image by Speed Freak. &copy; 2001 Erowid.org
+Methamphetamines	https://www.erowid.org/chemicals/show_image.php?i=meth/methamphetamine1.jpg	Color photo of 15 different pharmaceutical amphetamine and stimulant dose forms.	Public domain photo from Indiana University
+Pharmaceutical Methamphetamine Tablets	https://www.erowid.org/chemicals/show_image.php?i=meth/methamphetamine_tablets__i2015e0010_disp.jpg	Pharmaceutical Methamphetamine HCl Tablets [NY, USA]	Photo by Anonymous. &copy; 2015 Erowid.org
+Desoxyn	https://www.erowid.org/chemicals/show_image.php?i=meth/methamphetamine_desoxyn1.jpg	Color photo of a Desoxyn brand Methamphetamine Tablets sold by Abbott labs. (Buenos Aries, Argentina)	Photo by Juansi-Murmy. &copy; 2001 Erowid.org
+Desoxyn	https://www.erowid.org/chemicals/show_image.php?i=meth/methamphetamine_desoxyn2.jpg	Color photo of Desoxyn brand Meth tablets next to a quarter for size comparison. (U.S., 2002).	Photo by Anonymous Photographer. &copy; 2002 Erowid.org
+"Yaba" Methamphetamine Tablets	https://www.erowid.org/chemicals/show_image.php?i=meth/methamphetamine_tablet_yaba__i2008e0720_disp.jpg	"Yaba" tablets common on the black market in SE Asia, containing methamphetamine and caffeine and bearing the imprint "WY". [Myanmar]	Photo by Anonymous. &copy; 2009 Erowid.org
+Yaba	https://www.erowid.org/chemicals/show_image.php?i=meth/methamphetamine_tablet1.jpg	Color photo of a small bag of Methamphetamine Tablets sold on the street as "Yaba" in SE Asia. (Bangkok, Thailand)	Photo by Yaba-Smoker. &copy; 2002 Erowid.org
+WY Tablets Meth/Amphetamine	https://www.erowid.org/chemicals/show_image.php?i=meth/methamphetamine_tablet_wy__i2014e0344_disp.jpg	WY tablets likely containing methamphetamine or amphetamine being sold out of South East Asia. Called colorless "WY" tablets from Myanmar, the tablets are flavored and scented. These tablets were acquired in Yangon, Myanmar. [Myanmar]	Photo by X. &copy; 2014 Erowid.org
+Methamphetamine 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=meth/methamphetamine_2d.jpg	Still 2D image of the Methamphetamine molecule.	Image by Erowid. &copy; 2001 Erowid.org
+Methamphetamine 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=meth/methamphetamine_3d.jpg	Still 3D image of the Methamphetamine molecule.	Image by Erowid. &copy; 2000 Erowid.org
+Methamphetamine 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=meth/methamphetamine__.mol	Rotating 3D image of the Methamphetamine molecule.	Image by Erowid. &copy; 2000 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Methamphetamine
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule II
+CLASSIFICATION	Stimulant
+federalLawText :: Methamphetamine is Schedule II in the United States. This means it is illegal to sell without a DEA license and illegal to buy or possess without a license or prescription.
+stateLaw :: null
+internationalLaw :: Brazil	Methamphetamine requires a prescription in Brazil. We have been told that it can sometimes be purchased without a prescription. (thanks P)
+Canada	Methamphetamine is Schedule I in Canada starting in 2005. Prior to August 2005, Methamphetamine was Schedule III in Canada. See http://canada.justice.gc.ca/eng/rp-pr/other-autre/meth/p2.html. (Note: Canadian schedules are very different than U.S. schedules). See Canada Drug Laws & Policy. However, a unanimous Supreme Court decision in 2011 declared that there is a right under Section 7 of the Charter to have access to clean injection sites, if they are available. See http://www.bbc.co.uk/news/world-us-canada-15130282, and http://scc.lexum.org/en/2011/2011scc44/2011scc44.html. (last updated June 27, 2014)
+
+[Dose]
+doseTable :: Oral Methamphetamine Dosages
+Threshold	5 mg
+Light Stimulation	5-15 mg
+Common	10-30 mg
+Strong (some rushing)	20-60 mg
+Very Strong (or with tolerance)	40-150 mg
+Note: doses for street meth or frequent use may be higher (see above)
+doseText :: Methamphetamine is usually found in the underground markets as powder or crystals. Street meth, like many other street drugs, is often cut or is not meth at all. "Glass" or "Crystal" are terms used to describe street meth that appears as clear crystals instead of powder, reducing the chance that the meth is cut with filler or that it is crushed up amphetamine or methylphenidate (Ritalin) tablets. Street meth dosages vary by how pure the material is, by individual tolerance based on past usage, how frequently it is used, and by differences in individual reaction. Dosages given below are based on pure meth for an infrequent user.  Pharmaceutical methamphetamine, prescribed rarely for obesity and ADD/ADHD, is sold in the US in 5 mg tablets (10 mg tablets have been discontinued in the United States) that are intended to be taken orally (some are sustained release outside the US). Dosages of 10-25 mg per day are common for prescription pharmaceutical methamphetamine taken orally, usually spread out into two doses.  A common (although unhealthy) use pattern for methamphetamine is to redose repeatedly for several days in a row. Depending on whether the intention is to stay awake, remain euphoric, or attempt to continue getting 'rushing' effects, doses are repeated every 3-8 hours (to stay awake) or every .5 to 4 hours (to remain "high"). Redosing often involves taking the same dose as the initial dose. As redosing continues beyond 48 hours, the dosages tend to go up.  Tolerance to meth's effects -- where larger doses are required to achieve similar effects -- increases with frequency of use and with experience. A new user's 15 mg insufflated experience may be very euphoric and stimulating, while a 20 mg bump snorted by a regular user may be barely detectable. Chronic, tolerated users' dosages are generally 2-3 times that of those listed below. These heavy users may go through a gram or more per day.  The euphoric feeling associated with strong doses of meth fades quickly and after several doses in a row or using meth on multiple days in a row, much higher doses are necessary to achieve a similar level of feeling happy and upbeat.  MAO inhibitors and CYP450-2D6 inhibitors can increase the effects of methamphetamine and can dangerously inhibit the metabolism of all amphetamines. Some prescription pharmaceuticals are known for producing this effect and new users or users combining herbs, smart drugs, prescriptions, or psychoactive chemicals should be extremely careful of possible interactions.  Please note that there is substantial evidence that toxicity to the brain's dopamine system occurs with high (or repeated) methamphetamine use.
+notes :: None
+
+[Chemistry]
+chemTable :: NAME :	Methamphetamine
+CHEMICAL NAME :	(S)-N,a-Dimethylbenzene-ethanamine; d-N-methylamphetamine;
+ALTERNATE CHEMICAL NAMES : 	d-deoxyephedrine; d-disoxyephedrine;
+ALTERNATE CHEMICAL NAMES : 	 1-phenyl-2-methylaminopropane; d-phenylisopropylmethyl-amine
+CHEMICAL FORMULA	C10H15N
+MOLECULAR WEIGHT	149.24
+From the Merck Index 12th Edition
+moleculeURL :: https://www.erowid.org/chemicals/meth/images/archive/methamphetamine_3d_mid.jpg

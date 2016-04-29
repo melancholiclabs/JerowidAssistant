@@ -1,0 +1,32 @@
+[Substance]
+
+id :: 216
+name :: ECHINACEA
+url :: https://www.erowid.org/herbs/echinacea/echinacea.shtml
+category :: Herbs
+botanicalClassification :: Family :Compositae, Genus :Echinacea, Species :angustifoliacommonNames :: Coneflower; Purple Coneflower; Black Sampson
+uses :: Echinacea can be used to help rid the body of both bacterial and viral infections, especially infections of the upper respiratory tract such as laryngitis, tonsillitis, and sinus infections. General blood purifier.
+description :: Perennial herb that resembles a black-eyed Susan and grows 1-2 feet tall. Its sturdy stems are covered with tiny, bristly hairs and its pale to dark green leaves are pointed and 3-8 inches long. The large daisy-like flowers are pink or purple with petals arranged around a bristly central cone.
+imageURL :: https://www.erowid.org/herbs/echinacea/images/echinacea_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/echinacea/echinacea_images.shtml
+lawURL :: https://www.erowid.org/herbs/echinacea/echinacea_law.shtml
+
+[Images]
+imageEntryList :: Echinacea angustifolia	https://www.erowid.org/herbs/show_image.php?i=echinacea/echinacea_angustifolia1.jpg	Color photo of a single Echinacea angustifolia flower [Italy].	Photo by Alberto Tucci, &copy; 2002 Erowid.org
+Echinacea purpurea	https://www.erowid.org/herbs/show_image.php?i=echinacea/echinacea_purpurea4.jpg	Color photo of an Echinacea purpurea plant in full bloom in July. [CA, USA]	Photo by Erowid, &copy; 2002 Erowid.org
+Echinacea purpurea	https://www.erowid.org/herbs/show_image.php?i=echinacea/echinacea_purpurea1.jpg	Close-up color photo of a pink Echinacea purpurea flower in July. [CA, USA]	Photo by Erowid, &copy; 2002 Erowid.org
+Echinacea purpurea	https://www.erowid.org/herbs/show_image.php?i=echinacea/echinacea_purpurea2.jpg	Close-up color photo of the profile of a pink Echinacea purpurea flower in July. [CA, USA]	Photo by Erowid, &copy; 2002 Erowid.org
+Echinacea purpurea	https://www.erowid.org/herbs/show_image.php?i=echinacea/echinacea_purpurea3.jpg	Color photo of an Echinacea purpurea flower in the early stages of development in July. [CA, USA]	Photo by Erowid, &copy; 2002 Erowid.org
+Echinacea purpurea	https://www.erowid.org/herbs/show_image.php?i=echinacea/echinacea_purpurea_flower__i2009e1189_disp.jpg	Closeup view of Echinacea purpurea flower from the Missouri Botanical Gardens. [MO, USA]	Photo by Todd Kellgren. &copy; 2010 Erowid.org
+Echinacea purpurea	https://www.erowid.org/herbs/show_image.php?i=echinacea/echinacea_purpurea_flower__i2007e1498_disp.jpg	A single Echinacea purpurea flower in late August. [Canada]	Photo by Ashley MacIntosh. &copy; 2007 Erowid.org
+Echinacea spp.	https://www.erowid.org/herbs/show_image.php?i=echinacea/echinacea_spp1.jpg	Color photo of 2 Echinacea flowers.	Photo from The Drug and Natural Medicine Advisor.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Echinacea angustifolia
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Echinacea (Echinacea angustifolia) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: 

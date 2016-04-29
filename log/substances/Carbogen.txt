@@ -1,0 +1,32 @@
+[Substance]
+
+id :: 59
+name :: Carbogen
+url :: https://www.erowid.org/chemicals/carbogen/carbogen.shtml
+category :: Chemicals
+commonNames :: Meduna's Mixture
+effectsClassification :: Atypical Psychedelic; Anxiogenic
+chemicalName :: carbon dioxide & oxygen mixture
+description :: Carbogen is a gaseous mixture of carbon dioxide and oxygen which, when inhaled, causes an alteration in consciousness. Carbogen is used in psychiatric research as a "panicogen" (triggering panic reactions) and its effects are widely considered unpleasant although some people enjoy them.
+imageURL :: https://www.erowid.org/chemicals/carbogen/images/carbogen_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/carbogen/carbogen_basics.shtml
+
+[Basics]
+description :: Carbogen, also known as "Meduna's Mixture", is a simple blend of carbon dioxide and oxygen gases. Exact percentages can vary, but the method of action remains the same. The human body needs to breathe oxygen in order to sustain life. The normal atmosphere is made up of approximately 21% oxygen, 78% nitrogen and 1% argon. Additionally, as mammals breathe in and process oxygen, they also breathe out carbon dioxide (CO2), so there is carbon dioxide around mammals, especially indoors.  Interestingly, as a warning system, the human body monitors carbon dioxide levels in the lungs. If carbon dioxide levels increase, this traditionally means that oxygen levels have decreased. If carbon dioxide levels increase above a certain point, the body sends out a warning. If you hold your breath, you will quickly feel the need to breathe. This is the result of increasing carbon dioxide levels in the lungs triggering the warning system. Initially, this warning produces a sensation of not being able to breathe / needing to breath, as well as causing deeper breaths. A common treatment for hyperventilation (where breathing quickens and shallows), is to breathe into a paper bag. As the hyperventilating person exhales into the bag, the relative levels of carbon dioxide increase...as they breathe in the higher than normal levels of carbon dioxide, they begin to breathe more deeply.  The warning system (at the simplest level, a feeling of not being able to breathe) will be triggered regardless of whether or not oxygen levels have dropped below normal. While normal atmosphere is 21% oxygen, humans can get by with even less oxygen...however, if a mixture of even 50% oxygen and 50% carbon dioxide is breathed, the body responds as though it is not getting enough oxygen.   Carbogen, or "Meduna's Mixture" is a combination of carbon dioxide and oxygen which contains plenty of oxygen for a human to breathe, but which also has higher than normal levels of carbon dioxide. When taken intentionally to trigger an abreaction it can also cause feelings of panic and anxiety. [ Main Carbogen Vault ]
+descriptionSections :: dose	Normally, the air we breath is 21% oxygen. When the atmospheric oxygen drops below 17%, people get extremely disoriented. When it drops to between 6 and 10%, people can't breath. Meduna's mixture combines 70% oxygen with 30% CO2 and is inhaled repeatedly (5-15 breaths seems plenty for most people).
+price	Price Summary Needed.
+law	Neither carbon dioxide nor oxygen are controlled substances anywhere in the world. However, getting tanks of pure medical grade gases can be difficult.
+chemistry	Chemistry Summary Needed.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	Carbogen was used in combination with psychedelic therapy (primarily in the 1960's), as an introductory experience to test how a person would react to unusual and difficult sensations. After ten or fifteen lungfuls, users reported relatively profound or strong experiences such as 'reliving childhood trauma'. If an individual paniced or had a particularly bad response to carbogen, a therapist might choose not to go ahead with the psychedelic session.
+terminology	The Substance:Carbogen; Meduna's Mixture. The Experience:No common terms known.
+effects :: Effects Summary Needed.
+effectsSections :: onset	Onset Summary Needed.
+duration	Duration Summary Needed.
+visuals	Visuals Summary Needed.
+problems :: Problems Summary Needed.
+problemsSections :: contraindications	Do not stand up. Do not operate heavy machinery. Do Not Drive.
+addiction	Addiction Potential Summary Needed.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.

@@ -1,0 +1,32 @@
+[Substance]
+
+id :: 252
+name :: Amitriptyline
+url :: https://www.erowid.org/pharms/amitriptyline/amitriptyline.shtml
+category :: Pharms
+commonNames :: Elavil; Levate
+effectsClassification :: Antidepressant
+chemicalName :: 3-(10,11-dihydro-5H-dibenzo[a,d]cycloheptene-5-ylidene)- N,N-dimethyl-1-propanamine hydrochloride
+description :: Amitriptyline HCl is a tricyclic antidepressant used in the treatment of depression and occasionally sleep disorders.
+imageURL :: https://www.erowid.org/pharms/amitriptyline/images/amitriptyline_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/amitriptyline/amitriptyline_images.shtml
+lawURL :: https://www.erowid.org/pharms/amitriptyline/amitriptyline_law.shtml
+
+[Images]
+imageEntryList :: 100 mg Amitriptyline Tablets	https://www.erowid.org/pharms/show_image.php?i=amitriptyline/amitriptyline_tablet__i2008e0854_disp.jpg	Two generic 100 mg amitriptyline tablets bearing the imprint "M/38"	Photo by dcw. &copy; 2009 Erowid.org
+25 mg Amitriptyline Tablets	https://www.erowid.org/pharms/show_image.php?i=amitriptyline/amitriptyline1.jpg	Color photo of pile of 25 mg Amitriptyline tablets sold under the name Trypyanol. [Japan]	Photo by Mean Cinderella, &copy; 2001 Erowid.org
+25 mg Amitriptyline Tablets	https://www.erowid.org/pharms/show_image.php?i=amitriptyline/amitriptyline_tablet5.jpg	Nice photo of a small pile of 25 mg amitriptyline tablets imprinted with "2102 / v" next to coins for size. [USA]	Photo by Anonymous Photographer, &copy; 2005 Erowid.org
+10 mg Amitriptyline Tablets	https://www.erowid.org/pharms/show_image.php?i=amitriptyline/amitriptyline_tablet3.jpg	Color photo of the front and back of a 10 mg Amitriptyline tablet imprinted with "SL || 66". [Wisconsin]	Photo by Malformed, &copy; 2002 Erowid.org
+10 mg Amitriptyline Tablets	https://www.erowid.org/pharms/show_image.php?i=amitriptyline/amitriptyline_tablet4.jpg	Color photo of blue 10 mg Amitriptyline tablets [Canada]	Photo by FB Wen, St Thomas Ontario, &copy; 2003 Erowid.org
+Amitriptyline	https://www.erowid.org/pharms/show_image.php?i=amitriptyline/amitriptyline_tablet1.jpg	Color photo of an amitriptyline tablet.	Photo from the the Drug and Natural Medicine Advisor
+Amitriptyline warnings	https://www.erowid.org/pharms/show_image.php?i=amitriptyline/amitriptyline_bottle1.jpg	Photo of the warnings on the side of an Amitriptyline bottle. [Wisconsin]	Photo by Malformed, &copy; 2002 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Amitriptyline
+REGULATED	Yes
+STATUS	Prescription Only
+SCHEDULE	Un-Scheduled
+federalLawText :: Amitriptyline (Elavil) is unscheduled in the United States, but is available by prescription only. This means that sales and distribution are allowed only by those with a license and only to those with a prescription (according to FDA regulations). Possession is not illegal even without a prescription.
+stateLaw :: null
+internationalLaw :: 

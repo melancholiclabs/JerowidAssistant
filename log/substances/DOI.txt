@@ -1,0 +1,26 @@
+[Substance]
+
+id :: 70
+name :: DOI
+url :: https://www.erowid.org/chemicals/doi/doi.shtml
+category :: Chemicals
+commonNames :: None
+effectsClassification :: Psychedelic Phenethylamine
+chemicalName :: 2,5-dimethoxy-4-iodoamphetamine
+description :: DOI is a psychedelic chemical similar in nature to DOB. It requires only very small dosages to produce full effects. It is uncommon as a substance for human ingestion but common in research.
+imageURL :: https://www.erowid.org/chemicals/doi/images/doi_summary1.jpg
+lawURL :: https://www.erowid.org/chemicals/doi/doi_law.shtml
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+DOI
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Likely Analog
+federalLawText :: DOI is unscheduled in the United States. It is likely that it would be considered an analog (of DOB), in which case, sales for human consumption or possession with the intent to ingest could be prosecuted under the Federal Analogue Act though we are unaware of any such existing cases (6/21/04). DOI is regularly used in animal and in vitro research, Scheduling DOI would impose substantial costs to brain research.
+stateLaw :: Florida	Schedule I. See http://leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0800-0899/0893/0893.html. (last updated Jul 21, 2012)
+internationalLaw :: Australia	DOI is controlled in Australia. It has been found on blotter and may be sold as LSD. See Super-LSD sparks drug warning in Adelaide. (thanks g) (last updated Oct 2 2009)
+Denmark	Denmark added 2C-E, 2C-P, DOC, and DOI to the list of Schedule I controlled substances as of Paril 8, 2007. See ELDD. (Last Updates Apr 5 2007)
+Japan	DOI is controlled as a "Designated Substance" (Shitei-Yakubutsu) by the Pharmaceutical Affairs Law, making it illegal to possess or sell (see Ref)
+New Zealand	New Zealand has a catch-all Analogues section in Schedule 3 / Class C of their drug laws that would make 2C-I, 2C-E, DOI, DOB, DOM, ephedrine, pseudoephedrine (and many others) Schedule 3 compounds in New Zealand. See for more information about this.
+Sweden	Sweden is planning to control a number of chemicals as of May 1, 2007 including LSA, 2C-T-4, DXM, and DOI. (thanks P) (March 2007)

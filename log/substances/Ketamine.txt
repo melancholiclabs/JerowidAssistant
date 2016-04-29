@@ -1,0 +1,162 @@
+[Substance]
+
+id :: 88
+name :: Ketamine
+url :: https://www.erowid.org/chemicals/ketamine/ketamine.shtml
+category :: Chemicals
+commonNames :: K; Special K; Cat Tranquilizer
+effectsClassification :: Dissociative Anaesthetic; Psychedelic
+chemicalName :: 2-(2-chlorophenyl)-2-(methylamino)-cyclohexanone
+description :: Ketamine is a dissociative psychedelic used medically as a veterinary and human anaesthetic. It is one of the few addictive psychedelics and is associated with researcher John Lilly.
+imageURL :: https://www.erowid.org/chemicals/ketamine/images/ketamine_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/ketamine/ketamine_basics.shtml
+effectsURL :: https://www.erowid.org/chemicals/ketamine/ketamine_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/ketamine/ketamine_images.shtml
+healthURL :: https://www.erowid.org/chemicals/ketamine/ketamine_health.shtml
+lawURL :: https://www.erowid.org/chemicals/ketamine/ketamine_law.shtml
+doseURL :: https://www.erowid.org/chemicals/ketamine/ketamine_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/ketamine/ketamine_chemistry.shtml
+
+[Basics]
+description :: Ketamine is a dissociative anaesthetic, developed in the mid 1960's, used primarily for veterinary anaesthesiology. Although Ketamine is not used medically on humans much because it induces psychedelic episodes in patients, it is still used for some limited human applications because it does not depress breathing or circulation.   Ketamine is used recreationally primarily as a snorted white powder and for therapeutic and psychedelic use it is often injected intra-muscularly (IM). Its effects range (at lower doses) from mild inebriation, dreamy thinking, stumbling, clumsy, or 'robotic' movement, delayed or reduced sensations, vertigo, sometimes erotic feelings, increased sociability, and an interesting sense of seeing the world differently to (at higher doses) extreme difficulty moving, nausea, complete dissociation, entering complete other realities, classic Near Death Experiences (NDEs), compelling visions, black outs, etc. Ketamine is also known for being more psychologically addictive / compelling than most psychedelics and it is not uncommon to hear of users who take it once or more daily. [ Main Ketamine Vault ]
+descriptionSections :: dose	Depending on the concentration, form, and method of administration, recreational doses of ketamine range from 30 - 300 mg. The dosage range for insufflated (snorted) ketamine varies widely from about 15-200 mg. With doses higher than about 50 mg it is advisable to be lying down. I.M. (intra-muscular injections) ketamine dosages are generally between 25-125 mg. Oral use usually requires more material, ranging from 75-300 mg.
+price	sold for $50-150 USD per gram at parties & events, sold for $20-50 USD per gram for larger purchases, wholesale, or among friends.
+law	Ketamine is illegal to possess in the United States without a prescription or license. It was made a schedule III substance in August, 1999. Prior to that time sales were regulated by the FDA but possession was legal. Ketamine is controlled in many countries.<
+chemistry	Ketamine hydrochloride is a synthetic chemical in the 'dissociative anaesthetic' class.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	Ketamine was first synthesized in 1962 by Calvin Stevens at Parke Davis Labs while searching for PCP anaesthetic replacements. He named it "CI581". In 1965 Ketamine was discovered to be a useful anaesthetic and was first used recreationally by Edward Domino who coined the term "dissociative anaesthetic". Ketamine was used for anaesthesia because it suppresses breathing much less than most other available anaesthetics, but in the 1970's patients began to report unwanted visions while under its influence. In 1978, John Lilly published his book "The Scientist" and Ketamine popularity grew through the 1980s until in 1995 the DEA added Ketamine to its "emerging drugs list". In 1998 & 1999, Ketamine was lumped by media and legislators with GHB as a 'date rape drug' and a 'club drug' and was emergency scheduled by the DEA on August 12, 1999.
+terminology	Brand Names:Ketaset; Ketalar. The Substance:Ketamine; K; Special K; Vitamin K; Lady K. The Experience:Tripping; K-ing; The K-hole
+effects :: The full ketamine experience is somewhat different than many of the psychedelics because of its nature as a dissociative. At high enough doses, users find themselves completely removed from their surroundings and disconnected from their body and sensations. Descriptions of the experience vary, but many describe alternate planes of existence, fully enveloping meetings and conversations with non-existant people or beings, and life-revelations.
+effectsSections :: onset	I.M. (intra-muscular injection) Ketamine generally takes 1-5 minutes to take effect. Snorted ketamine takes a little longer at 5-15 minutes. Depending on how much and how recently one has eaten food, oral ketamine can take between 5 and 30 minutes to take effect.
+duration	The primary effects of ketamine last approximately an 30-45 minutes if injected, 45-60 minutes when snorted, and 1-2 hours if used orally.
+visuals	Visuals Summary Needed.
+problems :: Negative physical effects can include dry mouth, respiratory problems and nervousness/racing heart. Many people also experience nausea and/or vomiting on ketamine, which can obviously be a problem when taking an anaesthetics or sedatives. Supervision of higher dose ketamine experiences by a sober sitter can help ensure that an unconscious participant doesn't have problems with vomiting and/or breathing.  Two psychological difficulties which seem to come up for those who use ketamine regularly are paranoia and egocentrism. There are many reports of regular users starting to see patterns and coincidences (synchronicities) in the world around them which seem to indicate that they are somehow more important or integral to the world than others. This same sense of the world focusing on the user can also feed into a sense of paranoia.  Irritation to the bladder and urinary tract from heavy use of ketamine may occur. There is increasing evidence that frequent ketamine use (even under medical supervision using pharmaceutical ketamine) can cause short or long term pain, difficulty urinating, and other related problems.
+problemsSections :: contraindications	Do not operate heavy machinery. Do not drive. Do not swim. Avoid bodies of water - At least two deaths has been recorded where an individual took a bath after using ketamine, and drowned.
+addiction	Ketamine has the potential to be psychologically addicting. Some individuals who use it regularly find it difficult to stop or control their own use.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Effects]
+duration :: Ketamine Duration
+Insufflated / Nasal
+Total Duration	45 - 60 mins
+Onset	5 - 15 mins
+Coming Up	10 - 30 mins
+Plateau	20 - 40 mins
+Coming Down	30 - 60 mins
+&nbsp;	&nbsp;
+After Effects	1 - 3 hrs
+Hangover / Day After	Possible
+positiveEffects :: Pleasant mental and/or body high	Increase in energy	Euphoria	Sense of calm and serenity	Meaningful spiritual experiences	Enhanced sense of connection with the world (beings or objects)
+neutralEffects :: Distortion or loss of sensory perceptions (common)	Closed- and open-eye visuals (common)	Dissociation of mind from body	Analgesia, numbness	Ataxia (loss of motor coordination)	Significant change in perception of time	Increase in heart rate	Slurred speech	Confusion, disorientation	Out-of-body experience	Shifts in perception of reality	"K-hole"; intense mind-body dissociation, out-of-body experiences, highly realistic visuals
+negativeEffects :: Risk of psychological dependency	Nasal discomfort upon insufflation	Discomfort, pain or numbness at injection site (with IM)	Severe confusion, disorganised thinking	Paranoia and egocentrism (with regular use)	Nausea, vomiting	Frightening or untimely distortion or loss of sensory perception	Susceptibility to accidents (from uncoordination and change in perception of body and time)	Severe dissociation, depersonalisation	Loss of consciousness (dangerous or fatal in wrong circumstances)	Depression of heart rate and respiration (risk increases with increased dose or when combined with depressants)	See Ketamine and Health for more information
+description :: The effects of sub-anaesthetic doses of ketamine are generally reported to be pleasant, though if they are unexpectedly intense, they can be distressing. A well-known effect of ketamine at higher-range doses is the "K-hole", where the user is removed from reality and set adrift in an introspective dream-like world, often involving complete dissociation, immersive visuals and out-of-body experiences. At higher doses, the user can be incapacitated and unresponsive, or uncoordinated and erratic, appearing unwell to the uninitiated eye. Nausea and vomiting may also be present.		While ketamine is not known to be physically addictive, prolonged use could be tolerance-building as well as leading to psychological dependency.
+experienceReports :: [insufflated, repeated] "[...] it was like I was pushed back a bit out of reality, making everything feel distant and even slightly unreal, typical dissociation. Everything seemed to be in a different angle, including myself. Also a certain unique visual distortion was noted, some grain and especially in the dark things seem to pull / slide in certain directions while never actually truly leaving their place. I often also physically feel this pulling and sliding too, especially if dosage increases, eventually if the dosage is high enough I will slide out of reality entirely, but this time the dose wasn't high enough for that so I would just feel like I floated around a bit, feeling unattached from my body the world and even certain parts of the mind." -- Exp 89492
+
+[Images]
+imageEntryList :: Ketamine Vial	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketamine1.jpg	Color photo of a small vial of Ketamine.	Photo by Mantid, &copy; 1999 Erowid.
+Ketamine Vial	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketamine2.jpg	Color photo of a small vial of Ketamine.	Photo by Mantid, &copy; 1999 Erowid.
+Ketamine HCl in a Syringe	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketamine_syringe__i2010e0722_disp.jpg	50 mg of Ketamine HCl prepared in a syringe for IM or IV use. A 10 milliliter bottle is shown in the background. [USA]	Photo by Herr Mannelig. &copy; 2010 Erowid.org
+Ketamine Bottle	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketamine_bottle__i2008e1468_disp.jpg	A single 10 ml bottle of Ketamine HCl from India, made by Vulcan Labs. [India]	Photo by Anonymous. &copy; 2009 Erowid.org
+Ketamine	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketamine_bottle__i2013e0174_disp.jpg	An empty 10 ml vial (500 mg/10 ml) of Ketalar brand ketamine next to the dried ketamine it contained. [PA, USA]	Photo by Shane. &copy; 2013 Erowid.org
+Ketaphorte Bottle	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketamine_bottle3.jpg	Color photo of a single bottle of veterinary ketamine "Ketaphorte 1000".	Photo by Erowid. &copy; 2000 Erowid.org
+Ketaphorte Bottles	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketamine_bottle1.jpg	Color photo of two bottles of veterinary ketamine..."Ketaphorte 1000" and "Imalgen 1000".	Photo by Erowid. &copy; 2000 Erowid.org
+Ketaphorte Bottles	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketamine_bottle2.jpg	Color photo showing 2 bottles of veterinary ketamine with their packaging.	Photo by Erowid. &copy; 2000 Erowid.org
+Ketamine Bottle	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketamine_bottle5.jpg	Color photo showing a bottle of ketamine.	Photo by Joe. &copy; 2003 Erowid.org
+Ketamine Bottle	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketamine_bottle__i2005e1462_disp.jpg	10 ml bottle of Ketolar brand ketamine (50 mg/ml) [Spain]	Photo by Candyman. &copy; 2007 Erowid.org.
+Calypsol Bottles	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketamine_bottle6.jpg	Color photo showing Calypsol Bottles of Ketamine, Sealed & Unsealed.	Photo by Joe. &copy; 2003 Erowid.org
+Ketaset Bottles	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketaset1.jpg	Color photo of 2 bottles of Ketaset.	Photo by Anonymous Photographer, &copy; 1999 Erowid.
+Ketaset Bottles	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketaset2.jpg	Color photo of two bottles of Ketaset.	Photo by Anonymous Photographer. &copy; 2000 Erowid.org
+Ketalin Bottle	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketalin1.jpg	Color photo of a bottle of Ketalin.	Photo by Anonymous Photographer, &copy; 1999 Erowid.
+Ketaject Bottle	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketaject1.jpg	Color photo of a bottle of Ketaject, American "Red Label".	Photo by Osyrus, &copy; 1999 Erowid.
+Ketamine Bottles	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketamine6.jpg	Color photo of two 50 g bottles of Ketamine hydrochloride.	Photo by Anonymous Photographer. &copy; 2000 Erowid.org
+Anesket Bottle	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketamine_bottle4.jpg	Color photo of a bottle of Anesket brand Ketamine with packaging. (Guadalajara, Mexico, 2001).	Photo by Anonymous Photographer. &copy; 2001 Erowid.org
+Ketamine, Oxycodone, and Fentanyl	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketamine_vial_fentanyl__i2010e0201_disp.jpg	Color photo of a bottle of Ketanest, two Actiq sticks, and two Oxycodone tablets.	Photo by Shadowvision.org. &copy; 2010 Erowid.org
+Ketamine	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketamine10.jpg	Closeup photo of a small pile of freshly baked Ketamine Hydrochloride on a mirror surface. You can see how the crysals are formed before it is broken down into the characteristic powder. [Canada]	Photo by Efektiv. &copy; 2002 Erowid.org
+Ketamine	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketamine3.jpg	Color photo of a 10 gram baggie of Ketamine hydrocholoride.	Photo by Zane., &copy; 1999 Erowid.
+Ketamine	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketamine7.jpg	Color photo of a small baggie of Ketamine hydrocholoride powder next to a dime for size comparison.	Photo by CosmicCandyMan. &copy; 2001 Erowid.org
+Ketamine	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketamine4.jpg	Color photo of a collection of 1 g, .3 g, and .1 g baggies of ketamine hydrochoride.	Photo by Anonymous Photographer, &copy; 1999 Erowid.
+Ketamine	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketamine5.jpg	Color photo of two 400 mg gelcaps of Ketamine.	Photo by Anonymous Photographer. &copy; 2000 Erowid.org
+Ketaphorte	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketamine8.jpg	Color photo of a bottle of Ketamine HCl powder from Zurich, Switzerland.	Photo by el dopa. &copy; 2002 Erowid.org
+Ketamine	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketamine9.jpg	Color photo of a small pile of Ketamine powder next to a small baggie of powder (Ontario, Canada).	Photo by LoGikAL. &copy; 2002 Erowid.org
+Ketamine Powder	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketamine_powder__i2008e0648_disp.jpg	Small pile of freshly baked/dried Ketamine Hydrochloride. [SD, CA, USA.]	Photo by anonymous. &copy; 2009 Erowid.org
+Anesket (Mexican)	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketamine_package1.jpg	Color photo of a box of Mexican Ketamine called Anesket.	Photo by Jesse-Michael H.. &copy; 2001 Erowid.org
+Kettamina (Mexican)	https://www.erowid.org/chemicals/show_image.php?i=ketamine/ketamine_package2.jpg	Color photo of a box of Mexican Ketamine called Kettamina.	Photo by Jesse-Michael H.. &copy; 2001 Erowid.org
+Ketamine 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=ketamine/ketamine_2d.jpg	Still 2D image of the Ketamine molecule.	Image &copy; 1999 Erowid.
+Ketamine 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=ketamine/ketamine_3d.jpg	Still 3D image of the Ketamine molecule.	Image &copy; 1999 Erowid.
+Ketamine 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=ketamine/ketamine__.mol	Rotating 3D image of the Ketamine molecule.	Image &copy; 1999 Erowid.
+
+[Health]
+notes :: null
+deaths :: null
+warnings :: null
+cautions :: null
+benefits :: null
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Ketamine
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule III
+CLASSIFICATION	Depressant
+SCH. DATE	Aug 12, 1999
+federalLawText :: Ketamine was unscheduled up until August 1999. In early July 1999 the DEA added Ketamine to schedule III with an emergency ruling...which took effect August 12, 1999. Ketamine is now federally illegal to possess in the United States without a license or prescription.
+stateLaw :: 
+internationalLaw :: In January 2016, the World Health Organization Expert Committee on Drug Dependence recommended that ketamine not be placed under international control. [read more]Australia	Schedule IV (Search for Ketamine) and Sydney Star Observer article, Aug 2004
+Austria	Ketamine is not a controlled substance (not listed in the SMG (Suchmittelgesetz)), but requires a prescripition to obtain legally. (thanks pw) (last updated Sep 28, 2013)
+Belgium	Ketamine is legal only for medical or veterinary use with a prescription, and possession can result in arrest.
+Brazil	Ketamine is controlled under veterinary law, and is not legal for human use. This law is not strongly enforced, but use is uncommon (unconfirmed) (thanks P)
+Cambodia	Ketamine is controlled and not legal to possess without a prescription. One visitor reports that some pharmacies will sell ketamine, but most will say it is forbidden to do so. Approximate price $20-40 USD per 0.5g ketamine in pharmaceutical saline vial. (thanks G) (last updated Mar 7 2014)
+Canada	Ketamine is Schedule 1 in Canada, pursuant to a Feb 2004 notice that it "is an analogue of phencyclidine (PCP), and is, therefore, captured as item 14 in Schedule I of the CDSA and item 14 in the Narcotic Control Regulations (NCR)..." Affected researchers were expected to have complied with Schedule 1 protocol for the handling of ketamine by August 31, 2005. See Amendment to Food and Drugs Act, SOR/2005-270 August 31, 2005 and Notice: Status of ketamine under the CDSA [PDF].
+Cambodia	Reportedly sold over-the-counter, but rarely available. (unconfirmed) (thanks RHCN)
+China	Ketamine is a class II psychiatric drug; trade is limited to licensed wholesalers and retail sales are prohibited. In Jul 2004, the state of Sichuan placed ketamine in class I; other provinces are expected to follow suit. [Chinafdc-law.com] See also China firms embroiled in ketamine scandal.
+Croatia	Ketamine is controlled in Croatia. (unconfirmed) (thanks t) (last updated Nov 9, 2015)
+Czech Republi	Sales and distribution are controlled under the Medicines Act, making it illegal to sell or distribute without a license. (unconfirmed) (thanks D)
+Denmark	As of Feb 8, 2008, ketamine is illegal except for scientific and medicinal uses - see ELDD notice (English), KRIMI article (Danish). (thanks M, MX, S)
+France	Ketamine is listed as a narcotic in Annexe IV of the Liste des substances class�es comme stup�fiants. Injectable preparations of ketamine are classified as M&eacute;dicine - List I, and are subject to strict controls. (thanks M)
+Germany	Ketamine is available by prescription only in Germany. (unconfirmed) (thanks OM)
+India	According to this article, "The Narcotics Control Bureau officials ... have their hands tied as ketamine is not listed under the Narcotic Drugs and Psychotropic Substances Act, 1985." We have been told that ketamine is available over-the-counter in many pharmacies. (unconfirmed) (thanks DH)
+Iran	Ketamine is not officially controlled in Iran, but became unavailable in 2011/2012 and can no longer be purchased through veterinarians. (unconfirmed) (thanks A) (last Updated Jul 21 2013)
+Italy (Italia)	Listed in Tabella I of "Tabelle delle sostanze stupefacenti e psicotrope", making it illegal to possess, purchase, or sell. (see Tabelle delle sostanze stupefacenti e psicotrope. (thanks a) (last updated Dec 16, 2015)
+Laos	Reportedly sold over-the-counter, but rarely available. (unconfirmed) (thanks RHCN)
+Malaysia	Ketamine is illegal under Section 39b of the Dangerous Drugs Act. (see Trafficking charge for those with ketamine and Eramin 5) (thanks E)
+Mexico	Ketamine is a Category 3 drug under Mexico's General Health Law; Cat. 3 drugs "have a therapeutic value but constitute a problem for the public health". [Ley General de Salud, Title 12, Chapter 6] Medicines Administration Regulations restricts the aquisition of Ketamine to licensed veterinarians only, and sets strict rules regarding the management and follow-up of the products. [Reglamento de Insumos para la Salud]
+Netherlands	Ketamine is treated as a medication and is not in List 1 or 2 in the Netherlands. (List 1 & 2, unofficial, Official Dutch Law)
+New Zealand	On Feb 26, 2008 the New Zealand government announced ketamine will soon be re-classified a Class C substance, the same category as cannabis and codeine. (see InfoNews article).
+Nicaragua	We have been told that ketamine could be purchased over-the-counter from a vet in 2006. (unconfirmed) (thanks M)
+Norway	Visitors have reported to us that ketamine is sold in Norway under the brand name Ketalar and became a class A drug in Norway in 1999. (unconfirmed) (thanks O) (last updated May 11 2010)
+Phillipines	Ketamine is unscheduled and legal to buy in the Phillipines as of 4/5/05. Proposed legislation may soon change this.
+Serbia	We have been told that ketamine is sold in Serbia as Ketamidor 100% solution. It is reportedly difficult to find but legal to possess. Bottles can sometimes be obtained from veterinarians. (unconfirmed) (thanks B)
+Singapore	As of early 2006, 5-MeO-DIPT is controlled as a Class A controlled drug along with Ketamine in Singapore. From the article describing the change: "Traffickers can be jailed from five to 20 years, instead of three to 20 years. They also face five to 15 strokes of the cane, instead of three to 10 strokes. Those caught in possession of more than 113g of ketamine - or 100 times the daily dosage of a ketamine abuser - will be deemed to have trafficked in it." - todayonline.com. (thanks E)
+Slovakia	Ketamine was added to Grade 2 (Schedule II to the 1971 United Nations Convention on Psychotropic Substances) in October 2009. (TASR)
+South Korea	As of January 2005, Ketamine is controlled in S. Korea. (media) (thanks M)
+Sweden	As of July 1 Ketamine is a schedule IV (4) drug in Sweden. This scheduling happened because MPA got many reports of abuse during the spring of 2005 and MPA thus considered ketamine misuse to be an escalating problem.
+http://www.mpa.se/observanda/obs05/050705_ketamin. [News bulletin page]	List of Scheduled prescription drugs in Sweden. (thanks DB)
+U.K. (United Kingdom, UK, Great Britain)	As of June 10, 2014 the UK made ketamine a Class B drug. See http://www.legislation.gov.uk/uksi/2014/1106/pdfs/uksi_20141106_en.pdf. Previously, ketamine became a Class C drug as of Jan 1, 2006. See http://news.bbc.co.uk/1/hi/uk/4564606.stm and OPSI.gov.uk. The move had been expected since a spring 2004 ACMD report that recommended moving ketamine into Class C.
+
+[Dose]
+doseTable :: Insufflated / Nasal Ketamine Dosages
+&nbsp;by body weightapprox total
+Threshold.1 mg / lb10 - 15 mg
+Light.15 mg / lb15 - 30 mg
+Common.3 mg / lb30 - 75 mg
+Strong.5 - .75 mg / lb60 - 125 mg
+The K Hole1 mg / lb100 - 250 mg
+Onset : 5 - 15 minutes
+Duration : 45 - 60 minutes
+Normal After Effects : 1 - 3 hours
+doseText :: Ketamine Hydrochloride is most commonly used as a veterinary anaesthetic. It is generally injected intramuscularly, but can also be taken orally, rectally, or snorted. Much of the ketamine used recreationally is diverted from legitimate pharmaceutical sources in liquid form. Powdered ketamine is usually the result of drying liquid ketamine.  Food should not be consumed within an hour and one-half before ketamine use, and should be avoided for longer periods of time if possible as nausea and vomiting are not uncommon. As always, it should be noted that dosages and reactions vary greatly depending on the individual. Following are charts showing approximate ketamine dosages in mg (by administration type).   Nasal / Insufflated Oral Rectal Intra-Muscular         Insufflated / Nasal Ketamine Dosages &nbsp;by body weightapprox total Threshold.1 mg / lb10 - 15 mg Light.15 mg / lb15 - 30 mg Common.3 mg / lb30 - 75 mg Strong.5 - .75 mg / lb60 - 125 mg The K Hole1 mg / lb100 - 250 mg    Onset : 5 - 15 minutes Duration : 45 - 60 minutes Normal After Effects : 1 - 3 hours    Powder for nasal use are produced by gentle boiling off of solution. Nasal doses are highly unlinear next to oral and IM doses. The effects are quite different at low doses. A low dose nasally will be short and much different from a comparable oral dose.  One method described with nasal use is to insufflate (snort) 25 mg in each nostril, wait 5 minutes and repeat until desired dosage is reached.  Ketamine is often used in 'bumps' or small amounts of the powder insufflated from either a specialized micro-spoon, a specialized 'bullet', or eyeballed small piles. Bumps from bullets are commonly 30-50 mg, although their size varies by size of spoon, make of bullet, and individual. Users should be extremely careful when using a new method of sizing bumps.  Ketamine dissolved in saline solution (usually at 10% concentration) is also used intranasally. Although it is occasionally prescribed medically in the United States as an adjunct to other pain management strategies, there is no FDA-approved ketamine nasal spray product and it must be produced by a compounding pharmacy for prescription use.         Oral Ketamine Dosages &nbsp;by body weightapprox total Threshold.3 mg / lb40 - 50 mg Light.6 mg / lb50 - 100 mg Common.75 - 2 mg / lb75 - 300 mg Strong1.5 - 2.5 mg / lb200 - 450 mg The K Hole3 - 4 mg / lb500 + mg    Onset : 5 - 20 minutes (depending on stomach contents) Duration : 90 minutes Normal After Effects : 4 - 8 hours   Oral doses are prepared from a powder by placing the powder in a cup and pouring about 1 cm of hot water (tap should be ok) in it and stiring to solution. The remainder of the cup is filled with an acid such as orange juice. Ketamine itself tastes quite bad.        Rectal Ketamine Dosages &nbsp;by body weightapprox total Threshold.3 mg / lb40 - 50 mg Light.6 mg / lb50 - 100 mg Common.75 - 2 mg / lb75 - 300 mg Strong1.5 - 2.5 mg / lb200 - 450 mg The K Hole3 - 4 mg / lb500 + mg    Onset : 5 - 20 minutes Peak : 30 - 60 minutes Duration : 1 - 2 hours Normal After Effects : 1 - 4 hours   Some who choose the rectal administration route use a syringe with the needle removed. The desired dosage can be put in the syringe, inserted (using lubricant) and injected. Rectal use is similar to oral in that it has a lower peak, but longer duration.        I.M. Ketamine Dosages &nbsp;by body weightapprox total Threshold.1 mg / lb10 - 15 mg Light.15 mg / lb15 - 30 mg Common.2 mg / lb25 - 50 mg Strong.5 mg / lb40 - 100 mg The K Hole.75 mg / lb60 - 125 mg Anaesthetic1 mg / lb100 - 200 mg    Onset : 1 - 5 minutes (depending on dose and injection location) Duration : 30 - 60 minutes Normal After Effects : 2 - 4 hours   It is common to have muscle pain when injecting larger doses of liquid Ketamine into muscle tissue. The pain can continue for several days if it is not administered properly. The muscle soreness can be somewhat controlled by using a very fine (around 22 gauge) needle and by injecting very slowly. It should take 15-30 or more seconds to inject a dose into a muscle. If you feel it begin to sting, slow down the injection rate. IM and IV administration generally produce a higher peak, and a shorter overall duration than other methods.       I.V. Ketamine Dosages Anaesthetic1 - 4.5 mg/kg body    Onset : 1 - 4 minutes (depending on dose and injection location) Duration : 30 - 60 minutes Normal After Effects : 2 - 4 hours   Although some recreational users do inject ketamine I.V., it is uncommon to inject ketamine intravenously. It is commonly used medically for surgical anaesthesia via IV. The book 'Introduction to Pharmacology' by 'Mary Kaye Asperheim and Justin Favaro' 12th edition chapter 12. Page 107.
+notes :: null
+
+[Chemistry]
+chemTable :: NAME :	Ketamine
+CHEMICAL NAME :	(&#177;)-2-(2-Chlorophenyl)-2-(methylamino)cyclohexanone
+CHEMICAL FORMULA	C13H16ClNO
+MOLECULAR WEIGHT	237.73
+MELTING POINT	262-263&#176; C (Hydrochloride)
+LD50	224&#177;4 mg/kg (adult mice)
+LD50	229&#177;5 mg/kg (rats)
+From the Merck Index 12th Edition
+moleculeURL :: https://www.erowid.org/chemicals/ketamine/images/archive/ketamine_3d_mid.jpg

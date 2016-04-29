@@ -1,0 +1,28 @@
+[Substance]
+
+id :: 201
+name :: Aloes
+url :: https://www.erowid.org/herbs/aloes/aloes.shtml
+category :: Herbs
+botanicalClassification :: Family :Asphodelaceae (Former: Liliaceae), Genus :Aloe, Species :vera (=barbadensis; =vulgaris); feroxcommonNames :: Aloe vera; Barbados Aloe
+uses :: Juice from leaves is used to treat minor burns, abrasions, and skin irritations.
+description :: Aloes are succulent perennials with a basal rosette of narrow, fleshy leaves with prickly-edges. Leaves contain a bitter juice. Aloe produces a single leafless flower stalk 2-3 feet tall, terminating in hanging cluster of yellow to orange-red flowers. Fruit in capsules.
+imageURL :: https://www.erowid.org/herbs/aloes/images/aloe_vera_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/aloes/aloes_images.shtml
+lawURL :: https://www.erowid.org/herbs/aloes/aloes_law.shtml
+
+[Images]
+imageEntryList :: Aloe vera	https://www.erowid.org/herbs/show_image.php?i=aloes/aloe_vera_plant__i2004e0655_disp.jpg	Small potted plant with suckers. [U.S.]	Photo by Ed Mechanic. &copy; 2005 Erowid.org
+Aloe vera	https://www.erowid.org/herbs/show_image.php?i=aloes/aloe_vera1.jpg	Color photo of a row of Aloe plants.	Photographer Unknown.
+Aloe ferox	https://www.erowid.org/herbs/show_image.php?i=aloes/aloe_ferox_blooming__i2005e0304_disp.jpg	Several blooming Aloe ferox growing in their natural environment. [[Eastern Cape, S. Africa]]	Photo by The Larry. &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Aloe spp.
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Aloe vera and other aloes are uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.	
+Aloe barbadensis is approved for food use as a flavoring agent in the U.S. and appears in the FDA's list of substances Generally Recognized As Safe (GRAS).
+stateLaw :: null
+internationalLaw :: 

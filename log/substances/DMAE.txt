@@ -1,0 +1,47 @@
+[Substance]
+
+id :: 327
+name :: DMAE
+url :: https://www.erowid.org/smarts/dmae/dmae.shtml
+category :: Smarts
+commonNames :: None
+effectsClassification :: Anti-oxidant; Memory; Learning
+chemicalName :: di-methyl-amino-ethanol
+description :: DMAE is a precursor of choline and an anti-oxidant that is found naturally in the brain. It is said to improve memory and learning as well as increasing ability to concentrate.
+imageURL :: https://www.erowid.org/smarts/images/smarts_spacer_summary.jpg
+basicsURL :: https://www.erowid.org/smarts/dmae/dmae_basics.shtml
+imagesURL :: https://www.erowid.org/smarts/dmae/dmae_images.shtml
+chemistryURL :: https://www.erowid.org/smarts/dmae/dmae_chemistry.shtml
+
+[Basics]
+description :: DMAE is an anti-oxidant and free radical deactivator which is found naturally in the human brain. It is thought to be the precursor for acetylcholine which conducts nerve impulses within the brain (a neurotransmitter). The theory is that by increasing the production of acetylcholine, DMAE can help improve memory and learning as well as perhaps reducing memory loss in older adults. Some individuals also report that DMAE causes a noticeable boost in their ability to concentrate.  One study of DMAE found that it increased the maximum lifespan of mice by up to 36.6%, and this has been widely reported and advertized by DMAE marketers. But later studies failed to confirm these results and may have found the opposite to be true. [ Main DMAE Vault ]
+descriptionSections :: dose	DMAE is sold in many health food stores. Recommended dosages start at 100 mg / day and extend up to 600 mg / day as needed. Overdosage can lead to insomnia, headaches, and muscle tension, but these effects should disappear when intake is lowered or stopped.
+price	Price Summary Needed.
+law	Law Summary Needed.
+chemistry	Chemistry Summary Needed.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	History Summary Needed.
+terminology	Brand Names:Deaner; Deanol. The Substance:DMAE. The Experience:No common terms known.
+effects :: Effects Summary Needed.
+effectsSections :: onset	No Onset
+duration	Duration Summary Needed.
+visuals	Visuals Summary Needed.
+problems :: Common side effects include insomnia, headaches and muscle tension.
+problemsSections :: contraindications	Should not be used by epileptics or those with manic depression. Pregnant women should consult their doctor before taking DMAE during pregnancy.
+addiction	Addiction Potential Summary Needed.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Images]
+imageEntryList :: DMAE Barrel	https://www.erowid.org/smarts/show_image.php?i=dmae/dmae_barrel__i2005e0952_disp.jpg	A metal drum containing DMAE. [WA, USA]	Photo by Tesla. &copy; 2007 Erowid.org
+DMAE Label	https://www.erowid.org/smarts/show_image.php?i=dmae/dmae_label__i2005e0951_disp.jpg	Closeup of a label on a barrel of DMAE. [WA, USA]	Photo by Tesla. &copy; 2007 Erowid.org
+DMAE 2D Molecule	https://www.erowid.org/smarts/show_molecule.php?i=dmae/dmae_2d.gif	Still 2D image of the DMAE molecule.	Image by Erowid, &copy; 2001 Erowid.org
+DMAE 3D Rotating Molecule	https://www.erowid.org/smarts/show_molecule.php?i=dmae/dmae__.mol	Rotating 3D image of the DMAE molecule.	Image by Erowid, &copy; 2001 Erowid.org
+
+[Chemistry]
+chemTable :: NAME :	DMAE
+CHEMICAL NAME :
+CHEMICAL FORMULA	C4H11NO
+MOLECULAR WEIGHT :	89.137
+moleculeURL :: null

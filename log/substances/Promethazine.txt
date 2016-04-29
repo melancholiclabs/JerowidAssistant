@@ -1,0 +1,29 @@
+[Substance]
+
+id :: 305
+name :: Promethazine
+url :: https://www.erowid.org/pharms/promethazine/promethazine.shtml
+category :: Pharms
+commonNames :: Phenergan
+effectsClassification :: Antiemetic; Sedative; Antihistaminic; Anticholinergic
+chemicalName :: N,N,&alpha;-trimethyl-10H-phenothiazine-10-ethanamine
+description :: Promethazine is an antihistamine prescribed for a wide variety of indications including allergies and nausea.
+imageURL :: https://www.erowid.org/pharms/images/pharms_spacer_summary.jpg
+imagesURL :: https://www.erowid.org/pharms/promethazine/promethazine_images.shtml
+lawURL :: https://www.erowid.org/pharms/promethazine/promethazine_law.shtml
+
+[Images]
+imageEntryList :: Promethazine Tablets	https://www.erowid.org/pharms/show_image.php?i=promethazine/promethazine_tablet__i2012e0466_disp.jpg	25 mg promethazine (Phenergan) tablets next to bottle. [HI, USA]	Photo by Matt_Cook. &copy; 2012 Erowid.org
+Generic Promethazine Tablet	https://www.erowid.org/pharms/show_image.php?i=promethazine/promethazine_tablet__i2012e0171_disp.jpg	Generic 25 mg promethazine tablets from Wal-Mart. [ID, USA]	Photo by Anonymous. &copy; 2012 Erowid.org
+Promethazine Tablets	https://www.erowid.org/pharms/show_image.php?i=promethazine/promethazine_tablet__i2008e0342_disp.jpg	Generic 25 mg promethazine tablets bearing the imprint ZC/02. [IN, USA]	Photo by Charles. &copy; 2009 Erowid.org
+Promethazine Tablets Labeled 5138	https://www.erowid.org/pharms/show_image.php?i=promethazine/promethazine_tablets__i2014e0270_disp.jpg	Eight orange promethazine tablets containing 12.5mg each. Labeled with a "v" on one side and a split 5138 on the reverse. [North Carolina]	Photo by Bmag. &copy; 2014 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Promethazine
+REGULATED	Yes
+STATUS	Prescription Only
+SCHEDULE	Un-Scheduled
+federalLawText :: Promethazine is unscheduled in the United States, but is available by prescription only. This means that sales and distribution are allowed only by those with a license and only to those with a prescription (according to FDA regulations). Possession is not illegal even without a prescription.
+stateLaw :: null
+internationalLaw :: U.K. (United Kingdom, Britain, England, Wales, Scotland)	Promethazine is sold as a non-prescription medication to treat allergies, motion sickness, and as a sleep aid (Phenergan). (thanks jp) (last updated Apr 22 2013)

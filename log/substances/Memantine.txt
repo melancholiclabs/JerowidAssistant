@@ -1,0 +1,16 @@
+[Substance]
+
+id :: 287
+name :: Memantine
+url :: https://www.erowid.org/pharms/memantine/memantine.shtml
+category :: Pharms
+commonNames :: Namenda; Ebixa
+effectsClassification :: NMDA-antagonist; Glutamate-antagonist; Alzheimer's Treatment
+chemicalName :: 1-amino-3,5-dimethyladamantane hydrochloride
+description :: Memantine is an NMDA-antagonist that is believed to block glutamate-related excitotoxicity and mitigate some of the symptoms of Alzheimer's Disease. Although research does not yet support the claim, some people claim memantine improves the cognitive abilities of healthy people. In 2005, the US FDA rejected an application to allow memantine to be prescribed to patients with mild AD, suggesting the efficacy and safety for patients without severe impairment is not yet well documented.
+imageURL :: https://www.erowid.org/pharms/memantine/images/memantine_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/memantine/memantine_images.shtml
+
+[Images]
+imageEntryList :: 10 mg Memantine Tablets	https://www.erowid.org/pharms/show_image.php?i=memantine/memantine_tablet__i2016e0037_disp.jpg	Namenda tablets containing 10 mg memantine. [NV, USA]	Photo by Verotos. &copy; 2016 Erowid.org
+10 mg Memantine Tablets	https://www.erowid.org/pharms/show_image.php?i=memantine/memantine_tablet__i2013e0499_disp.jpg	10 mg Admenta branded memantine HCl tablets which in 10 quantity foil-plastic blister packs produced by Sun Pharma. [India]	Photo by Wrz. &copy; 2016 Erowid.org

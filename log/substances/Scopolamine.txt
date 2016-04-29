@@ -1,0 +1,29 @@
+[Substance]
+
+id :: 127
+name :: Scopolamine
+url :: https://www.erowid.org/chemicals/scopolamine/scopolamine.shtml
+category :: Chemicals
+commonNames :: Transderm-Scop; Scopace; Maldemar; Burundanga; Zombie Drug
+effectsClassification :: Deliriant
+chemicalName :: alpha-(hydroxymethyl) benzeneacetic acid 9-methyl-3-oxa-9-aza-tricyclo[3.3.1.02,4] non-7-yl ester
+description :: Scopolamine is a naturally occurring deliriant found in many solanaceous plants such as datura and belladonna. It is commonly used in research and has some medical applications.
+imageURL :: https://www.erowid.org/chemicals/scopolamine/images/scopolamine_summary1.jpg
+imagesURL :: https://www.erowid.org/chemicals/scopolamine/scopolamine_images.shtml
+lawURL :: https://www.erowid.org/chemicals/scopolamine/scopolamine_law.shtml
+
+[Images]
+imageEntryList :: Scopolamine Patch	https://www.erowid.org/chemicals/show_image.php?i=scopolamine/scopolamine_patch__i2007e0904_disp.jpg	1.5 mg scopolamine transdermal patches, with and without packaging. [PA, USA]	Photo by Romas. &copy; 2007 Erowid.org
+Scopolamine 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=scopolamine/scopolamine_2d.gif	Still 2D image of the Scopolamine molecule.	Image by Erowid. &copy; 2002 Erowid.org
+Scopolamine 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=scopolamine/scopolamine_3d.jpg	Still 3D image of the Scopolamine molecule.	Image by Erowid. &copy; 2002 Erowid.org
+Scopolamine 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=scopolamine/scopolamine__.mol	Rotating 3D image of the Scopolamine molecule.	Image by Erowid. &copy; 2002 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Scopolamine
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: Scopolamine is uncontrolled in the United States. It is possible that possession and sales could be prosecuted under the Federal Analog Act though we are unaware of any such existing cases.
+stateLaw :: null
+internationalLaw :: 

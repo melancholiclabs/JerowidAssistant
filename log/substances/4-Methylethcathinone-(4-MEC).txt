@@ -1,0 +1,73 @@
+[Substance]
+
+id :: 28
+name :: 4-Methylethcathinone (4-MEC)
+url :: https://www.erowid.org/chemicals/4_methylethcathinone/4_methylethcathinone.shtml
+category :: Chemicals
+commonNames :: 4-MEC
+effectsClassification :: Stimulant; Euphoriant
+chemicalName :: 2-Ethylamino-1-(4-methylphenyl)propan-1-one
+description :: 4-MEC is a synthetic stimulant with empathogenic effects that is chemically similar to methcathinone. It became available online in 2010. It has been sold as replacement for 4-methylmethcathinone (mephedrone) and has appeared in some samples of "NRG-2". It has an extremely short history of human use.
+imageURL :: https://www.erowid.org/chemicals/4_methylethcathinone/images/4_methylethcathinone_summary1.jpg
+effectsURL :: https://www.erowid.org/chemicals/4_methylethcathinone/4_methylethcathinone_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/4_methylethcathinone/4_methylethcathinone_images.shtml
+lawURL :: https://www.erowid.org/chemicals/4_methylethcathinone/4_methylethcathinone_law.shtml
+doseURL :: https://www.erowid.org/chemicals/4_methylethcathinone/4_methylethcathinone_dose.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Effects]
+duration :: 4-Methylethcathinone Duration
+Oral
+Total Duration	2 - 5 hrs
+Onset	15 - 45 mins
+Coming Up	15 - 30 mins
+Plateau	15 - 30 mins
+Coming Down	30 - 90  mins
+&nbsp;	&nbsp;
+After Effects	2 - 4 hrs
+Hangover / Day After	- - -
+positiveEffects :: null
+neutralEffects :: null
+negativeEffects :: null
+description :: null
+experienceReports :: null
+
+[Images]
+imageEntryList :: 4-MEC	https://www.erowid.org/chemicals/show_image.php?i=4_methylethcathinone/4-methylethcathinone_powder__i2011e0488_disp.jpg	A small baggie containing 100 mg of 4-Methylethcathinone (4-MEC). [Australia]	Photo by flashblock. &copy; 2011 Erowid.org
+4-Methylethcathinone 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=4_methylethcathinone/4-methylethcathinone_2d.gif	Still 2D image of the 4-Methylethcathinone molecule.	Image by Erowid. &copy; 2011 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+4-Methylethcathinone
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule I
+federalLawText :: 4-Methylethcathinone was emergency scheduled on March 7, 2014. See http://www.deadiversion.usdoj.gov/fed_regs/rules/2014/fr0307_2.htm. Prior to this, 4-Methylethcathinone was unscheduled in the United States. There was at least one federal indictment (Apr 2012) for the importation of 1 kg of 4-MEC on the basis of 4-MEC being a federal Analogue of methcathinone.	
+There was one case of a business person being charged with selling the similar 4-methylmethcathinone/4-MMC (as 'bath salts') also on the basis of it being an Analogue of methcathinone. (See the WSAZ news story). The 4-MMC case ended with the defendant pleading guilty to a lesser charge not related to the Analogue Act: introducing a misbranded drug into interstate commerce (a charge under the Food, Drug, and Cosmetics Act, not the Controlled Substances Act).
+stateLaw :: Florida	4-MEC is Schedule I in Florida, listed as Methylethcathinone. Added in 2011. See http://www.flsenate.gov/Session/Bill/2012/1502/BillText/c2/PDF. (thanks q) (last updated Dec 4 2012)
+Vermont	Classified under "Depressant and stimulant drugs" (Title 18, Chapter 84, Section 4234) : Illegal to possess, distribute, etc. Added July 2012. See healthvermont.gov/regs/documents/regulated_drugs_emergency_rule_annotated.pdf and http://www.leg.state.vt.us/statutes/fullsection.cfm?Title=18&Chapter=084&Section=04234. (Thanks DW) (last updated Jul 23, 2012)
+Virginia	Schedule I. http://www.mygov365.com/legislation/view/id/4f15545049e51b63146f1200/tab/overview/ : HB 508 Approved by Governor Apr 18, 2012 - Effective 7/1/12 and http://legiscan.com/gaits/text/631633. (Thanks NR) (last updated July 22, 2012)
+internationalLaw :: Brazil (Brasil)	4-MEC was controlled in Brazil in February 2015, added to Lista F2. See http://portal.anvisa.gov.br/wps/content/Anvisa+Portal/Anvisa/Inicio/Medicamentos/Assunto+de+Interesse/Produtos+controlados/Listas+de+substancias+sujeitas+a+controle+especial+Brasil. (thanks r) (last updated Aug 29, 2015)
+Finland	4-MEC was banned in Finland in December 2014. A new government regulation was enacted in Finland that banned over 100 psychoactive chemicals. See Finland's Prohibited Psychoactive Substances: December 19, 2014. (last updated Dec 26, 2014)
+Germany (Deutschland	4-MEC was added to Anlage II in January, 2012. See www.bundesrat.de/cln_236/nn_8336/SharedDocs/Drucksachen/2012/0301-400/317-12,templateId=raw,property=publicationFile.pdf/317-12.pdf. (thanks nr) (last updated Oct 15, 2012)
+Hungary	In January 2012, 4-methylethcathinone became controlled in Hungary. (unconfirmed) (thanks C) (last updated Jan 13 2012)
+Poland	An amendment to Polish drug law effective Jun 8, 2011 placed numerous research chemicals on the list of controlled substances, including 4-methylethcathinone. See http://www.infor.pl/dziennik-ustaw,rok,2011,nr,105.html (thanks surveilled) (last updated Aug 18, 2011).
+United Kingdom (UK, Britain)	4-Methylethcathinone is a class B drug, illegal to possess without the proper license or prescription, as of Apr 16, 2010. It is not specifically named in the law, but was was part of a general ban on cathinone derivatives. (last updated Aug 18, 2011)
+
+[Dose]
+doseTable :: 4-Methylethcathinone Dosages
+Oral
+Threshold	15 - 50 mg
+Light	50 - 100 mg
+Common	100 - 200 mg
+Strong	150 - 300+ mg
+doseText :: 4-Methylethcathinone is a stimulant with empathogenic qualities. As of 2011, it is most often found as a powder (either represented as 4-methylethcathinone or included in powder products that don't specify their active chemicals), though some tablets have been pressed that include 4-methylethcathinone.
+notes :: Some reports of 4-methylethcathinone use involve redosing ("boosting" / "bumping") multiple times. Users sometimes mix oral and insufflated, taking some 4-methylethcathinone orally, then insufflating some, then taking more orally. Because of the common desire to recapture the pleasurable initial high, redoses are sometimes higher than the initial dose or are spaced closely together in time. Many users report having difficulty not redosing after using a strong dose if more 4-methylethcathinone is available when they are starting to come down. Experience reports in which users find themselves unexpectedly consuming a gram or more of 4-methylethcathinone are common.
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

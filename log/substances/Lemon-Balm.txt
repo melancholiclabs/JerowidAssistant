@@ -1,0 +1,32 @@
+[Substance]
+
+id :: 232
+name :: Lemon Balm
+url :: https://www.erowid.org/herbs/lemon_balm/lemon_balm.shtml
+category :: Herbs
+botanicalClassification :: Family : Lamiaceae (Mint), Genus :Melissa, Species :officinaliscommonNames :: Lemon Balm
+uses :: Flavoring, sleepy herbal tea, insect repellent; possible anxiolytic and sedative
+description :: Lemon Balm is a perennial (its root survives the winter) herb usually growing 1-2 feet (50 cm) tall. The leaves are ovate to heart-shaped and mint-like. Its flowers are white to yellowish in loose, small bunches and have a lemony-minty smell and flavor. Lemon Balm is used in foods and teas, as an insect repellant, and there is evidence that it has anxiolytic, sedative, mood improving, and nootropic effects. Some people report distinct psychoactive effects taking it as a tea, snorting, or smoking it, sometimes in combination with other plants or drugs, though reports are inconsistent.
+imageURL :: https://www.erowid.org/herbs/lemon_balm/images/lemon_balm_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/lemon_balm/lemon_balm_images.shtml
+lawURL :: https://www.erowid.org/herbs/lemon_balm/lemon_balm_law.shtml
+
+[Images]
+imageEntryList :: Melissa officinalis (Lemon Balm) from Koehler's	https://www.erowid.org/herbs/show_image.php?i=lemon_balm/melissa_officinalis_kohlers_medicinal_plants__i2012e0471_disp.jpg	A botanical drawing from Koehler's Medicinal Plants.	From 1887 : Copyright Expired : Public Domain
+Melissa officinalis (Lemon Balm) Leaf Scans	https://www.erowid.org/herbs/show_image.php?i=lemon_balm/melissa_officinalis_leaves__i2012e0472_disp.jpg	Closeup scans of three leaves from Lemon Balm taped to paper.	Photo by IES-MGB. &copy; 2009 IES-MGB - (CC BY-SA 2.0)
+Closeup of Lemon Balm Flower	https://www.erowid.org/herbs/show_image.php?i=lemon_balm/melissa_officinalis_white_flower__i2012e0473_disp.jpg	A closeup of a white Lemon Balm (Melissa officinalis) flower with leaves. From detsugu's flickr stream.	Photo by detsugu. &copy; 2011 detsugu (CC BY-SA 2.0)
+Melissa officinalis (Lemon Balm) Plant in Pot	https://www.erowid.org/herbs/show_image.php?i=lemon_balm/melissa_officinalis_potted__i2012e0478_disp.jpg	A small Lemon Balm plant in a pot. From Detsugu's flickr stream.	Photo by Detsugu. &copy; 2011 Detsugu (CC BY-SA 2.0)
+Lemon Balm (Melissa officinalis) Sprouts	https://www.erowid.org/herbs/show_image.php?i=lemon_balm/melissa_officinalis_sprouts__i2012e0479_disp.jpg	Closeup of two young sprouts of Lemon Balm (Melissa officinalis) in a sprouting tray. Photo from Anders Dahnielson.	Photo by Anders Dahnielson. &copy; 2009 A. Dahnielson (CC BY-NC-SA 2.0)
+Melissa officinalis (Lemon Balm) Seeds	https://www.erowid.org/herbs/show_image.php?i=lemon_balm/melissa_officinalis_seeds__i2012e0480_disp.jpg	A collection of Lemon Balm (Melissa officinalis) Seeds on white background. Photo from andreasbalzer flickr stream.	Photo by andreasbalzer. &copy; 2006 andreasbalzer (CC BY-NC-SA 2.0)
+Lemon Balm Tea	https://www.erowid.org/herbs/show_image.php?i=lemon_balm/lemon_balm_tea__i2012e0482_disp.jpg	A white tea ceramic tea cup containing Lemon Balm tea on a red plastic crate. From la intemperie's flickr stream.	Photo by la intemperie. &copy; 2007 la intemperie (CC BY-NC-SA 2.0)
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Mint
+REGULATED	No
+STATUS	Food Approved
+SCHEDULE	Un-Scheduled
+federalLawText :: Lemon Balm (Melissa officinalis) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.	
+Lemon Balm essential oil is approved for food and cosmetic use and "Generally Recognized as Safe" (GRAS) under FDA rules.
+stateLaw :: null
+internationalLaw :: 

@@ -1,0 +1,55 @@
+[Substance]
+
+id :: 341
+name :: Piracetam
+url :: https://www.erowid.org/smarts/piracetam/piracetam.shtml
+category :: Smarts
+commonNames :: Nootropyl; Nootropil
+effectsClassification :: Cognitive Enhancement; Memory; Learning
+chemicalName :: 2-oxo-1-pyrrolidineacetamide
+description :: Piracetam is considered the first smart drug and is still one of the most popular. It is said to increase cognitive functions including memory and learning.
+imageURL :: https://www.erowid.org/smarts/piracetam/images/piracetam_summary1.jpg
+imagesURL :: https://www.erowid.org/smarts/piracetam/piracetam_images.shtml
+lawURL :: https://www.erowid.org/smarts/piracetam/piracetam_law.shtml
+chemistryURL :: https://www.erowid.org/smarts/piracetam/piracetam_chemistry.shtml
+
+[Images]
+imageEntryList :: Piracetam Tablets	https://www.erowid.org/smarts/show_image.php?i=piracetam/piracetam_tablets__i2003e0200_disp.jpg	800 mg Nootropil brand piracetam tablets. Box of 60 pills behind the contents of four such boxes. [Great Britain]	Photo by Dave McMillin. &copy; 2007 Erowid.org
+Piracetam powder	https://www.erowid.org/smarts/show_image.php?i=piracetam/piracetam_powder__i2012e0133_disp.jpg	On small pile of piracetam powder. [USA]	Photo by Anonymous. &copy; 2012 Erowid.org
+Piracetam 2D Molecule	https://www.erowid.org/smarts/show_molecule.php?i=piracetam/piracetam_2d.gif	Still 2D image of the Piracetam molecule.	Image by Erowid, &copy; 2001 Erowid.org
+Piracetam 3D Rotating Molecule	https://www.erowid.org/smarts/show_molecule.php?i=piracetam/piracetam__.mol	Rotating 3D image of the Piracetam molecule.	Image by Erowid, &copy; 2001 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Piracetam
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: Piracetam is an uncontrolled sustance in the United States meaning it is legal to possess without a license or prescription. Sales, distribution, and labelling are regulated by FDA rules if sold for human consumption.	
+Piracetam was available from vendors inside the United States during the 2000s, but in 2010 we were told that the FDA told vendors to stop stocking it. One vendor reports that in May 2011 the FDA seized their Piracetam and Aniracetam stocks. (unconfirmed) (thanks PT) (last updated June 13 2011)
+stateLaw :: null
+internationalLaw :: Australia	Piracetam (Nootropil) is currently available for sale in Australia only by prescription, but may be imported legally for personal use amounts (up to '3 months supply'). As of May 1, 2007, Piracetam will be placed in Schedule 4, requiring that importation for personal use will also require a prescription. See Australian Government "Importing medicines for personal use" guidelines and Notes on Piracetam Legal Status in Australia. (thanks TG)
+Belgium	Piracetam (Nootropil) reportedly does not require a prescription to legally purchase and possess in Belgium. (unconfirmed) (thanks J)
+Canada	One visitor writes: Santé Canadadoes not approve of Piracetam (reasons unknown)
+One visitor writes: Santé Canadadoes not approve of Piracetam (reasons unknown)	and has not emitted a DIN (Drug Identification Number) and therefore it cannot be sold in Canada as of Decembre 31 2009. The only way to get it in Canada is online, delivered by international mail. (unconfirmed) (thanks JP) (last updated Apr 5 2010)
+China	Multiple visitors tell us that piracetam can be legally purchased over the counter in drug stores without prescription in many cities in China and from online sales sites inside China. One visitor tells us that most piracetam sold in the US is produced in China. (unconfirmed) (thanks l,1) (last updated Mar 4, 2013)
+Czech Republic	Piracetam is reportedly available in drug stores, sold without a prescription. (unconfirmed) (thanks FU) (last updated May 14, 2009)
+Finland	Piracetam is listed as a medicine (L��kelait) and requires a prescription in Finland. It is not controlled as an illegal drug, though it is illegal to import without proper approval. See
+Piracetam is listed as a medicine (L��kelait) and requires a prescription in Finland.  It is not controlled as an illegal drug, though it is illegal to import without proper approval. See  	http://www.laakelaitos.fi/instancedata/prime_product_julkaisu/laakelaitos/embeds/Laakeluettelopaatos.pdf. (thanks p) (last updated Dec 4, 2009)
+France	Piracetam (Nootropil) is not controlled but is Ordonnance-Liste II, a level that requires a prescription. Although online vendors do sell to customers in France, it is not available over the counter (OTC). If anyone knows of any physical stores in France that sell piracetam, let us know. (thanks df) (last updated Aug 6, 2014)
+Hong Kong	Piracetam (Nootropil) is reportedly available for purchase over the counter in pharmacies without a prescription. (Unconfirmed) (anonymous) (last updated Jan 12, 2014)
+Italy	Piracetam (Nootropil) requires a prescription to legally purchase in Italy. (thanks J, S, MC) (Last updated May 9 2011)
+Netherlands	Piracetam (Nootropil) reportedly requires a prescription to legally purchase in the Netherlands. (unconfirmed) (thanks J)
+Norway	We have been told that Piracetam (Nootropil) is a prescription-drug in Norway. It is said to be prescribed to treat kortikal myoklonus (sudden convulsions in the muscles). Pasientutgave Felleskatalogen (unconfirmed) (thanks I)
+Poland	We have been told that Piracetam (Nootropil) is a prescription-drug in Poland under the brand names Nootropil and Memotropil. (unconfirmed) (thanks A)
+Russia	We have been told that Piracetam is available in Russia as the prescription drug Nootropil in packages of 30 tablets of 800 mg each, 30 tablets of 1200 mg each, 60 capsules of 400 mg each, and a 20% solution with a total volume of 125 ml. Most pharmacies will sell it without prescription. Cheap piracetam is reportedly available in 2009 for 40 roubles (about 1 euro) for 60 capsules containing 400mg each. (thanks q,FS) (last updated Nov 11 2009)
+Singapore	One visitor tells us that piracetam (Nootropil) is prescription-only in Singapore. (unconfirmed) (thanks C) (last updated Dec 9, 2013)
+Spain	One visitor tells us that piracetam (Nootropyl) is prescription-only in Spain. (unconfirmed) (thanks vv) (last updated Mar 5, 2013)
+Ukraine	We have been told that Piracetam (Nootropil) is widely available at drug stores in the Ukraine and does not require a prescription. (unconfirmed) (thanks FG)
+United Kingdom (Britain, England, Wales, Scotland, UK)	Piracetam is a controlled prescription drug in the United Kingdom, requiring a prescription to legally purchase. In person sales require a prescription. We have been told that Piracetam is approved in the U.K. for Acute Anoxic Myoclonal Spasms (Myoclonus). (unconfirmed) (thanks RC, A) Piracetam is sold via mail order from companies based in the U.K. and is available by prescription. We have also been told that it is possible to import piracetam into the UK without encountering any problems. (online sites listing UK as source or allowable destination, unable to find legal confirmation) (thanks MC, DJK, w) (last updated Jan 13, 2014)
+
+[Chemistry]
+chemTable :: NAME :	Piracetam
+CHEMICAL NAME :	2-oxo-1-pyrrolidineacetamide
+CHEMICAL FORMULA	C6H10N2O2
+moleculeURL :: null

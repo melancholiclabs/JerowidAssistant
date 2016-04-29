@@ -1,0 +1,86 @@
+[Substance]
+
+id :: 282
+name :: Hydrocodone
+url :: https://www.erowid.org/pharms/hydrocodone/hydrocodone.shtml
+category :: Pharms
+commonNames :: Vicodin; Lortab; Vicoprofen; Zohydro;
+effectsClassification :: Analgesic; Antitussive
+chemicalName :: 4,5a-Epoxy-3-methoxy-17-methylmorphinan-6-one
+description :: Hydrocodone is an opiate agonist, analgesic and antitussive used in the treatment of mild to moderate pain. It is primarily available in combination with other analgesics such as acetaminophen/paracetamol, aspirin, or ibuprofen.
+imageURL :: https://www.erowid.org/pharms/hydrocodone/images/hydrocodone_summary1.jpg
+effectsURL :: https://www.erowid.org/pharms/hydrocodone/hydrocodone_effects.shtml
+imagesURL :: https://www.erowid.org/pharms/hydrocodone/hydrocodone_images.shtml
+healthURL :: https://www.erowid.org/pharms/hydrocodone/hydrocodone_health.shtml
+lawURL :: https://www.erowid.org/pharms/hydrocodone/hydrocodone_law.shtml
+doseURL :: https://www.erowid.org/pharms/hydrocodone/hydrocodone_dose.shtml
+chemistryURL :: https://www.erowid.org/pharms/hydrocodone/hydrocodone_chemistry.shtml
+
+[Effects]
+duration :: null
+positiveEffects :: improvement of mood	reduction of pain	euphoria
+neutralEffects :: itching	light-headedness	sedation	changes in focus and attention
+negativeEffects :: dizziness	constipation	nausea and vomiting	when insufflated, burning in nose and sinuses
+description :: Hydrocodone is a semisynthetic narcotic analgesic and antitussive with multiple actions qualitatively similar to those of codeine. Most of these involve the central nervous system and smooth muscle. The precise mechanism of action of hydrocodone and other opiates is not known, although it is believed to relate to the existance of opiate receptors in the central nervous system. In addition to analgesia, narcotics may produce drowsiness, changes in mood and mental clouding.
+experienceReports :: null
+
+[Images]
+imageEntryList :: Hydrocodone Tablets	https://www.erowid.org/pharms/show_image.php?i=hydrocodone/hydrocodone_tablet__i2004e0231_disp.jpg	13 tablets containing 5 mg hydrocodone and 500 mg acetaminophen next to ruler and coins for size reference. Tablets bear the imprint "M357". [USA]	Photo by Anonymous. &copy; 2007 Erowid.org
+Hydrocodone tablets	https://www.erowid.org/pharms/show_image.php?i=hydrocodone/hydrocodone_tablet3.jpg	Color photo of two hydrocodone tablets. Both contain 5 mg hydrocodone and 500 mg acetaminophen. The top is Vicodin brand while the bottom is generic. [KS, USA]	Photo by DoctorX, &copy; 2002 Erowid.org
+Generic Hydrocodone Tablets	https://www.erowid.org/pharms/show_image.php?i=hydrocodone/hydrocodone_tablet__i2005e0816_disp.jpg	A bottle of generic 10 mg hydrocodone 500 mg acetaminophen tablets bearing the imprint "Watson / 540". [WI, USA]	Photo by Moheeb. &copy; 2007 Erowid.org
+5 mg Hydrocodone Tablets	https://www.erowid.org/pharms/show_image.php?i=hydrocodone/hydrocodone_tablet__i2005e0718_disp.jpg	Five Hydrocodone tablets containing 5 mg hydrocodone and 500 mg acetaminophen and marked with the imprint "35|92". [CA, USA]	Photo by Kisps. &copy; 2010 Erowid.org
+Hydrocodone	https://www.erowid.org/pharms/show_image.php?i=hydrocodone/hydrocodone_tablet1.jpg	Close-up color photo of 5 mg generic Hydrocodone tablets, marked with a "Watson 349". (Missouri)	Photo by Alkaloidaholic, &copy; 2002 Erowid.org
+Hydrocodone	https://www.erowid.org/pharms/show_image.php?i=hydrocodone/hydrocodone_tablet2.jpg	Close-up color photo of 10 mg generic Hydrocodone tablets, marked with a "Watson 503". (New Jersey)	Photo by Brett Berry, &copy; 2002 Erowid.org
+Vicodin	https://www.erowid.org/pharms/show_image.php?i=hydrocodone/vicodin_tablet1.jpg	Color photo of 3 different strengths of vicoden tablet. Vicoden is a combination of hydrocodone and acetaminophen.	Photo from the Physicians' Desk Reference
+Vicoprofen	https://www.erowid.org/pharms/show_image.php?i=hydrocodone/vicoprofen_tablet1.jpg	Color photo of a Vicoprofen tablet.	Photo from the Physicians' Desk Reference
+Vicodin Tuss	https://www.erowid.org/pharms/show_image.php?i=hydrocodone/vicodin_bottle1.jpg	Color photo of a bottle of Vicodin Tuss, a combination of hydrocodone and guafenesin.	Photo from the Physicians' Desk Reference
+Hydrocodone 2D Molecule	https://www.erowid.org/pharms/show_image.php?i=hydrocodone/hydrocodone_2d.gif	2D image of the Hydrocodone molecule.	Image by Erowid, &copy; 2001 Erowid.org
+Hydrocodone 3D Molecule	https://www.erowid.org/pharms/show_molecule.php?i=hydrocodone/hydrocodone_3d.jpg	Still 3D image of the Hydrocodone molecule.	Image by Erowid, &copy; 2001 Erowid.org
+Hydrocodone 3D Rotating Molecule	https://www.erowid.org/pharms/show_molecule.php?i=hydrocodone/hydrocodone__.mol	Rotating 3D image of the Hydrocodone molecule.	Image by Erowid, &copy; 2001 Erowid.org
+
+[Health]
+notes :: null
+deaths :: null
+warnings :: null
+cautions :: null
+benefits :: null
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Hydrocodone
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule II
+CLASSIFICATION	Opiate
+federalLawText :: Hydrocodone and any products which contain it are Schedule II in the United States. This means they are illegal to sell without a DEA license and illegal to buy or possess without a license or prescription.	
+Prior to October 6, 2014, products containing less than 15 mg hydrocodone per dosage unit were Schedule III in the United States. Almost all prescription hydrocodone was prescribed in Schedule III dose units (e.g. Vicodin). In 2013, an FDA advisory panel recommending moving these Schedule III preparations into Schedule II at the DEA's request. Further, a group of US congresspeople pressured the FDA to follow that recommendation, and the change in schedule took effect the following year. See the DEA ruling, the FDA commentary, and .	
+Schedule II drug prescriptions may only be refilled with a written prescription.
+stateLaw :: 
+internationalLaw :: Canada	Although there are many rumors stating that products containing hydrocodone may be purchased over-the-counter in Canada, it appears that Hydrocodone is a Schedule I drug in Canada, requiring a prescription.
+China (Macau)	We have heard that products containing hydrocodone (such as Vicodin) can be purchased over-the-counter in Macau.
+Colombia	One visitor reported that tramadal, codeine with acetaminophen, hydrocodone with ibuprofen (5/200), and dihydrocodeine by itself can be purchased in Colombia over the counter in any drug store. (unconfirmed) (thanks p) (last updated Jun 12 2013)
+Germany	Hydrocodone is BTM Anlage 3 in Germany making it illegal to possess without a BTM prescription. (unconfirmed) (thanks PM)
+Italy	Although one contributor told us hydrocodone is available over-the-counter, this may be incorrect. We have also been told by more than one submitter that it is available only behind the counter, where a pharmacist can choose whether or not to dispense it if there is no prescription. (unconfirmed) (thanks N, J)
+Mexico	Prescription only. Although there are rumors that products containing hydrocodone may be purchased over-the-counter in Mexico, we have been unable to verify these rumors, instead finding that hydrocodone is either available only by prescription or perhaps not available at all, even with a prescription. Lortab, Vicodin, etc are reportedly widely available on the black market (last updated Jan 2004).
+Netherlands	Hydrocodone is Schedule I and thus prescription-only in the Netherlands. This makes it illegal to possess without a prescription or license. See http://wetten.overheid.nl/BWBR0014405/geldigheidsdatum_13-05-2013 (thanks r) (last updated May 13, 2013)
+Thailand	We have been told that hydrocodone is not available over-the-counter or by prescription in Thailand. (unconfirmed) (thanks M)
+U.K.	Hydrocodone is Schedule II/Class A in the U.K., making it illegal to buy or possess without a prescription.
+
+[Dose]
+doseTable :: Oral Vicodin Brand Contents
+&nbsp;HydrocodoneAcetaminophen
+Vicodin5 mg300 mg (previously 500 mg)
+Vicodin ES7.5 mg300 mg (previously 750 mg)
+Vicodin HP10 mg300 mg (previously 660 mg)
+Onset : 30-90 minutes (depending on stomach contents)
+Duration : 
+Normal After Effects :
+doseText :: Hydrocodone is most commonly sold as "Vicodin", produced by Knoll Laboratories. Each tablet contains both hydrocodone bitartrate and acetaminophen/paracetamol. It comes in tablet form and is taken orally. Vicodin tablets come in three different strengths (see image). Starting in late 2012, Vicodin brand reforumulated their hydrocodone containing tablets to lower the amount of acetaminophen in each tablet to 300mg, reducing the risk of injury or death from liver damage.      Oral Vicodin Brand Contents &nbsp;HydrocodoneAcetaminophen Vicodin5 mg300 mg (previously 500 mg) Vicodin ES7.5 mg300 mg (previously 750 mg) Vicodin HP10 mg300 mg (previously 660 mg)    Onset : 30-90 minutes (depending on stomach contents) Duration :  Normal After Effects :    Acetaminophen/paracetamol can cause liver problems at high doses. It may not be safe for heavy alcohol drinkers or those with liver problems to take more than 2 or 3 Vicodin tablets at one time. Some people take more than this recreationally, but it is generally not a good idea.
+notes :: null
+
+[Chemistry]
+chemTable :: NAME :	Hydrocodone
+CHEMICAL NAME :	4,5a epoxy-3-methyoxy-17-methylmorphinan-6-one tartrate (1:1) hydrate (2:5)
+ALTERNATE NAMES : 	Vicodin (with acetaminophen/paracetamol)
+CHEMICAL FORMULA	C18H21NO3C4H6O6-2&#189;H2O
+moleculeURL :: null

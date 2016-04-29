@@ -1,0 +1,31 @@
+[Substance]
+
+id :: 309
+name :: Quetiapine
+url :: https://www.erowid.org/pharms/quetiapine/quetiapine.shtml
+category :: Pharms
+commonNames :: Seroquel
+effectsClassification :: Mood Stabilizer; Antipsychotic
+chemicalName :: 2-[2-(4-dibenzo [b,f ] [1,4]thiazepin-11-yl-1-piperazinyl)ethoxy]-ethanol fumarate
+description :: Quetiapine is a novel antipsychotic used to treat symptoms of psychoses including schizophrenia, bipolar disorder, and acute manic episodes.
+imageURL :: https://www.erowid.org/pharms/quetiapine/images/quetiapine_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/quetiapine/quetiapine_images.shtml
+lawURL :: https://www.erowid.org/pharms/quetiapine/quetiapine_law.shtml
+
+[Images]
+imageEntryList :: 25 mg Seroquel tablets	https://www.erowid.org/pharms/show_image.php?i=quetiapine/seroquel_tablet2.jpg	Photo showing two 25 mg Seroquel tablets next to a Canadian dollar. [BC, Canada]	Photo by Jesse Redler, &copy; 2006 Erowid.org
+200 mg Seroquel tablet	https://www.erowid.org/pharms/show_image.php?i=quetiapine/seroquel_tablet1.jpg	Close-up photo of a single 200 mg Seroquel tablet. [MA, USA]	Photo by Phuzz, &copy; 2006 Erowid.org
+300 mg Quetiapine (Seroquel) Tablets	https://www.erowid.org/pharms/show_image.php?i=quetiapine/quetiapine_tablet__i2007e0254_disp.jpg	White 300 mg quetiapine fumarate (Seroquel) tablets with bottle. [Costa Rica]	Photo by Leafing. &copy; 2009 Erowid.org
+Quetiapine (Seroquel) Blister Packs	https://www.erowid.org/pharms/show_image.php?i=quetiapine/quetiapine_package__i2006e0082_disp.jpg	Back side of 200 mg, 100 mg and 25 mg Seroquel (quetiapine) tablet blister packs. [Finland]	Photo by Anonymous. &copy; 2009 Erowid.org
+Seroquel bottle	https://www.erowid.org/pharms/show_image.php?i=quetiapine/seroquel_bottle1.jpg	A Photo of the front of a bottle of 200 mg Seroquel tablets manufactured by AstraZeneca. [MA, USA]	Photo by Phuzz, &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Quetiapine
+REGULATED	Yes
+STATUS	Prescription Only
+SCHEDULE	Un-Scheduled
+federalLawText :: Quetiapine (Seroquel) is unscheduled in the United States, but is available by prescription only. This means that sales and distribution are allowed only by those with a license and only to those with a prescription (according to FDA regulations). Possession is not illegal even without a prescription.
+stateLaw :: null
+internationalLaw :: Austria	Available by prescription only - unscheduled, but unpopular. (unconfirmed) (thanks B) (last updated Nov 2007)
+France	Available by prescription only - unscheduled. (unconfirmed) (thanks T) (last updated Feb 12, 2013)

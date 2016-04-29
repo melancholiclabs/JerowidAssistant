@@ -1,0 +1,22 @@
+[Substance]
+
+id :: 203
+name :: Arrowroot
+url :: https://www.erowid.org/herbs/arrowroot/arrowroot.shtml
+category :: Herbs
+botanicalClassification :: Family :Marantaceae, Genus :Maranta, Species :arundinacea L.commonNames :: Arrowroot; Araruta
+uses :: Food; Treatment for Poison, Diarrhea, Indigestion.
+description :: Arrowroot is an herbaceous perennial growing up to 6 feet tall with cream colored flowers. Its starchy rhizomes (roots) are used as both food, thickener and medicine.
+imageURL :: https://www.erowid.org/herbs/images/herbs_spacer_summary.jpg
+lawURL :: https://www.erowid.org/herbs/arrowroot/arrowroot_law.shtml
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Maranta arundinaceae
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Maranta arundinaceae (Arrowroot) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.	
+Arrowroot starch is approved for food use in the U.S. and appears in the FDA's list of substances Generally Recognized As Safe (GRAS).
+stateLaw :: null
+internationalLaw :: 

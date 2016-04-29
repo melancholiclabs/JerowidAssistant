@@ -1,0 +1,10 @@
+[Substance]
+
+id :: 350
+name :: Psychoactive Frogs
+url :: https://www.erowid.org/animals/frogs/frogs.shtml
+category :: Animals
+botanicalClassification :: Family :Dendrobatidae / Hylidae, Genus :Epipedobates; Phyllobates / Agalychnis, Hyla, Litoria, Phyllomedusa , Species : tricolor; bicolor / assortedcommonNames :: Frog Venom; Sapo
+effectsClassification :: Deliriant; Sedative; Euphoriant
+description :: Assorted frog venoms may contain various active peptides (deltorphins, demorphins, phyllocaerulein, phyllokinin, and phyllomedusin), the nicotinic acetylcholine receptor agonist analgesic alkaloid epibatidine, the tryptamine bufotenin, tetrodotoxin, and other compounds.
+imageURL :: https://www.erowid.org/animals/frogs/images/frogs_summary1.jpg

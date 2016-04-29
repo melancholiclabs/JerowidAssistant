@@ -1,0 +1,57 @@
+[Substance]
+
+id :: 139
+name :: Betel Nut / Areca Nut
+url :: https://www.erowid.org/plants/betel/betel.shtml
+category :: Plants
+botanicalClassification :: Family :Arecaceae (=Palmaceae), Genus :Areca, Species :catechucommonNames :: Betel nut; Paans (the combination of Betel leaves, lime, & Areca catechu)
+effectsClassification :: Stimulant
+description :: The fruit of the Areca catechu palm tree, also known as the "Betel Nut", contain the stimulant arecoline. Native to SE Asia, the nuts are ground and often combined with mineral lime and wrapped in the leaf of a Betel pepper plant, although they are sometimes consumed buccally ('chewed') alone. Notably, frequent use can stain teeth black and its daily use is associated with increased risk of mouth cancers. Variants of the betel and lime combination are extremely common in many Asian cultures and have a long history of human use.
+imageURL :: https://www.erowid.org/plants/betel/images/betel_summary1.jpg
+effectsURL :: https://www.erowid.org/plants/betel/betel_effects.shtml
+imagesURL :: https://www.erowid.org/plants/betel/betel_images.shtml
+lawURL :: https://www.erowid.org/plants/betel/betel_law.shtml
+chemistryURL :: https://www.erowid.org/plants/betel/betel_chemistry.shtml
+
+[Effects]
+duration :: null
+positiveEffects :: There is currently no Effects List for this substance.
+neutralEffects :: null
+negativeEffects :: null
+description :: Arecoline is a mild central nervous system stimulant which increases respiration. As a stimulant it is used by more people in the world than any other, being extremely popular in India, Thailand, Indonesia and other Asian cultures. Arecoline has also been shown to improve serial learning and memory as well as counteracting intestinal parasites.	
+Regular usage stains the mouth, gums and teeth a deep red. Excessive use can cause inebriation and dizziness. Long term users cause damage to the teeth and soft tissue of the mouth.
+experienceReports :: null
+
+[Images]
+imageEntryList :: Areca catechu Seeds	https://www.erowid.org/plants/show_image.php?i=betel/areca_catechu_nut__i2012e0028_disp.jpg	Green Areca catechu seeds/nuts, also sometimes called "Betel Nuts" because they are often wrapped in leaves of the Betel plant when chewed. [HI, USA]	Photo by Justin Myers. &copy; 2012 Erowid.org
+Betel Quid Preparation	https://www.erowid.org/plants/show_image.php?i=betel/betel_preparation__i2006e1559_disp.jpg	Areca catechu nut prepared for chewing with mineral lime and betel leaf. [North Thailand]	Photo by Nat Brillo. &copy; 2007 Erowid.org
+Whole Areca catechu Nuts	https://www.erowid.org/plants/show_image.php?i=betel/areca_catechu_nut__i2005e0410_disp.jpg	Color photo of five whole Areca catechu nuts.	Photo by Kon. &copy; 2007 Erowid.org
+Areca catechu Nut	https://www.erowid.org/plants/show_image.php?i=betel/areca_catechu_nut__i2005e0287_disp.jpg	Close-up of a single fresh Areca catechu nut. [Taiwan]	Photo by Stuart J. &copy; 2007 Erowid.org
+Areca catechu Nut in Betel Leaf	https://www.erowid.org/plants/show_image.php?i=betel/betel_wrap__i2005e0285_disp.jpg	Areca catechu nut wrapped in Betel leaf. [Taiwan]	Photo by Stuart J. &copy; 2007 Erowid.org
+Areca catechu nuts	https://www.erowid.org/plants/show_image.php?i=betel/areca_catechu_nut2.jpg	Color photo of a pile of shredded Betel nut. The material is old and slightly moldy. (Berkeley, CA)	Photo by Erowid, &copy; 2000 Erowid.org
+Areca catechu nuts	https://www.erowid.org/plants/show_image.php?i=betel/areca_catechu_nut3.jpg	Color photo of a pile of Betel nut chunks.	Photo by Erowid, &copy; 2000 Erowid.org
+Areca catechu nuts	https://www.erowid.org/plants/show_image.php?i=betel/areca_catechu_nut1.jpg	Color photo of both whole and crushed betel nuts on a plate.	Photo by Murple, &copy; 2000 Erowid.org
+Areca catechu	https://www.erowid.org/plants/show_image.php?i=betel/areca_catechu4.jpg	Color photo of a young blossoming Betel Palm with ripe fruits present. (Thai Island of Koh Samui)	Photo by John W. Allen. Used by Erowid with permission.
+Areca catechu	https://www.erowid.org/plants/show_image.php?i=betel/areca_catechu2.jpg	Color drawing of tree, nut, and flower.	From Kohler's Medicinal Plants. Missouri Botanical Garden.
+Areca catechu	https://www.erowid.org/plants/show_image.php?i=betel/areca_catechu3.jpg	Color photo of A. catechu tree.	Photo by Thomas Schoepke from www.plant-pictures.com.
+Areca catechu	https://www.erowid.org/plants/show_image.php?i=betel/areca_catechu1.jpg	Small color drawing of A. catechu tree.	Artist Unknown
+Betel Nut Cracker	https://www.erowid.org/plants/show_image.php?i=betel/betel_nut_cracker1.jpg	Color scan of an antique Betel Nut cracker from Thailand, along with both whole and cracked nuts.	Photo by Murple, &copy; 2001 Erowid.org
+Areca catechu	https://www.erowid.org/plants/show_image.php?i=betel/areca_catechu_botanical_drawing__i2006e0055_disp.jpg	Color botanical drawing of Areca catechu.	Artist Unknown. &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Areca catechu
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Betel Nut (Areca catechu) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.	
+The U.S. Food and Drug Administration has issued an import alert resulting in automatic detention of betel if it is detected by U.S. Customs officers (IA #23-06; revised July 17, 1992). Likewise, the U.S. Department of Agriculture enforces a prohibition against importation of betel nuts, which seems to apply only to nuts in raw or unprocessed condition (51 Agric. Dec. 1278, 1992 WL 515928 (U.S.D.A.) and 7 C.F.R. � 318.13). But there is also contradictory evidence which suggests that Betel Nuts may be legally imported in some forms. [Van McCrary, uh.edu]
+stateLaw :: null
+internationalLaw :: Australia	Betel nuts are reportedly legal to cultivate, buy, sell, possess, and consume in all states in Australia. (unconfirmed) (thanks C)
+China	Betel nuts are reportedly legal to cultivate, buy, sell, possess, and consume in China. (unconfirmed) (thanks k) (last updated Apr 26 2010)
+Taiwan	Betel nuts are reportedly legal to cultivate, buy, sell, possess, and consume in all parts of Taiwan. (unconfirmed) (thanks GW)
+
+[Chemistry]
+chemTable :: ACTIVE CONSTITUENTS :	Arecoline is a volatile oil released from the nut by 
+saliva and lime. Other constituents in the nut include arecaidin, arecaine and choline. Betel leaf contains chavicol, allylpyrocathechol, chavibetol and cadinene.
+moleculeURL :: null

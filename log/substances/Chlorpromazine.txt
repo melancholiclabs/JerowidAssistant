@@ -1,0 +1,36 @@
+[Substance]
+
+id :: 263
+name :: Chlorpromazine
+url :: https://www.erowid.org/pharms/chlorpromazine/chlorpromazine.shtml
+category :: Pharms
+commonNames :: Chlorpromazine; Thorazine; Largactil
+effectsClassification :: Antipsychotic; Antiemetic
+chemicalName :: 2-chloro-N,N-dimethyl-10H-phenothiazine-10-propanamine
+description :: Chlorpromazine is most commonly used to treat psychotic disorders.
+imageURL :: https://www.erowid.org/pharms/chlorpromazine/images/chlorpromazine_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/chlorpromazine/chlorpromazine_images.shtml
+lawURL :: https://www.erowid.org/pharms/chlorpromazine/chlorpromazine_law.shtml
+
+[Images]
+imageEntryList :: Thorazine Tablets	https://www.erowid.org/pharms/show_image.php?i=chlorpromazine/thorazine_tablet2.jpg	Color photo of 50 mg Thorazine tablets bearing the imprint "GG/407 || 50". [MA, USA]	Photo by Phuzz, &copy; 2005 Erowid.org
+Chlorpromazine (Thorazine) Tablets	https://www.erowid.org/pharms/show_image.php?i=chlorpromazine/chlorpromazine_tablet__i2005e0953_disp.jpg	A number of chlorpromazine (Thorazine) tablets with the imprint "GG/476 || 25" [USA]	Photo by Tfeop. &copy; 2009 Erowid.org
+Chlorpromazine Tablets	https://www.erowid.org/pharms/show_image.php?i=chlorpromazine/chlorpromazine_tablet2.jpg	Color photo of 25 mg chlorpromazine tablets in blister packs, bearing the imprint "832/25". [TX, USA]	Photo by Embroglio, &copy; 2005 Erowid.org
+Chlorpromazine Tablets	https://www.erowid.org/pharms/show_image.php?i=chlorpromazine/chlorpromazine_tablet1.jpg	Color photo of a Japanese brand of chlorpromazine tablets. [Japan]	Photo by Mean Cinderella, &copy; 2005 Erowid.org
+Thorazine Tablet	https://www.erowid.org/pharms/show_image.php?i=chlorpromazine/thorazine_tablet1.jpg	Color photo of a thorazine tablet.	Photo from the Physicians' Desk Reference
+Thorazine	https://www.erowid.org/pharms/show_image.php?i=chlorpromazine/thorazine_capsule1.jpg	Color photo of a thorazine capsule.	Photo from the Physicians' Desk Reference
+Thorazine	https://www.erowid.org/pharms/show_image.php?i=chlorpromazine/thorazine_bottle1.jpg	Color photo of a bottle of thorazine concentrate.	Photo from the Physicians' Desk Reference
+Thorazine	https://www.erowid.org/pharms/show_image.php?i=chlorpromazine/thorazine_bottle2.jpg	Color photo of a multi-dose bottle of thorazine.	Photo from the Physicians' Desk Reference
+Thorazine	https://www.erowid.org/pharms/show_image.php?i=chlorpromazine/thorazine_bottle3.jpg	Color photo of a bottle of thorazine syrup.	Photo from the Physicians' Desk Reference
+Thorazine	https://www.erowid.org/pharms/show_image.php?i=chlorpromazine/thorazine_ampule1.jpg	Color photo of 2 thorazine ampules.	Photo from the Physicians' Desk Reference
+Thorazine	https://www.erowid.org/pharms/show_image.php?i=chlorpromazine/thorazine_suppository1.jpg	Color photo of a thorazine suppository.	Photo from the Physicians' Desk Reference
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Chlorpromazine
+REGULATED	Yes
+STATUS	Prescription Only
+SCHEDULE	Un-Scheduled
+federalLawText :: Chlorpromazine (Thorazine) is unscheduled in the United States, but is available by prescription only. This means that sales and distribution are allowed only by those with a license and only to those with a prescription (according to FDA regulations). Possession is not illegal even without a prescription.
+stateLaw :: null
+internationalLaw :: 

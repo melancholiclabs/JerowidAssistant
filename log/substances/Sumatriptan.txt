@@ -1,0 +1,28 @@
+[Substance]
+
+id :: 314
+name :: Sumatriptan
+url :: https://www.erowid.org/pharms/sumatriptan/sumatriptan.shtml
+category :: Pharms
+commonNames :: Imitrex; Sumitrex; Migranol
+effectsClassification :: Antimigraine
+chemicalName :: 3-(2-(dimethylamino)ethyl)-N-methyl-1H-indole- 5-methanesulfonamide butane-1,4-dioate(1:1)
+description :: Sumatriptan succinate is a selective 5-HT receptor agonist used in the treatment of migraine headaches.
+imageURL :: https://www.erowid.org/pharms/sumatriptan/images/sumatriptan_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/sumatriptan/sumatriptan_images.shtml
+lawURL :: https://www.erowid.org/pharms/sumatriptan/sumatriptan_law.shtml
+
+[Images]
+imageEntryList :: Sumatriptan	https://www.erowid.org/pharms/show_image.php?i=sumatriptan/sumatriptan_tablet1.jpg	Color photo of two 25 mg Imitrex tablets in their blister packaging [California].	Photo by Erowid, &copy; 2003 Erowid.org
+Sumatriptan	https://www.erowid.org/pharms/show_image.php?i=sumatriptan/sumatriptan_tablet2.jpg	Color photo of the back of the Imitrex blister packaging [California].	Photo by Erowid, &copy; 2003 Erowid.org
+Sumatriptan (Imitrex) Tablet	https://www.erowid.org/pharms/show_image.php?i=sumatriptan/sumatriptan_packaging__i2004e0333_disp.jpg	A single 50 mg sumatriptan (Imitrex) tablet in a blister pack showing both front and back. [WA, USA]	Photo by SWL. &copy; 2009 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Sumatriptan
+REGULATED	Yes
+STATUS	Prescription Only
+SCHEDULE	Un-Scheduled
+federalLawText :: Sumatriptan (Imitrex) is unscheduled in the United States, but is available by prescription only. This means that sales and distribution are allowed only by those with a license and only to those with a prescription (according to FDA regulations). Possession is not illegal even without a prescription.
+stateLaw :: null
+internationalLaw :: 

@@ -1,0 +1,29 @@
+[Substance]
+
+id :: 271
+name :: Dihydrocodeine
+url :: https://www.erowid.org/pharms/dihydrocodeine/dihydrocodeine.shtml
+category :: Pharms
+commonNames :: SS Bron; DHC Plus; Panlor DC
+effectsClassification :: Opioid Analgesic
+chemicalName :: 4,5-alpha-epoxy-3-methoxy-17-methyl-morphinan-6-ol
+description :: Dihydroxycodeine is an opiate agonist and analgesic used in the treatment of moderate to severe pain. It is often administered with anti-inflammatories (e.g. aspirin) and caffeine.
+imageURL :: https://www.erowid.org/pharms/dihydrocodeine/images/dihydrocodeine_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/dihydrocodeine/dihydrocodeine_images.shtml
+lawURL :: https://www.erowid.org/pharms/dihydrocodeine/dihydrocodeine_law.shtml
+
+[Images]
+imageEntryList :: Dihydrocodeine Tablets	https://www.erowid.org/pharms/show_image.php?i=dihydrocodeine/dihydrocodeine__i2007e1700_disp.jpg	Two 30 mg dihydrocodeine tablets on their packaging box. [UK]	Photo by Nigel Cullom. &copy; 2007 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Codeine
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule II
+CLASSIFICATION	- - -
+federalLawText :: Dihydrocodeine is Schedule II in the United States. This means it is illegal to sell without a DEA license and illegal to buy or possess without a license or prescription.
+stateLaw :: null
+internationalLaw :: Cambodia	We have been told that dihydrocodeine in extended-release form is widely available over-the-counter at about 50 to 75 cents per pill. (unconfirmed) (thanks M)
+Colombia	One visitor reported that tramadal, codeine with acetaminophen, hydrocodone with ibuprofen (5/200), and dihydrocodeine by itself can be purchased in Colombia over the counter in any drug store. (unconfirmed) (thanks p) (last updated Jun 12 2013)
+Japan	A visitor reported that a product called SS Bon (granules) is available over the counter in Japan, containing 10 mg of dihydrocodeine per packet, 18 packets per box. (unconfirmed) (thanks dn) (last updated July 23 2010)

@@ -1,0 +1,164 @@
+[Substance]
+
+id :: 56
+name :: Caffeine
+url :: https://www.erowid.org/chemicals/caffeine/caffeine.shtml
+category :: Chemicals
+commonNames :: Many
+effectsClassification :: Stimulant
+chemicalName :: 3,7-dihydro-1,3,7-trimethyl-1h-purine-2,6-dione
+description :: Caffeine is an extremely common stimulant used daily by a large portion of the world's population. It has a long history of use and is well-documented and -researched.
+imageURL :: https://www.erowid.org/chemicals/caffeine/images/caffeine_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/caffeine/caffeine_basics.shtml
+effectsURL :: https://www.erowid.org/chemicals/caffeine/caffeine_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/caffeine/caffeine_images.shtml
+healthURL :: https://www.erowid.org/chemicals/caffeine/caffeine_health.shtml
+lawURL :: https://www.erowid.org/chemicals/caffeine/caffeine_law.shtml
+doseURL :: https://www.erowid.org/chemicals/caffeine/caffeine_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/caffeine/caffeine_chemistry.shtml
+
+[Basics]
+description :: Caffeine is a chemical with stimulant properties that is found in many plants including tea, coffee, and guarana. At commonly used doses it is a mild stimulant and cognitive enhancer that improves focus and mood. [ Main Caffeine Vault ]
+descriptionSections :: dose	Caffeine is used at dosages ranging from 5-200 mg. On average, a drip-brewed cup of coffee contains 100-150 mg caffeine, a can of cola contains 35-45 mg, and a cup of tea contains 40-60 mg.
+price	Caffeine is widely available both in foods and beverages as well as in inexpensive capsules and tablets.
+law	Caffeine is legal in every country around the world. In the United States, Caffeine is approved as a food additive by the Food and Drug Administration (FDA). For beverages, the FDA limits caffeine content to 72 mg per 12 ounce (355 ml) serving. Products sold as "energy drinks" are not limited by this rule because they are currently allowed as "dietary supplements" rather than food.
+chemistry	Caffeine is a xanthine alkaloid, with a chemical name 1,3,7-trimethylxanthine (C8H10N4O2). Its structure is very similar to the stimulants theobromine (3,7-dimethylxanthine) and theophylline (1,3-dimethylxanthine), which are frequently found in the same plants as caffeine.
+pharmacology	When orally administered, caffeine is readily absorbed by the stomach and small intestine. It has a highly-variable elimination half-life, approximately 8-9 hours in adults. It is partially metabolized by the liver into the active dimethylxanthine stimulants theobromine and theophyline, along with other metabolites. Caffeine blockades receptors of the inhibitory neurotransmitter adenosine, and this effect is believed to be the primary mechanism of its stimulant action. Caffeine also affects GABA, the brain's primary inhibitory neurotransmitter.
+production	Production Summary Needed.
+history	Throughout caffeine's long history of use, which dates back into pre-history, it has been both praised and damned for its effects. Today caffeine is greeted with near-universal approval and caffeine may well be the most commonly-used psychoactive substance on the planet. Caffeine-producing plants like tea and coffee have been heavily cultivated and have played an important role in commerce throughout recorded history.
+terminology	The Substance:Caffeine. The Experience:No common terms known.
+effects :: Caffeine causes stimulation, arousal, wakefulness, and increased alertness. It increases urine production (diuretic), causes blood vessels to contract (vassoconstrictor), and generally increases blood pressure.
+effectsSections :: onset	When taken orally, caffeine takes 15-45 minutes to reach its peak effects in the body although stimulant effects are noticeable at 5-10 minutes.
+duration	The effects of caffeine are most strongly felt for approximately 2 to 4 hours after onset.
+visuals	Visuals Summary Needed.
+problems :: High doses within the normal range of use (250 - 750 mg) can cause insomna, anxiety, tension, nausea, headache, and irregular heartbeat. Very high doses (750 mg - 1 g) can produce toxic symptoms such as nausea, vomiting, tremor, seizures, and irregular heart beat. There are deaths associated with caffeine overdoses, though it is extremely uncommon. The lethal dose for humans has been estimated at between 3-20 grams.
+problemsSections :: contraindications	People suffering from ulcers may find that caffeine worsens these problems. Those with generalized anxiety disorder or panic disorder should use caution in consuming caffeine, which may trigger panic attacks in sensitive populations. Pregnant mothers may wish to avoid caffeine. Some studies have found a correlation between moderate caffeine intake and miscarriage while other studies have found no correlation.
+addiction	Caffeine use leads to physiological dependency and tolerance. Discontinuation of regular use causes mild to moderate withdrawal symptoms, including sluggishness, fatigue, headaches, mild depression, and sometimes restlessness.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Effects]
+duration :: null
+positiveEffects :: Reduces boredom [Loke 1988]	Decreases depression Increased alertness when tired [Wesenten 2005, Kamimori 2005, Search PubMed]	Willingness to consider alternative theories [Martin 2006]	Increases physical stamina and reduces perceived exertion [McLellan TM 2004]	May attenuate the response-slowing effect of alcohol [Roehrs 2004]	Increases performance on boring, repetitive tasks [Smith 2002]
+neutralEffects :: Research has failed to show improved memory or improvement in complex cognitive tasks [Smith 2002]
+negativeEffects :: Increases anxiety and nervousness at high doses or in sensitive individuals [Lieberman 1992Loke 1988]	Insomnia, decreased ability to sleep [Smith 2002]	Caffeine withdrawal can worsen mood [Schuh 1997]	Caffeine withdrawal causes headaches, flu-like symptoms, feelings of lethargy and reduces motivation [Schuh 1997]	Increases jaw tension and bruxism [Erowid Self Reports 2000, Ohayon 2001]	Although caffeine can increase seizure threshold (decrease likelihood of seizures) in some people, other epileptics say that caffeine can trigger seizurres.
+description :: INDEX	
+What are the short term effects of caffeine on the body?	How long does it take to feel caffeine's effects?	What are the symptoms of caffeine overdose?	How does caffeine affect sleep?	Addiction and Withdrawal	
+
+
+
+
+What are the short term effects of caffeine on the body?	
+Caffeine increases heartbeat, respiration, basal metabolic rate, gastroenteric reflexes, and the production of stomach acid and urine; and it relaxes smooth muscles, notably the bronchial muscle. All of these changes vary considerably among people and may depend upon the individual's sensitivity to this drug, his/her metabolism, or upon whether the consumer habitually uses or rarely uses caffeine. How long caffeine's effects last is influenced by the person's hormonal status, whether he/she smokes or takes medications, or has a disease that impairs liver functioning.	
+Subjectively, people report that caffeine gives them a "lift." They feel less drowsy, less fatigued, more capable of rapid and sustained intellectual effort. They also report improved performance of some manual tasks such as driving. However, caffeine may restore only those abilities or feelings the person had before fatigue or boredom set in. Studies have also shown that caffeine decreases reaction time to both visual and auditory stimuli; it does not significantly alter numerical reasoning (arithmetic skills) or short-term memory; and it can diminish performance of manual tasks that involve delicate muscular coordination and accurate timing.	
+When caffeine is taken in high doses it can cause many unwanted side effects. To learn more about these, please read "What are the symptoms of caffeine overdose?"	
+
+
+How long does it take to feel caffeine's effects?	
+Caffeine is rapidly absorbed through the stomach and small intestine into the bloodstream, where it takes about 15-45 minutes to reach peak levels. The level of caffeine in the blood reaching the brain determines the potency of its effects on the body. Usually the central nervous system is maximally stimulated within 30-60 minutes. Caffeine is metabolized by the liver and eventually its metabolites are excreted in urine, although caffeine can also be secreted in saliva, semen, and breast milk.	
+Caffeine will continue to have an effect on the body as long as it remains in the blood. The time required for the body to eliminate one-half of the total amount of caffeine consumed (or caffeine's half-life) varies from several hours to several days, but for the average non-smoking adult it is about 3-4 hours.1, 2 Several factors can lengthen caffeine's half-life, such as some medications, liver diseases, pregnancy, and the level of enzymes in the liver needed for caffeine metabolism. The half-life of caffeine in a pregnant women is 18-20 hours; the half-life in women taking oral contraceptives is up to 13 hours. Other factors, such as smoking can shorten caffeine's half-life. Half-life in a newborn baby may be as long as 30 hours.2	
+
+
+
+
+
+References #	
+Shyu JK, Wang YJ, et al. "Caffeine clearance test: a quantitative liver function assessment in patients with liver cirrhosis" Zhonghua Yi Xue Za Zhi. 1996;57(5):329-34.	Lippincott Williams & Wilkins. Physician's Drug Handbook. 2003; p 236.	
+
+
+
+
+
+
+What are the symptoms of caffeine overdose?	
+Caffeine stimulates the central nervous system and can produce a variety of effects elsewhere in the body. The symptoms of a caffeine overdose ("caffeinism") will vary, according to individual differences and the amount consumed. Doses ranging from 250 to 750 mg (2 to 7 cups of coffee or 1-4 tablets of NoDoz) can produce restlessness, dizziness, nausea, headache, tense muscles, sleep disturbances, and irregular heart beats. Doses of over 800 mg (7 cups of coffee or 4 tablets of NoDoz) can produce all of the above as well as a reaction similar to an anxiety attack, including delirium, drowsiness, ringing ears, diarrhea, vomiting, light flashes, difficulty breathing, convulsions (extreme overdose). These amounts of caffeine may come from a single dose or from multiple doses at short intervals. Besides caffeine's effects, the essential oils of coffee may cause gastrointestinal irritation and diarrhea, and the high tannin content of tea can result in constipation.	
+
+
+How does caffeine affect sleep?	
+Studies of the effect of caffeine on sleep have shown that one strong cup of coffee, drunk 30-60 minutes before going to sleep, can cause restlessness and difficulty falling asleep, increased body movements, a tendency to be awakened more readily by sudden noises, and a decreased quality of sleep.	
+The wide variation in caffeine's effects on sleep may be related to whether the person is a habitual, heavy user or a non-user of caffeine. Non-users report greater difficulty with sleep after consuming caffeine. Heavy users may also experience sleep disturbances; however, their increased tolerance to the effects of caffeine affects their perceptions of disturbed sleep. Often they sleep for shorter periods of time, but have grown accustomed to this pattern.	
+If you use caffeine and are having trouble sleeping, you may want to try cutting back on your total daily intake or avoid consumption 5-7 hours before you plan on sleeping, to allow time for the caffeine to be metabolized.	
+
+
+Caffeine and Health Problems	
+HEARTBURN - In some people, coffee has been shown to relax the sphincter muscles at the lower end of the esophagus, allowing the stomach contents to "back up" into the esophagus; this is called heartburn. Caffeine alone has no effect on the sphincter muscles, so other substances in coffee apparently cause the heartburn.	
+ULCERS - Caffeine can increase the secretion of both acid and pepsin in the stomach, which could exacerbate an existing ulcer. However, since both "regular" and decaffeinated coffees have also been shown to stimulate the gastric mucosa and increase stomach acid secretion, caffeine is probably not the only component of coffee responsible.	
+FIBROCYSTIC BREAST DISEASE - In the late '70's and '80's, several well-publicized studies linked caffeine consumption with benign fibrocystic breast disease (FBD). More recent investigations, however, have not supported these findings. Individual women may notice a decrease in palpable breast lumps, the symptoms of FBD, when they limit their caffeine intake, although research has not shown a direct association.	
+HEART PROBLEMS - Caffeine has been shown to cause cardiac arrhythmias (irregular heartbeats) in certain individuals; often persons with heart disease are told to avoid caffeine altogether. However, no evidence shows that caffeine is a causative factor in the development of heart disease. Also see "Has coffee drinking been linked to heart disease?" in this section.	
+HEART DISEASE - The relationship between coffee drinking and heart disease has been investigated in numerous studies but strong, independent risks associated with coffee drinking have not been clearly documented. Researchers at Johns Hopkins Medical Institute recently found heavy coffee drinkers (defined as five or more cups per day) were two to three times more likely to have coronary heart disease than were nondrinkers (NEJM, October 16, 1986). This relationship was true even when accounting for other important risk factors such as age, smoking habits, serum cholesterol and blood pressure.	
+However, the study did not control for the effects of diet, sedentary lifestyle or high levels of occupational stress. Nor did it indicate the exact quantity in ounces of coffee consumed, the type of coffee (regular or decaffeinated), the brewing method, or the use of cream or sugar.	
+If coffee drinking does increase the risk of heart disease, it may do so through its effect on cholesterol. A few studies have linked heavy coffee consumption to elevated total serum cholesterol, although caffeine alone does not seem to be responsible. Perhaps it's not even the coffee, but a high saturated fat diet among heavy coffee drinkers that's increasing the risk of heart disease. Increased coffee consumption by men has been associated with increased calorie consumption from fat and increased cholesterol intake. (Adapted from DNS ALERT, Cornell Cooperative Extension, Dec. 1986)	
+
+
+Addiction and Withdrawal	
+Caffeine is addictive according to several definitions of 'addiction'. It causes withdrawal symptoms after cessation of heavy use (most commonly headaches) and regular users develop tolerance and experience cravings when ceasing use. Regular users can also become emotionally and mentally dependent upon their daily caffeine (coffee, soda, etc).	
+
+Withdrawal Symptoms	Caffeine has the potential to produce tolerance, which means that increased amounts of the drug are needed to achieve a consistent effect. Withdrawal symptoms can occur when use of caffeine is stopped abruptly. Users may experience fatigue, and most commonly, headaches. Primary withdrawal effects last for only a few days though mild withdrawal effects can last as long as a week or two.	
+
+craving	tiredness, lethargy	confusion and inability to focus	headaches, which may not respond to painkillers, but may abate with the intake of caffeine
+experienceReports :: null
+
+[Images]
+imageEntryList :: Caffeine Powder	https://www.erowid.org/chemicals/show_image.php?i=caffeine/caffeine__i2005e1397_disp.jpg	Exactly 1 gram of water free pharmacological grade caffeine powder in a 5ml glass sitting on a scale. [Europe]	Photo by Andy. &copy; 2006 Erowid.org
+Caffeine	https://www.erowid.org/chemicals/show_image.php?i=caffeine/caffeine_powder__i2005e1558_disp.jpg	Close-up photo of Caffeine powder.	Photo by H. &copy; 2006 Erowid.org
+Caffeine	https://www.erowid.org/chemicals/show_image.php?i=caffeine/caffeine_powder__i2005e1559_disp.jpg	Freshly recrystallized caffeine, still damp.	Photo by H. &copy; 2007 Erowid.org
+Caffeine Tablets	https://www.erowid.org/chemicals/show_image.php?i=caffeine/caffeine_tablet__i2005e1573_disp.jpg	Twelve 200 mg Caffeine tablets with the imprint "ALVA". [Vancouver, Canada]	Photo by J.R. Leach. &copy; 2006 Erowid.org
+NoDoz Caffeine Tablet	https://www.erowid.org/chemicals/show_image.php?i=caffeine/caffeine_tablet__i2004e0329_disp.jpg	NoDoz Caplet containing 200 mg caffeine. [IN, USA]	Photo by Sgiria. &copy; 2006 Erowid.org
+Caffeine 2D Molecule	https://www.erowid.org/chemicals/show_image.php?i=caffeine/caffeine_2d.gif	Still 2D image of the caffeine molecule.	Image by Erowid. &copy; 2001 Erowid.org
+Caffeine 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=caffeine/caffeine_3d.jpg	Still 3D image of the Caffeine molecule.	Image by Erowid. &copy; 1999 Erowid.org
+Caffeine 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=caffeine/caffeine__.mol	Rotating 3D image of the Caffeine molecule.	Image by Erowid. &copy; 1999 Erowid.org
+Caffeine 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=caffeine/caffeine_3d_mid-2.gif	Alternate still 3D image of the Caffeine molecule.	Source unknown.
+
+[Health]
+notes :: null
+deaths :: null
+warnings :: null
+cautions :: null
+benefits :: null
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Caffeine
+REGULATED	No
+STATUS	Food Approved
+SCHEDULE	Un-Scheduled
+federalLawText :: Caffeine sales are legal and unregulated in the United States. It is sold over-the-counter in a variety of products as well as in tablet form.
+stateLaw :: null
+internationalLaw :: Australia	Maximum of 36 mg per 250 ml serving in beverages. "Australian Food Standards Code: The Australian Food Standards Code restricts the addition of caffeine to kola-type soft drinks, flavoured cordials and flavoured syrups. In these drinks, the total caffeine content must not exceed 145 mg/kg (36 mg/250 ml serve) in the drink as consumed. The Code does not prescribe limits for naturally occurring caffeine in food - for example, tea, coffee and guarana. The caffeine levels in these foods will not normally exceed 100 mg in a standard serving." See www.foodstandards.gov.au. (thanks l) (last updated Nov 22, 2009)
+Canada	100 mg caffeine tablets are available over-the-counter in Canada. Energy drinks containing 300 mg of caffeine are also available. (unconfirmed) (thanks N)
+Denmark	According to I.D.Drinks, the Danish government allows a maximum of 150 mg of caffeine per liter of drink for prepared drinks, except coffee. The government claims that over 150 mg/l is 'dangerous'. The maximum level in most of Europe is 320 mg/liter. (unconfirmed) (thanks IDD) Red Bull is reportedly banned in Denmark. (unconfirmed) (thanks D)
+Germany (Deutschland	A visitor writes that caffeine tablets can be purchased over the counter without prescription from Apotheken, pharmacy shops that have professionals who give drug advice to customers. Products include 200 mg tablets sold for around 4-8 euros per 50 tablets in 2010. One brand name is Coffeinum. (Thanks CU) (last updated Apr 19 2010)
+Netherlands (Nederland	An Erowid reader reports that: "some shops will not sell drinks with high caffeine content to people under 16, such as energy drinks. The maximum caffeine content for any drink is 320 mg/liter. Caffeine pills can be bought at phamacies and smartshops, although the legal minimum age for purchasing over-the-counter drugs is 16. This is rarely enforced though. Smartshops will not serve any customer under 18, no matter what purchase is made." (unconfirmed) (thanks T) (last updated may 15, 2009)
+New Zealand	Maximum 50 mg per 250 ml serving. "In New Zealand, caffeine may be added to any soft drinks, and a maximum level of 200 mg/kg is prescribed. It is also permitted to be used as a flavouring in any other non-alcoholic beverages where flavourings are permitted, with no maximum level prescribed." See foodstandards.gov.au. (last updated Nov 22, 2009)
+Norway	Norwegian law allows a maximum of 32 mg of caffeine per 100 ml of drink. In 2009, energy drinks such as Red Bull became legal in Norway because of trade agreements with Europe. Despite not being part of the European Union (EU), Norway is part of the European Free Trade Association (EFTA) and European Economic Area (EEA). Since the EU changed its regulations to classify Red Bull-like energy drinks as food, members of the EFTA and EEA now must accept EU regulated foods and drinks as trade items. (thanks Y) (last updated Oct 14, 2009)
+Russian Federation	One visitor reports that energy drinks containing 30mg of caffeine per 100ml of liquid are widely available and "Red Bull shots" are also available which reportedly contain more. Caffeine tablets are available from pharmacies, usually a prescription is required. (unconfirmed) (thanks AA) (last updated Jan 13, 2012)
+
+[Dose]
+doseTable :: Oral Caffeine Dosages
+Threshold10 - 20 mg
+Common50 - 150 mg
+Strong150 - 400 mg
+Heavy400 + mg
+Lethal3-20 grams oral (estimated, see below)
+LD50 (Lethal Dose*)192 mg/kg in rats
+Onset : 5 - 10 minutes
+Duration : 1.5 - 5 hours
+Normal After Effects : up to 24 hours
+doseText :: Caffeine is a very common substance that is contained in chocolate, soft drinks, tea, coffee, and can also be purchased as capsules, tablets, or powder. The chart below shows dosages for common caffeine products measured in milligrams (mg).  For caffeine levels in common foods and beverages, see the Caffeine Content of Beverages, Foods, &amp; Medications.   Please Note: Caffeine in concentrated forms such as pills or powders can accidentally be taken in sufficient quantities to cause vomiting, unconsciousness, and death. A single box of Vivarin or No-Doze (US Products) can be fatal if taken at one time. Although possible with coffee or other strongly caffeinated drink, it generally requires much more awareness of the large dosage before dangerous levels are reached.     Oral Caffeine Dosages Threshold10 - 20 mg Common50 - 150 mg Strong150 - 400 mg Heavy400 + mg Lethal3-20 grams oral (estimated, see below) LD50 (Lethal Dose*)192 mg/kg in rats    Onset : 5 - 10 minutes Duration : 1.5 - 5 hours Normal After Effects : up to 24 hours   * LD50 = dose which will kill 50% of the tested animals. It is estimated that fatal doses for humans  are between 3 and 20 grams of caffeine taken orally, depending on body weight and tolerance.  See Caffeine Overdose for more information about case reports of caffeine fatalities.
+notes :: null
+
+[Chemistry]
+chemTable :: NAME :	Caffeine
+CHEMICAL NAME :	3,7-Dihydro-1,3,7-trimethyl-1H-purine-2,6-dione
+ALTERNATE CHEMICAL NAMES : 	 1,3,7-trimethylxanthine; 1,3,7-trimethyl-2,6-dioxopurine; coffeine
+ALTERNATE CHEMICAL NAMES : 	 thein; guaranine; methyltheobromine; No-Doz
+CHEMICAL FORMULA	C8H10N4O2
+MOLECULAR WEIGHT	194.19
+LD50 Dog	140 mg/kg  oral
+LD50 Rat	105 mg/kg IV
+LD Low (Lethal Dose)	Human deaths reported at less than 4 grams oral.
+From the Merck Index 12th Edition
+&nbsp;
+Mechanism of Action	Adenosine receptor antagonist.  Phosphodiesterase inhibition keeps cAMP levels high, but may not be clinically relevant.
+CAS #	 58-08-2
+moleculeURL :: https://www.erowid.org/chemicals/caffeine/images/archive/caffeine_3d_mid.jpg

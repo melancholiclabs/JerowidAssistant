@@ -1,0 +1,44 @@
+[Substance]
+
+id :: 258
+name :: Buprenorphine
+url :: https://www.erowid.org/pharms/buprenorphine/buprenorphine.shtml
+category :: Pharms
+commonNames :: Temgesic; Subutex; Buprenex; Suboxone
+effectsClassification :: Opioid; Analgesic; Anxiolytic
+chemicalName :: 17-(cyclopropylmethyl)-alpha-(1,1-dimethylethyl)-4,5-epoxy- 18,19-dihydro-3-hydroxy-6-methoxy-alpha-methyl-6,14- ethenomorphinan-7-methanol
+description :: Buprenorphine is a semi-synthetic opioid derived from thebaine. It is an analgesic (pain killer) and has gained a great deal of notoriety for its ability to interrupt severe opiate addiction, including heroin and methadone addictions. It was approved by the FDA in 2002 for use as an opiate addiction treatment.
+imageURL :: https://www.erowid.org/pharms/buprenorphine/images/buprenorphine_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/buprenorphine/buprenorphine_images.shtml
+lawURL :: https://www.erowid.org/pharms/buprenorphine/buprenorphine_law.shtml
+
+[Images]
+imageEntryList :: Suboxone tablet	https://www.erowid.org/pharms/show_image.php?i=buprenorphine/suboxone_tablet2.jpg	Photo showing the front and back of a Suboxone tablet containing 8 mg buprenorphine and 2 mg naloxone. Bears the imprint "N8". [USA]	Photo by Adam Fedorko, &copy; 2006 Erowid.org
+Suboxone Tablet	https://www.erowid.org/pharms/show_image.php?i=buprenorphine/suboxone_tablet3.jpg	Photo showing the front and back of a Suboxone tablet containing 8 mg buprenorphine and 2 mg naloxone. Bears the imprint "N8". [USA]	Photo by Adam Fedorko, &copy; 2006 Erowid.org
+Suboxone Tablet	https://www.erowid.org/pharms/show_image.php?i=buprenorphine/suboxone_tablet1.jpg	Photo showing the front and back of two 8 mg Suboxone tablets bearing the imprint "N8". [PA, USA]	Photo by AcidBandit, &copy; 2006 Erowid.org
+Sublingual Suboxone Gelstrip	https://www.erowid.org/pharms/show_image.php?i=buprenorphine/suboxone_gelstrip__i2011e0215_disp.jpg	Sublingual Suboxone "Film" containing 8 mg buprenorphine and 2 mg naloxone. [Seattle, WA]	Photo by Opidiot. &copy; 2011 Erowid.org
+Suboxone Bottle	https://www.erowid.org/pharms/show_image.php?i=buprenorphine/suboxone_bottle1.jpg	Photo showing the a Suboxone bottle and tablets containing 2 mg buprenorphine and .5 mg naloxone. [Washington DC, USA]	Photo by CBT, &copy; 2006 Erowid.org
+Suboxone Bottles	https://www.erowid.org/pharms/show_image.php?i=buprenorphine/suboxone_bottle2.jpg	Photo showing three Suboxone bottles, two new style (orange) and one older style (white). [MD, USA]	Photo by Alternity, &copy; 2006 Erowid.org
+Suboxone Tablets	https://www.erowid.org/pharms/show_image.php?i=buprenorphine/buprenorphine_naloxone_tablet__i2008e1098_disp.jpg	Several Suboxone tablets containing 8 mg buprenorphine and 2 mg naloxone. [Australia]	Photo by Psych0naut. &copy; 2010 Erowid.org
+Buprenorphine 2D Molecule	https://www.erowid.org/pharms/show_image.php?i=buprenorphine/buprenorphine_2d.jpg	Still 2D image of the Buprenorphine molecule.	Image by Erowid, &copy; 2002 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Buprenorphine
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule III
+CLASSIFICATION	Narcotic
+federalLawText :: Buprenorphine (Temgesic, Subutex, Buprenex, Suboxone) is Schedule III in the U.S. This means it is illegal to sell without a license and illegal to possess without a valid license or prescription.	
+Buprenorphine was rescheduled in 2002 by the DEA from Schedule V to Schedule III. For more information on this, see DEA's Final Ruling on Rescheduling Buprenorphine, 2002.	
+On May 22, 2008, the DEA issued a Final Rule in the Federal Register increasing the number of patients a clinic can prescribe controlled substances (such as buprenorphine) to for the purposes of "maintenance or detoxification". Prior to this new rule, the maximum number of patients was 30 and was raised to 100. Drug treatment practitioners must notify the Secretary of Health and Human Services in order to qualify under this rule. See Federal Register: May 22, 2008 (Volume 73, Number 100).
+stateLaw :: null
+internationalLaw :: Austria	In Austria, buprenorphine is available by prescription both as Temgesic (for pain) and as Subutex (for opiate addiction). (thanks TNS)
+Croatia	In Croatia, buprenorphine is available by prescription only as Subutex in the form of 2 mg tablets for opiate addiction. Pharmacies sell Subutex, but prescriptions may only be dispensed by an approved addiction treatment physician. (unconfirmed) (thanks V) (last updated Dec 2005)
+Finland	In Finland, buprenorphine is available by prescription both as Temgesic (for pain) and as Subutex (for opiate addiction). Temgesic can be purchased from a pharmacy with a prescription, but pharmacies do not sell Subutex which has to be dispensed by an approved addiction treatment physician. (thanks SR)
+Germany	In Germany, buprenorphine is available by prescription both as Temgesic (for pain) and as Subutex (for opiate addiction). (thanks P)
+Netherlands	In the Netherlands, buprenorphine is listed on list 2 of the opiumlaw and available by prescription as Temgesic in 0.2 mg tablets for the treatment of severe pain and by injection in hospital settings. (thanks P) (last updated Jul 2007)
+Norway	Buprenorphine is a class A drug in Norway. Sold in 0.3mg Temgesic for pain relief and subutex (8mg) and suboxone (8mg) for opiate addiction treatment. See http://lovdata.no/for/sf/ho/to-19780630-0008-001.html. (thanks oe) (last updated Sep 26 2011)
+Sweden	Buprenorphine is a Schedule IV narcotic in Sweden. There are two brands, Temgesic and Subutex. Temgesic are sold as sublingual tablets at 0.2 and 0.4 mg and as injectionfluid 0.3 mg/ml. Subutex is sold as subling. pills at 0.4 mg, 2 mg and 8 mg. Generally any physician is allowed to prescbribe subutex, but there is a recommendation that only the ones praticing at drug treatment centers should treat addicts with subutex. Temgesic can be prescribed by any physician. (thanks JM) (last updated Mar 2003)
+Turkey	One visitor tells us that buprenorphine is only available as part of official addiction treatment, with a requirement for a prescription from a doctor working in an addiction clinic, that it be purchased from a major hospital, and also the patient must have passed a urine screen showing they are not using any other opioid. In 2011, available as combination buprenorphine and naloxone preparations at a 4:1 ratio: 2mg buprenorphine+0.5mg naloxone and 8mg + 2mg. (unconfirmed) (thanks W) (last updated June 14 2011)
+U.K. (Britain)	Buprenorphine is Schedule 3, Class C in the U.K. It requires a prescription or a license to possess legally. A Home Office license is required to export buprenorphine. It is commonly used as a treatment for heroin, methadone, or other severe opiate addiction and is often a preferred choice of medication for the treatment of heroin dependency. (thanks DW) (Jan 2005)

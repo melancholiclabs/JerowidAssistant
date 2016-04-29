@@ -1,0 +1,26 @@
+[Substance]
+
+id :: 245
+name :: Uva Ursi
+url :: https://www.erowid.org/herbs/uvaursi/uvaursi.shtml
+category :: Herbs
+botanicalClassification :: Family :Ericaceae, Genus :Arctostaphylos, Species :uva-ursicommonNames :: Bearberry; Crowberry; Foxberry; Hog Cranberry
+uses :: Diuretic and Urinary Tract Antisceptic; Used to treat ulcerations and other problems of the kidney and bladder; Vaginal Douche; Astringent.
+description :: Uva Ursi is a low-growing, evergreen shrub with dark green, leathery, oval leaves, 1/2-1 1/2 inches long. Pinkish-white flowers grow in dense, drooping clusters and are followed by bright red berries.
+imageURL :: https://www.erowid.org/herbs/images/herbs_spacer_summary.jpg
+imagesURL :: https://www.erowid.org/herbs/uvaursi/uvaursi_images.shtml
+lawURL :: https://www.erowid.org/herbs/uvaursi/uvaursi_law.shtml
+
+[Images]
+imageEntryList :: Arctostaphylos uvaursi	https://www.erowid.org/herbs/show_image.php?i=uvaursi/arctostaphylos_uvaursi1.gif	Black and white drawing of plant.	Artist unknown.
+Arctostaphylos uvaursi	https://www.erowid.org/herbs/show_image.php?i=uvaursi/arctostaphylos_uvaursi2.jpg	Color photo of plant.	Photographer unknown.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Uva Uris
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Uva Ursi (Arctostaphylos uva-ursi) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: 

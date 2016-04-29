@@ -1,0 +1,66 @@
+[Substance]
+
+id :: 298
+name :: Olanzapine
+url :: https://www.erowid.org/pharms/olanzapine/olanzapine.shtml
+category :: Pharms
+commonNames :: Zyprexa; Lanzac; Olansek
+effectsClassification :: Antipsychotic
+chemicalName :: 2-methyl-4-(4-methyl-l-piperazinyl)-10H-thieno[2,3-b] [1,5]benzodiazepine
+description :: Olanzapine is a novel antipsychotic used to treat psychoses including schizophrenia, bi-polar disorder, and acute manic episodes.
+imageURL :: https://www.erowid.org/pharms/olanzapine/images/olanzapine_summary1.jpg
+basicsURL :: https://www.erowid.org/pharms/olanzapine/olanzapine_basics.shtml
+effectsURL :: https://www.erowid.org/pharms/olanzapine/olanzapine_effects.shtml
+imagesURL :: https://www.erowid.org/pharms/olanzapine/olanzapine_images.shtml
+lawURL :: https://www.erowid.org/pharms/olanzapine/olanzapine_law.shtml
+chemistryURL :: https://www.erowid.org/pharms/olanzapine/olanzapine_chemistry.shtml
+
+[Basics]
+description :: Olanzapine is a thienobenzodiazapine atypical antipsychotic. It is chemically related to Quetiapine (Seroquel) and Clozapine (Clozaril). Olanzapine is used for reducing psychotic symptoms for medium-length periods (1-8 weeks). Long term usage has not been well studied and because it can take more than a day to reach stable blood levels, it is not often chosen for acute, emergency treatment. [ Main Olanzapine Vault ]
+descriptionSections :: dose	Taken orally, 5-20mg per day, starting at 5mg/day and then increased slowly by increments of 5mg per day, giving a week between changes to allow levels to stabilize. Zyprexa brand olanzapine comes in 2.5mg, 5mg, 7.5mg, 10mg, 15mg, and 20mg tablets. The Zyprexa Zydis tablets are an orally disintigrating version for people who have a tendency to spit out their medication.
+price	No Price
+law	Olanzapine is an unscheduled pharmaceutical available by prescription.
+chemistry	No Chemistry
+pharmacology	No Pharmacology
+production	No Production
+history	No History
+terminology	Brand Names:Zyprexa. The Substance:Olanzapine. The Experience:No common terms known.
+effects :: The peak plasma concetrations of olanzapine are achieved 6 hours after ingestion. The initial effects of olanzapine are sedation and, possibly, a dry mouth. The antipsychotic effect of olanzapine is not immediately apparent after single dosing. This is likely due to the fact that olanzapine accumulates over the period of a week to a steady state level in the bloodstream. These levels are roughly twice what would occur after a single dose of olanzapine.   Experimentally, olanzapine causes sedation in a a higher percentage of people than quetiapine or clozapine, however it is generally considered less sedating than either of these drugs. This makes olanzapine a very attractive choice for many patients who are bound to antipsychotics.  There is reason to believe that the 5-HT2 antagonism of olanzapine may have an antidepressant effect.
+effectsSections :: onset	PROBLEMS As with other antipsychotics, olanzapine is considered quite safe. Nonetheless, there is a small potential for a syndrome known as Neuroleptic Malignant Syndrome (NMS). NMS *has* been reported with olanzapine. Tardive Dyskinesia (potentially irreversible, involuntary, jerking) may develop in patients treated with olanzapine for long periods.   SideEffects Mental side effects include agitation, akathisia, amnesia, anxiety, dizziness, euphoria, headache, hostility, insomnia, sleepiness, stuttering, akithisia (restlessness of the legs).  Physical side effects include chest pain, edema, hypotension, tachycardia, abdominal pain, constipation, dry mouth, increased appetite, PMS (in women), weight gain, joint pain, rash, fever, and occasional sexual side effects.  Interactions  Carbamazepine reduces the effectiveness of olanzapine. Levodopa's effects may be blocked by the systemic antagonism of olanzapine.
+problems :: null
+problemsSections :: null
+
+[Effects]
+duration :: null
+positiveEffects :: Reduction in psychotic symptoms	Potential antidepressant effect	Reduction in anxiety	Euphoria
+neutralEffects :: Blurred vision	Dry mouth
+negativeEffects :: Agitation, anxiety	Akathisia (restless leg)	Dizziness	Insomnia	Weight gain	Sedation	Chest Pain, Hypotension, Tachycardia	Constipation	Joint Pain	Loss of Interest in Sex, occasional impotence in men
+description :: Pharmacology / Mechanism of Action	The mechanism of olanzapine is unknown, however it is hypothesized that its actions are mediated through a combination of serotonin type 2 (5-HT2) and Dopamine type 2 (DA-2) antagonism. Antagonism at other receptors may explain the side effects observed with olanzapine. Antagonism at histamine type 1 may explain the somnolence observed with this drug. Antagonism at muscarinic 1-5 receptors may explain the anticholinergic effects of olanzapine. Antagonism at alpha type 1 adregenic receptors may explain the orthostatic hypotension associated with olanzapine. Antagonism of muscarinic, histaminic H1 and alpha1-adrenergic receptors also possible.
+experienceReports :: null
+
+[Images]
+imageEntryList :: 10 mg Olanzapine (Zyprexa) Tablets	https://www.erowid.org/pharms/show_image.php?i=olanzapine/olanzapine_tablet__i2005e0575_disp.jpg	Blister pack of Zyprexa Velotabs containing 10 mg olanzapine. The yellow tablets are freezedried and soft at first but harden when exposed to air. [EU]	Photo by DB. &copy; 2009 Erowid.org
+Olanzapine Tablets	https://www.erowid.org/pharms/show_image.php?i=olanzapine/olanzapine_tablet__i2013e0177_disp.jpg	Front and back of two 7.5 mg yellow olanzapine tablets by ratiopharm, bearing the imprint "7.5" [Finland]	Photo by Survival. &copy; 2013 Erowid.org
+2.5 mg Olanzapine (Zyprexa) Tablets	https://www.erowid.org/pharms/show_image.php?i=olanzapine/olanzapine_tablet__i2006e2212_disp.jpg	Two 2.5 mg Olanzapine (Zyprexa) Tablets produced by Lilly and bearing the imprint "LILLY/4112" [NC, USA]	Photo by Herr Kazon. &copy; 2009 Erowid.org
+Zyprexa Tablets	https://www.erowid.org/pharms/show_image.php?i=olanzapine/zyprexa_tablet3.jpg	Color photo showing Zyprexa tablets bearing the imprint "Lilly/4115".	Photo by Entheomation, &copy; 2004 Erowid.org
+Zyprexa Tablets	https://www.erowid.org/pharms/show_image.php?i=olanzapine/zyprexa_tablets1.jpg	Photo showing Zyprexa tablets.	Photo from the Physicians' Desk Reference
+15 mg Zyprexa Tablets	https://www.erowid.org/pharms/show_image.php?i=olanzapine/zyprexa_tablets2.jpg	Photo showing 15 mg Zyprexa tablets.	Photo from the Physicians' Desk Reference
+Olanzapine Package	https://www.erowid.org/pharms/show_image.php?i=olanzapine/olanzapin_package__i2013e0176_disp.jpg	Box for 7.5 mg Olanzapine produced by Ratiopharm. [Finland]	Photo by Survival. &copy; 2013 Erowid.org
+Olanzapine 2D Molecule	https://www.erowid.org/pharms/show_molecule.php?i=olanzapine/olanzapine_2d.jpg	Still 2D image of the Olanzapine molecule.	Image &copy; 2003 Erowid.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Olanzapine
+REGULATED	Yes
+STATUS	Prescription Only
+SCHEDULE	Un-Scheduled
+federalLawText :: Olanzapine (Zyprexa) is unscheduled in the United States, but is available by prescription only. This means that sales and distribution are allowed only by those with a license and only to those with a prescription (according to FDA regulations). Possession is not illegal even without a prescription.
+stateLaw :: null
+internationalLaw :: 
+
+[Chemistry]
+chemTable :: NAME :	Olanzapine
+CHEMICAL NAME :	2-methyl-4-(4-methyl-1-piperazinyl)-10H-thieno[2,3-b][1,5]benzodiazepine
+ALTERNATE NAMES : 	Zyprexa, Lanza
+CHEMICAL FORMULA	C17H20N4S6-2&#189;H2O
+moleculeURL :: https://www.erowid.org/pharms/olanzapine/images/olanzapine_2d.jpg

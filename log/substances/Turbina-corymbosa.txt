@@ -1,0 +1,37 @@
+[Substance]
+
+id :: 179
+name :: Turbina corymbosa
+url :: https://www.erowid.org/plants/ololiuqui/ololiuqui.shtml
+category :: Plants
+botanicalClassification :: Family :Convolvulaceae, Genus :Turbina (=Rivea), Species :corymbosacommonNames :: Badoh (seeds); Ololiuqui (seeds); Coaxihuitl
+effectsClassification :: Psychedelic
+description :: Turbina corymbosa is a large, woody vine with narrow, heart shaped leaves and white, bell-shaped flowers. The plant has been identified as the Aztec visionary intoxicant oliliuhqui. Oliliuhqui's round seeds contain LSA and they have a long history of use in Central Mexico.
+imageURL :: https://www.erowid.org/plants/ololiuqui/images/ololiuqui_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/ololiuqui/ololiuqui_images.shtml
+lawURL :: https://www.erowid.org/plants/ololiuqui/ololiuqui_law.shtml
+
+[Images]
+imageEntryList :: Turbina corymbosa	https://www.erowid.org/plants/show_image.php?i=morning_glory/rivea_corymbosa2.jpg	Color photo of a Turbina corymbosa vine covering a fence.	Photo by Christopher B, &copy; 2000 Erowid.org
+Turbina corymbosa Flower	https://www.erowid.org/plants/show_image.php?i=morning_glory/rivea_corymbosa3.jpg	Color photo of white Turbina corymbosa flowers with yellow/green highlights.	Photo by Christopher B, &copy; 2000 Erowid.org
+Turbina corymbosa Flowers	https://www.erowid.org/plants/show_image.php?i=morning_glory/rivea_corymbosa4.jpg	Color photo of a Turbina corymbosa vine covered in flowers.	Photo by Christopher B, &copy; 2000 Erowid.org
+Turbina corymbosa Flowers	https://www.erowid.org/plants/show_image.php?i=morning_glory/rivea_corymbosa5.jpg	Color photo of a fence covered in a flowering T. corymbosa vine.	Photo by Christopher B, &copy; 2000 Erowid.org
+Turbina corymbosa Flowers	https://www.erowid.org/plants/show_image.php?i=morning_glory/rivea_corymbosa6.jpg	Color photo of two beautiful Turbina corymbosa flowers.	Photo by Christopher B, &copy; 2000 Erowid.org
+Turbina corymbosa Seeds	https://www.erowid.org/plants/show_image.php?i=ololiuqui/rivea_corymbosa_seeds__i2003e0118_disp.jpg	A pile of Turbina corymbosa seeds next to a ruler for size. [KS, USA]	Photo by entheomation. &copy; 2007 Erowid.org
+Turbina corymbosa Seedlings	https://www.erowid.org/plants/show_image.php?i=ololiuqui/rivea_corymbosa__i2006e1667_disp.jpg	Two large Turbina corymbosa seedlings next to a smaller Imopoea spp. [CA, USA]	Photo by Psychonauticat. &copy; 2007 Erowid.org
+Turbina corymbosa Seedlings	https://www.erowid.org/plants/show_image.php?i=ololiuqui/rivea_corymbosa__i2006e1665_disp.jpg	Two small Turbina corymbosa seedlings growing in organic compost with a Coprinus dissemantis mushroom. [CA, USA]	Photo by Psychonauticat. &copy; 2007 Erowid.org
+Turbina corymbosa	https://www.erowid.org/plants/show_image.php?i=morning_glory/rivea_corymbosa7.jpg	Black and white botanical drawing of Turbina corymbosa.	Image from "The Plant Kingdom and Hallucinogens (part III)", by Richard Evans Schultes.
+Turbina corymbosa	https://www.erowid.org/plants/show_image.php?i=morning_glory/rivea_corymbosa8.jpg	The earliest European botanical drawing of ololuiqui.	from Francisco Hernandez' "Rerum medicarum Novae Hispaniae thesaurus, seu plantarum, animalium, mineralium historia" (published in Rome in 1651).
+Turbina corymbosa	https://www.erowid.org/plants/show_image.php?i=morning_glory/rivea_corymbosa1.jpg	Black and white drawing.	From Psychedelic Shamanism.
+LSA 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=lsa/lsa_3d.jpg	Still 3D image of the LSA molecule.	Image by Erowid, &copy; 1999 Erowid.
+LSA 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=lsa/lsa__.mol	Rotating 3D image of the LSA molecule.	Image by Erowid, &copy; 2000 Erowid.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Rivea corymbosa
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: Ololiuqui (Rivea corymbosa) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: Louisiana	Effective Aug 8, 2005 (signed into law Jun 28, 2005) Louisiana Act No 159 makes 40 plants illegal, including Rivea corymbosa, when intended for human consumption. The law specifically excludes the "possession, planting, cultivation, growing, or harvesting" of these plants if used "strictly for aesthetic, landscaping, or decorative purposes." (Text of HLS_05RS-52 and Update June 2005)
+internationalLaw :: Germany	We have been told that Turbina corumbosa plants and seeds are not controlled under the German BtMG. (unconfirmed) (thanks L)

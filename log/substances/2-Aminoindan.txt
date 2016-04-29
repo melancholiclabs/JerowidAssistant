@@ -1,0 +1,58 @@
+[Substance]
+
+id :: 2
+name :: 2-Aminoindan
+url :: https://www.erowid.org/chemicals/2_aminoindan/2_aminoindan.shtml
+category :: Chemicals
+commonNames :: 2-Indanamine; 2-AI
+effectsClassification :: Stimulant
+chemicalName :: 2-aminoindan
+description :: 2-Aminoindan is an uncommon short-acting stimulant with effects that have been compared to 1-benzylpiperazine or methamphetamine. There is little known about its recreation use.
+imageURL :: https://www.erowid.org/chemicals/2_aminoindan/images/2_aminoindan_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/2_aminoindan/2_aminoindan_basics.shtml
+imagesURL :: https://www.erowid.org/chemicals/2_aminoindan/2_aminoindan_images.shtml
+lawURL :: https://www.erowid.org/chemicals/2_aminoindan/2_aminoindan_law.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Basics]
+description :: 2-Aminoindan (also referred to as 2-Indanamine or 2-AI) is a short acting stimulant with effects that have been compared to 1-benzylpiperazine or methamphetamine. There is very little known about its recreation use. It has recently become available on the research chemical market (2003). It is available primarily as an off-white powder and reports have all been for oral use. [ Main 2-Aminoindan Vault ]
+descriptionSections :: dose	Very little is known about dosage, but initial reports are for dosages of 5-20 mg taken orally...though a few reports of higher dosages (50-60 mg) have surfaced.
+price	Price Summary Needed.
+law	2-Aminoindan is an uncontrolled substance in the United States meaning that possession is not specifically illegal.
+chemistry	2-Aminoindan is a synthetic stimulant.
+pharmacology	Pharmacology Summary Needed.
+production	The bulk of available 2-Aminoindan appears to be produced by experienced chemists in commercial labs.
+history	History Summary Needed.
+terminology	The Substance:2-Aminoindan. The Experience:No common terms known.
+effects :: Effects descriptions vary, but there is agreement that 2-aminoindan is stimulating. While some published and unpublished reports have been quite positive, around half of those describing their experiences to Erowid have said they've found it more jittery and uncomfortable than amphetamine or methamphetamine.  At this time (December 2003), there are too few reports to have a solid profile of the character of the 2-aminoindan experience.
+effectsSections :: onset	From initial reports, onset seems to be relatively fast, from 10-30 minutes.
+duration	Duration of effects is uncertain, but has been reported as "somewhat shorter than Methamphetamine".
+visuals	Visuals Summary Needed.
+problems :: One material safety data sheet reportedly states that 2-Aminoindan releases dangerous fumes when burned. This suggests not smoking it though little is known about this reaction.
+problemsSections :: contraindications	As with most stimulants, those with heart problems or with a family history of heart disease may be at greater risk of heart problems due to increased heart rate and blood pressure.
+addiction	Early reports suggest that there may be noticeable addiction potential. Individuals who tried 2-Aminoindan orally reported significant desire to re-dose after a few hours as well as the next day.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Images]
+imageEntryList :: 2-Aminoindan	https://www.erowid.org/chemicals/show_image.php?i=2_aminoindan/2-aminoindan_vial__i2006e1669_disp.jpg	One half gram of tan 2-aminoindan powder in a vial. [CA, USA]	Photo by Psyonic One. &copy; 2007 Erowid.org
+2-Aminoindan Powder	https://www.erowid.org/chemicals/show_image.php?i=2_aminoindan/2-aminoindan_powder__i2003e0660_disp.jpg	One gram of 2-aminoindan powder in a small baggie next to a penny. [USA]	Photo by Murple. &copy; 2007 Erowid.org
+2-Aminoindan 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=2_aminoindan/2_aminoindan_2d.gif	Still 2D image of the 2-Aminoindan molecule.	Image by Erowid. &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+2-Aminoindan
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: 2-Aminoindan is uncontrolled in the United States. This means it is generally considered legal to buy, possess, and distribute (sell, trade or give). If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: Russia (Russian Federation)	2-aminoindan (and some 'derivatives') controlled as of June 4, 2012. See http://base.consultant.ru/cons/cgi/online.cgi?req=doc;base=LAW;n=129994. Thanks d. (Last updated June 1 2012)
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

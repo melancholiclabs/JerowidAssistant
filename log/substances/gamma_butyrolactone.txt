@@ -1,0 +1,10 @@
+[Substance]
+
+id :: 79
+name :: gamma_butyrolactone
+url :: null
+category :: Chemicals
+commonNames :: null
+effectsClassification :: null
+chemicalName :: null
+description :: null

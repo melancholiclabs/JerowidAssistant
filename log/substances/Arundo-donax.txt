@@ -1,0 +1,21 @@
+[Substance]
+
+id :: 136
+name :: Arundo donax
+url :: https://www.erowid.org/plants/arundo_donax/arundo_donax.shtml
+category :: Plants
+botanicalClassification :: Family :Gramineae (=Poaceae), Genus :Arundo, Species :donaxcommonNames :: Colorado River Reed; Giant River Reed; Giant Reed Grass; Arundo Grass; Donax Cane
+effectsClassification :: Psychedelic
+description :: Arundo donax is a perennial, reed-like grass which contains DMT. It grows up to 8 meters tall along lakes streams and other wet sites.
+imageURL :: https://www.erowid.org/plants/arundo_donax/images/arundo_donax_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/arundo_donax/arundo_donax_images.shtml
+
+[Images]
+imageEntryList :: Arundo donax	https://www.erowid.org/plants/show_image.php?i=arundo_donax/arundo_donax1.jpg	Color photo of showing Arundo donax growing along a sidewalk.	Photo &copy; Trout's Notes, used by Erowid with permission.
+Arundo donax	https://www.erowid.org/plants/show_image.php?i=arundo_donax/arundo_donax2.jpg	Color photo of Arundo donax growing naturally.	Photo &copy; Trout's Notes, used by Erowid with permission.
+Arundo donax	https://www.erowid.org/plants/show_image.php?i=arundo_donax/arundo_donax3.jpg	Color photo of Arundo donax growing naturally.	Photo &copy; Trout's Notes, used by Erowid with permission.
+Arundo donax	https://www.erowid.org/plants/show_image.php?i=arundo_donax/arundo_donax4.jpg	Close-up color photo of the stalks and leaves of mature Arundo donax.	Photo &copy; Trout's Notes, used by Erowid with permission.
+Arundo donax	https://www.erowid.org/plants/show_image.php?i=arundo_donax/arundo_donax5.jpg	Color photo of Arundo donax grass growing naturally.	Photo &copy; Trout's Notes, used by Erowid with permission.
+Arundo donax	https://www.erowid.org/plants/show_image.php?i=arundo_donax/arundo_donax6.jpg	Nice color photo of a single Arundo donax stalk.	Photo &copy; Trout's Notes, used by Erowid with permission.
+Arundo donax	https://www.erowid.org/plants/show_image.php?i=arundo_donax/arundo_donax_flower1.jpg	Color photo of Arundo donax grass in flower.	Photo &copy; Trout's Notes, used by Erowid with permission.
+Arundo donax Seedhead	https://www.erowid.org/plants/show_image.php?i=arundo_donax/arundo_donax_seedhead__i2005e0263_disp.jpg	Close-up of an Arundo donax seed head. [TX, USA]	Photo by Randall Scott Stephens. &copy; 2007 Erowid.org

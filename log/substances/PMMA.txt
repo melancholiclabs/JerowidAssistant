@@ -1,0 +1,40 @@
+[Substance]
+
+id :: 124
+name :: PMMA
+url :: https://www.erowid.org/chemicals/pmma/pmma.shtml
+category :: Chemicals
+commonNames :: 4-MMA; Methyl-MA
+effectsClassification :: Empathogenic Stimulant
+chemicalName :: para-methoxymethylamphetamine
+description :: PMMA is a strong stimulant that may cause dangerous overheating of the body. It has been detected in ecstasy tablets since the early 1990s, and has led to life-threatening or fatal hyperthermia in some users.
+imageURL :: https://www.erowid.org/chemicals/images/chemicals_spacer_summary.jpg
+imagesURL :: https://www.erowid.org/chemicals/pmma/pmma_images.shtml
+lawURL :: https://www.erowid.org/chemicals/pmma/pmma_law.shtml
+chemistryURL :: https://www.erowid.org/chemicals/pmma/pmma_chemistry.shtml
+
+[Images]
+imageEntryList :: PMMA 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=pmma/pmma_2d.gif	Still 2D image of the PMMA molecule.	Image by Erowid. &copy; 2012 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+PMMA
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: PMMA is unscheduled in the United States. It is possible that it could be considered an analog (of PMA or MDMA), in which case, sales for human consumption or possession with the intent to ingest could be prosecuted under the Federal Analogue Act though we are unaware of any such existing cases (3/28/2012).
+stateLaw :: null
+internationalLaw :: European Union Countries	PMMA is controlled in EU member states. (EMCDDA Substances and classifications table (31/10/2008))
+Italy	PMMA has been scheduled since 2002 though criminal penalties are not applicable for amounts under 450 milligrams. (Microgram Bulletin, Aug 2006)
+Sweden	PMMA has been regulated since Apr 1999. (Legal Status of Various Compounds in Sweden, 2000)
+
+[Chemistry]
+chemTable :: NAME :	PMMA
+CHEMICAL NAME :	paramethoxymethylamphetamine
+ALTERNATE CHEMICAL NAMES :	4-methoxymethoxyamphetamine, 4-MMA
+ALTERNATE CHEMICAL NAMES :	4-methoxy-N-methyl-amphetamine
+ALTERNATE CHEMICAL NAMES :	N-methyl-1-(4-methoxyphenyl)-2-aminopropane
+CHEMICAL FORMULA :	C11H17NO
+MOLECULAR WEIGHT :	179.259
+MELTING POINT :	(HCl)  177-179� C. 1
+moleculeURL :: https://www.erowid.org/chemicals/pmma/images/archive/pmma_2d.gif

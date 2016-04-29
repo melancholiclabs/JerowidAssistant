@@ -1,0 +1,120 @@
+[Substance]
+
+id :: 194
+name :: Tobacco
+url :: https://www.erowid.org/plants/tobacco/tobacco.shtml
+category :: Plants
+botanicalClassification :: Family :Solanaceae, Genus :Nicotiana, Species :rustica; tabacum L.; ...commonNames :: Cigarettes; Mapacho
+effectsClassification :: Stimulant
+description :: Tobacco is an annual or bi-annual growing 1-3 meters tall with large sticky leaves that contain nicotine. Native to the Americas, tobacco has a long history of use as a shamanic inebriant and stimulant. It is extremely popular and well-known for its addictive potential.
+imageURL :: https://www.erowid.org/plants/tobacco/images/tobacco_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/tobacco/tobacco_images.shtml
+lawURL :: https://www.erowid.org/plants/tobacco/tobacco_law.shtml
+doseURL :: https://www.erowid.org/plants/tobacco/tobacco_dose.shtml
+chemistryURL :: https://www.erowid.org/plants/tobacco/tobacco_chemistry.shtml
+
+[Images]
+imageEntryList :: Tobacco Leaves	https://www.erowid.org/plants/show_image.php?i=tobacco/tobacco1.jpg	Color photo of cured fresh tobacco leaves (Nicotiana tabacum).	Photo by Maya Ethnobotanicals, &copy; 2001 Erowid.org
+Tobacco Leaves	https://www.erowid.org/plants/show_image.php?i=tobacco/tobacco2.jpg	Cured wrapped Tobacco leaves (Nicotiana tabacum)	Photo by Maya Ethnobotanicals, &copy; 2001 Erowid.org
+Dried Nicotiana rustica Leaves	https://www.erowid.org/plants/show_image.php?i=tobacco/nicotiana_rustica_leaves_dried__i2010e0373_disp.jpg	Two rolls of dried Nicotiana rustica leaves [UK]	Photo by Farmer Dodds. &copy; 2010 Erowid.org
+Shredded Tobacco	https://www.erowid.org/plants/show_image.php?i=tobacco/tobacco_shredded__i2011e0073_disp.jpg	Copenhagen Long Cut Original Tobacco. Finely shredded tobacco leaves smoked over open hickory fires. [CA, USA]	Photo by Brendan Kelly. &copy; 2011 Erowid.org
+Tobacco Snuff	https://www.erowid.org/plants/show_image.php?i=tobacco/tobacco_snuff__i2003e0122_disp.jpg	An open tin of W.E. Garrett & Sons Sweet Mild Tobacco Snuff. [MO, USA]	Photo by Entheomation. &copy; 2006 Erowid.org
+Mapacho bundles	https://www.erowid.org/plants/show_image.php?i=tobacco/mapacho1.jpg	Color photo of mapacho (Nicotiana tabacum) bundles from the Peruvian Amazon.	Photo by Maya Ethnobotanicals.
+Mapacho bundles	https://www.erowid.org/plants/show_image.php?i=tobacco/tobacco3.jpg	Color photo of mapacho (Nicotiana tabacum) bundles.	Photo by Maya Ethnobotanicals, &copy; 2001 Erowid.org
+Nicotiana rustica Flower	https://www.erowid.org/plants/show_image.php?i=tobacco/nicotiana_rustica_flower1.jpg	Close-up color photo of a yelow Nicotiana rustica flower. [Oakland, CA, USA]	Photo &copy; Trout. Used by Erowid with permission.
+Nicotiana rustica	https://www.erowid.org/plants/show_image.php?i=tobacco/nicotiana_rustica__i2005e0352_disp.jpg	A beautiful flowering Nicotiana rustica plant. [Mullumbimby, Australia]	Photo by Wandjina Gardens. &copy; 2009 Erowid.org
+Nicotiana rustica Flower	https://www.erowid.org/plants/show_image.php?i=tobacco/nicotiana_rustica_flower3.jpg	Color photo of one fresh and one dead Nicotiana rustica flower. [Oakland, CA, USA]	Photo &copy; Trout. Used by Erowid with permission.
+Nicotiana rustica Flowers	https://www.erowid.org/plants/show_image.php?i=tobacco/nicotiana_rustica_flower__i2010e0374_disp.jpg	Close-up of several yellow Nicotiana rustica flowers. [UK]	Photo by Farmer Dodds. &copy; 2010 Erowid.org
+Nicotiana rustica Flowers	https://www.erowid.org/plants/show_image.php?i=tobacco/nicotiana_rustica_flower2.jpg	Photo of a several flowers on a Nicotiana rustica plant. [Oakland, CA, USA]	Photo &copy; Trout. Used by Erowid with permission.
+Nicotiana rustica Leaf	https://www.erowid.org/plants/show_image.php?i=tobacco/nicotiana_rustica_leaves2.jpg	Photo of a the top side of a single Nicotiana rustica leaf. [Oakland, CA, USA]	Photo &copy; Trout. Used by Erowid with permission.
+Nicotiana rustica Leaf	https://www.erowid.org/plants/show_image.php?i=tobacco/nicotiana_rustica_leaves3.jpg	Photo of a the bottom side of a single Nicotiana rustica leaf. [Oakland, CA, USA]	Photo &copy; Trout. Used by Erowid with permission.
+Nicotiana rustica Seedpods	https://www.erowid.org/plants/show_image.php?i=tobacco/nicotiana_rustica_seedpod1.jpg	Photo showing numerous Nicotiana rustica seedpods in various stages of development. [Oakland, CA, USA]	Photo &copy; Trout. Used by Erowid with permission.
+Nicotiana rustica Seedpods	https://www.erowid.org/plants/show_image.php?i=tobacco/nicotiana_rustica_seedpod__i2005e0282_disp.jpg	Closeup showing the seedpods of a Nicotiana rustica plant. [USA]	Photo by Stefan. &copy; 2006 Erowid.org
+Dried Nicotiana rustica Leaves	https://www.erowid.org/plants/show_image.php?i=tobacco/nicotiana_rustica_leaves1.jpg	Color photo of dried Nicotiana rustica leaves.	Photo by Maya Ethnobotanicals, &copy; 2001 Erowid.org
+Nicotiana rustica Drawing	https://www.erowid.org/plants/show_image.php?i=tobacco/nicotiana_rustica3.jpg	Color drawing of plant, flower and seeds.	From Kohler's Medicinal Plants.
+Nicotiana rustica Drawing	https://www.erowid.org/plants/show_image.php?i=tobacco/nicotiana_rustica1.gif	Small color drawing.	Artist Unknown.
+Nicotiana rustica Drawing	https://www.erowid.org/plants/show_image.php?i=tobacco/nicotiana_rustica2.gif	Small color drawing.	Artist Unknown.
+Nicotiana tabacum	https://www.erowid.org/plants/show_image.php?i=tobacco/nicotiana_tabacum_dried__i2007e1584_disp.jpg	Bales of burley tobacco (Nicotiana tabacum) ready for auction in a warehouse. [NC, USA]	Photo by Anonymous. &copy; 2009 Erowid.org
+Nicotiana tabacum	https://www.erowid.org/plants/show_image.php?i=tobacco/nicotiana_tabacum4.jpg	Color drawing of plant, flower and seeds.	From Kohler's Medicinal Plants, &copy; 1995-2003 Missouri Botanical Garden.
+Nicotiana tabacum	https://www.erowid.org/plants/show_image.php?i=tobacco/nicotiana_tabacum3.gif	Color drawing.	Artist unknown.
+Nicotiana tabacum	https://www.erowid.org/plants/show_image.php?i=tobacco/nicotiana_tabacum2.jpg	Black and white drawing.	Artist unknown.
+Nicotiana tabacum	https://www.erowid.org/plants/show_image.php?i=tobacco/nicotiana_tabacum1.gif	Color photo.	Photographer unknown.
+Nicotiana tabacum	https://www.erowid.org/plants/show_image.php?i=tobacco/nicotiana_tabacum5.jpg	Color photo of plant in bloom.	From Cornell University.
+Nicotiana tabacum	https://www.erowid.org/plants/show_image.php?i=tobacco/nicotiana_tabacum6.jpg	Color photo of plant in bloom.	From Cornell University.
+Anabasine Tablets	https://www.erowid.org/plants/show_image.php?i=tobacco/anabasine_tablets1.jpg	Color photo of a Russian bottle of Anabasine tablets..	Photo by Erowid, &copy; 2000 Erowid.org
+No smoking sign in Bolivia.	https://www.erowid.org/plants/show_image.php?i=tobacco/tobacco_sign__i2012e0311_disp.jpg	Why a llama fetus accompanies a skull and crossbones and "no smoking" sign remains a mystery. [Altiplano, Bolivia]	Photo by Erowid Crew. &copy; 2012 Erowid.org
+Nicotine 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=nicotine/nicotine_2d.gif	Still 2D image of the Nicotine molecule.	Image by Erowid, &copy; 2006 Erowid.org
+Nicotine 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=nicotine/nicotine_3d.jpg	Still 3D image of the Nicotine molecule.	Image by Erowid, &copy; 2006 Erowid.
+Nicotine 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=nicotine/nicotine__.mol	Rotating 3D image of the Nicotine molecule.	Image by Erowid, &copy; 2006 Erowid.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Tobacco
+REGULATED	No
+STATUS	Over-The-CounterAge Restricted
+SCHEDULE	Un-Scheduled
+federalLawText :: Tobacco and tobacco products are unscheduled in the United States and are legal for adults to both sell and possess. It is against FDA regulations to sell the following products to those under the age of 18:	
+
+Cigarettes	Cigarette tobacco	Smokeless tobacco (Smokeless tobacco includes loose leaf chewing tobacco, plug chewing tobacco, twist chewing tobacco, moist snuff, and dry snuff.)	
+
+It is not federally illegal for those under 18 years old to purchase or possess tobacco...only for stores to sell to them. Some individual states have enacted legislation making possession by minors against the law.	
+See the FDA's New Federal Tobacco Regulations regarding children and tobacco.	
+After attempting to add frightening labeling to tobacco products, including intentionally horrifying photos of people with diseases, the FDA was sued by tobacco corporations and the proposed rule was stricken. See http://mohajerian.com/eresources/fda-graphic-cigarette-warning-labels.htm.
+stateLaw :: California	On July 29, 2008 the San Francisco Board of Supervisors passed an ordinance that will prohibit pharmacies from selling tobacco products, effective October 1, 2008. (see SF Chronicle article)
+Louisiana	Effective Jan 1 2007, the Louisiana SmokeFree Air Act took effect, prohibiting smoking in public buildings, schools, and restaurants. The law makes an exception for private residences and vehicles, bars, tobacco shops, and race tracks. The penalty for first-time offenders is a $25 citation, followed by a $50 citation for second-time offenses and $100 citations for subsequent offenses. (see text of law, KATC News coverage, thanks GR).
+Maryland	Maryland bans the sale of cigarettes containing cloves: ""It is illegal to sell, give, or otherwise distribute clove cigarettes to ANY person, even if eighteen years old or older [Maryland Code, Criminal Law, 10-106]." See http://www.fha.state.md.us/ohpetup/tobacco/selling.cfm. (thanks C) (last updated Jun 2007)
+internationalLaw :: Australia	Minimum Age: 18 to purchase, regulated by federal government. Large fines for any business and/or individual who sells tobacco to a minor. Still many vendors don't ID check and fines may be increased. Nicotine patches and gum are sold at pharmacies at the discretion of the pharmacist. New laws in several states ban smoking indoors in public places (Tasmania, Western Australia, Queensland, ACT) with bans coming in other states in 2007.
+Belgium	Minimum Age: Tobacco products cannot be sold to persons under 16. (thanks FH)
+Bhutan	Bhutan may be the first country in the world to have banned all tobacco products for its citizens. The ban reportedly does not apply to "foreign tourists", diplomats, and those working for NGOs". See http://news.bbc.co.uk/2/hi/south_asia/4012639.stm Dec 2004. All tobacco products have been banned in the Himalayan nation of Bhutan. Offenders face a $210 dollar fine and shop owners will lose their business license. Foreigners and diplomats are exempt, but will be charged with smuggling if they transfer tobacco to locals. The government has imposed a 100% tax on all tobacco products brought into the country for personal consumption by Bhutanese. (thanks RB) (last updated Jun 2007)
+Brazil	Tobacco is legal for persons over the age of 18 in Brazil, though the age limit is reportedly widely ignored. (see WHO report (thanks P)
+Canada	Minimum Age: It is prohibited by federal law to provide tobacco products to persons under 18 years of age. Further restrictions may apply in individual provinces. For example, in Alberta, people under age 18 who are caught smoking or in possession of tobacco products can not only have their cigarettes seized by police, but also can be fined up to $100. Quebec, Saskatchewan, Alberta and Manitoba have a minimum age of 18 for purchase, the rest are 19. (thanks B) See CBCNews Timeline of Canadian Tobacco Laws.
+China	According to BD: Sales/Distribution of Cigarettes to minors of school age is prohibited. [China's Law to Prevent Crimes by Minors, Item 15] and Smoking by elementary and secondary school students is prohibited. [Law of Jun 29 1991 on the exclusive sale of tobacco of the People's Republic of China]
+According to BD: Sales/Distribution of Cigarettes to minors of school age is prohibited. [China's Law to Prevent Crimes by Minors, Item 15] and Smoking by elementary and secondary school students is prohibited. [Law of Jun 29 1991 on the exclusive sale of tobacco of the People's Republic of China]	However, these laws are universally ignored. In fact all citizens I interviewed, including a police officer were very fuzy or completely ignorant about the particular rules concerning tobacco.
+Croatia	Minimum Age: 18 to purchase, law not widely known. (J)
+Czech Republic	Minimum Age: 18 to purchase, possess, or sell tobacco products. (unconfirmed) (thanks hf) (last updated Oct 13 2011)
+Denmark	Minimum Age: Illegal to sell tobacco to anyone under 16, law widely ignored. (thanks J)
+Finland	Minimum Age: Illegal to sell tobacco to anyone under 18, strickly enforced. Under 30 required to show ID. Smoking inside most buildings prohibited, except for designated smoking-allowed rooms. P writes: "In Filand, smoking at a club is allowed if it has a designated, well-ventilated "tobacco room", where no drinks are allowed. At some of the biggest clubs the rules are not always followed and people tend to drink in the smoking rooms, but there are no chairs and the rooms are generally small. There are many bars and night clubs where there is no smoking room. Smoking is mostly done outside, even when it's -20c with t-shirts. But basically smoking is allowed inside in designated specially built places." (thanks P) (last updated Apr 2, 2013)
+Germany	Minimum Age: 18 to purchase, raised from age 16 on Sept 1, 2007. Although the German minimum age law was long-ignored, cigarette vending machines now use bank cards to verify age. Some vending machines still allow those age 16 to buy cigarettes, but the German Government has given until the beginning of 2009 for all to be changed to the new date. (See this World Tobacco report for more information.) (thanks C, DG)
+India	Bidis are widely smoked. In 2008, India passed a national law banning smoking in most public and work places. See Washington Post for discussion. (last updated Oct 2008)
+Iran	Legal for persons over the age of 18, though the age limit is completely ignored. (thanks M.)
+Ireland	Minimum Age: 18 to purchase and consume (raised from 16 to 18 in ~2000). Large fines for selling to a minor. Restrictions: There is no smoking allowed in places of employment (with a few exceptions).
+Israel	Minimum Age: 18 to purchase both cigarettes and tobacco (law established Feb 2005). Fines of about $3300 for business or individual who sells tobacco to a minor. Vendors seldom check ID, law widely ignored as of Apr 2005. (thanks HND)
+Italy	Minimum Age: 18 to purchase (One visitor tells us that the age is 16). Regulated by state monopoly and growing tobacco requires licensure from the government. (unconfirmed) (thanks DL) (last updated Aug 23, 2011)
+Japan	Minimum Age: 20 to purchase pursuant a 1900 law. Available in vending machines, making age restriction difficult. Rarely enforced. (unconfirmed) (thanks N and Q)
+Latvi	In Sept a visitor reported: "It is illegal to use cigarettes before 18. The fine for using them is about 5 ls (about $10). It's illegal to sell them to underage people too, but it is widely ignored in Latvia." (unconfirmed) (thanks H)
+Mexico	Minimum Age: 18 to purchase, law is widely ignored. Some stores and most street vendors ignore age requirement for anyone who can pay. (unconfirmed, thanks Z)
+Netherlands	As of Jan 1 2014, legal age to purchase tobacco products is 18 (changed from 16). Selling to a minor is punishable by steep fines. See Opgroeienzonderalcohol.nl (thanks TS)
+Norway	Minimum Age: 18 to purchase or sell, law is enforced but availability among youth is widespread. (thanks P)
+Poland	Minimum Age: 18 to purchase, law is widely ignored. (thanks MS)
+Portugal	Minimum Age: 18 to purchase, recently changed from 16, law widely ignored. Tobacco-product vending machines are still widely available, but are normally kept in places that require a person allow access to them, such as a bar keeper. (thanks rm, D) (last updated Dec 8 2010)
+Romania	Minimum Age: 18 to purchase, law universally ignored. Not illegal to smoke/possess under 18, smoking indoors allowed nearly everywhere. (unconfirmed) (thanks PC)
+Russia	Minimum Age: 18 to purchase, law widely ignored. (thanks MLN)
+Serbia	Minimum Age: 18 to purchase, law widely ignored. (unconfirmed) (thanks MS)
+Spain	As of January, 2006, Spain has raised the minimum age to legally purchase tobacco to 18. Vending machines are still widely available, but it is illegal for minors to use them. (thanks D)
+U.K.	No minimum age for smoking. Laws vary slightly between England, Scotland, and Wales. It is NOT illegal to possess or use tobacco products. It is illegal to sell tobacco or cigarettes to anyone under 16 and sellers must be licensed. Under the Children and Young Persons (Protection from Tobacco) Act of 1991 maximum fines for selling to under 16s were increased from BP400 to BP2,500.
+
+[Dose]
+doseTable :: Smoked Nicotine Dosages
+Threshold0.2 - 0.3 mg
+Light0.3 - 0.8 mg
+Common0.6 - 1.5 mg
+Strong1 - 2 mg
+Heavy2 - 4 mg
+Onset : 5 - 60 seconds
+Duration : 10 - 30 minutes
+Normal After Effects : 1 - 3 hours
+doseText :: Nicotine is the primary psychoactive constituent of tobacco. It is found in cigarettes, chewing tobacco, and rolling tobacco, as well as in nicotine patches, gum, inhalers, and nasal spray.  It is important to note that nicotine-product users moderate their use of the products to adjust the level of their effects: smokers can hold the smoke for a shorter duration, let the cigarette burn longer between inhalations, not smoke an entire cigarette, or other similar techniques to make small adjustments to the dose of nicotine received from smoking.     Smoked Nicotine Dosages Threshold0.2 - 0.3 mg Light0.3 - 0.8 mg Common0.6 - 1.5 mg Strong1 - 2 mg Heavy2 - 4 mg    Onset : 5 - 60 seconds Duration : 10 - 30 minutes Normal After Effects : 1 - 3 hours          Oral Nicotine Dosages Light.5 - 2 mg Common1 - 4 mg Strong2 - 6 mg    Onset : 2 - 15 minutes Duration : 1 - 2 hours Normal After Effects : 3 - 6 hours        Intranasal (Nasal Spray) Nicotine Dosages Threshold0.2 - 0.3 mg Light0.3 - 1.0 mg Common0.8 - 2.0 mg Strong1.5 - 4 mg Heavy3 - 8 mg     Onset : 20 - 90 seconds Duration : 10 - 30 minutes Normal After Effects : 1 - 3 hours      CIGARETTES Smoked cigarettes deliver widely varying amounts of nicotine depending mainly on the specific product and how they are smoked. There are differing standards for how to determine the "nicotine yield" from a smoked cigarette. The Massachusetts state government method for testing nicotine yield results in much higher reported doses: "the average from using the historical method was 0.90 mg/cigarette while the average from the Massachusetts method was 1.89 mg/cigarette." (Change in Nicotine Yields 1998-2004, MDPH).  The older method for testing cigarette nicotine yield showed nicotine dosages per cigarette in the .13 to 2.0 mg range, but the Massachusetts method shows nicotine yields between 1 mg and 3 mg. Actual nicotine delivery to a human can be and has been validated by testing urine of cigarette smokers, but this is a costly and time consuming procedure and is not used for determining nicotine yields for the available cigarette brands.  Research actually looking at the blood plasma of Cigarette smokers has shown that up to 3.0 mg of nicotine may be received from a single cigarette. (Benowitz 1998)  See The Nicotine and Tar content of 25 cigarette brands for a list of individual nicotine contents.  NICOTINE GUM Sold in 2.0 and 4.0 mg per piece of gum. In a 4.0 mg piece, 3.4 - 4.0 mg is considered bio-available (According to Physicians Desk Reference)  NICOTINE TRANSDERMAL PATCH Transdermal patches are sold designed to deliver nicotine slowly over 24 hours, with 21 mg, 14 mg, and 7 mg per patch, deliving around .88 mg, .58 mg, and .29 mg per hour for 24 hours. Some users and some researchers apply more than one patch at a time to achieve stronger effects. (Benowitz 1998)  REFERENCES  Perkins K, Fonte C, Sanders M, et al. "Threshold doses for nicotine discrimination in smokers and non-smokers". Psychopharmacology. May 2001; 155(2):163-70. [ Abstract ] Scherer G, von Maltzan C, von Meyerinck L, Westphal K, Adlkofer F. "Biomonitoring after controlled exposure to environmental tobacco smoke (ETS)". Exp Pathol. 1989;37(1-4):158-63. [ Abstract ] Physicians Desk Reference (PDR). 2000. [ Erowid Library ] CHANGE IN NICOTINE YIELDS 1998 - 2004, Massachusetts Department of Public Health). [ Full Text ] More Nicotine Madness, Jack Shafer, Slate.com, Jan 2007 InChem Nicotine Summary Benowitz NL, Zevin S, Jacob P 3rd. "Suppression of nicotine intake during ad libitum cigarette smoking by high-dose transdermal nicotine". J Pharmacol Exp Ther. 1998;287(3):958-62. [Abstract ]
+notes :: null
+
+[Chemistry]
+chemTable :: NAME :	Nicotine
+CHEMICAL NAME :	(S)-3-(1-Methyl-2-pyrrolidinyl)pyridine
+ALTERNATE CHEMICAL NAMES :	1-methyl-2-(3-pyridyl)pyrrolidine; &#223;-pyridyl-alpha-N-methylpyrrolidine
+ALTERNATE CHEMICAL NAMES :	Habitrol; Nicabate; Nicoderm; Nicolan; Nicopatch; Nicotell TTS; Nicotinell; Tabazur.
+CHEMICAL FORMULA	C10H14N2
+MOLECULAR WEIGHT	162.23
+BOILING POINT745	247&#176; C
+BOILING POINT17	123-125&#176; C
+LD50	(mice) .3 mg/kg iv; 9.5 mg/kg i.p.; 230 mg/kg oral
+From the Merck Index 12th Edition
+moleculeURL :: https://www.erowid.org/plants/tobacco/images/archive/nicotine_3d_mid.jpg

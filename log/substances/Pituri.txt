@@ -1,0 +1,26 @@
+[Substance]
+
+id :: 183
+name :: Pituri
+url :: https://www.erowid.org/plants/pituri/pituri.shtml
+category :: Plants
+botanicalClassification :: Family :Solanaceae, Genus :Duboisia, Species :hopwoodiicommonNames :: Pituri; Pitchiri; Pitcheri; Emu Plant; Poison Bush
+effectsClassification :: Stimulant; Euphoric; Cataleptic; Sedative
+description :: Duboisia hopwoodii is an Australian shrub that contains nicotine, nornicotine, and sometimes hyoscyamine in its leaves. The plant's roots contain all of these alkaloids, plus scopolamine. A preparation of the leaves and stems called pituri appears to have had a long history of use in traditional Aboriginal society.
+imageURL :: https://www.erowid.org/plants/pituri/images/pituri_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/pituri/pituri_images.shtml
+lawURL :: https://www.erowid.org/plants/pituri/pituri_law.shtml
+
+[Images]
+imageEntryList :: Duboisia hopwoodii	https://www.erowid.org/plants/show_image.php?i=pituri/duboisia_hopwoodii__i2005e0108_disp.jpg	Flowering Duboisia hopwoodii shrub. [W. NSW, Australia]	Photo by D.C. Williams. &copy; 2006 Erowid.org
+Duboisia hopwoodii	https://www.erowid.org/plants/show_image.php?i=pituri/duboisia_hopwoodii__i2007e1041_disp.jpg	Small potted Duboisia hopwoodii plant grown from seed, approximately 4 months old. [Australia]	Photo by Darren Williams. &copy; 2009 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Pituri
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Pituri is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: 

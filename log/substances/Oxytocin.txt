@@ -1,0 +1,11 @@
+[Substance]
+
+id :: 301
+name :: Oxytocin
+url :: https://www.erowid.org/pharms/oxytocin/oxytocin.shtml
+category :: Pharms
+commonNames :: Pitocin; Syntocinon
+effectsClassification :: Exogenous hormone; Lactation stumulant;
+chemicalName :: 3-Isoleucine-8-leucine vasopressin
+description :: Oxytocin is a hormone associated with parenting and social bonding. It is released after birth in women and after orgasm in both sexes. Oxytocin is sometimes administered to facilitate labor or lactation.
+imageURL :: https://www.erowid.org/pharms/images/pharms_spacer_summary.jpg

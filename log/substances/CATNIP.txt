@@ -1,0 +1,33 @@
+[Substance]
+
+id :: 211
+name :: CATNIP
+url :: https://www.erowid.org/herbs/catnip/catnip.shtml
+category :: Herbs
+botanicalClassification :: Family :Lamiaceae (=Labiatae), Genus :Nepeta, Species :catariacommonNames :: Catnip; catnep; catmint
+uses :: Fresh, dried catnip leaves attract and intoxicate cats. Used to treat colds and flus as well as upset stomachs. Fresh leaves can be used as meat tenderizer and marinade. Also used to make a natural light yellow dye.
+description :: A perennial, minty-smelling herb, growing upright from 1-3 feet tall. The branching square stems and toothed, heart-shaped leaves are covered with downy gray hairs, giving the whole plant a grayish-green appearance. Clusters of white or pale lavender flowers grow at the ends of the branches.
+imageURL :: https://www.erowid.org/herbs/catnip/images/catnip_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/catnip/catnip_images.shtml
+lawURL :: https://www.erowid.org/herbs/catnip/catnip_law.shtml
+
+[Images]
+imageEntryList :: Nepeta cataria	https://www.erowid.org/herbs/show_image.php?i=catnip/nepeta_cataria3.jpg	Great photo of a cluster of Nepeta cataria plants with early growth at the beginning of the season. [AB, Canada]	Photo by Beau Thompson, &copy; 2005 Erowid.org
+Nepeta cataria	https://www.erowid.org/herbs/show_image.php?i=catnip/nepeta_cataria_plant__i2005e1324_disp.jpg	A healthy Nepeta cataria plant growing in a garden in May. [Maine]	Photo by J. Rault. &copy; 2006 Erowid.org
+Nepeta cataria	https://www.erowid.org/herbs/show_image.php?i=catnip/nepeta_cataria_plant__i2005e1380_disp.jpg	Two catnip (Nepeta cataria) plants growing in pots with cages to prevent destruction by cats. [New Zealand]	Photo by Visionaryb3ar. &copy; 2006 Erowid.org
+Nepeta cataria	https://www.erowid.org/herbs/show_image.php?i=catnip/nepeta_cataria_leaf__i2005e1305_disp.jpg	Closeup of a young non-flowering catnip (Nepeta cataria) plant; approx 6 weeks old; cultivated from seed in a pot. [MS, USA]	Photo by Ben. &copy; 2006 Erowid.org
+Flowering Nepeta cataria	https://www.erowid.org/herbs/show_image.php?i=catnip/nepeta_cataria_flower__i2005e1306_disp.jpg	Flower spike of a small Nepeta cataria plant. [Canada]	Photo by B. Rex &copy; 2006 Erowid.org
+Nepeta cataria	https://www.erowid.org/herbs/show_image.php?i=catnip/nepeta_cataria_leaf__i2005e1323_disp.jpg	Nepeta cataria leaf ready for drying to make tea. [ME, USA]	Photo by J. Rault. &copy; 2006 Erowid.org
+Nepeta cataria	https://www.erowid.org/herbs/show_image.php?i=catnip/nepeta_cataria_plant__i2001e0024_disp.jpg	A small Nepeta cataria plant growing in a flower bed.	Photo by Slapnutz. &copy; 2006 Erowid.org
+Nepeta cataria	https://www.erowid.org/herbs/show_image.php?i=catnip/nepeta_cataria1.jpg	Color photo of blue catnip flowers	Photographer Unknown.
+Nepeta cataria	https://www.erowid.org/herbs/show_image.php?i=catnip/nepeta_cataria2.jpg	Color drawing of flowering plant.	Artist Unknown.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Catnip
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Catnip (Nepeta cataria) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: El Salvador	One visitor reports that they were able to legally import personal-use amounts of catnip into El Salvador by signing a few standard plant import forms. (unconfirmed) (thanks g) (last updated Feb 1 2015)

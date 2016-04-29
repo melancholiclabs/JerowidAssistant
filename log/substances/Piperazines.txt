@@ -1,0 +1,58 @@
+[Substance]
+
+id :: 122
+name :: Piperazines
+url :: https://www.erowid.org/chemicals/piperazines/piperazines.shtml
+category :: Chemicals
+commonNames :: Various
+effectsClassification :: Stimulant
+chemicalName :: Various
+description :: Piperazines are a broad class of chemicals which include several stimulants (BZP, TFMPP, etc) as well as anti-vertigo agents (cyclizine, meclizine) and others (sildenafil/viagra).
+imageURL :: https://www.erowid.org/chemicals/piperazines/images/piperazines_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/piperazines/piperazines_basics.shtml
+imagesURL :: https://www.erowid.org/chemicals/piperazines/piperazines_images.shtml
+lawURL :: https://www.erowid.org/chemicals/piperazines/piperazines_law.shtml
+chemistryURL :: https://www.erowid.org/chemicals/piperazines/piperazines_chemistry.shtml
+
+[Basics]
+description :: There are many compounds which fit into the category of 'piperazines'. Benzylpiperazine (BZP), the one most commonly used as a recreational substance, is a CNS stimulant which people describe as a noticeably different stimulant effect than amphetamines. It is not particularly popular because many people find that it has more side effects than amphetamines. [ Main Piperazines Vault ]
+descriptionSections :: dose	BZP is used orally at doses of between 70-150 mg. Effects last 6-8 hours.
+price	Price Summary Needed.
+law	BZP is schedule I in the United States, and is therefore illegal to possess without a license.
+chemistry	Chemistry Summary Needed.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	History Summary Needed.
+terminology	The Substance:Piperazines; BZP; TFMPP; A2. The Experience:No common terms known.
+effects :: Effects Summary Needed.
+effectsSections :: onset	Onset Summary Needed.
+duration	Duration Summary Needed.
+visuals	Visuals Summary Needed.
+problems :: Problems Summary Needed.
+problemsSections :: contraindications	Contraindications Summary Needed.
+addiction	Addiction Potential Summary Needed.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Images]
+imageEntryList :: Tablets Containing MeOPP	https://www.erowid.org/chemicals/show_image.php?i=piperazines/meopp_tablet__i2007e1877_disp.jpg	Pink tablets 8 mm in diameter containing 200 mg MeOPP (methoxy phenyl piperazine). [New Zealand]	Photo by Starboy. &copy; 2010 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Piperazines
+REGULATED	Varied
+STATUS	Varied
+SCHEDULE	Varied
+CLASSIFICATION	Stimulant
+federalLawText :: Piperazine is a class of chemicals which includes some psychoactive and non psychoactive members. The most commonly used recreational psychoactive piperazines in the late 1990s and early 2000s were BZP and TFMPP.	
+On July 18th, 2002, the DEA announced its intent to schedule BZP & TFMPP. On September 20, after two months, they issued their final order to place BZP & TFMPP in Schedule I by emergency order. On March 18, 2004, BZP was permanently placed into Schedule I and TFMPP was removed from Schedule I.	
+We are unaware of other piperazines which have been specifically controlled.
+stateLaw :: null
+internationalLaw :: Australia	BZP and TFMPP are controlled in most Australian states. After extensive looking, it appears that BZP and TFMPP are scheduled in the highest drug restriction schedule in Vic, NSW, SA, NT and Qld. No information yet about Tasmania and ACT as their acts are just too different from the other states. (thanks UL and TW of http://shaman-australis.com.au/, Aug 2006)
+Canada	We have been told that BZP, TFMPP and other recreational piperazines are currently uncontrolled in Canada under the CDSA and Food and Drug Act and aren't labeled under Health Canada's list of items under a stop order. (unconfirmed) (thanks A)
+Israel	In December 2008, BZP, TFMPP, and pFPP were added to Israel's list of controlled substances, making them illegal to buy, sell, or possess. (thanks A)
+Japan	4Mpp, MBZP, MDBP, and are controlled as "Designated Substances" (Shitei-Yakubutsu) by the Pharmaceutical Affairs Law, making them illegal to possess or sell (see Ref)
+
+[Chemistry]
+chemTable :: null
+moleculeURL :: null

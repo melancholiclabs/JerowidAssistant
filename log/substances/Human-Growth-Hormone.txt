@@ -1,0 +1,11 @@
+[Substance]
+
+id :: 333
+name :: Human Growth Hormone
+url :: https://www.erowid.org/smarts/human_growth_hormone/human_growth_hormone.shtml
+category :: Smarts
+commonNames :: HGH; Somatotropin; CB-311
+effectsClassification :: Anti-aging
+chemicalName :: adenohypophyseal growth hormone
+description :: Human Growth Hormone is a protein produced by the pituitary gland to promote cell growth. It has been marketed as an anti-aging supplement though there is little evidence to support this claim and incidence of side effects is high.
+imageURL :: https://www.erowid.org/smarts/images/smarts_spacer_summary.jpg

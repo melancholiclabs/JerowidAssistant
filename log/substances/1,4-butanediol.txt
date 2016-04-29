@@ -1,0 +1,46 @@
+[Substance]
+
+id :: 1
+name :: 1,4-butanediol
+url :: https://www.erowid.org/chemicals/14b/14b.shtml
+category :: Chemicals
+commonNames :: 1,4-B; BDO
+effectsClassification :: Depressant Intoxicant
+chemicalName :: butylene glycol
+description :: 1,4-Butanediol is an industrial chemical that acts as an intoxicating sedative. It is similar in effects to GHB and usually comes in liquid form.
+imageURL :: https://www.erowid.org/chemicals/14b/images/14b_summary1.jpg
+imagesURL :: https://www.erowid.org/chemicals/14b/14b_images.shtml
+lawURL :: https://www.erowid.org/chemicals/14b/14b_law.shtml
+chemistryURL :: https://www.erowid.org/chemicals/14b/14b_chemistry.shtml
+
+[Images]
+imageEntryList :: 1,4-butanediol jug	https://www.erowid.org/chemicals/show_image.php?i=14b/14-butanediol1.jpg	Color photo of a large jug of 1,4-butanediol.	Photo by Murple. &copy; 2000 Erowid.org
+1,4-butanediol 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=14b/14-butanediol_2d.jpg	Still 2D image of the 1,4-butanediol molecule.	Image by Erowid. &copy; 2001 Erowid.org
+1,4-butanediol 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=14b/14-butanediol_3d_mid.jpg	Still 3D image of the 1,4-butanediol molecule.	Image by Erowid. &copy; 2000 Erowid.org
+1,4-butanediol 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=14b/14-butanediol__.mol	Rotating 3D image of the 1,4-butanediol molecule.	Image by Erowid. &copy; 2000 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+1,4-Butanediol
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: 1,4-Butanediol is not scheduled in the United States though we believe that it may now be scheduled in some states. It is not approved by the FDA for human consumption which generally means that possession is federally legal while sale for human consumption may specifically be illegal. It is possible that possession and sales could be prosecuted under the Federal Analogue Act (as an analog of GHB) although a federal case in New York in 2002 ruled that 1,4-butanediol could not be considered an analogue of GHB under federal law. On December 11, 2002, an 8th Circuit Court in Minnesota ruled that 1,4b was an Analogue under federal law,	differences in the cases and jurisdictions means the status of 14b under US Federal Law is not yet fully resolved.	
+2002: The DEA engaged in a very active campaign to reduce GBL, GHB, and 1,4-butanediol sales over the internet in 2002 and called their project Operation Webslinger. In late 2002, the DEA arrested a large number of people for buying and selling GBL over the internet.
+stateLaw :: Florida	Schedule I. 1,4-butanediol is specifically listed as controlled under Florida law along with GHB and GBL. See http://leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0800-0899/0893/0893.html. (last updated Jul 21, 2012)
+Hawaii	Schedule I. 1,4-butanediol is specifically listed as controlled under Hawaii law along with GHB and GBL. [July 2004 Amendment]
+Nevada	1,4-butanediol is Schedule I in Nevada. See Nevada Legislature website.
+New York	1,4-butanediol and GBL are Schedule I in New York. See New York State Public Health Law,
+1,4-butanediol and GBL are Schedule I in New York.  See New York State Public Health Law,	Section 3306.
+Oregon	1,4-butanediol is Schedule I in Oregon. See Oregon Board of Pharmacy: New Laws and Rules. (thanks E)
+internationalLaw :: Israel	14b was controlled in Israel in 2007. See http://www.nevo.co.il/law_html/law01/P170_001.htm (thanks d) (last updated Jul 20, 2013)
+New Zealand	1,4-butanediol is controlled under NZ's class B, its second strictest schedule. National Drug Policy New Zealand 'fantasy' page. (thanks Y)
+Norway	The "Derivatbestemmelsen" is an Analog Act-type law in Norway that controls 4-methylmethcathinone, Bk-MBDB, Bromo-Dragonfly, 1,4butanediol, GBL, and MBDB. See legemiddelverket.no. (thanks o) (last updated April 29 2009)
+
+[Chemistry]
+chemTable :: NAME :	1,4-B
+CHEMICAL NAME :	1,4-butanediol
+ALTERNATE CHEMICAL NAMES : 	 BDO, Butylene glycol
+CHEMICAL FORMULA	C4H10O2
+MOLECULAR WEIGHT
+moleculeURL :: https://www.erowid.org/chemicals/14b/images/archive/14-butanediol_3d_mid.jpg

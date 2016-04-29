@@ -1,0 +1,72 @@
+[Substance]
+
+id :: 39
+name :: 6-APB
+url :: https://www.erowid.org/chemicals/6_apb/6_apb.shtml
+category :: Chemicals
+commonNames :: 6-APB; Benzo Fury*
+effectsClassification :: Stimulant; Euphoric Empathogen
+chemicalName :: 6-(2-aminopropyl)benzofuran; 1-(1-benzofuran-6-yl)propan-2-amine
+description :: 6-APB is a synthetic chemical that became available via online vendors in 2010. Little is known about its effects, which are presumed to include stimulation and euphoria, though not enough reliable human data has been recorded to say much with certainty.
+imageURL :: https://www.erowid.org/chemicals/6_apb/images/6_apb_summary1.jpg
+effectsURL :: https://www.erowid.org/chemicals/6_apb/6_apb_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/6_apb/6_apb_images.shtml
+lawURL :: https://www.erowid.org/chemicals/6_apb/6_apb_law.shtml
+doseURL :: https://www.erowid.org/chemicals/6_apb/6_apb_dose.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Effects]
+duration :: null
+positiveEffects :: brightened colors / enhanced visual perception	mood lift, euphoria	increase in associative and creative thinking	enhanced tactile sensation	increased appreciation of music	organic, cartoon-like visuals	increased awareness	mild boost in empathy
+neutralEffects :: general shift in consciousness (common)	closed- and open-eye visuals (common)	pupil dilation	change in perception of time	slight increase in heart rate	slight increase in blood pressure	tremors
+negativeEffects :: anxiety	jaw tension	confusion	nausea	light to mild dehydration	sweating	sensation of cold / shivers	some users report slight hypoxia at higher doses
+description :: General Effects Notes	The effects of 6-APB are usually compared to MDMA.	
+Routes of Administration	
+6-APB is most often taken orally.	
+Addiction and Compulsive Use	6-APB is not known to be associated with compulsive use and physical dependence is extremely unlikely. Because its use is so uncommon, no definitive statements about its use can be made.
+experienceReports :: 
+
+[Images]
+imageEntryList :: 6-APB Powder	https://www.erowid.org/chemicals/show_image.php?i=6_apb/6-apb_powder__i2011e0054_disp.jpg	A small bag of 6-APB powder (also known as "Benzo Fury"). [UK]	Photo by Babypanda. &copy; 2011 Erowid.org
+6-APB Powder	https://www.erowid.org/chemicals/show_image.php?i=6_apb/6-apb_powder__i2012e0109_disp.jpg	1 gram of 6-APB powder on a scale. [Poland]	Photo by Mac. &copy; 2012 Erowid.org
+6-APB Product	https://www.erowid.org/chemicals/show_image.php?i=6_apb/6-apb_product__i2012e0570_disp.jpg	A package of "Benzo Fury" containing 6-APB. [UK]	Photo by Farmer Dodds. &copy; 2013 Erowid.org
+5-APB/6-APB Mixture Tablets	https://www.erowid.org/chemicals/show_image.php?i=6_apb/mixture_tablets_5apb_6apb__i2014e0318_disp.jpg	Five pellets/tablets containing a mixture of 5-APB and 6-APB. Vendor claims 110mg total active content, supposedly 50mg 5-APB to 60mg 6-APB. Each tablet weighs around 350-376mg. They were in general availability before legislation passed in the UK banning these substances. [UK]	Photo by Renton. &copy; 2014 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+6-APB
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: 6-APB is unscheduled in the United States. It is possible that it could be considered an analog (of MDA), in which case, sales for human consumption or possession with the intent to ingest could be prosecuted under the Federal Analogue Act though we are unaware of any such existing cases (01/26/11).
+stateLaw :: Florida	6-APB and 5-APB are now Schedule I by law as of Apr 29, 2013. Previously, 6-APB and 5-APB were added to Schedule I by emergency rule in Florida as "APB ((2-aminopropyl)benzofuran)". See myfloridalegal.com/webfiles.nsf/WF/MMFD-92VKZ8/$file/ER+RuleOAGRuleCertification12-11-2012.pdf, but this emergency rule appears to have expired after 90 days. There is a senate bill that would control 5/6-APB along with a dozen other stimulants and cannabinoids, but it has not yet passed into law. See http://www.flsenate.gov/Session/Bill/2013/0294. (SB 294). (thanks CM) (last updated May 14, 2013)
+Louisiana	2C-C, 2C-E, 2C-D, 2C-T-2, 2C-T 2C-T-4, 2C-H, 2C-N, 2C-P, 4-FA, 4-FMA, 6-APDB, 5-APDB, 5-APB6-APB, MDAI, 5-IAI, 4-HO-DIPT, 5-MeO-DMT, 5-MeO-MIPT, 5-MeO-DALT, DIPT, Methoxetamine, and the NBOMe compounds are Schedule I (as of June 2013). See http://www.legis.state.la.us/lss/lss.asp?doc=98877. (thanks ch) (last updated Mar 15, 2014)
+Minnesota	Minnesota added 6-APB (and by 'analog' extension 5-APB) to its Schedule I in 2012. See https://www.revisor.mn.gov/laws/?id=240&year=2012&type=0. (thanks w) (last updated May 9, 2013)
+Nevada	One visitor reported that a person in Nevada had charges dropped after the white powder they were arrested with was confirmed to be 6-APB. (unconfirmed) (last updated May 6, 2013)
+South Carolina	One visitor reports that some municipalities have banned the sale, though 6-APB is not yet controlled by the state. One product sold as "Mindful Cleaning Product". (unconfirmed) (thanks dm) (last updated Mar 2 2013)
+internationalLaw :: Brazil	6-APB is not yet controlled in Brazil. (unconfirmed) (thanks g) (last updated Oct 11, 2013)
+Germany (Deutschland	6-APB, 5-APB, Buphedrone, 3,4-Dimethylmethcathinone, Ethylphenidate, 3-Fluoromethcathinone, Pentedrone, and alpha-PVP became controlled in July, 2013. See http://www.bundesgesundheitsministerium.de/fileadmin/dateien/Downloads/B/Betaeubungsmittelgesetz/27_BtMAEndV.pdf and http://www.gesetze-im-internet.de/btmg_1981/index.html. (thanks jl) (last updated Jul 21 2013)
+Portugal	6-APB was controlled on April 17, 2013 (Decreto-Lei n.o 54/2013). See http://www.dre.pt/pdf1s/2013/04/07500/0225402257.pdf (in portuguese). (thanks g) (last updated Oct 11, 2013)
+Sweden	6-APB was controlled in Sweden in September 2012. See http://www.riksdagen.se/sv/Dokument-Lagar/Lagar/Svenskforfattningssamling/Forordning-199958-om-forbud_sfs-1999-58/?bet=1999:58. (thanks a) (last updated Dec 30 2012)
+United Kingdom (U.K., Britain)	5-APB, 5-MAPB, 6-APB, 6-MABP, 6-APDB, N-Methyl-5-APDB, 6-APDB, N-Methyl-5-APDB, 5-IT, and 6-IT were
+5-APB, 5-MAPB, 6-APB, 6-MABP, 6-APDB, N-Methyl-5-APDB, 6-APDB, N-Methyl-5-APDB, 5-IT, and 6-IT were 	controlled via a temporary control measure as of June 10, 2013. See https://www.gov.uk/government/news/nbome-and-benzofury-to-be-banned and http://www.bbc.co.uk/news/uk-politics-22771232. (thanks a) (last updated July 1, 2013)
+
+[Dose]
+doseTable :: 6-APB Dosages
+Oral
+( tentative )
+Threshold	15 - 25 mg
+Light	40 - 80 mg
+Common	80 - 100 mg
+Strong	80 - 100 mg
+Heavy	100+ mg
+doseText :: 6-APB is an uncommon synthetic empathogenic stimulant that is most often found in powder form that is taken orally. Wide variability in dose response has been reported. While doses producing strong effects are commonly reported, fewer reports are currently available about effects at doses lower than 75 mg.
+notes :: null
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

@@ -1,0 +1,11 @@
+[Substance]
+
+id :: 297
+name :: Nimetazepam
+url :: https://www.erowid.org/pharms/nimetazepam/nimetazepam.shtml
+category :: Pharms
+commonNames :: Erimin; Hypnon
+effectsClassification :: Anxiolytic; Sedative; Benzodiazepine
+chemicalName :: 1,3-dihydro-1-methyl-7-nitro-5-phenyl-2H-1,4-benzodiazepin- 2-one
+description :: Nimetazepam is a long-acting benzodiazepine used in the treatment of stress and insomnia. It is available primariy in Asia with black market use reportedly on the rise over the past few years. It is known for being used to soften the comedown after the use of methamphetamine and other stimulants.
+imageURL :: https://www.erowid.org/pharms/images/pharms_spacer_summary.jpg

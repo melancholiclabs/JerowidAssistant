@@ -1,0 +1,57 @@
+[Substance]
+
+id :: 345
+name :: Vasopressin
+url :: https://www.erowid.org/smarts/vasopressin/vasopressin.shtml
+category :: Smarts
+commonNames :: ADH; Pressyn; Diapid
+effectsClassification :: Memory
+chemicalName :: Antidiuretic hormone
+description :: Vasopressin is a hormone produced in the hypothalamus which increases water retention. When used as a 'smart drug', it is said to increase mental clarity and improve memory.
+imageURL :: https://www.erowid.org/smarts/vasopressin/images/desmopressin_summary1.jpg
+basicsURL :: https://www.erowid.org/smarts/vasopressin/vasopressin_basics.shtml
+imagesURL :: https://www.erowid.org/smarts/vasopressin/vasopressin_images.shtml
+lawURL :: https://www.erowid.org/smarts/vasopressin/vasopressin_law.shtml
+chemistryURL :: https://www.erowid.org/smarts/vasopressin/vasopressin_chemistry.shtml
+
+[Basics]
+description :: Vasopressin is a anti-diuretic hormone produced by the pituitary gland. It has a reputation as a memory enhancer with claims being that it is responsible for imprinting new information into the brain's memory centers. It is thought to also play a role in memory retrieval.  Vasopressin potentiates neurotransmitter activity in the CNS by strong inhibition of neuronal serotonin and norepinephrine reuptake and weak inhivition of dopamine reuptake. [ Main Vasopressin Vault ]
+descriptionSections :: dose	Dose Summary Needed.
+price	Price Summary Needed.
+law	Law Summary Needed.
+chemistry	Chemistry Summary Needed.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	History Summary Needed.
+terminology	Brand Names:Pitressin; Pressyn (Canada); Diapid (Nasal Spray). The Substance:Vasopressin. The Experience:No common terms known.
+effects :: Effects Summary Needed.
+effectsSections :: onset	Onset Summary Needed.
+duration	Duration Summary Needed.
+visuals	Visuals Summary Needed.
+problems :: Problems Summary Needed.
+problemsSections :: contraindications	Pregnant women should consult their doctor before taking Vasopressin during pregnancy.
+addiction	Addiction Potential Summary Needed.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Images]
+imageEntryList :: Vasopressin Nasal Spray	https://www.erowid.org/smarts/show_image.php?i=vasopressin/vasopressin_bottle__i2005e0978_disp.jpg	Vasopressin	Photo by TWiedemann. &copy; 2009 Erowid.org
+Desmopressin Nasal Spray	https://www.erowid.org/smarts/show_image.php?i=vasopressin/desmopressin1.jpg	Photograph of Desmopressin Nasal Spray. Rhone-Poulenc Rorer.	Photo by Erowid, &copy; 2002 Erowid.org
+Vasopressin 2D Molecule	https://www.erowid.org/smarts/show_molecule.php?i=vasopressin/vasopressin_2d.gif	Still 2D image of the Vasopressin molecule.	Image by Erowid, &copy; 2001 Erowid.org
+Vasopressin 3D Rotating Molecule	https://www.erowid.org/smarts/show_molecule.php?i=vasopressin/vasopressin__.mol	Rotating 3D image of the Vasopressin molecule.	Image by Erowid, &copy; 2001 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Vasopressin
+REGULATED	Yes
+STATUS	Prescription Only
+SCHEDULE	Un-Scheduled
+federalLawText :: Vasopressin is unscheduled in the United States, but is available by prescription only. This means that sales and distribution are allowed only by those with a license and only to those with a prescription (according to FDA regulations). Possession is not illegal even without a prescription.
+stateLaw :: null
+internationalLaw :: 
+
+[Chemistry]
+chemTable :: NAME :	Vasopressin
+CHEMICAL NAME :
+CHEMICAL FORMULA	C47H66N12O12S2
+moleculeURL :: null

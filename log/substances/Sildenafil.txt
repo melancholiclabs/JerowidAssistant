@@ -1,0 +1,51 @@
+[Substance]
+
+id :: 312
+name :: Sildenafil
+url :: https://www.erowid.org/pharms/sildenafil/sildenafil.shtml
+category :: Pharms
+commonNames :: Viagra; Aphrodil
+effectsClassification :: Erectile Dysfunction Treatment
+chemicalName :: 1-[[3-(6,7-dihydro-1-methyl-7-oxo-3-propyl-1H-pyrazolo [4,3-d]pyrimidin- 5-yl)-4-ethoxyphenyl]sulfonyl]-4- methylpiperazine citrate
+description :: Sildenafil citrate is prescribed in the treatment of Erectile Dysfunction. It is commonly referred to as a "lifestyle drug". Lifestyle drugs are prescribed for quality-of-life conditions such as baldness, impotence, obesity and smoking cessation. Sildenafil is a synthetic piperazine derivative.
+imageURL :: https://www.erowid.org/pharms/sildenafil/images/sildenafil_summary1.jpg
+basicsURL :: https://www.erowid.org/pharms/sildenafil/sildenafil_basics.shtml
+imagesURL :: https://www.erowid.org/pharms/sildenafil/sildenafil_images.shtml
+lawURL :: https://www.erowid.org/pharms/sildenafil/sildenafil_law.shtml
+
+[Basics]
+description :: Sildenafil, better known as Viagra, is prescribed to men reporting impotence, for use approx. one hour before sexual activity, to produce erection. Viagra is not currently approved for use by women, though research is being conducted. There are numerous reports of off-label use for sexual enhancement of Viagra by men and women not experiencing Erectile Dysfunction.  There is some evidence, presented at the Society for Neuroscience Conference in Oct 2006, that sildenafil has an an anti-anxiety effect in rats as measured by standard tests (Vogel confict, etc) and this may play some part in why it is a successful ED treatment drug in humans. [ Main Sildenafil Vault ]
+descriptionSections :: dose	Doses range from 25 milligrams to 100 milligrams, depending on individual response. Tablets come in doses of 25 mg, 50 mg and 100 mg.
+price	Price Summary Needed.
+law	Sildenafil is an unscheduled pharmaceutical available by prescription.
+chemistry	Sildenafil is a selective inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE5), which naturally occurs in erectile tissue. Phosphodiesterase type 5 breaks down the cGMP, which is produced during arousal and causes muscular and vascular changes which lead to an erection.
+pharmacology	Pharmacology Summary Needed.
+production	Production< Summary Needed.
+history	The FDA approved Viagra on March 27, 1998. Viagra is the first oral pill to treat impotence. Read an off-site account on the history of Viagra's creation.
+terminology	Brand Names:Viagra (Pfizer); Kamagra (India). The Substance:Sildenafil; Little Blue Pill; Blue. The Experience:No common terms known..
+effects :: Effects Summary Needed.
+effectsSections :: onset	Onset Summary Needed.
+duration	Duration Summary Needed.
+visuals	Visuals Summary Needed.
+problems :: Viagra is a vaso-dilator, meaning that it expands (relaxes) blood vessels. It has been shown to be dangerous in combination with nitrates (a type of heart medication), and the possibility exists that this is also true for nitrites (also a heart medication, but used recreationally by some).
+problemsSections :: contraindications	Contraindicated medications: Other impotence remedies including Caverject and Muse, Amlodipine (Norvasc), Cimetidine (Tagamet), Erythromycin (E-Mycin, Ery-Tab, PCE), Itraconazole (Sporanox), Ketoconazole (Nizoral) Nitrates such as nitroglycerin, Isordil, Nitro-Bid, and Nitro-Dur, Rifampin (Rifadin, Rimactane), Ritonavir (Norvir), Saquinavir (Fortovase, Invirase), the protease inhibitor indinavir. Contraindicated conditions: heart problems, history of heart attack, stroke, heart irregularities, unstable angina, kidney problems, or liver problems.  If you have a condition that might result in long-lasting erections, such as sickle cell anemia, multiple myeloma (a disease of the bone marrow), or leukemia, use Viagra with caution. Also use cautiously if you have a genital problem or deformity such as Peyronie's disease.  If an erection lasts more than 4 hours, seek treatment immediately. Permanent damage and impotence could result.  If you have a bleeding disorder, a stomach ulcer, or the inherited eye condition known as retinitis pigmentosa, use this medication with caution. Its safety under these circumstances has not yet been studied.  The effects of Viagra during pregnancy have not been studied.
+addiction	Addiction Potential Summary Needed.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Images]
+imageEntryList :: Viagra	https://www.erowid.org/pharms/show_image.php?i=sildenafil/viagra1.jpg	Color photo showing front and back of 50 mg Viagra (sildenafil) tablets.	Photo by Erowid, &copy; 2001 Erowid.org
+Viagra Tablets	https://www.erowid.org/pharms/show_image.php?i=sildenafil/viagra_tablet__i2005e0772_disp.jpg	Two sildenafil (Viagra) tablets on a grey tile. [Seattle, WA]	Photo by maison. &copy; 2009 Erowid.org
+Viagra	https://www.erowid.org/pharms/show_image.php?i=sildenafil/viagra2.jpg	Color photo of a package of Viagra with a blister-pack of four 100 mg tablets. [TN, USA]	Photo by Anonymous Photographer, &copy; 2002 Erowid.org
+Sildenafil and Tadalafil Tablets	https://www.erowid.org/pharms/show_image.php?i=sildenafil/sildenafil_tadalafil_tablet__i2012e0301_disp.jpg	Multiple doses and brands of blue and red sildenafil (generic Viagra) and yellow tadalafil (generic Cialis) are offered in small "farmacias" in Argentina, Paraguay, and Bolivia. [Itacare, Brazil]	Photo by Erowid Crew. &copy; 2012 Erowid.org
+Viagra Ad in Local Paper Classifieds	https://www.erowid.org/pharms/show_image.php?i=sildenafil/2013_sildenafil_viagra_ad__i2013e0195_disp.jpg	An advertisement from June 2013 for Viagra and Cialis. In the classified section of the Auburn Trader, a local free newspaper delivered to all residents of the area. The source website appears to be offering online prescriptions and generic and fake Viagra and related products. [Auburn, California]	Photo by Erowid. &copy; 2013 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Sildenafil
+REGULATED	Yes
+STATUS	Prescription Only
+SCHEDULE	Un-Scheduled
+federalLawText :: Sildenafil (Viagra) is unscheduled in the United States, but is available by prescription only. This means that sales and distribution are allowed only by those with a license and only to those with a prescription (according to FDA regulations). Possession is not illegal even without a prescription.
+stateLaw :: null
+internationalLaw :: 

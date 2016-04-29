@@ -1,0 +1,28 @@
+[Substance]
+
+id :: 266
+name :: Clonidine
+url :: https://www.erowid.org/pharms/clonidine/clonidine.shtml
+category :: Pharms
+commonNames :: Catapres; Dixarit; Haemiton
+effectsClassification :: Antihypertensive
+chemicalName :: 2-(2,6-dichlorophenylamino)-2-imidazoline hydrochloride
+description :: Clonidine is used primarily as an antihypertensive in the treatment of high blood pressure but is also used in the treatment of migraine headaches, depression, menopausal flushing, as a pre-operative sedative in children (unusual), alcohol, opiate and nicotine withdrawal, and a variety of other disorders.
+imageURL :: https://www.erowid.org/pharms/clonidine/images/clonidine_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/clonidine/clonidine_images.shtml
+lawURL :: https://www.erowid.org/pharms/clonidine/clonidine_law.shtml
+
+[Images]
+imageEntryList :: Generic Clonidine Tablets	https://www.erowid.org/pharms/show_image.php?i=clonidine/clonidine_tablet__i2005e0511_disp.jpg	Close-up photo of 0.1 mg generic clonidine tablets bearing the imprint "R/127", made by PurePac Pharmaceuticals. [KY, USA]	Photo by Biopharma. &copy; 2007 Erowid.org
+Clonidine	https://www.erowid.org/pharms/show_image.php?i=clonidine/clonidine1.jpg	Color photo of a .3 mg clonidine tablet from Mylan Pharmaceutical. Bears the imprint "Mylan/199".	Photo from the the Drug and Natural Medicine Advisor
+Catapres	https://www.erowid.org/pharms/show_image.php?i=clonidine/catapres1.jpg	Color photo of a catapres tablet.	Photo from the the Drug and Natural Medicine Advisor
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Clonidine
+REGULATED	Yes
+STATUS	Prescription Only
+SCHEDULE	Un-Scheduled
+federalLawText :: Clonidine (Catapres) is unscheduled in the United States, but is available by prescription only. This means that sales and distribution are allowed only by those with a license and only to those with a prescription (according to FDA regulations). Possession is not illegal even without a prescription.
+stateLaw :: null
+internationalLaw :: 

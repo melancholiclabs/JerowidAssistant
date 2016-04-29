@@ -1,0 +1,52 @@
+[Substance]
+
+id :: 49
+name :: Barbiturates
+url :: https://www.erowid.org/chemicals/barbiturates/barbiturates.shtml
+category :: Chemicals
+commonNames :: Barbs; Barbies; Downers; Blues; Nembies; Seccies
+effectsClassification :: Depressant
+chemicalName :: Various (see below)
+description :: Barbiturates are a class of sedative drugs prescribed for anxiety and insomnia. Barbiturates were widely available on the street in the 1970s and '80s, though less so in the '90s and '00s.
+imageURL :: https://www.erowid.org/chemicals/barbiturates/images/barbiturates_summary1.jpg
+imagesURL :: https://www.erowid.org/chemicals/barbiturates/barbiturates_images.shtml
+lawURL :: https://www.erowid.org/chemicals/barbiturates/barbiturates_law.shtml
+chemistryURL :: https://www.erowid.org/chemicals/barbiturates/barbiturates_chemistry.shtml
+
+[Images]
+imageEntryList :: Barbiturates	https://www.erowid.org/chemicals/show_image.php?i=barbiturates/barbiturates1.jpg	Color photo of a selection of various barbiturate pills and capsules.	U.S. government Public Domain photo.
+Barbiturates	https://www.erowid.org/chemicals/show_image.php?i=barbiturates/barbiturates2.jpg	Color photo of a selection of various barbiturate pills.	U.S. government Public Domain photo.
+Phenobarbital Tablets	https://www.erowid.org/chemicals/show_image.php?i=barbiturates/phenobarbital_tablet1.jpg	Color photo of white Phenobarbital tablets from Asia marked with a '1'.	Photo by Anonymous Photographer. &copy; 2003 Erowid.org
+Phenobarbital Ampules	https://www.erowid.org/chemicals/show_image.php?i=barbiturates/phenobarbital_ampule__i2008e1114_disp.jpg	Two ampules of Phenobarbital, each containing 1 ml of solution at 50 mg/ml.	Photo by Psych0naut. &copy; 2009 Erowid.org
+Phenobarbital Tablets	https://www.erowid.org/chemicals/show_image.php?i=barbiturates/phenobarbital_tablet2.jpg	Color photo of white, unmarked Phenobarbital tablets from Asia.	Photo by Anonymous Photographer. &copy; 2003 Erowid.org
+Secobarbital	https://www.erowid.org/chemicals/show_image.php?i=barbiturates/secobarbital1.jpg	Color photo of an original physician's sample box of Seconal (Secobarbital Sodium) containing several red capsules. [E. KY, USA]	Photo by Anonymous Photographer. &copy; 2005 Erowid.org
+Secobarbital 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=barbiturates/secobarbital_2d.gif	Still 2D image of the Secobarbital molecule.	Image by Erowid. &copy; 2001 Erowid.org
+Secobarbital 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=barbiturates/secobarbital__.mol	Rotating 3D image of the Secobarbital molecule.	Image by Erowid. &copy; 2001 Erowid.org
+Phenobarbital 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=barbiturates/phenobarbital_2d.gif	Still 2D image of the Phenobarbital molecule.	Image by Erowid. &copy; 2001 Erowid.org
+Phenobarbital 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=barbiturates/phenobarbital__.mol	Rotating 3D image of the Phenobarbital molecule.	Image by Erowid. &copy; 2001 Erowid.org
+Sodium Pentothal 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=barbiturates/phenobarbital_2d.gif	Still 2D image of the Sodium Pentothal molecule.	Image by Erowid. &copy; 2004 Erowid.org
+Sodium Pentothal 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=barbiturates/pentothal_sodium_3d_mid.jpg	Still 3D image of the Sodium Pentothal molecule.	Image by Erowid. &copy; 2004 Erowid.org
+Sodium Pentothal 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=barbiturates/pentothal_sodium__.mol	Rotating 3D image of the Sodium Pentothal molecule.	Image by Erowid. &copy; 2004 Erowid.org
+Pentothal 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=barbiturates/pentothal_2d.gif	Still 2D image of the Pentothal molecule.	Image by Erowid. &copy; 2004 Erowid.org
+Pentothal 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=barbiturates/pentothal_3d_mid.jpg	Still 3D image of the Pentothal molecule.	Image by Erowid. &copy; 2004 Erowid.org
+Pentothal 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=barbiturates/pentothal__.mol	Rotating 3D image of the Pentothal molecule.	Image by Erowid. &copy; 2004 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Barbiturates
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule I / II / III
+CLASSIFICATION	Depressant
+federalLawText :: Mecloqualone and Methaqualone are Schedule I in the United States. This means they are illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license.	
+Amobarbital, Pentobarbital, and Secobarbital are Schedule II in the United States. This means they are illegal to sell without a DEA license and illegal to buy or possess without a license or prescription.	
+Compounds or products containing low levels of some of these barbiturates are Schedule III.
+stateLaw :: null
+internationalLaw :: Canada	Most Barbiturates are schedule IV in Canada. (Note: Canadian schedules are very different than U.S. schedules)
+The Netherlands	A few barbiturates are available with a prescription in the Netherlands. Preparation, possession, adaption, delivery, providing and transport, of barbiturates is prohibited, because they are scheduled on "list II" of the "Opium Law". Possession of small quantities (for personal use) of prohibited substances is typically not prosecuted. Recreational use of barbiturates, is, as with any other substance, not prohibited in the Netherlands. (thanks K) (last updated Oct 11 2012)
+
+[Chemistry]
+chemTable :: NAME :	Secobarbital
+ALTERNATE CHEMICAL NAMES : 	Seconal; Quinalbarbital
+CHEMICAL FORMULA	C12H16N2O
+moleculeURL :: https://www.erowid.org/chemicals/barbiturates/images/archive/secobarbital_2d.gif

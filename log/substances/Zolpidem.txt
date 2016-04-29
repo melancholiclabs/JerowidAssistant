@@ -1,0 +1,39 @@
+[Substance]
+
+id :: 322
+name :: Zolpidem
+url :: https://www.erowid.org/pharms/zolpidem/zolpidem.shtml
+category :: Pharms
+commonNames :: Ambien; Stilnox; Sublinox
+effectsClassification :: Hypnotic; Sleep-aid
+chemicalName :: N,N-6-trimethyl-2-p-tolyl-imidazo[1,2-a]pyridine- 3-acetamide L-(+)-tartrate
+description :: Zolpidem is a short-acting sedative-hypnotic prescribed for the short-term treatment of insomnia. It interacts with the GABA-BZ receptor complex and shares some of the pharmacological properties of the benzodiazepines. As with most benzodiazepines, zolpidem can cause anterograde amnesia (forgetting the period during the effects).
+imageURL :: https://www.erowid.org/pharms/zolpidem/images/zolpidem_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/zolpidem/zolpidem_images.shtml
+lawURL :: https://www.erowid.org/pharms/zolpidem/zolpidem_law.shtml
+
+[Images]
+imageEntryList :: 5 mg Ambien Tablets	https://www.erowid.org/pharms/show_image.php?i=zolpidem/zolpidem_tablet__i2003e0209_disp.jpg	Two 5 mg Ambien (zolpidem) tablets showing front and reverse. Imprinted with "AMB 5 || 5401". [CA, USA]	Photo by Gorilla Farmer. &copy; 2006 Erowid.org
+10 mg Ambien Tablets	https://www.erowid.org/pharms/show_image.php?i=zolpidem/zolpidem_tablet__i2005e0771_disp.jpg	A small pile of 10 mg Ambien tablets on a tile. [WA, USA]	Photo by Maison. &copy; 2006 Erowid.org
+10 mg Zolpidem Tablets	https://www.erowid.org/pharms/show_image.php?i=zolpidem/zolpidem_tablet1.jpg	Nice photo of a two 10 mg zolpidem tablets imprinted with "ZIM 10" next to a guitar pick for size. [Finland]	Photo by Tuukka Virtaperko, &copy; 2005 Erowid.org
+Sublingual Zolpidem 10mg Tablet and Sublinox Packaging	https://www.erowid.org/pharms/show_image.php?i=zolpidem/zolpidem_sublinox_package__i2014e0265_disp.jpg	Sublinox-brand zolpidem sublingual tablets each containing 10mg. Meda Valeant Canada. White, round, [blank]/ |X| [NB Canada]	Photo by Anonymous. &copy; 2014 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Zolpidem
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule IV
+CLASSIFICATION	Depressant
+federalLawText :: Zolpidem is Schedule IV in the U.S. This means it is illegal to sell without a license and illegal to possess without a valid license or prescription.
+stateLaw :: null
+internationalLaw :: Canada	Zolpidem is available by prescription only in Canada and is a Schedule IV drug, in the same schedule as benzodiazepines. Possession of Schedule IV drugs in Canada is not a crime unless for the purposes of distribution. Seeking to obtain Schedule IV drugs such as zolpidem is a illegal in Canada. (thanks br) (last updated Aug 6 2014)
+Germany	Zolpidem is available by prescription only in Germany. (thanks P)
+Finland	We received a report that zolpidem is available by prescription only in Finland. (unconfirmed) (thanks T)
+France	We received a report that zolpidem is only available by prescription in France. (unconfirmed) (thanks M)
+Italy (Italia)	Zolpidem is available by prescription only. The most common commercial name is Stilnox. (unconfirmed) (thanks PM) (last updated Sep 8 2009)
+New Zealand	Zolpidem is available by prescription only in New Zealand. (thanks br) (last updated Apr 25 2011)
+Norway	Zolpidem is available by prescription only in Norway, and we have been told that it is very uncommon. (thanks AV) (last updated May 2007)
+Portugal	Zolpidem is available by prescription only in Portugal. (last updated Apr 26 2016)
+Sweden	Zolpidem is available only with a prescription in Sweden. It is reportedly less available to those under the age of 18. (unconfirmed) (thanks C,E) (last updated Oct 1 2009)
+United Kingdom (U.K., England, Scotland, Wales)	Zolpidem is available only with a prescription and is a Class C drug under the Misuse of Drugs Act. See http://www.homeoffice.gov.uk/about-us/corporate-publications-strategy/home-office-circulars/circulars-2003/039-2003/. (thanks K) (last updated May 3 2012)

@@ -1,0 +1,117 @@
+[Substance]
+
+id :: 34
+name :: 5-MeO-AMT
+url :: https://www.erowid.org/chemicals/5meo_amt/5meo_amt.shtml
+category :: Chemicals
+commonNames :: Alpha,O-Dimethyl-Serotonin; Alpha-O
+effectsClassification :: Psychedelic Tryptamine
+chemicalName :: 5-methoxy-alpha-methyltryptamine
+description :: 5-MeO-AMT is a long-acting synthetic psychedelic. It is very potent, requiring only very small dosages to produce full effects.
+imageURL :: https://www.erowid.org/chemicals/5meo_amt/images/5meo_amt_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/5meo_amt/5meo_amt_basics.shtml
+effectsURL :: https://www.erowid.org/chemicals/5meo_amt/5meo_amt_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/5meo_amt/5meo_amt_images.shtml
+healthURL :: https://www.erowid.org/chemicals/5meo_amt/5meo_amt_health.shtml
+lawURL :: https://www.erowid.org/chemicals/5meo_amt/5meo_amt_law.shtml
+doseURL :: https://www.erowid.org/chemicals/5meo_amt/5meo_amt_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/5meo_amt/5meo_amt_chemistry.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Basics]
+description :: 5-MeO-AMT is a long-acting tryptamine active at very low doses. It is generally available in either powder, tablet, or liquid form. Partially because of its low dosage and partially because of name confusion with the less-potent AMT, reports of accidental overly strong doses are fairly common. There are a handful of hospitalization reports and an unconfirmed death associated with 5-MeO-AMT. It is generally considered less pleasant, less fun, and more dangerous than AMT. [ Main 5-MeO-AMT Vault ]
+descriptionSections :: dose	There is very little data about appropriate dosages for 5-MeO-AMT. Based on TiHKAL commentaries and a small number of experience reports normal oral doses appear to be in the range of 2-6 mg.
+price	150-200 per gram (March 2004), sold at parties and clubs for $5-20 USD for a single 3-4 mg dose, averaging around $10.
+law	5-MeO-AMT is not specifically scheduled in the United States meaning it is not technically illegal to possess. It is possible that sales or possession could be prosecuted under the Analog Act, although we are unaware of any such cases. To the best of our knowledge, 5-MeO-AMT is not currently scheduled in any other country.
+chemistry	5-MeO-AMT is a synthetic tryptamine.
+pharmacology	Pharmacology Summary Needed.
+production	The bulk of available 5-MeO-AMT is produced by experienced chemists in commercial labs.
+history	5-MeO-AMT's chemistry was first published in an article by Shulgin and Nichols in 1978, titled Characterization of three new psychotomimetics. The next publication we know of to mention it is Alexander Shulgin's book TiHKAL published in 1997 and the first instance we have heard of it being available on the underground market was unconfirmed reports that it was sold in fall of 1999 as pressed tablets.
+terminology	The Substance:5-MeO-AMT; Alpha-O; Saturn5; VX. The Experience:Tripping.
+effects :: Effects Summary Needed.
+effectsSections :: onset	Depending on how much and how recently one has eaten food, 5-MeO-AMT takes approximately 30-90 minutes to take effect. On a full stomach, onset can be considerably slower. Most of the unpleasant and dagnerous reports we have received have involved insufflation.
+duration	5-MeO-AMT's primary effects last 6-10 hours for most people at moderate (2-5 mg) doses, but can last as long as 12 hours with another 4-6 hours of after effects. At higher doses, the effects can last another 4-8 hours for some people.
+visuals	Visuals Summary Needed.
+problems :: The most common problem reported with 5-MeO-AMT is overdosing as a result of confusing between AMT and 5-MeO-AMT. These are two different substances but many people, including vendors, have confused the two. 5-MeO-AMT is active at considerably lower doses than AMT. A full dose of 5-MeO-AMT is 1-6 mg. A full dose of AMT is 15-50 mg. Taking 15-50 mg of 5-MeO-AMT could result in serious injury or death. We have received reports of hospitalizations and one possible death resulting from this confusion.
+problemsSections :: contraindications	Do not take 5-MeO-AMT if you are currently taking an MAOI. MAOIs are most commonly found in the prescription anti-depressants Nardil (phenelzine), Parnate (tranylcypromine), Marplan (isocarboxazid), Eldepryl (l-deprenyl), and Aurorex or Manerix (moclobemide). Ayahuasca also contains MAOIs (harmine and harmaline). 5-MeO-AMT and MAOIs are a potentially dangerous combination. Check with your doctor if you are not sure whether your prescription medication is an MAOI Do not operate heavy machinery. Do Not Drive. If you have a seizure or convulsive disorder or heart problems, you may be at higher risk for health problems when taking 5-MeO-AMT. Diabetics should monitor their blood sugar closely as there have been some reports of problems. Individuals currently in the midst of emotional or psychological upheaval in their everyday lives should be careful about choosing to use psychedelics such as 5-MeO-AMT as they can trigger even more difficulty. Individuals with a family history of schizophrenia or early onset mental illness should be extremely careful because psychedelics have been known to trigger latent psychological and mental problems.
+addiction	5-MeO-AMT is unlikely to be physically addicting and unlikely to cause psychological dependence. Withdrawal effects following discontinuation have not been reported. We have received no reports of regular, heavy use of 5-MeO-AMT.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Effects]
+duration :: 5-MeO-AMT Duration
+Oral
+Total Duration	7 - 13 hrs
+Onset	30 - 60 mins
+Coming Up	30 - 60 mins
+Plateau	3 - 6 hrs
+Coming Down	3 - 5 hrs
+&nbsp;	&nbsp;
+After Effects	2 - 8 hrs
+Hangover / Day After	- - -
+positiveEffects :: increased energy	improved mood heading into euphoria at higher doses	increased sociability, gregariousness	increased giggling and laughing	increased sense of creative thinking	increased pleasure from sense of touch	intensification in sexual / erotic experiences for some users
+neutralEffects :: light headedness	brightening of colors	visuals including motion, waves, breathing walls, etc (usually at doses over 4-5 mg)	increased attention on details	auditory hallucinations / sound distortions (usually at higher doses)
+negativeEffects :: Headache	Body fatigue	Stress and extreme fatigue from long duration of effects.	Nausea, diarrhea	Vomiting at high doses	Difficulty sleeping or resting for 12-24 hours after ingestion.	Paranoia, irritability, anxiety (increasing with dose).	Delusional, aggressive, or dissociated behaviour at very high doses (20+mg)
+description :: The effects of 5-MeO-AMT have not been well documented as of March 2004. As with all psychoactives, effects change and increase in intensity with higher doses and with different routes of administration. Body weight, gender, and individual sensitivities can greatly effect experiential effects. (thanks C.G.)
+experienceReports :: null
+
+[Images]
+imageEntryList :: 5-MeO-AMT	https://www.erowid.org/chemicals/show_image.php?i=5meo_amt/5meo_amt_crystals__i2003e0568_disp.jpg	150 mg of crushed 5-MeO-AMT crystals in a small vial (99.5% purity). [SF, USA]	Photo by Anonymous. &copy; 2006 Erowid.org
+5-MeO-AMT Sun Blotter	https://www.erowid.org/chemicals/show_image.php?i=5meo_amt/5meo_amt_blotter__i2003e0648_disp.jpg	5-MeO-AMT sun with face blotters, including a close up of individual doses. [UK]	Photo by MantaRayDrink. &copy; 2013 Erowid.org
+Mass Spec 	https://www.erowid.org/chemicals/show_image.php?i=5meo_amt/5meo_amt_massspec1.gif	A black and white Mass Specrograph of 5-MeO-AMT.	Image by Anonymous Contributor. &copy; 2004 Erowid.org
+Mass Spec 	https://www.erowid.org/chemicals/show_image.php?i=5meo_amt/5meo_amt_massspec_dea1.gif	A black and white Mass Specrograph of 5-MeO-AMT from the DEA.	Image by DEA, Public Domain&copy; 2004 Erowid.org
+5-MeO-AMT 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=5meo_amt/5meo_amt_2d.gif	Still 2D image of the 5-MeO-AMT molecule.	Image by Erowid. &copy; 2004 Erowid.org
+5-MeO-AMT 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=5meo_amt/5meo_amt_3d.jpg	Still 3D image of the 5-MeO-AMT molecule.	Image by Erowid. &copy; 2000 Erowid.org
+5-MeO-AMT 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=5meo_amt/5meo_amt__.mol	Rotating 3D image of the 5-MeO-AMT molecule.	Image by Erowid. &copy; 2000 Erowid.org
+
+[Health]
+notes :: null
+deaths :: null
+warnings :: null
+cautions :: null
+benefits :: null
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+5-MeO-AMT
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Possible Analog
+federalLawText :: 5-MeO-AMT is unscheduled in the United States. It is possible that it could be considered an analog (of AMT), in which case, sales for human consumption or possession with the intent to ingest could be prosecuted under the Federal Analogue Act.	
+The DEA and the US Department of Justice consider 5-MeO-AMT a controlled substance analogue, making it a Schedule I substance when intended for human consumption.	
+There are currently several cases pending in U.S. federal court against online vendors for selling research chemicals. These cases may address the question of whether this chemical could be legally defined as an analog of a scheduled substance. We have been told of prosecutions for possession and distribution.
+stateLaw :: Arizona	Added to the "Dangerous drug" list in April, 2014. The newly listed drugs include : Alpha-methyltryptamine.; (2-aminopropyl) benzofuran (APB); (2-aminopropyl)-2,3-dihydrobenzofuran (APDB); [3-(3-carbamoylphenyl)phenyl]N-cyclohexyl carbamate (URB-597); 5-methoxy-alpha-methyltryptamine; Psilacetin; Fluoroamphetamine; Fluoromethamphetamine; Methiopropamine; Hydroxyphencyclidine (HO-PCP); 2-(methoxyphenyl)-2-(ethylamino)cyclohexanone(Methoxetamine) ; 2-(methoxyphenyl)-2-(methylamino)cyclohexanone(Methoxyketamine) ; Methoxyphencyclidine(MeO-PCP) ; Phencyclidine mimetic substances ; Fentanyl mimetic substances ; N-methyltryptamine mimetic substances. See http://legiscan.com/AZ/bill/HB2453/2014. (thanks H) (last updated Apr 28 2014)
+internationalLaw :: Australia	The National Drugs and Poisons Schedule Committee formally added
+The National Drugs and Poisons Schedule Committee formally added 	2C-I, 2C-T-2, 2C-T-7, and 5-MeO-AMT to Schedule 9 (the most restrictive) in 2005. See National Drugs and Poisons Schedule Committee Record of Reasons, 43rd Meeting, 22-23 February 2005. (thanks G, SG)
+Finland	5-MeO-AMT was banned in Finland in December 2014. A new government regulation was enacted in Finland that banned over 100 psychoactive chemicals. See Finland's Prohibited Psychoactive Substances: December 19, 2014. (last updated Dec 26, 2014)
+Japan	5-MeO-AMT is controlled as a "Designated Substance" (Shitei-Yakubutsu) by the Pharmaceutical Affairs Law, making it illegal to possess or sell (see Ref)
+Sweden	Controlled in Sweden as of Oct 1, 2004, see rxlex.riksdagen.se) (unconfirmed) (thanks RH)
+
+[Dose]
+doseTable :: Oral 5-MeO-AMT Dosages
+Threshold.5-1.0 mg
+Light1 - 3 mg
+Common2 - 6 mg
+Strong4 - 10 mg
+Heavy6 - 15 mg
+Onset : 30 - 90 minutes
+Duration : 8 - 12 hours
+Normal After Effects : up to 12 additional hours
+doseText :: There is very little data about appropriate dosages for 5-MeO-AMT. Following are approximate dosages based on TiHKAL commentaries and a small number of experience reports. 5-MeO-AMT is generally available in powder form, but we are also aware of pressed tablets (rare), and liquid (dissolved in water and/or alcohol).  Body weight, gender, and individual sensitivities can greatly effect experiential effects. Some report that females seem generally more sensitive, by body weight, than males.       Oral 5-MeO-AMT Dosages Threshold.5-1.0 mg Light1 - 3 mg Common2 - 6 mg Strong4 - 10 mg Heavy6 - 15 mg    Onset : 30 - 90 minutes Duration : 8 - 12 hours Normal After Effects : up to 12 additional hours   There have been a number of reported negative reactions and some reports of hospitalizations after taking 5-MeO-AMT.
+notes :: null
+
+[Chemistry]
+chemTable :: NAME :	5-MeO-AMT
+CHEMICAL NAME :	alpha,O-Dimethylserotonin
+ALTERNATE NAME :	a,O-DMS, Alpha-O
+CHEMICAL FORMULA :	C12H16N2O
+Melting Point :	216-218� C
+moleculeURL :: https://www.erowid.org/chemicals/5meo_amt/images/archive/5meo_amt_3d_mid.jpg
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

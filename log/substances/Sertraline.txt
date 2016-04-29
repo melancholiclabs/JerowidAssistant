@@ -1,0 +1,52 @@
+[Substance]
+
+id :: 311
+name :: Sertraline
+url :: https://www.erowid.org/pharms/sertraline/sertraline.shtml
+category :: Pharms
+commonNames :: Zoloft; Lustral
+effectsClassification :: Antidepressant; SSRI
+chemicalName :: (1S-cis)-4-(3,4-dichlorophenyl)-1,2,3,4-tetrahydro- N-methyl-1-naphthalenamine
+description :: Sertraline is an Selective Serotonin Reuptake Inhibitor (SSRI) approved for the treatment of depression, obsessive-compulsive disorder (OCD), panic disorder, post-traumatic stress disorder, and pre-menstrual dysphoric disorder. It is also prescribed in the treatment of eating disorders and social phobia.
+imageURL :: https://www.erowid.org/pharms/sertraline/images/sertraline_summary1.jpg
+basicsURL :: https://www.erowid.org/pharms/sertraline/sertraline_basics.shtml
+imagesURL :: https://www.erowid.org/pharms/sertraline/sertraline_images.shtml
+lawURL :: https://www.erowid.org/pharms/sertraline/sertraline_law.shtml
+
+[Basics]
+description :: Sertraline is an SSRI (Selective Serotonin Reuptake Inhibitor) which changes the body's regulation of serotonin by blocking the reuptake of serotonin into 5HT neurons. As with other SSRI's, Zoloft can take several weeks before it produces the desired effects. [ Main Sertraline Vault ]
+descriptionSections :: dose	Dose Summary Needed.
+price	Price Summary Needed.
+law	Law Summary Needed.
+chemistry	Chemistry Summary Needed.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	Sertraline was introduced in 1986 as a treatment for depression and obsessive compulsive disorder.
+terminology	Brand Names:Zoloft (Pfizer); Lustral. The Substance:Sertraline. The Experience:No common terms known..
+effects :: Effects Summary Needed.
+effectsSections :: onset	Onset Summary Needed.
+duration	Duration Summary Needed.
+visuals	Visuals Summary Needed.
+problems :: Problems Summary Needed.
+problemsSections :: contraindications	Contraindications Summary Needed.
+addiction	
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Images]
+imageEntryList :: Zoloft	https://www.erowid.org/pharms/show_image.php?i=sertraline/zoloft2.jpg	Color photo of 50 & 100 mg zoloft tablets. [Japan]	Photo by Mean Cinderella, &copy; 2001 Erowid.org
+Zoloft	https://www.erowid.org/pharms/show_image.php?i=sertraline/zoloft3.jpg	Color photo of professional samples of zoloft tablets. [Japan]	Photo by Mean Cinderella, &copy; 2001 Erowid.org
+Sertraline (Zoloft) Tablet	https://www.erowid.org/pharms/show_image.php?i=sertraline/sertraline_tablet__i2005e0956_disp.jpg	A single 50 mg sertraline (Zoloft) tablet with the imprint "ZLT 50". [Romania]	Photo by UJO. &copy; 2007 Erowid.org
+Sertraline (Zoloft) Tablets	https://www.erowid.org/pharms/show_image.php?i=sertraline/sertraline_tablet__i2006e1030_disp.jpg	A professional sample pack of 25 and 50 mg Sertraline (Zoloft) tablets. [CA, USA]	Photo by Chelle. &copy; 2007 Erowid.org
+Zoloft	https://www.erowid.org/pharms/show_image.php?i=sertraline/zoloft4.jpg	Color photo of professional samples of zoloft tablets.	Photo by Alkaloidaholic, &copy; 2002 Erowid.org
+Zoloft	https://www.erowid.org/pharms/show_image.php?i=sertraline/zoloft1.jpg	Color photo of a 50 mg zoloft tablet.	Photo from the Drug and Natural Medicine Advisor
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Sertraline
+REGULATED	Yes
+STATUS	Prescription Only
+SCHEDULE	Un-Scheduled
+federalLawText :: Sertraline (Zoloft) is unscheduled in the United States, but is available by prescription only. This means that sales and distribution are allowed only by those with a license and only to those with a prescription (according to FDA regulations). Federally, possession is not illegal even without a prescription. Some US States make it a crime to possess an unscheduled, prescription-only drug without a prescription.
+stateLaw :: null
+internationalLaw :: 

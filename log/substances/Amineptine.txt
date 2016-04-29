@@ -1,0 +1,28 @@
+[Substance]
+
+id :: 251
+name :: Amineptine
+url :: https://www.erowid.org/pharms/amineptine/amineptine.shtml
+category :: Pharms
+commonNames :: Survector; Maneon; Directin
+effectsClassification :: Antidepressant; Stimulant
+chemicalName :: 7-[(10,11-dihydro-5H-dibenzo[a,d]cyclohepten-5-yl)amino] heptanoic acid
+description :: Amineptine is an atypical tricyclic antidepressant and central nervous system stimulant. It is an indirect dopamine agonist, with additional stimulation of the adrenergic system. Its antidepressant effects are similar to other tricyclic antidepressants but it has a more rapid action, is better tolerated and has little cardiovascular, analgesic or anorectic effects.
+imageURL :: https://www.erowid.org/pharms/images/pharms_spacer_summary.jpg
+imagesURL :: https://www.erowid.org/pharms/amineptine/amineptine_images.shtml
+lawURL :: https://www.erowid.org/pharms/amineptine/amineptine_law.shtml
+
+[Images]
+imageEntryList :: Amineptine 2D Molecule	https://www.erowid.org/pharms/show_image.php?i=amineptine/amineptine_2d.gif	Still 2D image of the Amineptine molecule.	Image by Erowid, &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Amineptine
+REGULATED	Yes
+STATUS	Prescription Only
+SCHEDULE	Un-Scheduled
+federalLawText :: Amineptine (Survector) is unscheduled in the United States, but is available by prescription only. This means that sales and distribution are allowed only by those with a license and only to those with a prescription (according to FDA regulations). Possession is not illegal even without a prescription.
+stateLaw :: null
+internationalLaw :: Denmark	Amineptine is controlled in Denmark as of Aug 23, 2003.
+France	Amineptine was removed from the market in France in 1999, and added to l'annexe III of France's list of controlled substance in 2004. [Reference] (thanks C)
+South Korea	As of January 2005, Amineptine is controlled in S. Korea. (thanks M)

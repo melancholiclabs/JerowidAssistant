@@ -1,0 +1,28 @@
+[Substance]
+
+id :: 215
+name :: DAMIANA
+url :: https://www.erowid.org/herbs/damiana/damiana.shtml
+category :: Herbs
+botanicalClassification :: Family :Turneraceae, Genus :Turnera, Species :aphrodisiaca; diffusacommonNames :: Damiana; Herba de la pastora
+uses :: Damiana is used as a general tonic for the nervous, hormonal, and reproductive systems. It has an ancient reputation as an aphrodisiac. Some claim damiana tea has a relaxing effect not-unlike low doses of cannabis. Others argue that Damiana has no active ingredients, and that its medicinal reputation is based on damiana tonics from the late 1800s which were inactive, or contained enough alcohol and/or coca to produce unrelated effects.
+description :: A shrub that grows up to 2 meters tall, and has a woody, heavily branched stem. Leaves are pale green with hairy ribs. It bears small yellow flowers and inconspicuous fruits in a rough, three-chambered shell.
+imageURL :: https://www.erowid.org/herbs/damiana/images/damiana_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/damiana/damiana_images.shtml
+lawURL :: https://www.erowid.org/herbs/damiana/damiana_law.shtml
+
+[Images]
+imageEntryList :: Turnera diffusa Flower	https://www.erowid.org/herbs/show_image.php?i=damiana/turnera_diffusa_flower__i2005e1304_disp.jpg	Cultivated Turnera diffusa in flower. [cultivation]	Anonymous Photographer. &copy; 2006 Erowid.org
+Damiana Leaf	https://www.erowid.org/herbs/show_image.php?i=damiana/damiana_dried__i2003e0053_disp.jpg	Dried Damiana leaf purchased bulk from health food store. [CA, USA]	Photo by Xantryper. &copy; 2006 Erowid.org
+Turnera ulmifolia Flower	https://www.erowid.org/herbs/show_image.php?i=damiana/turnera_ulmifolia1.jpg	Beautiful close-up photo of a single Turnera ulmifolia flower.	Photo by Torsten Wiedemann, &copy; 2005 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Damiana
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Damiana is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.	
+Turnera diffusa leaves are approved for food use as a flavoring agent in the U.S. and appear in the FDA's list of substances Generally Recognized As Safe (GRAS).
+stateLaw :: Louisiana	Effective Aug 8, 2005 (signed into law Jun 28, 2005) Louisiana Act No 159 makes 40 plants illegal, including Damiana (Turnera diffusa), when intended for human consumption. The law specifically excludes the "possession, planting, cultivation, growing, or harvesting" of these plants if used "strictly for aesthetic, landscaping, or decorative purposes." (Act No. 565; House Bill No. 173, 2010. (last updated Sep 29 2011)
+internationalLaw :: Australia	Damiana is legal to buy in Australia. (unconfirmed) (thanks S)

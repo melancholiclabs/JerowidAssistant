@@ -1,0 +1,62 @@
+[Substance]
+
+id :: 137
+name :: Banisteriopsis caapi
+url :: https://www.erowid.org/plants/banisteriopsis/banisteriopsis.shtml
+category :: Plants
+botanicalClassification :: Family :Malpighiaceae, Genus :Banisteriopsis, Species :caapi; inebrienscommonNames :: Caapi; Ayahuasca; Yage; Yaje
+effectsClassification :: MAOI; Psychedelic
+description :: Banisteriopsis caapi is a tropical vine which contains harmine and other harmala alkaloids in its stems. It has a long history of use in South American ayahuasca brews.
+imageURL :: https://www.erowid.org/plants/banisteriopsis/images/banisteriopsis_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/banisteriopsis/banisteriopsis_images.shtml
+lawURL :: https://www.erowid.org/plants/banisteriopsis/banisteriopsis_law.shtml
+
+[Images]
+imageEntryList :: Banisteriopsis caapi	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi18.jpg	Beautiful color photo of twisted B. caapi vines [USA].	Photo by IO Pan, &copy; 2004 Erowid.org
+Banisteriopsis caapi vine.	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi_vine__i2012e0296_disp.jpg	Banisteriopsis caapi vine growing on a fence. Some areas of Brazil are particularly well suited for growing B. caapi, the jungle vine known for its legal spiritual use by Brazilian religious groups such as the Unio do Vegetal and the Santo Daime. [Vila Camboinha, Brazil]	Photo by Jon Hanna. &copy; 2012 Erowid.org
+Banisteriopsis caapi	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi4.jpg	Color photo of a group of large B. caapi vines.	Photo by Kava Kauai. Used by Erowid with permission.
+Banisteriopsis caapi	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi__i2003e0138_disp.jpg	6 year old Banisteriopsis caapi vine with young Psychotria alba. [FL, USA]	Photo by IO Pan. &copy; 2006 Erowid.org
+Banisteriopsis caapi	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi_vine__i2008e0164_disp.jpg	Banisteriopsis caapi (ayahuasca) vine growing at the Florida Botanical Gardens in Largo, FL [FL, USA]	Photo by Nigel Predmore. &copy; 2009 Erowid.org
+Banisteriopsis caapi Vine	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi__i2003e0146_disp.jpg	Twisted Banisteriopsis caapi vines. [FL, USA]	Photo by IO Pan. &copy; 2006 Erowid.org
+Banisteriopsis caapi	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi17.jpg	Color photo of a small Banisteriopsis caapi plant. [Florida]	Photo by Batman, &copy; 2003 Erowid.org
+Banisteriopsis caapi vine	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi12.jpg	Color photo of a young Banisteriopsis caapi growing in a pot.	Photo by Renwick, &copy; 2002 Erowid.org
+Banisteriopsis caapi vine	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi10.jpg	Color photo of a young Banisteriopsis caapi vine growing on a tree.	Photo by F. Conte, &copy; 2001 Erowid.org
+Banisteriopsis caapi	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi16.jpg	Color photo of Banisteriopsis caapi vine sections. [Brazil]	Photo by Maurice of Maya Ethnobotanicals, &copy; 2002 Erowid.org
+Banisteriopsis caapi	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi13.jpg	Close-up color photo of a cross-section of four B. caapi vines.	Photo by Maurice of Maya Ethnobotanicals, &copy; 2002 Erowid.org
+Banisteriopsis caapi	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi14.jpg	Color photo of Banisteriopsis caapi vine sections ("red caapi"). [Peru]	Photo by Maurice of Maya Ethnobotanicals, &copy; 2002 Erowid.org
+Banisteriopsis caapi	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi15.jpg	Color photo of Banisteriopsis caapi vine sections ("white caapi" or "painted caapi"). [Peru]	Photo by Maurice of Maya Ethnobotanicals, &copy; 2002 Erowid.org
+Banisteriopsis caapi Vines	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi_vine__i2003e0140_disp.jpg	A large pile of dried Banisteriopsis caapi vines. [FL, USA]	Photo by IO Pan. &copy; 2007 Erowid.org
+Bundled Ayahuasca Vines	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi_bundle1.jpg	Color photo of Banisteriopsis caapi vines cut, bundled and shelved in Pucallpa, Peru.	Photo by DsergeC, &copy; 2000 Erowid.org
+Banisteriopsis caapi	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi7.jpg	Close up color photo of a collection of Banisteriopsis caapi vines.	Photo by Anonymous Photographer, &copy; 2000 Erowid.org
+Banisteriopsis caapi	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi6.jpg	Color photo of a cross-section of Banisteriopsis caapi.	Photo by Anonymous Photographer, &copy; 2000 Erowid.org
+P. viridis and B. caapi	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi__i2005e0333_disp.jpg	Dried Psychotria viridis leaves and Banisteriopsis caapi vine. [Obtained from Maya Ethnobotanicals]	Photo by UserAbuser. &copy; 2009 Erowid.org
+Banisteriopsis caapi	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi9.jpg	Color photo showing cross-sections of a cut B. caapi vine.	Photo by Ho-Ti Nursery. Used by Erowid with permission.
+Banisteriopsis caapi	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi3.jpg	Color photo of Ayahuasca vine (Banisteriopsis caapi), cut, bundled and shelved in Pucallpa, Peru.	Photo by Serge Chorba. Used by Erowid with permission.
+Banisteriopsis caapi	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi_flower1.jpg	Nice color photo of a B. caapi flower.	Photo by Kava Kauai. Used by Erowid with permission.
+Banisteriopsis caapi	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi_flower2.jpg	Color photo of a flowering B. caapi vine.	Photo by Kava Kauai. Used by Erowid with permission.
+Banisteriopsis caapi Leaves	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi_leaf__i2009e0844_disp.jpg	Small branch showing Banisteriopsis caapi (Ayahuasca) leaves. [Mexico]	Photo by Pekon Metsa. &copy; 2009 Erowid.org
+Banisteriopsis caapi	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi__i2003e0144_disp.jpg	Photo showing lush Banisteriopsis caapi leaf growth. [FL, USA]	Photo by IO Pan. &copy; 2006 Erowid.org
+Banisteriopsis caapi	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi__i2003e0142_disp.jpg	Lush growth of a B. caapi vine and leaves. [FL, USA]	Photo by IO Pan. &copy; 2006 Erowid.org
+Banisteriopsis caapi	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi8.jpg	Color photo of an Banisteriopsis caapi herbarium display by the Botanical Preservation Corps. Palenque, Mexico.	Photo by Freeblood, &copy; 2000 Erowid.org
+Banisteriopsis caapi Seeds	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi_seed__i2012e0020_disp.jpg	Close-up of several Banisteriopsis caapi seeds next to an Australian coin. [Australia]	Photo by D.C. Williams. &copy; 2012 Erowid.org
+Banisteriopsis caapi	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi1.jpg	Color drawing of B. caapi.	From Plants of The Gods, by Schultes and Hofmann.
+Banisteriopsis caapi	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi11.jpg	Black and white botanical drawing of B. caapi.	Image by E.W. Smith. From "The Plant Kingdom and Hallucinogens (part III)", by Richard Evans Schultes.
+Banisteriopsis caapi	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi2.jpg	Color drawing of plant, flower, and seed pod	Artist unknown.
+Banisteriopsis inebrians	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_inebrians1.jpg	Black and white drawing of B. inebrians. There is some debate as to whether there should be a distincton between B. inebrians and B. caapi or not.	From Plants of The Gods, by Schultes and Hofmann.
+Banisteriopsis caapi	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi2.jpg	Color drawing of plant, flower, and seed pod	Artist unknown.
+Harmaline 3D Molecule	https://www.erowid.org/chemicals/show_image.php?i=harmala/harmaline_3d.jpg	Still 3D image of the Harmaline molecule.	Image by Erowid, &copy; 1999 Erowid.org
+Harmaline 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=harmala/harmaline__.mol	Rotating 3D image of the Harmaline molecule.	Image by Erowid, &copy; 1999 Erowid.org
+Harmine 3D Molecule	https://www.erowid.org/chemicals/show_image.php?i=ayahuasca/harmine_3d.jpg	Still 3D image of the Harmine molecule	Image by Erowid, &copy; 1999 Erowid.org
+Harmine 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=ayahuasca/harmine__.mol	Rotating 3D image of the Harmine molecule.	Image by Erowid, &copy; 1999 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Banisteriopsis caapi
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: Neither Banisteriopsis caapi nor any other Banisteriopsis species are controlled species in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. Likewise, the chemical constituents of the plant are also not scheduled, meaning that extractions and possession of the harmala alkaloids are legal. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: Louisiana	Effective Aug 8, 2005 (signed into law Jun 28, 2005) Louisiana Act No 159 makes 40 plants illegal, including A. peregrina and A. colubrina, when intended for human consumption. The law specifically excludes the "possession, planting, cultivation, growing, or harvesting" of these plants if used "strictly for aesthetic, landscaping, or decorative purposes." (Text of HLS_05RS-52 and Update June 2005)
+Tennessee 	Tennessee did not pass the proposed bill that would have banned dozens of plants as "hallucinogenic" when intended for human consumption. Instead, they banned only Salvia divinorum. See Comments on New State Laws Controlling the Consumption of Hallucinogenic Plants.
+internationalLaw :: Australia	B. caapi contains harmala alkaloids. The harmala alkaloids are listed in Australia's schedule 9 "prohibited substances", except in herbs containing less than 0.1 percent or in divided preparations containing 2 mg or less total harmala alkaloids per recommended daily dose for therapeutic use. See Australia's Poison Standard 2009. States in Australia may have additional regulations, e.g. Queensland lists harmaline and harmalol in "schedule 2: dangerous drugs" without any provision for low therapeutic doses: See Queensland's Drug Misuse Amendment Act 2008 (thanks z) (last updated Nov 22, 2009.)
+France	As of May 3, 2005, France added Banisteriopsis caapi, Peganum harmala, Psychotria viridis, Diplopterys cabrerana, Mimosa hostilis, Banisteriopsis rusbyana, harmine, harmaline, tetrahydroharmine (THH), haroml, and harmalol to the list of controlled substances. See France Control Ayahuasca Plants and Chemicals. Earlier, in Jan 2005, a Paris court of appeals determined that Ayahuasca is not considered a preparation of DMT and is therefore not a controlled substance.

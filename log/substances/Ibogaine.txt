@@ -1,0 +1,75 @@
+[Substance]
+
+id :: 86
+name :: Ibogaine
+url :: https://www.erowid.org/chemicals/ibogaine/ibogaine.shtml
+category :: Chemicals
+commonNames :: None
+effectsClassification :: Psychedelic
+chemicalName :: 12-methoxyibogamine
+description :: Ibogaine is the active chemical found in the African Tabernanthe iboga root as well as several other plant species. It is a strong, long-lasting psychedelic used traditionally in a coming of age ritual but also known for its modern use in treating opiate addiction.
+imageURL :: https://www.erowid.org/chemicals/ibogaine/images/ibogaine_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/ibogaine/ibogaine_basics.shtml
+imagesURL :: https://www.erowid.org/chemicals/ibogaine/ibogaine_images.shtml
+lawURL :: https://www.erowid.org/chemicals/ibogaine/ibogaine_law.shtml
+chemistryURL :: https://www.erowid.org/chemicals/ibogaine/ibogaine_chemistry.shtml
+
+[Basics]
+description :: Ibogaine is a hallucinogenic chemical that can cause profound and long-lasting hallucinations. In its pure form, it is a white, bitter-tasting powder. It occurs naturally in a number of plants native to West Central Africa, including Tabernanthe iboga and Voacanga africana. Ibogaine-containing plants have a history of traditional use in West Africa in initiation ceremonies and religious rituals. Though there has been limited interest in ibogaine as a recreational psychoactive due in part to its long duration of action, Ibogaine has received attention in Europe and the U.S. since the 1960s as an anti-addiction therapy especially for the treatment of opiate addiction. [ Main Ibogaine Vault ]
+descriptionSections :: dose	When ingested in traditional religious ceremonies, ibogaine doses are highly variable. In TiHKAL, Shulgin and Shulgin describe typical doses of pure ibogaine HCl as "at or above 1000 milligrams", but also describe profound effects at 200 mg, orally. In the Manual for Ibogaine Therapy, Lotsof and Wachtel recommend 15-20 mg/kg for opiate addiction treatment. An ibogaine clinic reports administering a dose of 16-22 mg/kg. Note: Pure ibogaine dosages are much smaller than those of iboga powder, which is around 1% psychoactive alkaloids by mass.
+price	Ibogaine is rarely found on the black market for recreational use.
+law	Ibogaine is illegal to possess and sell in the United States (Schedule I) and in several other countries. It became a regulated substance in the U.S. in 1967.
+chemistry	The chemical name for ibogaine is 12-Methoxyibogamine (C20H26N2O). It is a naturally occurring indole alkaloid in the tryptamine family.
+pharmacology	Ibogaine is slowly metabolized by the liver into noribogaine and other metabolites, some of which may be psychoactive. Ibogaine acts on numerous receptor systems, including the dopaminergic, serotonergic, nicotinic, GABA, and muscarinic systems. Some studies have found evidence that ibogaine may interrupt the mechanisms of opiate dependence.
+production	Ibogaine is generally extracted from plant material, but may also be synthesized.
+history	The T. iboga plant has been used ritually in Africa since at least the nineteenth century, perhaps much earlier. There are several contemporary iboga churches such as the Bwiti which use iboga as a sacrament and initiation tool. Ibogaine was first extracted from T. iboga in 1901. An ibogaine-containing extract was sold as an antidepressant called Lambarene in France beginning in 1939. During the 1960s ibogaine was briefly investigated as adjunct to psychedelic therapy. In the last few decades there has been continuing interest in Europe, North America, and Mexico in the use of ibogaine for addiction therapy.
+terminology	Brand Names:Lambarene. The Substance:Ibogaine. The Experience:No common terms known.
+effects :: When taken in a strong dose, ibogaine often causes nausea and vomiting which may be followed by numbness of skin, mild auditory and dreamlike visual hallucinations lasting for 3-4 hours. This is frequently followed by an intense autobiographical inventory of the events and significance of one's life, lasting from 8-20 hours. Lingering physical effects such as difficulty sleeping may persist for an additional day or two.
+effectsSections :: onset	When taken orally, the effects of ibogaine usually begin within 45 minutes to three hours.
+duration	The most intense effects of ibogaine may last 24 hours or more, during which time a user may be immobilized. After-effects may last an additional day or two.
+visuals	Visuals Summary Needed.
+problems :: Several deaths have resulted directly from ibogaine ingestion. Users frequently experience extreme nausea. Depending on dose, users may be incapacitated and/or immobilized for many hours. High doses (beginning at 75-100 mg/kg) have been shown to have neurotoxic effects in rats and non-human primates, although therapeutic doses may not be neurotoxic.
+problemsSections :: contraindications	Individuals with a history of heart ailments, high blood pressure, aneurysm or stroke, glaucoma, hepatic (liver) or renal (kidney) disorders, or hypoglycemia may be at higher risk. Do not operate heavy machinery. Do not drive. Due to its strong effects, Ibogaine should generally not be taken without a sober sitter present. Individuals should consider carefully before taking Ibogaine in situations where they are solely responsible for themself or anyone else.  Individuals in the midst of emotional or psychological upheaval, or with a history of psychological illness, should use extreme caution in taking ibogaine or any other powerful psychedelic.
+addiction	Ibogaine is not believed to be physically addicting nor likely to cause psychological dependence. Withdrawal effects following discontinuation have not been reported.
+long	Long Term Health Problems Summary Needed.
+death	There are several known fatalities due to ibogaine use. Some deaths have occurred in clinical or quasi-clinical environments. A 40-year-old woman died of heart failure after being administered 8 mg/kg in a psychotherapy session. In 2006, a 38-year-old man died of pulmonary thrombosis during ibogaine addiction treatment at a clinic in Tijuana, Mexico. Traditional iboga use is reported by some West Africans to be occassionally fatal, and there is at least one documented case of a fatality following ingestion of iboga root bark.
+
+[Images]
+imageEntryList :: Ibogaine HCl	https://www.erowid.org/chemicals/show_image.php?i=ibogaine/ibogaine_powder__i2005e1514_disp.jpg	500 mg of 98% pure Ibogaine HCl extracted from T. iboga. [Spain]	Photo by Eduardo Hidalgo Downing. &copy; 2007 Erowid.org
+Tabernanthe iboga	https://www.erowid.org/chemicals/show_image.php?i=ibogaine/ibogaine_art1.jpg	An ibogaine inspired piece of art.	Image &copy; 1999 Dave Hunter GRFX.
+Ibogaine 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=ibogaine/ibogaine_2d.gif	Still 2D image of the Ibogaine molecule.	Imag. &copy; 2000 Erowid.org
+Ibogaine 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=ibogaine/ibogaine_3d.jpg	Still 3D image of the Ibogaine molecule.	Imag. &copy; 2000 Erowid.org
+Ibogaine 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=ibogaine/ibogaine__.mol	Rotating 3D image of the Ibogaine molecule.	Imag. &copy; 2000 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Ibogaine
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule I
+CLASSIFICATION	Hallucinogen
+federalLawText :: Both Ibogaine and its source plant Tabernanthe iboga are Schedule I in the United States. This means they are illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license.	
+The first ibogaine-related arrest that we know of occured in Dec 2005. Although no actual importation occured, a couple was charged with conspiracy to import Ibogaine. See Casper Star Tribune from Casper, Wyoming, Dec 9, 2005.
+stateLaw :: null
+internationalLaw :: Australia	Ibogaine may be illegal to possess & sell in Australia, but it does not appear to be listed in the controlled substances lists (Search Australian Law). Ibogaine is clearly illegal to import into Australia without a license, it is "Schedule IV" in the import laws: AU Import Regulations.
+Brazil	Ibogaine does not appear to be controlled in Brazil. (thanks S)
+Belgium	Purified ibogaine is restricted. It is unclear whether the T. iboga root powder is also restricted, but may be.
+Canada	Ibogaine appears to be uncontrolled in Canada. We have been told that it is available in headshops in Vancouver. (unconfirmed) (thanks R)
+Denmark	Ibogaine was added to Denmark's controlled substances list on Dec 3 2003 following a recommendation of The National Board of Health concerning tabernanthe iboga and ibogain (12-methoxyibogamin). Tabernanthe iboga and ibogain (12-methoxyibogamin) may now only be used for medical or scientific purposes. The Executive Order is available on the ELDD.
+England	As of late 1998, the Home Office Drug Unit reported that Ibogaine is not specifically listed in the Controlled Substances List in the UK. The Medicines Control Agency (MCA) does not recognize Ibogaine as a drug, but does not that it is credited with having hallucinogenic properties. This apparently means that it is legal to buy or import for personal use, but to sell it, administer it to others, or make it available as a treament would likely be illegal without a prescription.
+Finland	We have been told that ibogaine and its parts are uncontrolled in Finland. (unconfirmed) (thanks S)
+France	Tabernanthe iboga, Tabernanthe manii, and ibogaine were all added to the list of controlled substances in France on March 12, 2007. See rb.juris-classeur.com: "Tabernanthe iboga, Tabernanthe manii, ibogaine, ses isom&egrave;res, esters, &eacute;thers et leurs sels qu'ils soient d'origine naturelle ou synth&eacute;tique ainsi que toutes pr&eacute;parations qui en contiennent." (thanks CHG) (last updated Mar 31, 2007)
+Japan	We have been told that powdered iboga root is available in headshops in Japan. (unconfirmed) (thanks S4M)
+Poland	Ibogaine is not scheduled in Poland. (unconfirmed)
+Slovenia	We have been told that T. Iboga as a plant (including it's dried and/or powdered parts, extracts and pure ibogaine) are not listed in any group of the PAS list, so it should be legal to possess. It is probably not legal to sell it as a food supplement. (unconfirmed) (thanks MA)
+Sweden	We have heard that purified ibogaine is the equivalent of a Schedule I drug in Sweden. It is unclear whether the plant T. iboga is also restricted. (unconfirmed)
+Switzerland	Purified ibogaine is restricted. It is unclear whether the T. iboga root powder is also restricted, but may be.
+
+[Chemistry]
+chemTable :: NAME :	Ibogaine
+CHEMICAL NAME :	12-Methoxyibogamine
+CHEMICAL FORMULA	C20H26N2O
+MOLECULAR WEIGHT	310.44
+MELTING POINT	152-153&#176; (Prismatic needles from abs ethanol)
+From the Merck Index 12th Edition
+moleculeURL :: https://www.erowid.org/chemicals/ibogaine/images/archive/ibogaine_3d_mid.jpg

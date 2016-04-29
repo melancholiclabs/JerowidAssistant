@@ -1,0 +1,47 @@
+[Substance]
+
+id :: 40
+name :: alpha-PVP
+url :: https://www.erowid.org/chemicals/a-pvp/a-pvp.shtml
+category :: Chemicals
+commonNames :: a-PVP; Flakka; Gravel; O-2387
+effectsClassification :: Euphoric Stimulant
+chemicalName :: alpha-Pyrrolidinopentiophenone
+description :: alpha-PVP is a synthetic euphoric stimulant with a short history of human use. Its dose, effects, and duration are similar to those of MDPV. Chemically, it is a synthetic cathinone, and first became popular in the US in 2013.
+imageURL :: https://www.erowid.org/chemicals/a-pvp/images/a-pvp_summary1.jpg
+lawURL :: https://www.erowid.org/chemicals/a-pvp/a-pvp_law.shtml
+chemistryURL :: https://www.erowid.org/chemicals/a-pvp/a-pvp_chemistry.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+a-PVP
+REGULATED	Yes
+STATUS	Emergency Scheduled
+SCHEDULE	I
+federalLawText :: On Mar 4, 2016, the DEA extended the emergency scheduling of 4-MEC, 4-MePPP, a-PVP, butylone, pentedrone, pentylone, 4-FMC, 3-FMC, naphyrone, and a-PBP by one year, until March 2017.	
+alpha-PVP was temporarily placed into Schedule I in the United States on Jan 28, 2014. This emergency scheduling will last two years or until permanently scheduled. It is illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license.
+stateLaw :: Delaware	alpha-PVP is controlled as a "synthetic cathinone" in Delaware. See http://delcode.delaware.gov/title16/c047/sc02/index.shtml. (last updated Jun 15 2014)
+New Mexico	alpha-PVP is controlled in New Mexico. See http://wkrg.com/alabama/article/alabama-bans-bath-salts/. (last updated Jun 15 2014)
+Oklahoma	alpha-PVP is controlled in Oklahoma. See http://wkrg.com/alabama/article/alabama-bans-bath-salts/. (last updated Jun 15 2014)
+Virginia	alpha-PVP is controlled in Virginia. See http://wkrg.com/alabama/article/alabama-bans-bath-salts/. (last updated Jun 15 2014)
+internationalLaw :: China	China added a-PVP to its lists of controlled substances effective Oct 1, 2015. See China's SFDA announcement. (last updated Nov 19 2015)
+
+[Chemistry]
+chemTable :: NAME :	alpha-PVP; a-PVP
+CHEMICAL NAME :	alpha-Pyrrolidinopentiophenone
+ALTERNATE CHEMICAL NAMES : 	a-Pyrrolidinopentiophenone; Prolintanone;
+ALTERNATE CHEMICAL NAMES : 	beta-ketone-prolintane;
+ALTERNATE CHEMICAL NAMES : 	desmethyl pyrrolidinovalerophenone;
+ALTERNATE CHEMICAL NAMES : 	(RS)-1-Phenyl-2-(1-pyrrolidinyl)-1-pentanone
+CHEMICAL FORMULA	C15H21NO
+MOLECULAR WEIGHT	231.333 g/mol
+moleculeURL :: https://www.erowid.org/chemicals/a-pvp/images/archive/a-pvp_2d.jpg
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

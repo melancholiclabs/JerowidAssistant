@@ -1,0 +1,34 @@
+[Substance]
+
+id :: 265
+name :: Clonazepam
+url :: https://www.erowid.org/pharms/clonazepam/clonazepam.shtml
+category :: Pharms
+commonNames :: Klonopin; Rivotril
+effectsClassification :: Anticonvulsant; Anxiolytic; Benzodiazepine
+chemicalName :: 5-(2-chlorophenyl)-1,3-dihydro-7-nitro2H-1,4-benzodiazepin-2-one (C15H10ClN3O3)
+description :: Clonazepam is a benzodiazepine and anti-convulsant used in the treatment of seizures and panic disorder. Tolerance develops over time.
+imageURL :: https://www.erowid.org/pharms/clonazepam/images/clonazepam_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/clonazepam/clonazepam_images.shtml
+lawURL :: https://www.erowid.org/pharms/clonazepam/clonazepam_law.shtml
+
+[Images]
+imageEntryList :: Clonazepam	https://www.erowid.org/pharms/show_image.php?i=clonazepam/clonazepam_tablets1.jpg	Color photo of a pile of .5 mg Clonazepam tablets. White: .5 mg Landsen Tablets - Japanese Brand. Pink: .5 mg Generic Tablets - U.S. Brand.	Photo by Mean Cinderella, &copy; 2001 Erowid.org
+1 mg Klonopin Tablets	https://www.erowid.org/pharms/show_image.php?i=clonazepam/klonopin_tablet__i2011e0179_disp.jpg	1 mg Klonopin brand clonazepam tablets next to a U.S. quarter for size comparison. [MA, USA]	Photo by Balisong88. &copy; 2011 Erowid.org
+Clonazepam Tablets	https://www.erowid.org/pharms/show_image.php?i=clonazepam/clonazepam_tablet3.jpg	Color photo of a pile of generic yellow 1 mg clonazepam tablets bearing the imprint "R / 34" Manufactured by Purepac. [USA]	Photo by Pharmstudent, &copy; 2005 Erowid.org
+Clonazepam	https://www.erowid.org/pharms/show_image.php?i=clonazepam/clonazepam_tablets2.jpg	Color photo of a pile of .5 mg Clonazepam tablets (Japan).	Photo by Mean Cinderella, &copy; 2001 Erowid.org
+Klonopin	https://www.erowid.org/pharms/show_image.php?i=clonazepam/klonopin1.jpg	Color photo of a klonopin tablet.	Photo from the Drug and Natural Medicine Advisor
+Clonazepam 2D Molecule	https://www.erowid.org/pharms/show_molecule.php?i=clonazepam/clonazepam_2d.gif	Still 2D image of the Clonazepam molecule.	Image by Erowid, &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Clonazepam
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule IV
+CLASSIFICATION	Depressant
+federalLawText :: Clonazepam (Klonopin) is Schedule IV in the U.S. This means it is illegal to sell without a license and illegal to possess without a valid license or prescription.
+stateLaw :: null
+internationalLaw :: Canada	Benzodiazepines (including clonazepam) are Schedule IV under Canadian law. See http://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-26.html#h-29. (thanks e) (last updated Jul 30 2012)
+The Netherlands	Clonazepam, like most benzodiazepeines, is available with a prescription in the Netherlands. Preparation, possession, adaption, delivery, providing and transport, of benzodiazepines are prohibited, because they are scheduled on "List II" of the "Opium Law". Possession of small quantities (for personal use) of prohibited substances is typically not prosecuted. Recreational use of benzodiazepines, is, as with any other substance, not prohibited in the Netherlands.
+Norway	Clonazepam is considered a Class B prescription drug and considered a "narcotic" in "P IV", like schedule IV, which means that it is illegal to possess without a prescription in Norway. See http://lovdata.no/dokument/SF/forskrift/2013-02-14-199 (thanks oe) (last updated Oct 23 2014)

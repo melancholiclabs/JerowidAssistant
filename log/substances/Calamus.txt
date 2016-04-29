@@ -1,0 +1,35 @@
+[Substance]
+
+id :: 208
+name :: Calamus
+url :: https://www.erowid.org/herbs/calamus/calamus.shtml
+category :: Herbs
+botanicalClassification :: Family :Arum, Genus :Acorus, Species :calamuscommonNames :: Sweet Flag; Sweet Sedge; Sweet Root; Myrtle Grass
+uses :: Dried calamus rhizome (root) can be used to treat stomach cramps, gas, gastric ulcers, and lack of appetite.
+description :: A perennial herb that grows on the water's edge and in wetlands. It sends up leafy, grasslike stems from its underground stalk. The stems may be up to 5 feet tall. Halfway up the stem, each leaf bears a 2 to 4 inch long fleshy cylindrical flower stalk, consisting of many tiny yellow-brown flowers.
+imageURL :: https://www.erowid.org/herbs/calamus/images/calamus_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/calamus/calamus_images.shtml
+lawURL :: https://www.erowid.org/herbs/calamus/calamus_law.shtml
+
+[Images]
+imageEntryList :: Acorus calamus Root	https://www.erowid.org/herbs/show_image.php?i=calamus/acorus_calamus4.jpg	Color photo of dried A. calamus root.	Photo by Renwick, &copy; 2002 Erowid.org
+Acorus calamus Root	https://www.erowid.org/herbs/show_image.php?i=calamus/acorus_calamus5.jpg	Color photo of dried, chopped A. calamus root.	Photo by Renwick, &copy; 2002 Erowid.org
+Acorus calamus Root	https://www.erowid.org/herbs/show_image.php?i=calamus/acorus_calamus_root__i2005e0415_disp.jpg	Photo showing several pieces of A. calamus root. [KS, USA]	Photo by M. Quetone. &copy; 2006 Erowid.org
+Acorus calamus	https://www.erowid.org/herbs/show_image.php?i=calamus/acorus_calamus_plant__i2005e0411_disp.jpg	A young Acorus calamus plant [KS, USA]	Photo by M. Quetone. &copy; 2006 Erowid.org
+Acorus calamus v europaeus	https://www.erowid.org/herbs/show_image.php?i=calamus/acorus_calamus_europaeus1.jpg	Beautiful photo of a small A. calamus v europaeus plant including roots. [Australia]	Photo by T. Wiedemann, &copy; 2005 Erowid.org
+Acorus calamus	https://www.erowid.org/herbs/show_image.php?i=calamus/acorus_calamus3.jpg	Color photo a plant growing along the shore of a river.	From Magic and Medicine of Plants
+Acorus calamus	https://www.erowid.org/herbs/show_image.php?i=calamus/acorus_calamus1.jpg	Color photo of the fleshy flower.	Photographer Unknown.
+Acorus calamus v. americanus root	https://www.erowid.org/herbs/show_image.php?i=calamus/acorus_calamus_root__i2005e1337_disp.jpg	Photo showing the root and shoots of Acorus calamus var. americanus.	Photo by Mindperformer. &copy; 2006 Erowid.org
+Acorus gramineus	https://www.erowid.org/herbs/show_image.php?i=calamus/acorus_gramineus_plant__i2005e1364_disp.jpg	Photo showing a temporarily uprooted Acorus gramineus 'Ogon' [Australia]	Photo by T. Wiedemann. &copy; 2006 Erowid.org
+Acorus calamus Drawing	https://www.erowid.org/herbs/show_image.php?i=calamus/acorus_calamus2.jpg	Color drawing of leafs and flowers.	From Magic and Medicine of Plants
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Calamus
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: Acorus calamus is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription.	
+Calamus has been banned as a food additive by the FDA in all forms including its extacts and oils. This means it may not be added to food products sold in the U.S.
+stateLaw :: null
+internationalLaw :: 

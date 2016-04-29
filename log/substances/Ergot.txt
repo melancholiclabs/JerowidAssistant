@@ -1,0 +1,41 @@
+[Substance]
+
+id :: 158
+name :: Ergot
+url :: https://www.erowid.org/plants/ergot/ergot.shtml
+category :: Plants
+botanicalClassification :: Family :Hypocreaceae, Genus :Claviceps , Species :purpurea (rye); africana (sorghum); paspalicommonNames :: Ergot
+effectsClassification :: Deadly Poison; Psychedelic
+description :: Ergot is a fungus that infects cereal grains, replacing kernels of the fruit with small black masses of mycelium. It produces ergotamine, a potent vasoconstrictor and precursor to LSD. Ergot poisoning (St Anthony's Fire) causes hallucinations, gangrenous loss of limbs, and death. Outbreaks plagued medieval Europe and were associated with witchcraft and the Inquisition.
+imageURL :: https://www.erowid.org/plants/ergot/images/ergot_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/ergot/ergot_images.shtml
+lawURL :: https://www.erowid.org/plants/ergot/ergot_law.shtml
+
+[Images]
+imageEntryList :: Claviceps purpurea	https://www.erowid.org/plants/show_image.php?i=ergot/claviceps_purpurea__i2011e0477_disp.jpg	Claviceps purpurea (ergot) fungus. [UK]	Photo by Farmer Dodds. &copy; 2011 Erowid.org
+Claviceps ergot	https://www.erowid.org/plants/show_image.php?i=ergot/claviceps_ergot1.jpg	Color photo of several stalks with ergot. From Cornell University.	
+Claviceps ergot	https://www.erowid.org/plants/show_image.php?i=ergot/claviceps_ergot2.jpg	Color photo of ergot sclerotia mixed with barley.	From Iowa State University.
+Claviceps ergot	https://www.erowid.org/plants/show_image.php?i=ergot/claviceps_ergot3.jpg	Color photo of ergot growing on sorghum.	
+Claviceps ergot	https://www.erowid.org/plants/show_image.php?i=ergot/claviceps_ergot4.jpg	Color photo of ergot growing on sorghum.	
+Claviceps purpurea	https://www.erowid.org/plants/show_image.php?i=ergot/claviceps_purpurea__i2007e1898_disp.jpg	Claviceps purpurea (Ergot fungus) growing on Phalaris arundinacea grass. [Germany]	Photo by Zhah. &copy; 2009 Erowid.org
+Claviceps purpurea	https://www.erowid.org/plants/show_image.php?i=ergot/claviceps_purpurea3.jpg	Extreme close-up color photo of ergot on grain.	Photo from Plants of the Gods
+Claviceps purpurea	https://www.erowid.org/plants/show_image.php?i=ergot/claviceps_purpurea_botanical_drawing1.jpg	Botanical drawing of C. purpurea.	Photo from "An Introduction to Materia Medica and Pharmacology" (1942).
+Claviceps purpurea	https://www.erowid.org/plants/show_image.php?i=ergot/claviceps_purpurea1.jpg	Black and white photo.	Photographer unknown.
+Claviceps purpurea	https://www.erowid.org/plants/show_image.php?i=ergot/claviceps_purpurea2.jpg	Black and white drawing.	Source unknown.
+Ergonovine 2D Molecule	https://www.erowid.org/plants/show_molecule.php?i=ergot/ergonovine_2d.gif	Still 2D image of the Ergonovine molecule.	Image by Erowid, &copy; 2006 Erowid.org
+Ergonovine 3D Rotating Molecule	https://www.erowid.org/plants/show_molecule.php?i=ergot/ergonovine__.mol	Rotating 3D image of the Ergonovine molecule.	Image by Erowid, &copy; 2006 Erowid.org
+Ergotamine 2D Molecule	https://www.erowid.org/plants/show_molecule.php?i=ergot/ergotamine_2d.gif	Still 2D image of the Ergotamine molecule.	Image by Erowid, &copy; 2006 Erowid.org
+Ergotamine 3D Rotating Molecule	https://www.erowid.org/plants/show_molecule.php?i=ergot/ergotamine__.mol	Rotating 3D image of the Ergotamine molecule.	Image by Erowid, &copy; 2006 Erowid.org
+Methylergonovine 2D Molecule	https://www.erowid.org/plants/show_molecule.php?i=ergot/methylergonovine_2d.gif	Still 2D image of the Methylergonovine molecule.	Image by Erowid, &copy; 2006 Erowid.org
+Lysergic Acid 3D Rotating Molecule	https://www.erowid.org/plants/show_molecule.php?i=ergot/methylergonovine__.mol	Rotating 3D image of the Lysergic Acid molecule.	Image by Erowid, &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Ergot
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Claviceps purpurea is unscheduled in the U.S., but it is also listed as a "poison" according to U.S.C. Title 21 Chapter 7. This designation as a poison means that products made from ergot must either be labelled "for external use only"; or labelled as a "poison" and records kept about who it is sold to. The fungus itself is legal to cultivate and possess.	
+One of its constituent chemicals, ergotamine tartrate, is a watched chemical because of its use in the manufacture of LSD. Because of this, the cultivation or possession of large quantities of Claviceps purpurea might be considered suspicious.
+stateLaw :: null
+internationalLaw :: Brazil	Strangely, Claviceps paspali Stevens & Hall is included on the "Lista de Plantas que Podem Originar Subst&acirc;ncias Entorpecentes e/ou Psicotr&oacute;picas", but C. purpurea is not. Several ergot alkaloids are independently controlled in Brazil, including ergotonmine and LSA. (see schedule).

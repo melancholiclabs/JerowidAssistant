@@ -1,0 +1,26 @@
+[Substance]
+
+id :: 199
+name :: Yohimbe
+url :: https://www.erowid.org/plants/yohimbe/yohimbe.shtml
+category :: Plants
+botanicalClassification :: Family :Rubiaceae, Genus :Pausinystalia (=Corynanthe), Species :yohimbecommonNames :: Johimbe
+effectsClassification :: Stimulant; Vasodilator
+description :: Pausinystalia yohimbe is a West African tree thats bark contains yohimbine. It has a long history of human use as a stimulant and aphrodisiac. It is commonly sold as an herbal supplement to improve erectile function.
+imageURL :: https://www.erowid.org/plants/yohimbe/images/yohimbe_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/yohimbe/yohimbe_images.shtml
+lawURL :: https://www.erowid.org/plants/yohimbe/yohimbe_law.shtml
+
+[Images]
+imageEntryList :: Pausinystalia yohimbe	https://www.erowid.org/plants/show_image.php?i=yohimbe/pausinystalia_yohimbe__i2005e0382_disp.jpg	Pausinystalia yohimbe bark and yohimbine HCl (powder made from evaporating tincture of the bark). [n/a...Gaines Online (herbal supplier)]	Photo by Bethel Ademowore. &copy; 2006 Erowid.org
+Yohimbine Tablets	https://www.erowid.org/plants/show_image.php?i=yohimbe/yohimbe_tablet__i2005e0982_disp.jpg	A blister pack of Yohimbine tablets containing yohimbinum HCl. [Australia]	Photo by T. Wiedemann. 2007 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Corynanthe yohimbe
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Corynanthe yohimbe is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: U.K.	Yohimbe (Corynanthe yohimbe or Pausinystalia yohimba) is unscheduled in the U.K., making it legal to buy, sell or possess. We have been told that it is widely accepted as a "legal high" and is available in both head shops as well as normal nurseries. (unconfirmed) (thanks DW)

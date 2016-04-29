@@ -1,0 +1,101 @@
+[Substance]
+
+id :: 48
+name :: Ayahuasca
+url :: https://www.erowid.org/chemicals/ayahuasca/ayahuasca.shtml
+category :: Chemicals
+commonNames :: Huasca; Yag&eacute;; Brew; Daime; The Tea; La Purga
+effectsClassification :: Psychedelic
+chemicalName :: Mixture
+description :: Ayahuasca is a powerfully psychedelic South American brew traditionally made from the B. caapi vine and admixtures such as P. viridis (and/or other DMT-containing plants). One of its primary effects is considered to be the vomiting (the purge) that accompanies the experience. The term ayahuasca is sometimes loosely used to mean any combination of an MAOI with DMT.
+imageURL :: https://www.erowid.org/chemicals/ayahuasca/images/ayahuasca_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/ayahuasca/ayahuasca_basics.shtml
+effectsURL :: https://www.erowid.org/chemicals/ayahuasca/ayahuasca_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/ayahuasca/ayahuasca_images.shtml
+healthURL :: https://www.erowid.org/chemicals/ayahuasca/ayahuasca_health.shtml
+lawURL :: https://www.erowid.org/chemicals/ayahuasca/ayahuasca_law.shtml
+chemistryURL :: https://www.erowid.org/chemicals/ayahuasca/ayahuasca_chemistry.shtml
+
+[Basics]
+description :: "Ayahuasca" is a term for both the Banisteriopsis caapi vine and for the visionary brew made from that plant, usually in combination with an additional DMT-containing plant(s). The word "ayahuasca", from the Quechua language, means "vine of the souls". A traditional South American preparation, the ayahuasca brew frequently employs Psychotria viridis leaves as the DMT source. Inclusion of B. caapi, which contains monoamine oxidase inhibiting harmala alkaloids) allows the DMT, which would otherwise be quickly broken down in the body by the enzyme monoamine oxidase, to become orally active.  Ayahuasca is prepared by boiling or soaking its plant components; traditional brews may sometimes contain additional psychoactive and/or medicinal plants including tobacco, Brugmansia, Datura, and a long list of others.  Outside the Amazon basin, in cities around the world, ayahuasca is prepared with a wide variety of ingredients including pure chemicals (sometimes called "pharmahuasca") or substituted "analogue" plants, such as the root-bark from Mimosa tenuiflora [= M. hostilis] (sometimes called "mimosahuasca"), and often the seeds of Peganum harmala (Syrian rue) as a source of MAO-inhibiting harmala alkaloids. Ayahuasca is known for its tendency to induce vomiting and/or diarrhea in many users, its rich and complex visual effects, its reported healing properties, and its powerful mind-altering entheogenic effects. [ Main Ayahuasca Vault ]
+descriptionSections :: dose	As the dosage of ayahuasca increases, the effects become stronger and more intense; at a certain point, some people may black out and forget much of the experience.
+price	Ayahuasca brew is rarely available in the general underground market, but is sometimes sold or distributed within small networks of people. When available, brew made from traditional plants (B. caapi + P. viridis) has sold for around $50 per dose. Participation in underground ayahyasca circles cost $100-300 (or more) per person. Component materials are available for a wide range of prices, with analogue plants tending to cost less.
+law	While none of the standard plant constituents of ayahausca are specifically controlled federally in the United States, DMT is Schedule I in the U.S. and in most countries. As a DMT-containing preparation, ayahuasca is generally considered to be illegal. Harmala alkaloids are not scheduled in the U.S., but some are Schedule III in Canada. Numerous ayahuasca plants and their analogues are illegal in France. We are not aware of any other countries in which Hamine or Harmaline are scheduled. Religious use of ayahuasca was specifically allowed by Brazil's Supreme Court in the late 1980s.
+chemistry	Some South American shaman have said that the "true spirit" of ayahuasca is in the B. caapi vine, which contains the MAOI harmala alkaloids. They say that the DMT-containing plants are primarily used to give the visions more color and depth, but are not the primary force of the message. Others argue that DMT is the dominant part of the brew, as it is a far more psychoactive substance than any harmala alkaloids by themselves.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	Harmaline was first isolated from Syrian rue seeds in 1841 and the first Western record of the psychoactive effects of B. caapi (in the Brazilian Amazon) was made in 1852. Several reports were published in the mid-nineteenth century about the use of B. caapi. In 1922-1923 a film of traditional yag&eacute ceremonies was shot and then shown to the annual American Pharmaceutical Association meeting. The popularization of ayahuasca in writing and media during the late twentieth century has led to many North Americans and Europeans travelling to South America to take ayahausca in "traditional" settings, creating a new industry around this "entheotourism". This industry helped cause a major shift in how ayahuasca use is viewed in its native lands. By the late 1990s, ayahuasca brews started to be sold by street vendors in glass bottles in some South American cities.
+terminology	The Substance:Ayahuasca; Pharma-huasca (with purified DMT and harmala alkaloids); Huasca; Yag&eacute; Caapi; Vine; Tea. The Experience:Tripping, La Purga (the purge).
+effects :: 
+effectsSections :: onset	Depending on how much and how recently one has eaten food, effects begin between 20 and 60 minutes after ingestion.
+duration	Ayahuasca users report 2-6 hours of peak effects with 1-8 hours after of lingering effects, depending on dosage and individual metabolism. Higher doses usually have longer-lasting effects.
+visuals	Visuals Summary Needed.
+problems :: There are a few serious injuries and deaths associated with ayahuasca use. Because ayahuasca contains a monoamine oxidaze inhibitor, which deactivates a key enzyme responsible for breaking down chemicals that could otherwise be toxic, it is possible to have severe negative reactions to ayahuasca, particularly if it is combined with proscribed foods and/or drugs. Those who chose to consume ayahuasca should educate themselves about compounds that are contraindicated when taking MAOI drugs before attempting any use.  Combining MAOI drugs with a wide array of over-the-counter, prescription, or recreational drugs can lead to very unpleasant or fatal effects. There are many articles devoted to discussions of foods and drugs that are contraindicated with any MAOI use.  Also, as with any intense psychedelic, ayahuasca can precipitate short- or long-term changes in personality or catalyze psychotic or neurotic episodes.
+problemsSections :: contraindications	Ayahuasca can have extreme, possibly fatal negative side effects if taken with some presciptions drugs, especially antidepressants such as Prozac and other selective serotonin reuptake inhibitors (SSRIs). Experienced ayahuasca practictioners and South American shamans recommend against taking ayahuasca while on most-or-all pharmaceuticals. In many traditions, there are required periods of abstinence and special dietary restrictions observed prior to ayahuasca ingestion and for a few days after each ingestion.
+addiction	Ayahuasca is not believed to be physically addicting nor likely to cause psychological dependence. Withdrawal effects following discontinuation have not been reported.
+long	Long Term Health Problems Summary Needed.
+death	See Ayahuasca Fatalities page.
+
+[Effects]
+duration :: Ayahuasca Duration
+Oral
+Total Duration	4 - 8 hrs
+Onset	20 - 60 mins
+Coming Up	30 - 45 mins
+Plateau	1 - 2 hrs
+Coming Down	1 - 2 hrs
+&nbsp;	&nbsp;
+After Effects	1 - 8 hrs
+Hangover / Day After	- - -
+positiveEffects :: Mild to extreme mood lift, euphoria	Ego softening / ego loss	Oceanic feeling of connectedness to the universe	Feelings of love and empathy	A sense of inner peace and acceptance of self, others, and the world	Profound life-changing spiritual experiences	Emotional healing / mentally therapeutic	Claimed physical healing (such as anti-cancer effects)	Purging, including vomiting and even diarrhea, is considered a positive effect and a fundamental part of the spritual process with Ayahuasca by many ayahuasca groups, shamans, and users.
+neutralEffects :: Sedation	Strong visions; some typically reported include snakes, big cats, insectoid aliens, female goddesses	Meaningless visual "noise"	Auditory hallucinations / sound distortions	Altered sense of space and time	Increased likelihood of embracing magical thinking, paranormal ideation
+negativeEffects :: Nausea, vomiting, diarrhea, body aches, sweats/chills (alternating), and other flu- or food poisoning-like symptoms, much less common after multiple experiences	Fear and/or paranoia	Feeling as though one is losing one's mind	Feeling as though one is dying	Disequilibrium, difficulty walking
+description :: null
+experienceReports :: null
+
+[Images]
+imageEntryList :: Brewing Ayahuasca	https://www.erowid.org/chemicals/show_image.php?i=ayahuasca/ayahuasca_brew_pot__i2014e0083_disp.jpg	A large metal pot of brown, bubbling liquid ayahuasca brewed from B. caapi a other P. viridis. Photos fro an ayahuasca brewing So Paulo. Plants cultivated by photographer in a green house. B. caapi is locally called Tucunac and P. viridis is called Chacrona or Rainha. This was a small brewing, resulting in a few liters. It took a full day to make the tea, consuming a lot of wood for the fire. [So Paulo, Brazil]	Photo by ABenedito &copy; 2014 Erowid.org
+Ayahuasca Brew	https://www.erowid.org/chemicals/show_image.php?i=ayahuasca/ayahuasca__i2006e0454_disp.jpg	Ayahuasca Brew with some extra Chacruna (Psychotria viridis) added to the reduction pot. [n/a]	Photo by Anonymous. &copy; 2006 Erowid.org
+Ayahuasca	https://www.erowid.org/chemicals/show_image.php?i=ayahuasca/ayahuasca1.jpg	Ayahuasca brewed by Don Alberto Torres Davila. [Ucayali region, Peru]	Photo by Howze. &copy; 2005 Erowid.org
+Ayahuasca	https://www.erowid.org/chemicals/show_image.php?i=ayahuasca/ayahuasca__i2005e1685_disp.jpg	Photo showing a large bowl of ayahuasca brew. [just my picture of the plants]	Photo by valente. &copy; 2007 Erowid.org
+Ayahuascsa Brew	https://www.erowid.org/chemicals/show_image.php?i=ayahuasca/ayahuasca_pot__i2007e0447_disp.jpg	A P. viridis (chacruna) and B. caapi mixture brewing. [KS, USA]	Photo by Anonymous. &copy; 2007 Erowid.org
+Ayahuasca Brew	https://www.erowid.org/chemicals/show_image.php?i=ayahuasca/ayahuasca_bottle__i2012e0290_disp.jpg	Bottle of ayahuasca brewed by a Santo Daime branch. [Vila Camboinha, Brazil]	Photo by Jon Hanna. &copy; 2012 Erowid.org
+Bottle of ayahuasca with cups in Brazil.	https://www.erowid.org/chemicals/show_image.php?i=ayahuasca/ayahuasca_bottle__i2012e0291_disp.jpg	Bottle of ayahuasca brewed by a Santo Daime branch for TheVine Center. The ayahuasca is carefully portioned out using a measuring cup. Commonly served doses range from 50 to 100 ml. Two to three hours later, ceremony participants are offered the option of taking a second dose. [Vila Camboinha, Brazil]	Photo by Jon Hanna. &copy; 2012 Erowid.org
+Ayahuasca and San Pedro tea in Peru.	https://www.erowid.org/plants/show_image.php?i=cacti/trichocereus_pachanoi_tea__i2012e0289_disp.jpg	In the central market of Cuzco, Peru, San Pedro tea and ayahuasca are displayed in dusty soda bottles alongside altar items and dried cuttings of Banisteriopsis caapi vine and Trichocereus pachanoi cactus. [Cuzco, Peru]	Photo by Erowid Crew. &copy; 2012 Erowid.org
+P. viridis and B. caapi	https://www.erowid.org/plants/show_image.php?i=banisteriopsis/banisteriopsis_caapi__i2005e0333_disp.jpg	Psychotria viridis leaves and Banisteriopsis caapi vine. [Obtained from Maya Ethnobotanicals]	Photo by UserAbuser. &copy; 2009 Erowid.org
+Ayahuasca sign in Peru.	https://www.erowid.org/chemicals/show_image.php?i=ayahuasca/ayahuasca_sign__i2012e0309_disp.jpg	Some shops and backpacker hotels in Cuzco, Peru openly advertise their daily ayahuasca ceremonies outside of their premises, to attract passersby. [Cuzco, Peru]	Photo by Erowid Crew. &copy; 2012 Erowid.org
+San Pedro & ayahuasca sign in Peru.	https://www.erowid.org/plants/show_image.php?i=cacti/san_pedro_sign__i2012e0310_disp.jpg	Some hotels and New Age centers in Cuzco, Peru offer a choice between ayahuasca and San Pedro (Trichocereus pachanoi) journeys. [Cuzco, Peru]	Photo by Erowid Crew. &copy; 2012 Erowid.org
+
+[Health]
+notes :: Ayahuasca can have extreme negative side effects if taken with some presciptions drugs, especially antidepressants such as Prozac and other selective serotonin reuptake inhibitors. Unless you have specific knowledge about the interaction between MAOI drugs and the pharmaceuticals that you are taking, avoid taking ayahuasca.
+deaths :: A few deaths have been attributed to the use of ayahuacsa. The causes of the deaths have not all been conclusively determined, but in some cases ayahuasca use is believed to have directly resulted in the fatality.
+warnings :: null
+cautions :: null
+benefits :: null
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Ayahuasca
+REGULATED	No
+STATUS	Ambiguous
+SCHEDULE	May ContainSchedule I Chemical
+CLASSIFICATION	Hallucinogen
+federalLawText :: The most common plant constituents of Ayahuasca (Banisteriopsis caapi & Psychotria viridis) are not specifically scheduled in the United States. Neither is the ayahuasca brew specifically named as a scheduled substance. However, P. Viridis contains DMT which is DEA schedule 1. The DEA has recently been making the argument that a plant or brew is illegal if it contains DMT or any other controlled substance.	
+Major court decisions in the United States in 2006 and 2009 have left the religious use of ayahuasca more or less legal for the protected groups, the UDV and Santo Daime (see UDV Wins Supreme Court Case and Santo Daime Wins Court Decision). It is likely that the Drug Enforcement Administration will continue to fight to get those rulings overridden. As of March 18, 2009, it is still presumptively illegal in the United States to use ayahuasca unless one is a member of the two churches that have successfully sued the U.S. government.	
+
+Mar 2009: Oregon Court Rules Santo Daime is allowed to import their DMT-containing brew	Apr 2005: U.S. Supreme Court Agrees to Hear Government Appeal of Preliminary Injunction	Dec 2004: Supreme Court Allows UDV to use Tea by Lifting Temporary Stay of Preliminary Injunction	Nov 2004: Appeals Court Affirms Previous Appeals Court Affirmation	Aug 2003: Appeals Court Affirms Lower Court Preliminary Injunction	August 2002: UDV Wins Preliminary Injunction in Ayahuasca Case	November 2001: UDV Ayahuasca Legal Case Begins in New Mexico	2000, 2001: Ayahuasca tea seized by DEA in Oregon and New Mexico	January 2000: Plants used to make ayahuasca seized by the DEA and importer arrested in Georgia
+stateLaw :: null
+internationalLaw :: Brazil	In Brazil, a protracted legal battle in the 1980's ended with the Brazilian government finding ayahuasca churches use of ayahuasca was was safe and showed no signs of harming the members. In 1992, Brazil formally legalized the constituent plants and ayahuasca tea.(see the Brazilian Ayahuasca legal notes)
+Canada	Harmaline is Schedule III in Canada. Since ayahuasca brews almost always contain a harmaline-containing plant, it is possible that ayahuasca could be considered illegal on these grounds.
+France	As of May 3, 2005, France added Banisteriopsis caapi, Peganum harmala, Psychotria viridis, Diplopterys cabrerana, Mimosa hostilis, Banisteriopsis rusbyana, harmine, harmaline, tetrahydroharmine (THH), haroml, and harmalol to the list of controlled substances. See France Control Ayahuasca Plants and Chemicals. Earlier, in Jan 2005, a Paris court of appeals determined that Ayahuasca is not considered a preparation of DMT and is therefore not a controlled substance.
+October 1999: Santo Daime Church service raided and 2 leaders arrested.	March 2001: Trial of Ayahuasca Church leaders ends in March
+March 2001: Trial of Ayahuasca Church leaders ends in March	May 15 2001: Dutch Court Hears Arguments on Cannabis Use by Sainto Daime
+May 15 2001: Dutch Court Hears Arguments on Cannabis Use by Sainto Daime	May 21 2001: Dutch Court Decides in Favor of Head of Ayahuasca Church
+Germany	Summer 1999: Santo Daime Church raided (no source)
+Spain	According to the Spanish Scientist Josep Maria Fericgla, in 2012, Ayahuasca is not controlled under Spanish law. See http://josepmfericgla.org/2012/informe-pericial-sobre-el-estatus-legal-de-la-ayahuasca. This is not an official government statement of policy, just one person's analysis of the complex issues of having a natural extract that contains a controlled substance. In April 2000: Santo Daime Church members arrested, Daime (ayahuasca tea) seized. Six Spanish and two Brazilian members were arrested. The members were eventually released in May of 2000. (thanks m) (last updated May 16 2012)
+U.K.	Ayahuasca, as it contains DMT, a class A drug, has been established as prosecutable, according to an August 8th 2011 ruling (case number T20100950) at Bristol Crown Court. More at: more at Bialabate.net (thanks Bia)(Last updated Sep 6 2011)
+U.N.	FAX from the United Nations Drug Control Program (UNDCP) stating that plants (natural materials) containing DMT, including Ayahuasca, are NOT at present under international control.
+
+[Chemistry]
+chemTable :: null
+moleculeURL :: https://www.erowid.org/chemicals/harmala/images/archive/harmine_3d_mid.jpg

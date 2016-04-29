@@ -1,0 +1,52 @@
+[Substance]
+
+id :: 58
+name :: Capsaicin
+url :: https://www.erowid.org/chemicals/capsaicin/capsaicin.shtml
+category :: Chemicals
+commonNames :: Pepper Oil
+effectsClassification :: Spice; Irritant; Topical Anaesthetic
+chemicalName :: trans-8-methyl-N-vanillyl-6-nonenamide
+description :: Capsaicin is found in chile or pepper plants of the Capsicum genus. It causes the burning sensation associated with spicy foods by stimulating vanilloid nerve receptors. Capsaicin is used in "Pepper Spray" as a weapon. It has a number of potential medical uses including topical use on "fever blisters", topical use on certain types of nerve damage, internally as a cancer-fighting agent, and as part of a treatment for osteoarthritis.
+imageURL :: https://www.erowid.org/chemicals/capsaicin/images/capsaicin_summary1.jpg
+imagesURL :: https://www.erowid.org/chemicals/capsaicin/capsaicin_images.shtml
+lawURL :: https://www.erowid.org/chemicals/capsaicin/capsaicin_law.shtml
+chemistryURL :: https://www.erowid.org/chemicals/capsaicin/capsaicin_chemistry.shtml
+
+[Images]
+imageEntryList :: Capsaicin Nasal Spray	https://www.erowid.org/chemicals/show_image.php?i=capsaicin/capsaicin_nasalspray__i2007e0775_disp.jpg	A bottle of "Sinus Buster" capsaicin pepper extract nasal spray marketed as a sinus, allergy, and headache remedy. [CA, USA]	Photo by Erowid. &copy; 2007 Erowid.org
+Capsaicin Nasal Spray	https://www.erowid.org/chemicals/show_image.php?i=capsaicin/capsaicin_nasalspray__i2007e0773_disp.jpg	Close-up showing the label of capsaicin pepper nasal spray. [CA, USA]	Photo by Erowid. &copy; 2007 Erowid.org
+Capsaicin Nasal Spray	https://www.erowid.org/chemicals/show_image.php?i=capsaicin/capsaicin_nasalspray__i2007e0776_disp.jpg	Directions for use on bottle of capsaicin nasal spray. [CA, USA]	Photo by Erowid. &copy; 2007 Erowid.org
+Capsaicin Nasal Spray	https://www.erowid.org/chemicals/show_image.php?i=capsaicin/capsaicin_nasalspray__i2007e0774_disp.jpg	Warning and description from the side of a bottle of capsaicin nasal spray. [CA, USA]	Photo by Erowid. &copy; 2007 Erowid.org
+Capsaicin 3D Molecule	https://www.erowid.org/chemicals/show_image.php?i=capsaicin/capsaicin_3d.jpg	null	null
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Capsaicin
+REGULATED	Yes
+STATUS	Approved ForHuman Consumption
+STATUS	Regulatedin weapon products
+SCHEDULE	Un-Scheduled
+federalLawText :: Capsaicin from edible chile peppers is allowed in human food by the U.S. FDA and other countries' health regulatory bodies. In the U.S., there is no maximum amount of capsaicin for food products. In the U.S., Capsicum spp. peppers are allowed as Generally Recognized as Safe (GRAS) under 21CFR182.10, and use of pepper spray for self-defense is exempted from control by the Chemical Weapons Convention. Capsaicin extracted from plant sources are also GRAS under 21CFR182.20. Other regulations allow for the use of capsaicin in "Fever blister and cold sore treatment products" (21CFR310.545).	
+Use and possession of capsaicin-containing spray weapons (Pepper Spray) are controlled in many states and countries. The capsaicin-containing sprays are often called "OC" sprays, short for Oleoresin Capsicum (capsicum extract). Pepper sprays are completely banned on airplanes in the United States and some other countries.
+stateLaw :: California	California regulates capsaicin-containing spray weapons under "Tear gas" and prohibits sales to minors, those convicted of assault, and those "addicted to any narcotic drug". Use of pepper spray on someone "except in self-defense is guilty of a public offense" and faces fines and jailtime. (CALIFORNIA CODES, PENAL CODE, SECTION 12401-12404)
+Massachusetts	Sale of capsaicin-containing spray weapons restricted to those with Firearms Identification Cards or other firearms licenses and is thus age-restricted as well.
+Michigan	Capsaicin-containing sprays are legal as long as they have a maximum concentration of 2% capsicum extract (OC).
+New York	Sales of pepper spray restricted to licensed vendors (pharmacies and weapons dealers)
+Washington D.C.	Possession of capsaicin-containing spray weapons requires registration with the D. C. Police.
+Wisconsin	Capsaicin-containing sprays are legal as long as they have a maximum concentration of 10% capsicum extract (OC) and are not mixed with mace, dyes, or other chemicals.
+internationalLaw :: Canada	Capsaicin-containing spray weapons are prohibited from use by the public in Canada, but are allowed for police and military use.
+Denmark	Denmark disallows the possession and use of Capsaicin-containing spray weapons, with fines ranging from $250-500 with jail time theoretically possible, although jail time has reportedly never been imposed. The police are currently trying the use of pepper spray and are likely to be granted permanent permission to carry and use it in 2007. A few high profile cases of police fatally shooting people inappropriately has caused the Danish public to be in favor of having police carry non-lethal weapons like pepper spray.
+
+[Chemistry]
+chemTable :: NAME :	Capsaicin
+CHEMICAL NAME :	trans-8-methyl-N-vanillyl-6-nonenamide
+ALTERNATE CHEMICAL NAMES :	
+(E)-N-[(4-Hydroxy-3-methyoxyphenyl)-methyl]-8-methyl-6-nonenamide;
+N-(4-hydroxy-3-methoxybenzyl)-8-methylnontrans-6-enamide;
+CHEMICAL FORMULA	C18H27NO3
+MOLECULAR WEIGHT	305.42
+MELTING POINT	65&#176; C
+BOILING POINT	210-220&#176; C
+From the Merck Index 12th Edition
+moleculeURL :: https://www.erowid.org/chemicals/capsaicin/images/archive/capsaicin_3d_mid.jpg

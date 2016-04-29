@@ -1,0 +1,33 @@
+[Substance]
+
+id :: 146
+name :: Calea zacatechichi
+url :: https://www.erowid.org/plants/calea_zacatechichi/calea_zacatechichi.shtml
+category :: Plants
+botanicalClassification :: Family :Compositae, Genus :Calea, Species :zacatechichicommonNames :: Dream Herb; Leaf of God; Thle-pelakano; Bitter Grass
+effectsClassification :: Dream Potentiator
+description :: Calea zacatechichi is a medium sized shrub that has reportedly been used by the Chontal indians of Mexico as a hallucinogen. Its dried leaves are used before sleep to increase dreaming. Its effects are not well documented.
+imageURL :: https://www.erowid.org/plants/calea_zacatechichi/images/calea_zacatechichi_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/calea_zacatechichi/calea_zacatechichi_images.shtml
+lawURL :: https://www.erowid.org/plants/calea_zacatechichi/calea_zacatechichi_law.shtml
+
+[Images]
+imageEntryList :: Calea zacatechichi	https://www.erowid.org/plants/show_image.php?i=calea_zacatechichi/calea_zacatechichi__i2004e0053_disp.jpg	Potted Calea zacatechichi of the "sweet" variety (a non-bitter strain) from Oaxaca. Grown from seeds in Tokyo. The seeds is from a sample purchased online. [Tokyo, Japan]	Photo by Mauve. &copy; 2007 Erowid.org
+Calea zacatechichi	https://www.erowid.org/plants/show_image.php?i=calea_zacatechichi/calea_zacatechichi3.jpg	Color photo of a small potted Calea zacatechichi plant. [FL, USA]	Photo by Batman, &copy; 2003 Erowid.org
+Calea zacatechichi	https://www.erowid.org/plants/show_image.php?i=calea_zacatechichi/calea_zacatechichi4.jpg	Close-up color photo of the leaves of a small potted Calea zacatechichi plant. [FL, USA]	Photo by Batman, &copy; 2003 Erowid.org
+Calea zacatechichi Seedlings	https://www.erowid.org/plants/show_image.php?i=calea_zacatechichi/calea_zacatechichi_seedling__i2004e0092_disp.jpg	A tray of Calea zacatechichi seedlings. [Australia]	Photo by Teonan. &copy; 2007 Erowid.org
+Calea zacatechichi	https://www.erowid.org/plants/show_image.php?i=calea_zacatechichi/calea_zacatechichi2.jpg	Color drawing of plant and flower.	From Plants of the Gods, by Schultes & Hofmann.
+Calea zacatechichi	https://www.erowid.org/plants/show_image.php?i=calea_zacatechichi/calea_zacatechichi1.jpg	Black and white drawing.	Drawing by I. Brady, from The Botany and Chemistry of Hallucinogens by Schultes & Hofmann.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Calea zacatechichi
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: Calea zacatechichi is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: Louisiana	Effective Aug 8, 2005 (signed into law Jun 28, 2005) Louisiana Act No 159 makes 40 plants illegal, including Calea zacatechichi, when intended for human consumption. The law specifically excludes the "possession, planting, cultivation, growing, or harvesting" of these plants if used "strictly for aesthetic, landscaping, or decorative purposes." (Text of HLS_05RS-52 and Update June 2005)
+Tennessee 	Tennessee did not pass the proposed bill that would have banned dozens of plants as "hallucinogenic" when intended for human consumption. Instead, they banned only Salvia divinorum. See Comments on New State Laws Controlling the Consumption of Hallucinogenic Plants.
+internationalLaw :: INTERNATIONAL LAW	Australia #
+Australia	All parts of Calea zacatechichi (seeds, plants, extracts) are not controlled in Australia and therefore legal to buy, sell, possess, and consume. If sold for human consumption, the products must conform to the standarfs of the TGA (thereapeutic goods administration). (unconfirmed) (thanks C)
+Poland	As of March 2009, All parts of Calea zacatechichi (seeds, plants, extracts) are controlled in Poland in the same list as opiods such as heroin and hydrocodone. See Dz.U. 2009 nr 63 poz. 520. (thanks e) (last updated Sep 8 2009)

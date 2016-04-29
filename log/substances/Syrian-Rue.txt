@@ -1,0 +1,91 @@
+[Substance]
+
+id :: 191
+name :: Syrian Rue
+url :: https://www.erowid.org/plants/syrian_rue/syrian_rue.shtml
+category :: Plants
+botanicalClassification :: Family :Zygophyllaceae, Genus :Peganum, Species :harmalacommonNames :: Syrian Rue
+effectsClassification :: MAOI; Psychedelic
+description :: Peganum harmala is a perennial shrub with fleshy spikey-looking leaves, growing up to 1 meter tall. Its small, brown seeds contains harmine and other harmala alkaloids. It is one of the plants speculated to be the Soma or Haoma of ancient Persia.
+imageURL :: https://www.erowid.org/plants/syrian_rue/images/syrian_rue_summary1.jpg
+basicsURL :: https://www.erowid.org/plants/syrian_rue/syrian_rue_basics.shtml
+imagesURL :: https://www.erowid.org/plants/syrian_rue/syrian_rue_images.shtml
+lawURL :: https://www.erowid.org/plants/syrian_rue/syrian_rue_law.shtml
+doseURL :: https://www.erowid.org/plants/syrian_rue/syrian_rue_dose.shtml
+chemistryURL :: https://www.erowid.org/plants/syrian_rue/syrian_rue_chemistry.shtml
+
+[Basics]
+description :: Syrian rue or harmal (Peganum harmala) is a perennial succulent shrub with narrow, pinnately cut leaves and white solitary flowers, growing up to 1 meter but usually not more than 30 cm high, native from the Mediterranean to central and soutwest Asia. Its small angular brown seeds are traditionally used in dye making and for medicinal purposes in the Middle East. Peganum harmala is one of the plants speculated to be the Soma or Haoma of ancient Persia.  The seeds of Peganum harmala contain beta-carboline harmala alkaloids, primarily harmine and harmaline, which are both psychoactive and potent short-acting reversible inhibitors of MAO-A. The seeds also contain uterotonic alkaloids, which should be avoided by pregnant women (Ott 1996; Shulgin 1997; Mahmoudian 2002). In addition, the seeds have been shown to have both analgesic and antibacterial properties (Prashanth 1999).   In western culture Peganum harmala seeds are sometimes used as an MAOI in combination with other psychoactive substances, and less commonly as a psychoactive in their own right (Ott 1994; Shulgin, 1997). At psychoactive dosages, Peganum harmala typically produces heavy somatic effects (cf. Ott 1996, Shulgin 1997). Simple acid extractions are often used to isolate the harmala alkaloids. Due to its MAOI properties, it may be advisable to avoid certain foods in combination with Peganum harmala.  [ Main Syrian Rue Vault ]
+descriptionSections :: dose	For use as an MAOI, 3-5 g of seeds (approximately 1.5 mg harmala alkaloids per kilogram body mass) appears to be sufficient to activate oral DMT; no increase in activity is noted above these doses (Ott 1994; Shulgin 1997; Gracie & Zarkov 1986). Dosages from 3 to 28 g are taken to produce psychoactive effects (Shulgin 1997; Most 1985).
+price	In 2010, seeds are sold for approximately $2-4 USD per ounce.
+law	Peganum harmala is unscheduled in the United States meaning it is legal to possess and sell, however it is listed as a noxious weed in several states including Arizona, California, Colorado, Nevada, New Mexico and Oregon (USDA 2009), which means its cultivation or import might be controlled or prohibited in those states. The harmala alkaloids contained in the seeds are neither scheduled in the United States nor are they analoges of scheduled substances. However, the harmala alkaloids are scheduled in Australia, and harmaline is scheduled in Canada. Both Peganum harmala and the harmala alkaloids are listed as controlled substances in France.
+chemistry	Peganum harmala seeds contain the harmala alkaloids harmine and harmaline, but also harmalol, harman, and tetrahydroharmine at approximately 2-7% by mass total. The harmala alkaloids are beta-carbolines. The seeds also contain the uterotonic alkaloids vasicine, vasicinone, and deoxyvasicinone, which are quinazoline compounds.
+pharmacology	The harmala alkaloids are potent short-acting reversible selective inhibitors of MAO-A. They have been described as both CNS-stimulants (Ott 1994 citing Beer 1939; Pendell 2006 citing The Merck Index) and CNS-depressants (Ott 1996 citing Naranjo 1967), however most commonly as CNS-depressants (Ott 1996). Tetrahydroharmine is a serotonin reuptake inhibitor, but is typically only present in trace amounts (Shulgin 2002). Harman has been shown to be a vasodilator and a hypotensive agent in animals (Shulgin 2002).  The quinazoline compounds vasicine, vasicinone, and deoxyvasicinone are uterotonics and possibly emmenagogues. (Ott 1996; Shulgin 2002; Mahmoudian 2002).
+production	Production Summary Needed.
+history	Peganum harmala has a long history of medicinal use in North Africa and the Middle East from Persia to India. It has been used there to ward off the evil eye (Pendell 2006), and as an abortifacient and emmenagogue (Mahmoudian 2002). Its use as an MAOI and as a psychoactive in underground drug culture appears to have begun in the 1980s; one of the early records of its use to orally activate DMT was in publications by Gracie & Zarkov (Gracie & Zarkov, 1985, 1986).
+terminology	The Substance:Syrian Rue, Rue (although it shouldn't be confused with true rue), Harmal.
+effects :: The effects of Peganum harmala are difficult to characterize (Ott 1994, 1996; Shulgin 1997; G&Z 1985). It has been described both as a stimulant and soporific, more often the latter (Ott 1994, 1996). Pendell describes the effects as "sedative, narcotic, mildly to moderately visual" (Pendell 2006). Depending upon dosage, common effects are nausea, dizziness, ataxia, oneirophrenia, tinnitus, hypertension, visual trails, and closed eye visuals (G&Z 1986; Ott 1994, 1996; Shulgin 1997).
+effectsSections :: onset	For usage both as MAOI and as a psychoactive, effects usually begin within 30-60 minutes.
+duration	The MAOI effect lasts for 3-6 hours or longer. Psychoactive effects last 5-8 hours.
+visuals	Visuals Summary Needed.
+problems :: Nausea, vomiting, dizziness, sweating, body tremors, brachycardia, tachycardia, hypertension, and tinnitus are common when using Peganum harmala. Due to its MAOI properties, consumption of tyramine containing foods from 12 hours prior until 24 hours or longer after consuming Peganum harmala might precipitate a hypertensive crisis. Peganum harmala taken in conjunction with a serotonin reuptake inhibitor (SSRIs, which are common antidepressants) may precipitate serotonin syndrome, which may be life threatening. (DeKorne 2000; Ask Erowid #2981)  A case report (Mahmoudian 2002) has demonstrated that a 150 g oral dose of Peganum harmala seeds can result in severe gastrointestinal distress including vomiting of blood, convulsions, and gastric ulcers. Vasicine and vasicinone are known uterotonics. Harman interacts directly with DNA and may be mutagenic (Shulgin 2002).
+problemsSections :: contraindications	Do not operate heavy machinery. Do not drive. Individuals currently in the midst of emotional or psychological upheaval in their everyday lives should be careful about choosing to use psychoactives as they could possibly trigger even more difficulty. Individuals with a family history of schizophrenia or early onset mental illness should be extremely careful because strong psychoactives have been known to trigger latent psychological and mental problems. Syrian rue contains uterotonics and is probably better avoided by women who are pregnant.
+addiction	Peganum harmala is not known to be either physically addicting nor likely to cause psychological dependance.
+long	Long Term Health Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Images]
+imageEntryList :: Peganum harmala Seeds	https://www.erowid.org/plants/show_image.php?i=syrian_rue/peganum_harmala_seed__i2005e0337_disp.jpg	Syrian Rue seeds from Amsterdam next to a quarter for size comparison. [NY, USA]	Photo by V.J.D. &copy; 2007 Erowid.org
+Peganum harmala Seeds	https://www.erowid.org/plants/show_image.php?i=syrian_rue/peganum_harmala_seed__i2005e0403_disp.jpg	Approximagely 10 grams of syrian rue seeds being held in a hand. [GA, USA]	Photo by H. Turner. &copy; 2007 Erowid.org
+Peganum harmala Seeds	https://www.erowid.org/plants/show_image.php?i=syrian_rue/peganum_harmala_seed__i2005e0249_disp.jpg	Several Peganum harmala Seeds next to a coin for size comparison. [Italy]	Photo by Ooz. &copy; 2007 Erowid.org
+Peganum harmala Seeds	https://www.erowid.org/plants/show_image.php?i=syrian_rue/peganum_harmala1.jpg	Color photo of seeds.	Photographer Unknown.
+Peganum harmala	https://www.erowid.org/plants/show_image.php?i=syrian_rue/peganum_harmala__i2005e0029_disp.jpg	Closeup of Peganum harmala with seedpods. One of approximately twenty plants growing in a sunny zone in an alluvial terrace near rio Ebro. [Spain]	Photo by Angel Garcia. &copy; 2006 Erowid.org
+Peganum harmala	https://www.erowid.org/plants/show_image.php?i=syrian_rue/peganum_harmala_flower__i2006e0004_disp.jpg	Photo showing a flowering Peganum harmala plant. [Israel]	Photo by Anonymous. &copy; 2007 Erowid.org
+Peganum harmala	https://www.erowid.org/plants/show_image.php?i=syrian_rue/peganum_harmala__i2005e0090_disp.jpg	Three month old Peganum harmala plant. [Spain]	Photo by D & J. &copy; 2007 Erowid.org
+Peganum harmala Cuttings	https://www.erowid.org/plants/show_image.php?i=syrian_rue/peganum_harmala_cutting__i2010e0809_disp.jpg	Peganum harmala cuttings in Jiffy cubes after approximately 10 weeks in a humidity dome. Strike rate estimated at 20% or less. Cuttings were made from newly emerging shoots in early Spring. [New Zealand]	Photo by Ngati Wikitoria. &copy; 2010 Erowid.org
+Peganum harmala	https://www.erowid.org/plants/show_image.php?i=syrian_rue/peganum_harmala4.jpg	Color photo of several plants growing naturally.	Photographer Unknown.
+Peganum harmala	https://www.erowid.org/plants/show_image.php?i=syrian_rue/peganum_harmala_botanical_drawing__i2007e0262_disp.jpg	Color botanical drawing showing Peganum harmala plant, fruit, seeds and flower.	Unknown Artist.
+Peganum harmala L.	https://www.erowid.org/plants/show_image.php?i=syrian_rue/peganum_harmala2.jpg	Color drawing of plant.	Artist Unknown.
+Peganum harmala	https://www.erowid.org/plants/show_image.php?i=syrian_rue/peganum_harmala3.jpg	Black and white drawing of plant.	Artist Unknown.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Peganum harmala
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Peganum harmala is uncontrolled in the United States. This means all parts of the plant and its extracts are federally legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.	
+The Beta-carbolines (harmala alkaloids) contained are not analogs of any scheduled substance.
+stateLaw :: Arizona	Per the AZ Department of Agriculture's Plant Services Divison regulation, R3-4-245. Prohibited Noxious Weeds, Peganum harmala is listed as a species whose "viable plant parts (stolons, rhizomes, cuttings and seed, except agricultural, vegetable and ornamental seed for planting purposes) [are] prohibited from entering the state". See also: http://plants.usda.gov/java/noxious?rptType=State&statefips=04 (thanks PG) (last updated Dec 27 2013)
+California	Peganum harmala is listed as an "A list" noxious weed in California. Generally this means that importation, distribution, or cultivation are restricted in some manner. See USDA.gov. (thanks z)
+Colorado	Peganum harmala is listed as an "A list" noxious weed in Colorado. Generally this means that importation, distribution, or cultivation are restricted in some manner. See USDA.gov. (thanks z)
+Louisiana	Effective Aug 8, 2005 (signed into law Jun 28, 2005) Louisiana Act No 159 makes 40 plants illegal, including Peganum harmala, when intended for human consumption. The law specifically excludes the "possession, planting, cultivation, growing, or harvesting" of these plants if used "strictly for aesthetic, landscaping, or decorative purposes." (Text of HLS_05RS-52 and Update June 2005)
+Nevada	Peganum harmala is listed as an "A list" noxious weed in Nevada. Generally this means that importation, distribution, or cultivation are restricted in some manner. See USDA.gov. (thanks z)
+New Mexico	Peganum harmala is listed as an "A list" noxious weed in New Mexico. Generally this means that importation, distribution, or cultivation are restricted in some manner. See USDA.gov. (thanks z)
+Oregon	Peganum harmala is listed as an "A list" noxious weed in Oregon. Generally this means that importation, distribution, or cultivation are restricted in some manner. See USDA.gov. (thanks z)
+Tennessee 	Tennessee did not pass the proposed 2005 bill that would have banned dozens of plants as "hallucinogenic" when intended for human consumption. Instead, they banned only Salvia divinorum. See Comments on New State Laws Controlling the Consumption of Hallucinogenic Plants.
+internationalLaw :: Australia	P. harmala (Syrian Rue) is controlled in Australia. The harmala alkaloids are listed in Australia's schedule 9 "prohibited substances", except in herbs containing less than 0.1 percent or in divided preparations containing 2 mg or less total harmala alkaloids per recommended daily dose for therapeutic use. See Australia's Poison Standard 2009. States in Australia may have additional regulations, e.g. Queensland lists harmaline and harmalol in "schedule 2: dangerous drugs" without any provision for low therapeutic doses: See Queensland's Drug Misuse Amendment Act 2008 (thanks z) (last updated Nov 22, 2009.)
+Canada	Harmaline (and possibly other harmala alkaloids) is a scheduled substance in Canada.
+Finland	According to one visitor has said that Peganum harmala was added to the medicinal plants list in Finland in 2009. This requires a doctor's prescription to be legally imported from a licensed supplier inside the EEA. Use, sald, and production without a prescription is illegal. See http://www.fimea.fi/instancedata/prime_product_julkaisu/fimea/embeds/fimeawwwstructure/16412_Fimean_paatos_laakeluettelosta_1095_2009.pdf. (Thanks a) (last updated April 24 2011)
+France	As of May 3, 2005, France added Banisteriopsis caapi, Peganum harmala, Psychotria viridis, Diplopterys cabrerana, Mimosa hostilis, Banisteriopsis rusbyana, harmine, harmaline, tetrahydroharmine (THH), haroml, and harmalol to the list of controlled substances. See France Control Ayahuasca Plants and Chemicals. Earlier, in Jan 2005, a Paris court of appeals determined that Ayahuasca is not considered a preparation of DMT and is therefore not a controlled substance.
+
+[Dose]
+doseTable :: null
+doseText :: Peganum harmala (Syrian Rue) seeds contain approximately 3% (2-6%) harmaline, harmine, and other harmala alkaloids (Shulgin 1997; Most 1985; G&Z 1985), along with uterotonic alkaloids that should be avoided by pregnant women (Ott, 1996; Shulgin 1997; Massoud 2002). Peganum harmala seeds are commonly used as a short-acting reversible MAOI in combination with DMT or DMT-containing plants, less commonly with other psychoactives such as mescaline and/or peyote (Ott 1996; Shulgin 1997), and even less commonly as a psychoactive in their own right (Ott 1994; Shulgin, 1997). While some people report chewing and swallowing the seeds directly, or swallowing crushed seeds in capsules, simple acid extractions are often used.   For use as a MAOI, 3-5 g of seeds (approximately 1.5 mg harmala alkaloids per kilogram body mass) appears to be sufficient to activate oral DMT; i.e., no increase in activity is noted above these doses (Ott 1994; Shulgin 1997; G&Z 1986). Dosages from 3 g up to 28 g are taken to produce psychoactive effects (Shulgin 1997; Most 1985). At psychoactive dosages, Peganum harmala typically produces heavy somatic effects (cf. Shulgin 1997). Due to its MAOI effects, it may be advisable to avoid certain foods in combination with Peganum harmala.  The charts below show typical dosages for use of Peganum harmala as a MAOI and as a psychoactive substance on its own. Note: Since Peganum harmala is not a standardized product, some batches of seeds have a higher alkaloid content than others.     Oral Peganum harmala Seed Dosages  Taken for MAOI Effect Common3 - 6 g seeds (extracted)    Oral Peganum harmala Seed Dosages Taken for Psychoactive Effect Light0.5 - 3 g seeds (extracted) Medium2 - 4 g seeds (extracted) Strong4 - 8 g seeds (extracted) Heavy8+ g seeds (extracted)        References #  Gracie & Zarkov. "Three &beta;-Carboline Containing Plants as Potentiators of Synthetic DMT and other Indole Psychedelics". Notes from Underground, No. 7. Gracie and Zarkov Productions. 1985. Gracie & Zarkov. "An Indo-European Plant Teacher". Notes from Underground, No. 10. Gracie and Zarkov Productions. 1986. Massoud M, et al. "Toxicity of Peganum harmala: Review and a Case Report". Iranian Journal of Pharmacology & Therapeutics. 2002;1(1):1-4. Most A. Peganum Harmala: The Hallucinogenic Herb of the American Southwest. Venom Press. 1985. Ott J. Ayahuasca Analogues: Pangaean Entheogens. Natural Products Co. 1994. Ott J. "Pharmahuasca: On Phenethylamines and Potentiation". MAPS Bulletin. Summer 1996;6(3):32-5. Shulgin A, Shulgin A. TIHKAL: The Continuation. Harmaline entry and Chapter 16: Hoasca vs. Ayahuasca. 1997.
+notes :: null
+
+[Chemistry]
+chemTable :: NAME :	Harmine
+CHEMICAL NAME :	7-Methoxy-1-methyl-9H-pyrido[3,4-b]indole
+ALTERNATE CHEMICAL NAMES :	7-Methoxy-1-methylpyrido[3,4-b]indole
+ALTERNATE CHEMICAL NAMES :	banisterine; yageine; telepathine; leucoharmine.
+CAS#	442-51-3
+CHEMICAL FORMULA	C13H12N2O
+MOLECULAR WEIGHT	212.25
+MELTING POINT	262&#176; C (dec) - (Hydrochloride dihydrate crystals)
+MELTING POINT	321&#176; C (anhydrous) - (Hydrochloride dihydrate crystals)
+SOLUBILITY	freely soluble in hot water
+OTHER	Flouresces in solution
+LD50	38 mg/kg i.v.(mice)
+From the Merck Index 12th Edition
+moleculeURL :: https://www.erowid.org/chemicals/ayahuasca/images/archive/harmine_3d_mid.jpg

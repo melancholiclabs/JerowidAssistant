@@ -1,0 +1,84 @@
+[Substance]
+
+id :: 74
+name :: Ephedrine
+url :: https://www.erowid.org/chemicals/ephedrine/ephedrine.shtml
+category :: Chemicals
+commonNames :: Mini Thins; Sudafed; Trucker's Speed
+effectsClassification :: Stimulant
+chemicalName :: (-)-alpha-(1-methylaminoethyl)benzyl alcohol
+description :: Ephedrine is the active ingredient in Ephedra sinica. One isomer (pseudoephedrine) is widely sold as a decongestant while the other (ephedrine) is a commonly used stimulant.
+imageURL :: https://www.erowid.org/chemicals/ephedrine/images/ephedrine_summary1.jpg
+imagesURL :: https://www.erowid.org/chemicals/ephedrine/ephedrine_images.shtml
+lawURL :: https://www.erowid.org/chemicals/ephedrine/ephedrine_law.shtml
+doseURL :: https://www.erowid.org/chemicals/ephedrine/ephedrine_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/ephedrine/ephedrine_chemistry.shtml
+
+[Images]
+imageEntryList :: Ephedrine Tablets	https://www.erowid.org/chemicals/show_image.php?i=ephedrine/ephedrine_tablet__i2005e0798_disp.jpg	Two Ephedrine Tablets (expired South African stock) imprinted with "TABLOID BRAND".	Photo by Michael Knott. &copy; 2006 Erowid.org
+Ephedrine HCl	https://www.erowid.org/chemicals/show_image.php?i=ephedrine/ephedrine_bottle__i2005e1613_disp.jpg	1 gram bottle of "Tabloid" brand Ephedrine HCl (Burroughs Wellcome & Co). [South Africa]	Photo by Michael Knott. &copy; 2006 Erowid.org
+Ephedrine HCl Powder	https://www.erowid.org/chemicals/show_image.php?i=ephedrine/ephedrine_powder__i2005e1614_disp.jpg	A glass bottle containing Ephedrine HCl powder (expired South African stock).	Photo by Michael Knott. &copy; 2006 Erowid.org
+Ephedrine 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=ephedrine/ephedrine_2d.gif	Still 2D image of the Ephedrine molecule.	Image by Erowid. &copy; 2000 Erowid.org
+Ephedrine 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=ephedrine/ephedrine_3d.jpg	Still 3D image of the Ephedrine molecule.	Image by Erowid. &copy; 2000 Erowid.org
+Ephedrine 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=ephedrine/ephedrine__.mol	Rotating 3D image of the Ephedrine molecule.	Image by Erowid. &copy; 2000 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Ephedrine
+REGULATED	Yes
+STATUS	ID Required by Anti-Meth LawRegulated by DEA and FDA
+SCHEDULE	Special Control
+federalLawText :: Ephedrine is approved by the FDA as a drug for human consumption, but because it is a precursor for several scheduled drugs (methamphetamine & methcathinone), it is highly regulated. Possession of ephedrine is legal, but sales of large quantities are monitored and many states heavily regulate the forms and methods in which it is sold.	
+The FDA banned the sale of ephedrine in over-the-counter dietary supplements in early 2004. See FDA's February 2004 Announcement. Although the ban was temporarily in question when a federal judge ruled it invalid, the US Tenth Circuit Court of Appeals found in favor of the FDA; as of August 2006, a ban is in place on the sale of any product containing ephedra-alkaloids and ephedrine that has not been specifically approved by the FDA.	
+As of 2006, retailers in the United States are required to collect the signatures of every person purchasing pseudoephedrine-containing products in log books and view a photo ID for every purchase of any product for which the entire box contains more than 60 mg of pseudoephedrine. The "Combat Methamphetamine Epidemic Act of 2005" provides for criminal penalties for non compliance and limits the maximum amount an individual can buy to 9 grams of pseudoephedrine per any 30 day period:	
+This makes it unlawful for any person to knowingly or intentionally purchase at retail more than 9 grams during a 30 day period (of which no more than 7.5 grams can be imported by private or commercial carrier or the Postal Service). -- CME 2005	
+
+In 2010, a new "Combat Methamphetamine Enhancement Act" was passed that the DEA has told mail order retailers now requires them to only ship to the address on the Driver's License of the person ordering the product. However, we've not been able to find that requirement in the law or regulations. See FDA Law Blog: New Combat Meth Act Increases Retailer Self Certification (Nov 2010). Mail order companies are interpreting the rule, perhaps directed to do so by the DEA, that they may only ship ephedrine to the address listed on the driver's license. The DEA's briefing states: "Prior to shipping the product, you must also determine that the name and address on the identification correspond to the name and address provided by the purchaser as part of the sales transaction." Unfortunately, that sentence is ambiguous. It is possible to read that as a requirement for positive identification of the buyer, but can also be read as requiring the product be shipped to the address on the ID, which is the interpretation of the main vendors.	
+
+
+DEA Page on 'Combat Methamphetamine act of 2005	FDA's Statement about Tenth Circuit Ruling, Aug 21 2006	Stephen Barrett's summary of this ruling	Federal Judge Strikes Down Ephedra Ban, Apr 14 2005, AP	FDA Announces Plan to Prohibit Ephedra Supplements, Dec 30 2003	DEA's Mail Order Vendor Briefing 2010	
+
+
+Possession of ephedrine and ephedra products remains legal, with the caveat described above that buying too much in a short period can result in criminal penalties.
+stateLaw :: California	Bans sale of "ephedrine group alkaloids" (ephedrine and pseudoephedrine) in over-the-counter non-medical herbal supplements (approved medicines still allowed to contain the chemicals) after Jan 1, 2003. (SB-582 amending Article 4.5 Section 110423.100)
+Illinois	Bans purchase of more than 7.5g per month by any individual. See Public Act 094-0694 and Methamphetamine Precursor Control Act.
+Iowa	Some control of OTC sales (specifics not known).
+Missouri	Some control of OTC sales (specifics not known).
+Mississippi	Schedule III. Requires prescription, possession without prescription or license is illegal in Mississippi. See http://billstatus.ls.state.ms.us/documents/2010/html/HB/0500-0599/HB0512SG.htm. (thanks a) (last updated Apr 7, 2013)
+New York	Some control of OTC sales, ID required and entered into a database with 4 pseudoephedrine-containing products allowed per month per person. (unconfirmed) (thanks M)
+North Carolina	Ephedrine and Pseudoephedrine as of Jan 1 2006 are only sold 2 bottles at a time by licensed pharmacist, requires ID, and signing a form saying you may only buy two bottles per month total. See 2005 HOUSE BILL 248. (thanks lv, B) (last updated July 16 2010)
+Oklahoma	On Apr 6, 2004, Oklahoma became the first state to schedule pseudoephedrine, placing it into Schedule V. According to Microgram Bulletin (vol 37, June 2004), consumers are now required to present valid photo identification and sign a logbook to purchase pseudoephedrine. The law also limits the amount a person can buy or possess to 9 grams.
+Oregon	In August, 2005, Oregon governor Kulongoski signed a new law intended to reduce methamphetamine production in home 'labs' by moving ephedrine, pseudoephedrine, and phenylpropanolamine into Oregon Schedule III and making simple possession of more than 300 tablets of pseudoephedrine a crime. See Oregon House Bill 2485.
+Texas	In 2005, Texas ammended the Health and Safety Code to require strict controls on the storage and sale of products containing ephedrine, pseudoephedrine, and norpseudoephidrine (see Title 10, Chapter 486). In 2006 some state requirements were superceded by more stringent federal controls. The state of Texas currenlty requires that purchasers prove that they are 16 or older with a photo ID, and their names and amount of purchase are recorded. Texas limits the amount that can be purchased in a single day (3.6 g of the base product) or month (9 g). Pharmacies are responsible for tracking and reporting how much is sold to individuals. See Texas State Board of Pharmacy Announcement for more information. (thanks JT)
+internationalLaw :: Canada	Health Canada has issued repeated warnings advising the general public to be aware of the dangers of misbranded products or products that contain higher than the recommended amounts of ephedrine or pseudoephedrine. Health Canada has restricted the sales of ephedrine/pseudoephedrine in approved products to only allow breathing health uses and has disallowed products sold for weight loss or in energy boosting products. See Health Canada Reminds Canadians not to use Ephedra/Ephedrine products, March 11 2008. (Last updated May 27, 2008) See Canadian Drug Law.
+Croatia	Both Ephedrine and pseudoephedrine are on a list of precursors for illegal drugs and are controlled in Croatia. Ephedrine HCl is only available to pharmacies where 'liquid nasal drops' for colds are produced in house. By law, the ephedrine is stored in a special locked place inside drug stores to prevent theft during burglaries. Pseudophed is available in cold medications. See http://www.poslovniforum.hr/zakoni/zszod03.asp. (thanks C)
+Finland	It has been reported that in Finland ephedrine is a prescription medication. Posessing it without a prescription is illegal as is ordering it from outside Finland through postal services without a prescription (whether it's plant material or synthetic does not matter). (from Sir Robin)
+Germany	Ephedrine and pseudoephedrine are controlled chemicals included in the Grundstoff&uuml;berwachungsgesetz (G&Uuml;G), a law which lists precursors used in the manufacture of certain illegal drugs. (thanks C) This means they are no longer available over-the-counter, but only through a pharmacy. (thanks PM)
+Text of G&Uuml;G law	G&Uuml;G list of controlled base materials
+Indonesia	We have been told that ephedrine is sold over-the-counter at pharmacies in 25 mg packets of 20 pills. (unconfirmed) (thanks j, B) (last updated Feb 12, 2013)
+Netherlands	Ephedrine and Ephedra-alkaloid containing extracts have been added to the list of substances which may only be prescribed by doctors in the Netherlands. Over-the-counter sales are illegal as of Apr 6, 2004. Rivm.nl, Ephedra.nu, drugsweb.nl. (thanks DEB and Uil)
+Sweden	Not controlled in Sweden. Use of ephedrine-containing products can be considered 'cheating' in athletic competitions, as normal throughout the modern world. (unconfirmed) (thanks SJ)
+United Kingdom	Ephedrine is Prescription Only (Schedule VI) in the UK, making it legal to possess and use. A prescription is required (it is not sold over-the-counter) but is freely sold online as a diet aid by companies based in the UK. (unconfirmed) (thanks G) (last updated Mar 2007)
+
+[Dose]
+doseTable :: Oral Ephedrine Dosages
+Threshold5 - 10 mg
+Light10 - 20 mg
+Common15 - 30 mg
+Strong30 - 50 mg
+Heavy50 + mg
+Onset : 20 - 90 minutes (depending on form and stomach contents)
+Duration : 2 - 5 hours
+Normal After Effects : 2 - 4 hours
+doseText :: Ephedrine is a common central nervous system stimulant present in the herb Ephedra sinica. It is sold in herbal supplements, in diet aids, and as a pure chemical. It is generally found in capsule or tablet form and is usually taken orally. The chart below shows oral dosages for ephedrine in milligrams (mg).     Oral Ephedrine Dosages Threshold5 - 10 mg Light10 - 20 mg Common15 - 30 mg Strong30 - 50 mg Heavy50 + mg    Onset : 20 - 90 minutes (depending on form and stomach contents) Duration : 2 - 5 hours Normal After Effects : 2 - 4 hours   There have been deaths associated with higher dose use of Ephedrine. Overdose can lead to dangerously increased pulse rate, blood pressure, and body temperature. Overdoses are treated like those of other stimulant overdoses.
+notes :: null
+
+[Chemistry]
+chemTable :: NAME :	Ephedrine
+CHEMICAL NAME :	alpha-[1-(Methylamino)ethyl]benzene-methanol
+ALTERNATE CHEMICAL NAMES : 	alpha-[1-(methylamino)ethyl]benzyl alcohol
+CHEMICAL FORMULA	C10H15NO
+MOLECULAR WEIGHT	165.24
+MELTING POINT	187-188 (hydrocholoride)
+From the Merck Index 12th Edition
+moleculeURL :: https://www.erowid.org/chemicals/ephedrine/images/archive/ephedrine_3d_mid.jpg

@@ -1,0 +1,15 @@
+[Substance]
+
+id :: 192
+name :: Tabernaemontana
+url :: https://www.erowid.org/plants/tabernaemontana/tabernaemontana.shtml
+category :: Plants
+botanicalClassification :: Family :Apocynaceae, Genus :Tabernaemontana (Ervatamia; Peschiera), Species :coffeoides; crassa; dichotoma; orientalis; sananhocommonNames :: None
+effectsClassification :: Psychedelic
+description :: Tabernaemontana are generally large shrubs or small trees native to the tropical rain forests of Central and South America, Africa, and Australia. Several species have been found to contain indole alkaloids including ibogaine and voacangine.
+imageURL :: https://www.erowid.org/plants/tabernaemontana/images/tabernaemontana_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/tabernaemontana/tabernaemontana_images.shtml
+
+[Images]
+imageEntryList :: Ervatamia orientalis	https://www.erowid.org/plants/show_image.php?i=tabernaemontana/ervatamia_orientalis_plant__i2005e0047_disp.jpg	Color photo showing the leaves and flowers of Ervatamia orientalis. Photo taken in front of the Palazzo De Laoag hotel and is representative of a range of distribution peaking in the area surrounding Burgos. The photo does not show the highly characteristic fruit--a pair of small, bright orange, banana shaped fruits splayed outwards opposite each other. The local name for the plant is "bus-busilak". [Laoag City, Philippines]	Photo by Anonymous. &copy; 2006 Erowid.org
+Tabernaemontana holstii	https://www.erowid.org/plants/show_image.php?i=tabernaemontana/tabernaemontana_holstii1.jpg	Photo showing a dried botanical sample of Tabernaemontana holstii from the Botanical Preservation Corp.	Photo by Freeblood, &copy; 2000 Erowid.org

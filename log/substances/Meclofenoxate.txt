@@ -1,0 +1,24 @@
+[Substance]
+
+id :: 335
+name :: Meclofenoxate
+url :: https://www.erowid.org/smarts/meclofenoxate/meclofenoxate.shtml
+category :: Smarts
+commonNames :: Centrophenoxine; Lucidril; Acephen
+effectsClassification :: Memory; Anti-aging
+chemicalName :: (4-chlorophenoxy)acetic acid 2-(dimethylamino)ethyl ester
+description :: Meclofenoxate is broken down by the liver into DMAE and PCPA (parachlorphenoxyacetic acid). It has been shown to cause mild memory improvement in people with dementia and has been marketed as an anti-aging supplement.
+imageURL :: https://www.erowid.org/smarts/meclofenoxate/images/meclofenoxate_summary1.jpg
+imagesURL :: https://www.erowid.org/smarts/meclofenoxate/meclofenoxate_images.shtml
+chemistryURL :: https://www.erowid.org/smarts/meclofenoxate/meclofenoxate_chemistry.shtml
+
+[Images]
+imageEntryList :: Meclofenoxate 2D Molecule	https://www.erowid.org/smarts/show_molecule.php?i=meclofenoxate/meclofenoxate_2d.gif	Still 2D image of the Meclofenoxate molecule.	Image by Erowid, &copy; 2001 Erowid.org
+Meclofenoxate 3D Rotating Molecule	https://www.erowid.org/smarts/show_molecule.php?i=meclofenoxate/meclofenoxate__.mol	Rotating 3D image of the Meclofenoxate molecule.	Image by Erowid, &copy; 2001 Erowid.org
+
+[Chemistry]
+chemTable :: NAME :	Meclofenoxate
+CHEMICAL NAME :
+CHEMICAL FORMULA	C12H16ClNO3
+MOLECULAR WEIGHT :	388.8499
+moleculeURL :: null

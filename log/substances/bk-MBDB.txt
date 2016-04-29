@@ -1,0 +1,46 @@
+[Substance]
+
+id :: 50
+name :: bk-MBDB
+url :: https://www.erowid.org/chemicals/bk_mbdb/bk_mbdb.shtml
+category :: Chemicals
+commonNames :: Butylone; B1
+effectsClassification :: Euphoric Empathogen; Phenethylamine
+chemicalName :: 2-methylamino-1-(3,4-methylenedioxyphenyl)butan-1-one
+description :: bk-MBDB is a synthetic empathogen with effects similar to but milder than those of MDMA. It is extremely uncommon with nearly no history of human use.
+imageURL :: https://www.erowid.org/chemicals/bk_mbdb/images/bk_mbdb_summary1.jpg
+imagesURL :: https://www.erowid.org/chemicals/bk_mbdb/bk_mbdb_images.shtml
+lawURL :: https://www.erowid.org/chemicals/bk_mbdb/bk_mbdb_law.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Images]
+imageEntryList :: bk-MBDB	https://www.erowid.org/chemicals/show_image.php?i=bk_mbdb/bk-mbdb_vial__i2013e0069_disp.jpg	A vial containing 1.6 grams of bk-MBDB crystals. [USA]	Photo by D0tUser. &copy; 2013 Erowid.org
+bk-MBDB 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=bk_mbdb/bk_mbdb_2d.gif	Still 2D image of the bk-MBDB molecule.	Image by Erowid. &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Bk-MBDB
+REGULATED	No
+STATUS	Emergency Scheduled
+SCHEDULE	I
+federalLawText :: Bk-MBDB was emergency scheduled on March 7, 2014, making it Schedule I for a period of up to two years. It will almost certainly be permanently scheduled at the end of the "emergency" period.
+stateLaw :: Kentucky	bk-MBDB is probably controlled in Kentucky. In 2012, Kentucky passed HR 481 that added controlls for "synthetic drugs". The law states "'Synthetic drugs' means any synthetic cannabinoids or piperazines or any synthetic cathinones.". See http://www.lrc.ky.gov/record/12rs/HB481.htm. (thanks dw) (last updated Jan 17, 2013)
+Vermont	Classified under "Depressant and stimulant drugs" (Title 18, Chapter 84, Section 4234) : Illegal to possess, distribute, etc. Added July 2012. See healthvermont.gov/regs/documents/regulated_drugs_emergency_rule_annotated.pdf and http://www.leg.state.vt.us/statutes/fullsection.cfm?Title=18&Chapter=084&Section=04234. (Thanks DW) (last updated Jul 23, 2012)
+Virginia	Schedule I. http://www.mygov365.com/legislation/view/id/4f15545049e51b63146f1200/tab/overview/ : HB 508 Approved by Governor Apr 18, 2012 - Effective 7/1/12 and http://legiscan.com/gaits/text/631633. (Thanks NR) (last updated July 22, 2012)
+internationalLaw :: China	Controlled in China as a Category I psychotropic substance, illegal to sell, buy, import, export, and manufacture 4-methylmethcathinone as of September 2010. See China's SFDA announcement. (thanks n) (last updated Nov 25, 2015)
+Denmark	Bk-MBDB is reportedly not controlled in Denmark and available through online and private vendors. (unconfirmed) (thanks SL) (last updated May 30 2007)
+Finland	BK-MBDB was banned in Finland in December 2014. A new government regulation was enacted in Finland that banned over 100 psychoactive chemicals. See Finland's Prohibited Psychoactive Substances: December 19, 2014. (last updated Dec 26, 2014)
+Israel	Bk-MBDB was controlled in Israel in 2009. See http://www.nevo.co.il/law_html/law01/P170_001.htm (thanks d) (last updated Jul 20, 2013)
+Italy (Italia)	Listed in Tabella I of "Tabelle delle sostanze stupefacenti e psicotrope", making it illegal to possess, purchase, or sell. (see Tabelle delle sostanze stupefacenti e psicotrope. (thanks a) (last updated Dec 16, 2015)
+Japan	bk-MBDB is controlled as a "Designated Substance" (Shitei-Yakubutsu) by the Pharmaceutical Affairs Law, making it illegal to possess or sell (see Ref)
+Norway	The "Derivatbestemmelsen" is an Analog Act-type law in Norway that controls 4-methylmethcathinone, Bk-MBDB, Bromo-Dragonfly, 1,4butanediol, GBL, and MBDB. See legemiddelverket.no. (thanks o) (last updated April 29 2009)
+Slovak Republic	Starting March 1, 2011, MDBD, bk-MBDB, bk-MDMA, and 4-Methylmethcathinone are controlled in the Slovak Republic. See http://www.nrsr.sk/Dynamic/Download.aspx?DocID=350863. (thanks J) (last updated Feb 15 2011)
+United Kingdom (U.K., Britain)	bk-MBDB was added to the list of Class B controlled substances and became illegal to sell or possess without a proper license or prescription on April 16, 2010. (thanks jr) (last updated Apr 20 2010)
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

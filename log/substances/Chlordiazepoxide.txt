@@ -1,0 +1,16 @@
+[Substance]
+
+id :: 262
+name :: Chlordiazepoxide
+url :: https://www.erowid.org/pharms/chlordiazepoxide/chlordiazepoxide.shtml
+category :: Pharms
+commonNames :: Librium; Tropium; Mitran; Seren; Clindex
+effectsClassification :: Anxiolytic; Anticonvulsant; Sedative-hypnotic; Benzodiazepine
+chemicalName :: 7-chloro-2-(methylamino)-5-phenyl-3H-1,4-benzodiazepine- 4-oxide
+description :: Chlordiazepoxide is a benzodiazepine prescribed for anxiety and panic disorders, acute alcohol withdrawal symptoms, tension headaches, and other symptoms relieved by tranquilizers. It has slight analgesic and appetite-stimulating effects.
+imageURL :: https://www.erowid.org/pharms/chlordiazepoxide/images/chlordiazepoxide_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/chlordiazepoxide/chlordiazepoxide_images.shtml
+
+[Images]
+imageEntryList :: Librium Tablets	https://www.erowid.org/pharms/show_image.php?i=chlordiazepoxide/librium_tablet1.jpg	Color photo of three green 10 mg Librium tablets. [NY, USA]	Photo by LoKi007, &copy; 2005 Erowid.org
+Chlordiazepoxide Capsules	https://www.erowid.org/pharms/show_image.php?i=chlordiazepoxide/chlordiazepoxide_capsule__i2005e0993_disp.jpg	25 mg chlordiazepoxide capsules (generic Librium) produced by Apotex and bearing the imprint "APO || 25". [Canada]	Photo by Vagary. &copy; 2009 Erowid.org

@@ -1,0 +1,14 @@
+[Substance]
+
+id :: 189
+name :: Solandra spp.
+url :: https://www.erowid.org/plants/solandra/solandra.shtml
+category :: Plants
+botanicalClassification :: Family :Solanaceae, Genus :Solandra, Species :brevicalyx; guerrerensis; guttata; nitidacommonNames :: Chalice Vine; Kieli; Kieri; Wind Tree; Tecomaxochitl
+effectsClassification :: Deliriant
+description :: Solandra species are tropane alkaloid-containing vines native to Mexico that produce large yellow/gold flowers. They have a long history of ritual use, perhaps dating to prehistoric times, and are closely associated with sorcery.
+imageURL :: https://www.erowid.org/plants/solandra/images/solandra_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/solandra/solandra_images.shtml
+
+[Images]
+imageEntryList :: Solandra nitida	https://www.erowid.org/plants/show_image.php?i=solandra/solandra_nitida_flower__i2010e0030_disp.jpg	Flowering Solandra nitida vine. [MI, USA]	Photo by Cee Are. &copy; 2011 Erowid.org

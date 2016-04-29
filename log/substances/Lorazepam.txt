@@ -1,0 +1,33 @@
+[Substance]
+
+id :: 284
+name :: Lorazepam
+url :: https://www.erowid.org/pharms/lorazepam/lorazepam.shtml
+category :: Pharms
+commonNames :: Ativan
+effectsClassification :: Anxiolytic; Sedative; Benzodiazepine
+chemicalName :: 7-chloro-5-(2-chlorophenyl)-1,3-dihydro-3-hydroxy- 2H-1,4-benzodiazepin-2-one
+description :: Lorazepam (ativan) is a benzodiazepine used in the treatment of anxiety disorders. It is similar to valium, but is taken at much lower doses. It is also prescribed off-label to reduce nausea associated with chemotherapy.
+imageURL :: https://www.erowid.org/pharms/lorazepam/images/lorazepam_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/lorazepam/lorazepam_images.shtml
+lawURL :: https://www.erowid.org/pharms/lorazepam/lorazepam_law.shtml
+
+[Images]
+imageEntryList :: Ativan	https://www.erowid.org/pharms/show_image.php?i=lorazepam/ativan_tablet1.jpg	Color photo of an ativan tablet.	Photo from the the Drug and Natural Medicine Advisor
+Lorazepam	https://www.erowid.org/pharms/show_image.php?i=lorazepam/lorazepam1.jpg	Color photo of a lorazepam tablet, .5 mg PurePac brand.	Photo from the the Drug and Natural Medicine Advisor
+Lorazepam Liquid	https://www.erowid.org/pharms/show_image.php?i=lorazepam/lorazepam_liquid__i2009e1063_disp.jpg	30 mL bottle of "Intensol" containing 2 mg / mL oral lorazepam liquid. [OR, USA]	Photo by Jah Shaman. &copy; 2009 Erowid.org
+Lorazepam 2D Molecule	https://www.erowid.org/pharms/show_molecule.php?i=lorazepam/lorazepam_2d.gif	Still 2D image of the Lorazepam molecule.	Image by Erowid, &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Lorazepam
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule IV
+CLASSIFICATION	Depressant
+federalLawText :: Lorazepam (Ativan) is Schedule IV in the U.S. This means it is illegal to sell without a license and illegal to possess without a valid license or prescription.
+stateLaw :: null
+internationalLaw :: Argentina	Lorazepam (Ativan) can reportedly be purchased at some pharmacies without prescription in 0.5 and 1 mg units. (unconfirmed) (thanks E) (last updated Jan 18 2010)
+Canada	Benzodiazepines (including lorazepam) are Schedule IV under Canadian law. See http://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-26.html#h-29. (thanks e) (last updated Jul 30 2012)
+Germany (Deutschland	Lorazepam (Tavor) produced by Wyeth is available in packages of 20 or 50 tablets at dosages of 0.5, 1 mg, 2.0 mg, and 2.5 mg per tablet. Also available as 1 mg or 2.5 mg sublingual units and as ampulla in 2 mg dosages. Available by prescription only in Germany. (thanks T) (last updated Apr 5 2010)
+United Kingdom (UK)	Lorazepam is a prescription-only drug in the UK, Class C. (thanks m) (last updated Jun 6 2012)

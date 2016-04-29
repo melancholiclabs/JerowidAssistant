@@ -1,0 +1,69 @@
+[Substance]
+
+id :: 344
+name :: L-Tryptophan
+url :: https://www.erowid.org/smarts/tryptophan/tryptophan.shtml
+category :: Smarts
+commonNames :: L-tryptophan (precursor to 5-HTP); 5-HTP
+effectsClassification :: Sleep; Mood
+chemicalName :: L-tryptophan
+description :: L-Tryptophan is an essential amino acid, meaning the human body does not produce it naturally, but is required for the body's healthy functioning. L-Tryptophan is present in a wide range of foods including beans, nuts, milk, and poultry. L-Tryptophan is a precursor to 5-HTP (which is a precursor to serotonin) and is sold as a sleep aid and mood enhancer. L-Tryptophan was banned by the FDA in the 1990s because of contamination in the production process, but was re-released onto the U.S. market in 2001 after the FDA published a revised estimate of the risks. During the 1990s, 5-HTP was sold for human consumption in the US and grew in popularity partially because L-Tryptophan was unavailable.
+imageURL :: https://www.erowid.org/smarts/tryptophan/images/5-htp_summary1.jpg
+basicsURL :: https://www.erowid.org/smarts/tryptophan/tryptophan_basics.shtml
+imagesURL :: https://www.erowid.org/smarts/tryptophan/tryptophan_images.shtml
+lawURL :: https://www.erowid.org/smarts/tryptophan/tryptophan_law.shtml
+chemistryURL :: https://www.erowid.org/smarts/tryptophan/tryptophan_chemistry.shtml
+
+[Basics]
+description :: L-Tryptophan and 5-HTP are amino acids sold as nutritional supplements and are used by the body as precursors for the neurotransmitter serotonin (5-hydroxy-tryptamine). Both 5-HTP and L-Tryptophan have been used by body builders as an amino-acid. Trytophan is used to help stabilize mood, as a sleep aid, and by some ecstasy and psychedelic users because they are reputed to both increase the effects of substances as well as easing the comedown and helping stabilize mood the day after. [ Main Trytophan Vault ]
+descriptionSections :: dose	Dose Summary Needed.
+price	Price Summary Needed.
+law	L-Tryptophan was banned for sale for human use in the United States by the FDA in 1989 due to association with a debilitating syndrome called Eosinophilia-Myalgia Syndrome (EMS). There is considerable controversy around this topic.
+chemistry	Chemistry Summary Needed.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	History Summary Needed.
+terminology	The Substance:Tryptophan; L-tryptophan; 5-HTP; 5-hydroxy-tryptophan The Experience:No common terms known.
+effects :: Effects Summary Needed.
+effectsSections :: onset	Onset Summary Needed.
+duration	Duration Summary Needed.
+visuals	Visuals Summary Needed.
+problems :: The primary problem associated with taking tryptophan is stomach upset / nausea, but tryptophan is listed in some medical literature as being associated with serotonin syndrome, a potentially life-threatening adverse drug reaction. The risk of serotonin syndrome from taking moderate doses of supplemental tryptophan is likely to be extremely low, as tryptophan is an important food required for healthy human life.
+problemsSections :: contraindications	Tryptophan should not be used in combination with MAOIs because of the risk of unpleasant or dangerous reactions, including serotonin syndrome.  Pregnant women should consult their doctor before taking Tryptophan during pregnancy. Some doctors advise against the use of tryptophan-containing supplements for people taking SSRIs such as fluoxetine (Prozac) or paroxetine (Paxil).
+addiction	Addiction Potential Summary Needed.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Images]
+imageEntryList :: Tryptophan 2D Molecule	https://www.erowid.org/smarts/show_molecule.php?i=tryptophan/tryptophan_2d.gif	Still 2D image of the Tryptophan molecule.	Image by Erowid, &copy; 2001 Erowid.org
+Tryptophan 3D Rotating Molecule	https://www.erowid.org/smarts/show_molecule.php?i=tryptophan/tryptophan__.mol	Rotating 3D image of the Tryptophan molecule.	Image by Erowid, &copy; 2001 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+5-HTP
+REGULATED	No
+STATUS	Supplement
+SCHEDULE	Un-Scheduled
+federalLawText :: 5-HTP (5-Hydroxy-Tryptophan) is sold over-the-counter across the United States and can be purchased in a variety of supplements. Its sale is weakly controlled by the US laws regarding 'nutritional supplements' (primarily the 1994 "Dietary Supplement Health & Education Act") and is included in a wide variety of nutritional "health" supplements.	
+L-Tryptophan now appears to be legal to sell as a supplement in the US. L-Tryptophan was controlled for sale in the United States (for human consumption only) by the FDA in 1989, due to association with a series of deadly and disabling symptoms. See Ceri.com's overview of this. Pure L-Tryptophan has been available in the United States as a veterinary supplement and in other forms not intended for general human consumption. Since 2001, more and more human-consumption-targeted products have shown up on the U.S. market and the defacto status of L-Tryptophan supplements appears to have changed.	
+There is some confusion added by a statement by the FDA from February, 2001 which states:	
+
+Although FDA continues to enunciate its concern about the safety of dietary supplements containing L-tryptophan and related compounds such as L-5-hydroxytryptophan, this does not mean that FDA prohibits the marketing of dietary supplements that contain L-tryptophan. Under the Food, Drug and Cosmetic Act (the Act), as amended by the Dietary Supplement Health and Education Act of 1994 (DSHEA), the manufacturer is responsible for ensuring that its products are safe. A firm is not required to obtain premarket review or approval from the FDA of its products before marketing them as dietary supplements. Moreover, a firm is not required to submit scientific evidence to FDA of the safety of its products or ingredients. While we are unaware of conclusive scientific data that would establish that a dietary supplement L-tryptophan would be safe, if a firm has information that it believes establishes that a product containing L-tryptophan is safe within the meaning of the Act, it could market such a product as a dietary supplement. The burden and responsibility for assuring that such a product is not adulterated under the Act is with the firm and not FDA.	
+
+This may mean that the FDA has softened its prohibition on the sale of L-Tryptophan containing supplements and these may now be considered 'legal' in the US. Importation of L-Tryptophan is still blocked under this rule.
+stateLaw :: null
+internationalLaw :: Australia	5-HTP & L-Tryptophan somewhat controlled. Reportedly can be ordered from overseas, but only rarely available over-the-counter. Reportedly available for purchase OTC in Queensland.
+Austria	Sold over-the-counter
+Canad	5-HTP and L-Tryptophan are reportedly legal and widely available from health food stores. (unconfirmed) (thanks BFBB)
+Estonia	5-HTP & L-Tryptophan are reportedly treated as medicines and are not available over the counter. (unconfirmed) (thanks s) (last updated Jan 31 2011)
+France	In France, tryptophan is controlled more as a pharmaceutical than as a food. Schedule 1: legal to possess with a prescription. Classified as an antidepressant. Sale tightly controlled. According to one contributor:
+Italy	5-HTP & L-Tryptophan are reportedly legal and widely available from health food stores, probably behind the counter?. Sold by pharmacists as 5-Idroxy-TP.
+Germany	5-HTP is available by prescription only in Germany. L-Tryptophan is available in pharmacies without a prescription. (unconfirmed)
+New Zealand	5-HTP & L-Tryptophan both legal and widely available from health food stores.
+U.K.	5-HTP & L-Tryptophan legal and widely available from health food stores.
+
+[Chemistry]
+chemTable :: NAME :	Tryptophan
+CHEMICAL NAME :
+CHEMICAL FORMULA	C11H12N2O2
+moleculeURL :: null

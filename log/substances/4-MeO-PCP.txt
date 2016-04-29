@@ -1,0 +1,74 @@
+[Substance]
+
+id :: 30
+name :: 4-MeO-PCP
+url :: https://www.erowid.org/chemicals/4meo_pcp/4meo_pcp.shtml
+category :: Chemicals
+commonNames :: Methoxydine
+effectsClassification :: Dissociative Psychedelic
+chemicalName :: 4-Methoxy-Phencyclidine
+description :: 4-MeO-PCP is a synthetic dissociative psychedelic considered similar in activity to PCP and ketamine. It is uncommon and has only a short history of human use.
+imageURL :: https://www.erowid.org/chemicals/4meo_pcp/images/4meo_pcp_summary1.jpg
+effectsURL :: https://www.erowid.org/chemicals/4meo_pcp/4meo_pcp_effects.shtml
+lawURL :: https://www.erowid.org/chemicals/4meo_pcp/4meo_pcp_law.shtml
+doseURL :: https://www.erowid.org/chemicals/4meo_pcp/4meo_pcp_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/4meo_pcp/4meo_pcp_chemistry.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Effects]
+duration :: 4-MeO-PCP Duration
+Oral
+( very tentative )
+Total Duration	12 - 20 hrs
+Onset	45 - 120 mins
+Coming Up	1 - 2 hrs
+Plateau	3 - 7 hrs
+Coming Down	6 - 10 hrs
+&nbsp;	&nbsp;
+After Effects	6+ hrs
+Hangover / Day After	Yes
+positiveEffects :: Increase in energy / stimulation	Euphoria	Pleasant mental and/or body high	Disconnected thoughts	Sense of calm	Increased sociability, loss of inhibitions	Closed- and open-eye visuals	Shifts in perception of reality
+neutralEffects :: Increased heart rate (lower doses)	Altered time perception	Disrupted speech patterns	Analgesia (decreased pain awareness) and numbness	Distorted sensory perceptions, hallucinations	Unusual and unpredictable behavior	Mild to moderate dissociation	Confusion, disorientation
+negativeEffects :: Disturbing hallucinations and/or delusions	Anxiety, paranoia	Severe dissociation, depersonalization	Ataxia (loss of motor coordination)	Psychotic episodes	Nausea, vomiting	Temporary amnesia	Severe distortion or loss of auditory/visual perception
+description :: General Effects Notes	The effects of 4-MeO-PCP are usually compared to PCP or ketamine, but there are too few experience reports with reliably sourced material to say much with confidence. It seems to be less potent than both ketamine or PCP. Reports of negative effects increase with redosing. People are reporting mild but noticeable effects persisting into the next day.	
+Addiction and Compulsive Use	It is not yet known how addictive or likely 4-MeO-PCP is to cause compulsive use. Effects last long enough that redosing is not common, however, related substances have been associated with compulsive redosing. Because its use is so new and uncommon, no definitive statements about it can yet be made.
+experienceReports :: null
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+4-MeO-PCP
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Possible Analog
+federalLawText :: 4-MeO-PCP is unscheduled in the United States. It is possible that it could be considered an analog (of PCP), in which case, sales for human consumption or possession with the intent to ingest could be prosecuted under the Federal Analogue Act though we are unaware of any such existing cases (11/16/11).	
+According to one news report, a DEA spokesperson has stated that it is a felony to purchase 4-MeO-PCP. See http://m.startribune.com/news/?id=129189483. Generally, the DEA considers any recreational drug that remotely resembles the chemical structure of a Schedule I or II substance to be a controlled substance Analogue if it is intended for human consumption.
+stateLaw :: null
+internationalLaw :: 
+
+[Dose]
+doseTable :: 4-MeO-PCP Dosages
+Oral
+( very tentative )
+Threshold	25 - 75 mg
+Light	75 - 100 mg
+Common	100 - 175 mg
+Strong	160 - 250 mg
+doseText :: 4-MeO-PCP is a dissociative PCP analog. It is most often found in powder form that is taken nasally, orally, or via rectal administration. Dosage data is quite tentative; Some possibly because of variations in potency in available supplies.
+notes :: Some reports for 4-MEO-PCP may actually describe the ingestion of other substances that have been misrepresented as 4-MEO-PCP, complicating its profile.
+
+[Chemistry]
+chemTable :: NAME :	4-MeO-PCP
+CHEMICAL NAME :	4-Methoxy-Phencyclidine
+IUPAC NAME : 	1-[1-(4-methoxyphenyl)cyclohexyl]-piperidine
+CHEMICAL FORMULA	C18H27NO
+MOLECULAR WEIGHT	273.413
+MELTING POINT	140� C.
+moleculeURL :: https://www.erowid.org/chemicals/4meo_pcp/images/archive/4-meo-pcp_2d.jpg
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

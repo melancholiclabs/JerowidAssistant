@@ -1,0 +1,84 @@
+[Substance]
+
+id :: 178
+name :: Nutmeg
+url :: https://www.erowid.org/plants/nutmeg/nutmeg.shtml
+category :: Plants
+botanicalClassification :: Family :Myristicaceae, Genus :Myristica, Species :fragranscommonNames :: Nutmeg
+effectsClassification :: Deliriant
+description :: Myristica fragrans is a large evergreen tree that's fruit contains a large central seed (the nutmeg). It is used as a spice as well as acting as a deliriant if consumed in large quantities. Its effects are long-lasting and are considered unpleasant by most who experience them.
+imageURL :: https://www.erowid.org/plants/nutmeg/images/nutmeg_summary2.jpg
+basicsURL :: https://www.erowid.org/plants/nutmeg/nutmeg_basics.shtml
+imagesURL :: https://www.erowid.org/plants/nutmeg/nutmeg_images.shtml
+lawURL :: https://www.erowid.org/plants/nutmeg/nutmeg_law.shtml
+chemistryURL :: https://www.erowid.org/plants/nutmeg/nutmeg_chemistry.shtml
+
+[Basics]
+description :: Nutmeg is the dried kernal of Myristica fragrans, a tree native to the Spice Islands, near New Guinea. Now cultivated in many places, the tree grows to about fifty feet high and bears seeds for up to sixty years. Its fruit looks much like a peach and contains a brownish-purple, shiny kernel encased within a bright orange-red or red covering. The covering, or aril, is used for production of mace; the seed, dried in the sun for about two months and turned over each day, becomes nutmeg. Both the kernel and its covering contain psychoactive components within their oils. (Psychedelics Encyclopedia)  Nutmeg is used in the U.S. mainly as a garnish during Christmas festivities. It appears in the Hindu Pharmacopoeia as a treatment for fever, asthma and heart disease. Since the seventh century A.D., Arab physicians have used it for digestive disorders, kidney disease and lymphatic ailments. Yemeni men are said to consume nutmeg to increase and maintain their sexual vigor. [ Main Nutmeg Vault ]
+descriptionSections :: dose	Dose Summary Needed.
+price	Price Summary Needed.
+law	Nutmeg is legal to possess, sell, or buy in the United States in all forms.
+chemistry	The primary effects of nutmeg use come from several active allylbenzenes they contain including myristicin, safrole, and elemicin.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	Nutmeg was introduced to the West in the early 16th century and its psychoactive properties were quickly discovered.
+terminology	The Substance:Nutmeg; Myristica fragrans; Jaiphal (Hindi); Pala (Indonesian). The Experience:No common terms known.
+effects :: Effects Summary Needed.
+effectsSections :: onset	Effects can take 2-7 hours to come on, depending on how recently the last meal was eaten.
+duration	The primary effects of a full dose of Nutmeg can last up to 24 hours. More minor secondary effects can continue for up to 72 hours.
+visuals	Visuals Summary Needed.
+problems :: Many people find the effects of Nutmeg unpleasant. Nausea, vomiting, diarrhea, and severe dry mouth can accompany the psychedelic/sedative effects.
+problemsSections :: contraindications	Do not operate heavy machinery. Do Not Drive. There has been some suggestion that Nutmeg should not be taken in combination with an MAOI. We have very little data on this. MAOIs are most commonly found in the prescription anti-depressants Nardil (phenelzine), Parnate (tranylcypromine), Marplan (isocarboxazid), Eldepryl (l-deprenyl), and Aurorex or Manerix (moclobemide). Ayahuasca also contains MAOIs (harmine and harmaline). Check with your doctor if you are not sure whether your prescription medication is an MAOI.
+addiction	Nutmeg is neither physically addicting nor likely to cause psychological dependence. Withdrawal effects following discontinuation have not been reported.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Images]
+imageEntryList :: Myristica fragrans	https://www.erowid.org/plants/show_image.php?i=nutmeg/myristica_fragrans5.jpg	Photo showing whole Myristica fragrans nuts as well as freshly ground nutmeg. [CA, USA]	Photo by Erowid, &copy; 2005 Erowid.org
+Myristica frangrans fruit	https://www.erowid.org/plants/show_image.php?i=nutmeg/myristica_fragrans_fruit__i2005e0168_disp.jpg	Myristica fragrans fruit cut open to expose seed (nutmeg). Photo taken in May. [WI, USA]	Photo by Krisztian. &copy; 2006 Erowid.org
+Myristica fragrans	https://www.erowid.org/plants/show_image.php?i=nutmeg/myristica_fragrans2.jpg	Closeup color photo of open nut.	Photo by George Linney.
+Myristica fragrans	https://www.erowid.org/plants/show_image.php?i=nutmeg/myristica_fragrans3.jpg	Color photo of branch with flowers.	Photo by George Linney.
+Myristica fragrans	https://www.erowid.org/plants/show_image.php?i=nutmeg/myristica_fragrans4.jpg	Closeup color photo of flower.	Photo by George Linney.
+Myristica fragrans	https://www.erowid.org/plants/show_image.php?i=nutmeg/myristica_fragrans1.jpg	Small color photo of cut branch with nut.	Photographer Unknown.
+Nutmeg Powder	https://www.erowid.org/plants/show_image.php?i=nutmeg/nutmeg_powder__i2008e0124_disp.jpg	Close up of nutmeg powder and container. [USA]	Photo by Herr Mannelig. &copy; 2009 Erowid.org
+Myristica insipida Leaf	https://www.erowid.org/plants/show_image.php?i=nutmeg/myristica_insipida_leaf__i2011e0915_disp.jpg	Close-up of a single Myristica insipida leaf in the sunlight, taken at the Sydney Royal Botanic Gardens. [Sydney, Australia]	Photo by Erowid. &copy; 2011 Erowid.org
+Myristica insipida Fruit	https://www.erowid.org/plants/show_image.php?i=nutmeg/myristica_insipida_fruit__i2005e0388_disp.jpg	Fresh fruit of Myristica insipida, cut open to reveal seed. [Australia]	Photo by D.C. Williams. &copy; 2006 Erowid.org
+Myristicin 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=myristicin/myristicin_2d.gif	Still 2D image of the Myristicin molecule.	Image by Erowid, &copy; 2001 Erowid.org
+Myristicin 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=myristicin/myristicin__.mol	Rotating 3D image of the Myristicin molecule.	Image by Erowid, &copy; 2001 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Nutmeg
+REGULATED	No
+STATUS	Food Approved
+SCHEDULE	Un-Scheduled
+federalLawText :: Nutmeg (Myristica fragrans) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.	
+Myristica fragrans is approved for food use in the U.S. and appears in the FDA's list of substances Generally Recognized As Safe (GRAS).
+stateLaw :: null
+internationalLaw :: Australia	We have been told that nutmeg is legal to buy, sell, and possess as general spice and food. (unconfirmed) (thanks WW)
+Bosnia	We have been told that nutmeg is legal to buy, sell, and possess as general spice and food. (unconfirmed) (thanks ET)
+Canada	Nutmeg is legal to buy, sell, and possess as general spice and food. (thanks C) (Last updated May 18 2011)
+Estonia	We have been told that nutmeg is legal to buy, sell, and possess as general spice and food. (thanks A)
+Finland	We have been told that nutmeg (called muskottip&auml;hkin&auml;) is legal to buy, sell, and possess as general spice and food. Some stores have chosen to limit volume sales to people over 18. (thanks AM)
+Hungary	Widely available and legal to buy, sell, and possess as general spice and food. (thanks P)
+Israel	Nutmeg is legal to buy, sell, and possess as a general spice and food in Israel. (thanks YE)
+Italy	We have been told that nutmeg is legal to buy, sell, and possess as general spice and food. (thanks DT)
+Lithuania	We have been told that nutmeg is legal to buy, sell, and possess as general spice and food.
+Netherlands	We have been told that nutmeg is legal to buy, sell and possess and is approved for food use.
+New Zealand	We have been told that nutmeg is legal to buy, sell, and possess and is available in grocery stores as a spice." (unconfirmed) (thanks E)
+Norway	We have been told that nutmeg is legal to buy, sell, and possess as general spice and food. (thanks H)
+Oman	Nutmeg is banned from import and may be illegal to buy, sell, or possess. Nutmeg is confiscated when discovered. (unconfirmed) (thanks N)
+Poland	We have been told that nutmeg is legal to buy, sell, and possess as a general spice and food. (thanks D)
+Portugal	We have been told that nutmeg is legal to buy, sell, and possess, and is approved for food use. (thanks O)
+Saudi Arabia	Nutmeg is banned from import and may be illegal to buy, sell, or possess. Nutmeg is confiscated when discovered. (thanks N)
+Ukraine	We have been told that nutmeg is legal to buy, sell, and possess in the Ukraine, but can be hard to find. (thanks 5)
+United Kingdom (UK, England, Scottland, Wales)	We have been told that nutmeg is legal to buy, sell, and possess as general spice and food. (thanks N)
+
+[Chemistry]
+chemTable :: NAME :	Myristicin
+CHEMICAL NAME :	Methoxysafrole; 4-Methoxy-6-(2-propenyl)-1,3-benzodioxole
+CHEMICAL NAME :	5-allyl-1-methoxy-2,3-(methylenedioxy)benzene
+CHEMICAL FORMULA	C11H12O3
+BOILING POINT :	173&deg; F
+MOLECULAR WEIGHT :	192.211
+moleculeURL :: null

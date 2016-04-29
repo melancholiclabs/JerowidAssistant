@@ -1,0 +1,80 @@
+[Substance]
+
+id :: 6
+name :: 25C-NBOMe
+url :: https://www.erowid.org/chemicals/2cc_nbome/2cc_nbome.shtml
+category :: Chemicals
+commonNames :: 2C-C-NBOMe; 25C-NBOMe; NBOMe-2C-C
+effectsClassification :: Psychedelic; Euphoriant; Phenethylamine;
+chemicalName :: 4-chloro-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine
+description :: The N-O-methoxybenzyl analog of 2C-C, and a 5-HT2A (serotonin 2A) receptor agonists, 2C-C-NBOMe is active at very low, sub-milligram doses. This chemical has nearly no history of human use prior to 2010 when they first became available online. It has been associated with at least one death.
+imageURL :: https://www.erowid.org/chemicals/2cc_nbome/images/2cc_nbome_summary1.jpg
+effectsURL :: https://www.erowid.org/chemicals/2cc_nbome/2cc_nbome_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/2cc_nbome/2cc_nbome_images.shtml
+lawURL :: https://www.erowid.org/chemicals/2cc_nbome/2cc_nbome_law.shtml
+doseURL :: https://www.erowid.org/chemicals/2cc_nbome/2cc_nbome_dose.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Effects]
+duration :: 2C-C-NBOMe Duration
+Sublingual / Buccal
+( tentative )
+Total Duration	6 - 8 hrs
+Onset	0 - 15  mins
+Coming Up	30 - 90 mins
+Plateau	4 - 6 hrs
+Coming Down	1 - 4 hrs
+&nbsp;	&nbsp;
+After Effects	- - -
+Hangover / Day After	- - -
+positiveEffects :: strong open and closed eye visuals, including trails, color shifts, brightening, etc.	mood lift, euphoria	mental and physical stimulation	increase in associative & creative thinking	increased awareness & appreciation of music	life-changing spiritual experiences	erotic, sexual thoughts and sensations	feelings of love and empathy	psychedelic ideation, grand insights, big ideas
+neutralEffects :: general change in consciousness	pupil dilation (mydriasis)	difficulty focusing the eyes	unusual body sensations (facial flushing, chills, goosebumps, body energy)	change in perception of time, time dilation	slight increase in heart rate	yawning, especially when coming up	does not suppress appetite at low doses	visual strobing
+negativeEffects :: confusion, delirium	looping, recursive, out of control thinking ('racing throughts')	scrambled communication	nausea	insomnia	paranoia, fear, and panic	unwanted and overwhelming feelings	unwanted life-changing spiritual experiences	tachycardia, hypertension	overheating, hyperthermia	serotonin syndrome	Vasoconstriction, peripheral numbness, swelling of feet, hands, face	shaking, clenching, dystonia, clonus, muscle spasms, seizure	rhabdomyolysis (Gee et al.)
+description :: General Effects Notes	2C-C-NBOMe is chemically related to 2C-C and is a very potent 5HT2A agonist with active doses in the 200-700 microgram range. Its effects have been compared to 2C-C and LSD. There are some reports that effects can be very unpredictable, even with the same person taking the same dose at different times.	
+There have been several reports of users of 25C-NBOMe and 25I-NBOMe experienced peripheral vasocontriction that required medical attention. Symptoms begin with tingling, coldness, bluing, and numbness in the fingers, toes, lips, nose, and other extremities. Swelling in the hands, feet, and face have been reported. One user reported numbness lasting more than a week after use.	
+Addiction and Compulsive Use	Though some reports mention that re-dosing is possible, compulsive use seems unlikely. However, because its use is so new and uncommon, no definitive statements about it can yet be made.
+experienceReports :: [500 mcg, insufflated] "The unremarkable room I'm in is suddenly transfigured into a Van-Goghian masterpiece. Looking out the window, the world has come alive, flowing in wavy brushstrokes. Visual trails leave clearly discernible ribbons of color in the air. I am completely enraptured by the stunning visual effects. My entire sensory experience takes on full salience. Every sight, sound, and smell enters my conscious awareness with unfiltered vitality." -- Exp 90724[1.4 mg, insufflated] "I realized the moment I stepped into the next room that things were warped and wrong, no way I could vape. I glanced at the clock, and less than 4 minutes had taken place since insufflation. I was already becoming overwhelmed with confusion and slight delirium, I knew by the unnaturally immediate and incredibly strong onset that the 'Effective' dose I had given myself was much, much, much greater than anything I had ever gotten before." -- Exp 88985
+
+[Images]
+imageEntryList :: Commercial 25C-NBOMe	https://www.erowid.org/chemicals/show_image.php?i=nbome/2c-c-nbome__i2011e0439_disp.jpg	Baggie of tan-colored chemical from Polish vendor, marked "Not for human consumption. For GC/MS reference only. Harmful."	Photo by H2O. &copy; 2011 Erowid.org
+25C-NBOMe	https://www.erowid.org/chemicals/show_image.php?i=nbome/2c-c-nbome_powder__i2011e0515_disp.jpg	25C-NBOMe salt, bought online from Canada. [BC, Canada]	Photo by Plutonic. &copy; 2011 Erowid.org
+25C-NBOMe Blotter	https://www.erowid.org/chemicals/show_image.php?i=2cc_nbome/25c-nbome_blotter__i2013e0251_disp.jpg	Five hits of 25C-NBOMe blotter, each 1/4 inch by 1/4 inch, dosed at 1 mg each and bearing an Android logo. [CA, USA]	Photo by Anonymous. &copy; 2013 Erowid.org
+25C-NBOMe Blotter	https://www.erowid.org/chemicals/show_image.php?i=2cc_nbome/2cc-nbome_blotter__i2012e0355_disp.jpg	500 ug 25C-NBOMe blotter with yellow smiley faces. [Buckinghamshire, UK]	Photo by Anonymous. &copy; 2012 Erowid.org
+25C-NBOMe Blotter	https://www.erowid.org/chemicals/show_image.php?i=2cc_nbome/2cc_nbome_blotter__i2012e0362_disp.jpg	A single hit of 25C-NBOMe (25C-NBOMe) on blotter inside of an open matchbox. [AK, USA]	Photo by Biskit. &copy; 2012 Erowid.org
+25C-NBOMe Blotter	https://www.erowid.org/chemicals/show_image.php?i=2cc_nbome/2cc_nbome_blotter__i2012e0470_disp.jpg	Two hits of 25C-NBOMe blotter with smiley faces.	Photo by W.S. &copy; 2012 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+2C-C-NBOMe
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	I
+federalLawText :: On Nov 13, 2015, the DEA extended the emergency scheduling of 25I-, 25C-, and 25B-NBOMe by one year, until Nov 2016.	
+On Nov 15, 2013, the DEA added 25I-, 25C-, and 25B-NBOMe to Schedule I using their emergency scheduling powers, making those NBOMe compounds "temporarily" in Schedule I for two years. It is nearly guaranteed that after two years, these will be permanently added to Schedule I. Having these three chemicals in Schedule I also makes the rest of the NBOMe series probable Controlled Substance Analogues when intended for human consumption. For these three compounds sales, possession, manufacture, and distribution are all crimes under US law.	
+One technical note about 25-*-NBOMe legal status: The primary (easiest) synthetic route for producing 25I-, 25C-, and 25B-NBOMe uses the related controlled substance (2C-I, 2C-C, and 2C-B, respectively) as the precursor chemical. It is likely that NBOMe-compounds sourced from lower-end sources might contain tiny, detectable amounts of a controlled substance. Depending on amount and legal venue, that trace amount could affect the legality of the whole batch.
+stateLaw :: Arkansas	Added to Schedule I via decree by the Director of the Arkansas Department of Health in May 2013. See Arkansas Controlled Substances List Update, May 22 2013 (PDF). (thanks n) (last updated Jun 8 2013)
+Georgia	Added to Schedule I in April, 2013. (unconfirmed) (thanks j) (last updated Jul 30 2013)
+Louisiana	Added to Schedule I in May 2013. See http://www.nola.com/politics/index.ssf/2013/05/synthetic_marijuana_25-i_jindal.html and www.legis.la.gov/legis/ViewDocument.aspx?d=850979. (thanks m) (last updated Jun 3 2013)
+internationalLaw :: Brazil	The -NBOMe series of psychoactives became controlled in Brazil as of Feb 18, 2014. The listed drugs include 25I-NBOMe, 25C-NBOMe, 25D-NBOMe, 25B-NBOMe, 25E-NBOMe, 25N-NBOMe, 25P-NBOMe, 25T2-NBOMe,25T2-NBOMe, 25T7-NBOMe, 25H-NBOMe. (thanks e) (last updated Feb 19 2014)
+Israel	The -NBOMe series of psychoactives became controlled in Israel in May, 2013. See http://www.health.gov.il/LegislationLibrary/25574413.pdf. (thanks i) (last updated June 7 2013)
+Russian Federation	The -NBOMe series of psychoactives became controlled in the Russian Federation starting October, 2011. See http://www.rg.ru/2011/10/19/narko-dok.html. (thanks n) (last updated Jan 2 2012)
+Sweden	The -NBOMe series of psychoactives has reportedly been added to the controlled substances list in Sweden, effective Aug 1, 2013. (unconfirmed) (last updated Jul 18 2013)
+United Kingdom (U.K., Britain)	25I-NBOMe and 25C-NBOMe were controlled in the UK as Class A drugs in June 2014. Previously, the NBOMe compounds issued a temporary control of the NBOMe compounds as of June 10, 2013. Prior to that, the broad "phenethylamine" controlled class in Britain did not include NBOMes for technical reasons. See http://www.legislation.gov.uk/ukdsi/2014/9780111110904. See https://www.gov.uk/government/news/nbome-and-benzofury-to-be-banned and http://www.bbc.co.uk/news/uk-politics-22771232. (thanks w) (last updated Apr 10, 2015)
+
+[Dose]
+doseTable :: 2C-C-NBOMe Dosages
+Insufflated
+Threshold	25 - 50 ug
+Light	75 - 250 ug
+Common	250 - 500 ug
+Strong	500 - 700 ug
+doseText :: 2C-C-NBOMe is most commonly found in powder form, but is also mixed into liquid as well as dropped onto blotter paper (due to its extremely low doses). We have very few reports of 2C-C-NBOMe usage, so dosages and durations are not well known. Some blotter reportedly contains 400 ug on each perforated hit.
+notes :: Due to its potency, misjudging the dose of 2C-C-NBOMe carries very real risks. A substantial dosage error could lead to undesirable or dangerous effects. If 2C-C-NBOMe is in in pure powder form, small breezes, accidental inhalation, or touching the eyes or mouth after handling could result in full-blown effects or dangerous overdoses. Because of these dangers, 2C-C-NBOMe powder should be labeled clearly and handled with laboratory methods (goggles, gloves, mask) to minimize risks.
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

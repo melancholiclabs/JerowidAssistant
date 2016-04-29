@@ -1,0 +1,35 @@
+[Substance]
+
+id :: 153
+name :: Desmanthus illinoensis
+url :: https://www.erowid.org/plants/d_illinoensis/d_illinoensis.shtml
+category :: Plants
+botanicalClassification :: Family :Fabaceae (=Leguminosae; Mimosaceae), Genus :Desmanthus, Species :illinoensis; leptolobuscommonNames :: Bundle Flower; Illinois Bundle Weed; Prairie Bundleflower
+effectsClassification :: Psychedelic
+description :: Desmanthus illinoensis is a perennial weed legume growing from .3 to 1 meter tall. It has fern-like leafed branches and produces N,N-DMT in its root bark.
+imageURL :: https://www.erowid.org/plants/d_illinoensis/images/d_illinoensis_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/d_illinoensis/d_illinoensis_images.shtml
+lawURL :: https://www.erowid.org/plants/d_illinoensis/d_illinoensis_law.shtml
+
+[Images]
+imageEntryList :: Desmanthus illinoensis	https://www.erowid.org/plants/show_image.php?i=d_illinoensis/desmanthus_illinoensis__i2005e0347_disp.jpg	Very nice photo of Desmanthus illinoensis flower, leaves, and seedpod. [Mullumbimby, Australia]	Photo by Wandjina Gardens. &copy; 2007 Erowid.org
+Desmanthus illinoensis	https://www.erowid.org/plants/show_image.php?i=d_illinoensis/desmanthus_illinoensis__i2007e0941_disp.jpg	A young D. illinoensis plant grown from seed in England. [England]	Photo by VonBass. &copy; 2007 Erowid.org
+Desmanthus illinoensis Flower	https://www.erowid.org/plants/show_image.php?i=d_illinoensis/desmanthus_illinoensis_flower__i2005e0145_disp.jpg	Close-up of a single Desmanthus illinoensis flower. [IL, USA]	Photo by Anonymous. &copy; 2007 Erowid.org
+Desmanthus illinoensis Branch	https://www.erowid.org/plants/show_image.php?i=d_illinoensis/desmanthus_illinoensis_branch__i2006e0849_disp.jpg	Close-up showing a young Desmanthus illinoensis branch and leaves. [Midwest, USA]	Photo by Anonymous. &copy; 2009 Erowid.org
+Desmanthus illinoensis Seedpod	https://www.erowid.org/plants/show_image.php?i=d_illinoensis/desmanthus_illinoensis_seedpod__i2005e0346_disp.jpg	Closeup of a Desmanthus illinoensis seedpod. [Mullumbimby, Australia]	Photo by Wandjina Gardens. &copy; 2007 Erowid.org
+Desmanthus illinoensis Seeds	https://www.erowid.org/plants/show_image.php?i=d_illinoensis/desmanthus_illinoensis_seeds__i2004e0070_disp.jpg	Desmanthus illinoensis (Illinois Bundleflower) seeds harvested near IL border in 2003. [IL, USA]	Photo by plura16. &copy; 2007 Erowid.org
+Peganum harmala Seeds	https://www.erowid.org/plants/show_image.php?i=syrian_rue/peganum_harmala_seed__i2005e0337_disp.jpg	Syrian Rue seeds from Amsterdam next to a quarter for size comparison. [NY, USA]	Photo by Kyle. &copy; 2007 Erowid.org
+Desmanthus illinoensis Seed	https://www.erowid.org/plants/show_image.php?i=d_illinoensis/desmanthus_illinoensis_seed__i2005e0257_disp.jpg	10x magnification of a single Desmanthus illinoensis seed.	Photo by Pedro &copy; 2007 Erowid.org
+Desmanthus illinoensis	https://www.erowid.org/plants/show_image.php?i=d_illinoensis/desmanthus_illinoensis1.jpg	Black and white drawing of D. illinoensis.	Artist and source unknown.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+D. illinoensis
+REGULATED	No
+STATUS	Ambiguous
+SCHEDULE	ContainsSchedule I Chemical
+CLASSIFICATION	Hallucinogen
+federalLawText :: Desmanthus illinoensis is not a controlled species in the United States. Live plants are bought and sold and are not generally	considered illegal to possess. However, DMT, one of the chemicals contained in the plant, is Schedule I in the U.S. Practically, this means that if an extraction is done on DMT containing Desmanthus species (including D. illinoensis), the resulting DMT is illegal to possess. We are aware of only one case in which a business has been prosecuted for selling D. illinoensis because of its DMT content and that case is ongoing as of Feb 2010. See Bouncing Bear Botanicals Prosecution. We are unaware of any individual being prosecuted for possession of D. illinoensis.	
+Large scale (especially commercial) extraction of DMT from Desmanthus species falls into the realm of "clearly illegal" and would very likely be prosecuted. It is also quite possible that importation of DMT containing Desmanthus species into the United States could result in problems with customs, especially if large volumes are imported.
+stateLaw :: null
+internationalLaw :: 

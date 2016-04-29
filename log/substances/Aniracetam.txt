@@ -1,0 +1,26 @@
+[Substance]
+
+id :: 325
+name :: Aniracetam
+url :: https://www.erowid.org/smarts/aniracetam/aniracetam.shtml
+category :: Smarts
+commonNames :: Draganon; Ampamet; Sarpul/Sarple
+effectsClassification :: Learning; Memory; Neuro-protectant
+chemicalName :: 1-(4-Methoxybenzoyl)-2-pyrrolidinone
+description :: Aniracetam is said to improve memory recall, increase intellectual clarity, improve immune function, and generate feelings of health and well-being, particularly in the elderly. Though hundreds of research papers have been published about aniracetam its mechanism of action and function are not well understood.
+imageURL :: https://www.erowid.org/smarts/images/smarts_spacer_summary.jpg
+imagesURL :: https://www.erowid.org/smarts/aniracetam/aniracetam_images.shtml
+chemistryURL :: https://www.erowid.org/smarts/aniracetam/aniracetam_chemistry.shtml
+
+[Images]
+imageEntryList :: Aniracetam Powder	https://www.erowid.org/smarts/show_image.php?i=aniracetam/aniracetam_powder__i2006e0222_disp.jpg	Aniracetam Powder ordered from China. [China]	Photo by Spy. &copy; 2009 Erowid.org
+Aniracetam Tablets	https://www.erowid.org/smarts/show_image.php?i=aniracetam/aniracetam_tablet__i2006e1459_disp.jpg	750 mg aniracetam tablets from England. [England]	Photo by Maggie Maguire. &copy; 2009 Erowid.org
+Aniracetam 2D Molecule	https://www.erowid.org/smarts/show_molecule.php?i=aniracetam/aniracetam_2d.gif	Still 2D image of the Aniracetam molecule.	Image by Erowid, &copy; 2001 Erowid.org
+Aniracetam 3D Rotating Molecule	https://www.erowid.org/smarts/show_molecule.php?i=aniracetam/aniracetam__.mol	Rotating 3D image of the Aniracetam molecule.	Image by Erowid, &copy; 2001 Erowid.org
+
+[Chemistry]
+chemTable :: NAME :	Aniracetam
+CHEMICAL NAME :
+CHEMICAL FORMULA	C12H13NO3
+MOLECULAR WEIGHT :	219.2396
+moleculeURL :: null

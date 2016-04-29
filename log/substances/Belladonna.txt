@@ -1,0 +1,43 @@
+[Substance]
+
+id :: 138
+name :: Belladonna
+url :: https://www.erowid.org/plants/belladonna/belladonna.shtml
+category :: Plants
+botanicalClassification :: Family :Solanaceae, Genus :Atropa, Species :belladonnacommonNames :: Nightshade; Deadly Nightshade; Devil's Cherries
+effectsClassification :: Deliriant; Poison
+description :: Belladonna is a 1-2 meter tall perennial herb that produces small red to black berries. These berries contain atropine, scopolomine and hyoscyamine and have a long history of use as a medicinal, poisonous, and ceremonial herb.
+imageURL :: https://www.erowid.org/plants/belladonna/images/belladonna_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/belladonna/belladonna_images.shtml
+lawURL :: https://www.erowid.org/plants/belladonna/belladonna_law.shtml
+
+[Images]
+imageEntryList :: Atropa belladonna Flower	https://www.erowid.org/plants/show_image.php?i=belladonna/atropa_belladonna_flower__i2008e0030_disp.jpg	Close-up showing a single Atropa belladonna flower on an indoor cultivated plant.	Photo by Anonymous. &copy; 2009 Erowid.org
+Atropa belladonna	https://www.erowid.org/plants/show_image.php?i=belladonna/atropa_belladonna8.jpg	Beautiful color photo of a flowering Atropa belladonna flower. [S. California]	Photo by Ine, &copy; 2002 Erowid.org
+Atropa belladonna	https://www.erowid.org/plants/show_image.php?i=belladonna/atropa_belladonna7.jpg	Color photo of a Atropa belladonna plant grown indoors.	Photo by Kavalo, &copy; 2000 Erowid.org
+Atropa belladonna	https://www.erowid.org/plants/show_image.php?i=belladonna/atropa_belladonna12.jpg	Beautiful photo showing Atropa belladonna flower. [CA, USA]	Photo by Trout, Used by Erowid with permission.
+Atropa belladonna	https://www.erowid.org/plants/show_image.php?i=belladonna/atropa_belladonna13.jpg	Color photo showing the form of a small Atropa belladonna plant against a white bakcground. [CA, USA]	Photo by Trout, Used by Erowid with permission.
+Atropa belladonna	https://www.erowid.org/plants/show_image.php?i=belladonna/atropa_belladonna11.jpg	Beautiful photo showing Atropa belladonna flowers and berries. [U.K.]	Photo by Acidmon, &copy; 2004 Erowid.org
+Atropa belladonna	https://www.erowid.org/plants/show_image.php?i=belladonna/atropa_belladonna3.jpg	Color photo showing Atropa belladonna flower and unripe berries. [CA, USA]	Photo by Trout, Used by Erowid with permission.
+Atropa belladonna	https://www.erowid.org/plants/show_image.php?i=belladonna/atropa_belladonna9.jpg	Beautiful color photo of A. belladonna berries. [Rodopi Mount, Greece]	Photo by Yanis Syllignakis, &copy; 2002 Erowid.org
+Atropa belladonna Seeds	https://www.erowid.org/plants/show_image.php?i=belladonna/atropa_belladonna_seeds__i2005e0256_disp.jpg	Photo of Atropa belladonna seeds with 10x magnification.	Photo by Pedro. &copy; 2006 Erowid.org
+Atropa belladonna	https://www.erowid.org/plants/show_image.php?i=belladonna/atropa_belladonna__i2007e0976_disp.jpg	Atropa belladonna flowers in May [Barcelona, Spain]	Photo by Anonymous. &copy; 2007 Erowid.org
+Atropa belladonna	https://www.erowid.org/plants/show_image.php?i=belladonna/atropa_belladonna4.jpg	Close-up color photo of plant with flowers and berries.	From Cornell University.
+Atropa belladonna	https://www.erowid.org/plants/show_image.php?i=belladonna/atropa_belladonna10.jpg	Color photo of 2 young Atropa belladonna plants being cultivated in pots [MO, USA].	Photo by Entheomation, &copy; 2004 Erowid.org
+Belladonna Extract	https://www.erowid.org/plants/show_image.php?i=belladonna/belladonna_extract__i2005e0397_disp.jpg	A 1914 bottle of dry belladonna extract photographed at the National History Museum in London. [London, England]	Photo by Gremlin. &copy; 2006 Erowid.org
+Atropa belladonna	https://www.erowid.org/plants/show_image.php?i=belladonna/atropa_belladonna_botanical_drawing1.jpg	Color drawing of plant, flower, and fruit.	From "An Introduction to Materia Medica and Pharmacology" (1942).
+Atropa belladonna	https://www.erowid.org/plants/show_image.php?i=belladonna/atropa_belladonna1.jpg	Color drawing of plant, flower, and fruit.	From Kohler's Medicinal Plants, &copy; 1995-2003 Missouri Botanical Garden.
+Atropa belladonna	https://www.erowid.org/plants/show_image.php?i=belladonna/atropa_belladonna2.jpg	Color drawing of plant with flowers.	Artist unknown.
+Atropa belladonna	https://www.erowid.org/plants/show_image.php?i=belladonna/atropa_belladonna5.jpg	Black and White Drawing.	From Psychedelics Encyclopedia
+Atropa belladonna	https://www.erowid.org/plants/show_image.php?i=belladonna/atropa_belladonna6.jpg	Black and White Drawing.	From Psychedelic Shamanism
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Belladonna
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Belladonna is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: Louisiana	Effective Aug 8, 2005 (signed into law Jun 28, 2005) Louisiana Act No 159 makes 40 plants illegal, including Atropa belladonna, when intended for human consumption. The law specifically excludes the "possession, planting, cultivation, growing, or harvesting" of these plants if used "strictly for aesthetic, landscaping, or decorative purposes." (Text of HLS_05RS-52 and Update June 2005)
+Tennessee 	Tennessee did not pass the proposed bill that would have banned dozens of plants as "hallucinogenic" when intended for human consumption. Instead, they banned only Salvia divinorum. See Comments on New State Laws Controlling the Consumption of Hallucinogenic Plants.
+internationalLaw :: 

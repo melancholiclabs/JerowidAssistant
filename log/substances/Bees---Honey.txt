@@ -1,0 +1,10 @@
+[Substance]
+
+id :: 348
+name :: Bees / Honey
+url :: https://www.erowid.org/animals/bee/bee.shtml
+category :: Animals
+botanicalClassification :: Family :Apidae, Genus :Apis, Species :mellifera [mellifica]Genus :Mellipona; TrigonaSpecies :spp.commonNames :: Honey bee; Wild bee; Cab; Honig
+effectsClassification :: Sweetener; Intoxicant
+description :: Honey from wild and domestic bees has been used for millennia to make intoxicating beverages (mead). It can also reportedly be intoxicating and/or toxic by itself when produced from the nectar or pollen of specific plants.
+imageURL :: https://www.erowid.org/chemicals/images/chemicals_spacer_summary.jpg

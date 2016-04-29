@@ -1,0 +1,19 @@
+[Substance]
+
+id :: 196
+name :: Voacanga africana
+url :: https://www.erowid.org/plants/voacanga_africana/voacanga_africana.shtml
+category :: Plants
+botanicalClassification :: Family :Apocynaceae, Genus :Voacanga, Species :africanacommonNames :: None
+effectsClassification :: Poison; Stimulant; Psychedelic
+description :: Voacanga africana is a small tropical tree with yellow or white flowers. The bark and seeds of the tree contain iboga alkaloids and have been used in Western Africa as a poison, stimulant, aphrodisiac and psychedelic.
+imageURL :: https://www.erowid.org/plants/voacanga_africana/images/voacanga_africana_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/voacanga_africana/voacanga_africana_images.shtml
+
+[Images]
+imageEntryList :: Voacanga africana	https://www.erowid.org/plants/show_image.php?i=voacanga_africana/voacanga_africana_leaf__i2005e0226_disp.jpg	Small Voacanga africana plant. [Austria]	Photo by Mindperformer. &copy; 2006 Erowid.org
+Voacanga africana	https://www.erowid.org/plants/show_image.php?i=voacanga_africana/voacanga_africana_flower__i2005e0331_disp.jpg	Closeup showing a white Voacanga africana flower. [Australia]	Photo by T. Wiedemann. &copy; 2006 Erowid.org
+Voacanga africana Seeds	https://www.erowid.org/plants/show_image.php?i=voacanga_africana/voacanga_africana_seed__i2005e0291_disp.jpg	A small pile of Voacanga africana seeds and seeds in a plastic bag. [TX, USA]	Photo by Tacxtic. &copy; 2006 Erowid.org
+Voacanga africana Seeds	https://www.erowid.org/plants/show_image.php?i=voacanga_africana/voacanga_africana_seed__i2005e0290_disp.jpg	A small pile of Voacanga africana seeds [TX, USA]	Photo by Tacxtic. &copy; 2010 Erowid.org
+Voacanga africana Seeds	https://www.erowid.org/plants/show_image.php?i=voacanga_africana/voacanga_africana_seed__i2003e0125_disp.jpg	A small pile of Voacanga africana seeds next to a ruler. [KS, USA]	Photo by entheomation. &copy; 2007 Erowid.org
+Voacangine 2D Molecule	https://www.erowid.org/plants/show_molecule.php?i=voacanga_africana/voacangine_2d.jpg	Still 2D image of the Voacangine molecule.	Artist Unknown.

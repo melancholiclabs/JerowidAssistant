@@ -1,0 +1,43 @@
+[Substance]
+
+id :: 202
+name :: Anise
+url :: https://www.erowid.org/herbs/anise/anise.shtml
+category :: Herbs
+botanicalClassification :: Family :Umbelliferae, Genus :Pimpinella, Species :anisum L.commonNames :: Anise; Aniseed
+uses :: Flavoring; Volatile oils from the fruit are used as an expectorant, anti-spasmodic, parasiticide, and aromatic.
+description :: Anise is an annual herb growing from 1-2 feet tall with an erect, smooth stem and woody root. Upper leaves are feathery and delicate. Flowers are tiny white or yellow-white and grow in umbrella-like clusters. Essential oil is produced by flat, ovate downy seed-like fruits.
+imageURL :: https://www.erowid.org/herbs/images/herbs_spacer_summary.jpg
+basicsURL :: https://www.erowid.org/herbs/anise/anise_basics.shtml
+lawURL :: https://www.erowid.org/herbs/anise/anise_law.shtml
+
+[Basics]
+description :: Anise is an annual herb native to Egypt and the Mediterranean region. Its flowers bloom at the top of a round, grooved stem. Blooms in the summer. ( RIEH ) An annual growing 1-2 feet high with an erect, round, grooved, smooth stem and woody root. Leaves at the base are thick, coarse-toothed an pinnately divided; the leaflets are oval with toothed edges. The bright green upper leaves are smaller, feathery, delicate and pinnately divided. Tiny white to yellow-white blossoms July-August grow in umbrellalike clusters. The downy brown seedlike fruits (August-September) are ovate, flattened and 1/8 inch long and produce the essential oil for which this licorice-smelling herb is noted. [ Main Anise Vault ]
+descriptionSections :: dose	Dose Summary Needed.
+price	Price Summary Needed.
+law	Law Summary Needed.
+chemistry	Up to 6% volatile oils, which include anethole, 30% fatty oils, choline. ( TCIH )
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	History Summary Needed.
+terminology	The Substance:Aniseed (AMH). The Experience:No common terms known.
+effects :: Expectorant, carminative, anti-spasmodic, parasiticide. Anise is taken to ease griping, intestinal colic and flatulence. It also has a marked expectorant and anti-spasmodic action and may be used in bronchitis, in tracheitis-related persistent coughing, and whooping cough. The oil is used in ointments to ease scabies, or by itself to control lice.
+effectsSections :: onset	Onset Summary Needed.
+duration	Duration Summary Needed.
+visuals	Visuals Summary Needed.
+problems :: Problems Summary Needed.
+problemsSections :: contraindications	Contraindications Summary Needed.
+addiction	Addiction Potential Summary Needed.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Pimpinella anisum
+REGULATED	No
+STATUS	Food Approved-
+SCHEDULE	Un-Scheduled
+federalLawText :: Anise (Pimpinella anisum) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.	
+Pimpinella anisum is approved for food use as a spice or seasoning in the U.S. and appears in the FDA's list of substances Generally Recognized As Safe (GRAS).
+stateLaw :: null
+internationalLaw :: 

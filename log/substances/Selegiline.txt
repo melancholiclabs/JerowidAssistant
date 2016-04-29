@@ -1,0 +1,61 @@
+[Substance]
+
+id :: 343
+name :: Selegiline
+url :: https://www.erowid.org/smarts/selegiline/selegiline.shtml
+category :: Smarts
+commonNames :: Deprenyl; Eldepryl; Emsam
+effectsClassification :: Antidepressant; Anti-aging; MAOI-B; MAOI-A (large doses)
+chemicalName :: (R)-N,a-dimethyl-N-2-propynylbenzeneethanamine
+description :: Selegiline increases the actions of dopamine in the brain by inhibiting the enzymes that break it down. After being sold for years as an anti-aging supplement and a treatment for Parkinson's disease, the FDA approved use of a Selegiline transdermal patch (Emsam) for treatment of depression in 2006.
+imageURL :: https://www.erowid.org/smarts/selegiline/images/selegiline_summary1.jpg
+basicsURL :: https://www.erowid.org/smarts/selegiline/selegiline_basics.shtml
+imagesURL :: https://www.erowid.org/smarts/selegiline/selegiline_images.shtml
+lawURL :: https://www.erowid.org/smarts/selegiline/selegiline_law.shtml
+chemistryURL :: https://www.erowid.org/smarts/selegiline/selegiline_chemistry.shtml
+
+[Basics]
+description :: Selegiline, bettern known as Deprenyl, is an MAO-B Inhibitor in small quantities (under 25 mg) and also inhibits MAO-A in larger quantities. It was the first selective inhibitor of MAO-B. Selegiline is marketed as a Parkinson's disease cure. Other reported positive effects include cognitive enhancement, increased libido in men, and reports of life-span extension.  Effects are described as stimulating and a little similar to cocaine. Tolerance builds relatively quickly. The FDA approved a Selegine transdermal patch (Emsam) for use as an antidepressant in February, 2006. [ Main Selegiline Vault ]
+descriptionSections :: dose	5 -15 mg / day
+price	Price Summary Needed.
+law	Law Summary Needed.
+chemistry	Chemistry Summary Needed.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	Deprenyl was first developed in the early 1960s by Dr. Joseph Knoll.
+terminology	Brand Names:ldepryl; Carbex; Eprenyl; EJumex; Movergan; Plurimen; Alzene; Selpak; Atapryl. The Substance:l-Deprenyl; Selegiline. The Experience:No common terms known.
+effects :: Effects Summary Needed.
+effectsSections :: onset	Onset Summary Needed.
+duration	Duration Summary Needed.
+visuals	Visuals Summary Needed.
+problems :: Problems Summary Needed.
+problemsSections :: contraindications	Users of Emsam may be advised to avoid alcohol and foods containing tyramine. Adverse effects are rare, but may include changes in blood pressure. Pregnant women should consult their doctor before taking Deprenyl during pregnancy.
+addiction	Addiction Potential Summary Needed.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Images]
+imageEntryList :: Selegiline Transdermal Patch	https://www.erowid.org/smarts/show_image.php?i=selegiline/selegiline_patch__i2007e0068_disp.jpg	EMSAM brand selegiline transdermal patches containing 20 mg selegline, used to treat clinical depression. In patch form, selegiline extensively inhibits both MAO-B and MAO-A due to high bioavaliability. [NY, USA]	Photo by Anonymous. &copy; 2007 Erowid.org
+Selegiline 2D Molecule	https://www.erowid.org/smarts/show_molecule.php?i=selegiline/selegiline_2d.gif	Still 2D image of the Selegiline molecule.	Image by Erowid, &copy; 2001 Erowid.org
+Selegiline 3D Molecule	https://www.erowid.org/smarts/show_molecule.php?i=selegiline/selegiline_3d.jpg	Still 3D image of the Selegiline molecule.	Image by Erowid, &copy; 2001 Erowid.org
+Selegiline 3D Rotating Molecule	https://www.erowid.org/smarts/show_molecule.php?i=selegiline/selegiline__.mol	Rotating 3D image of the Selegiline molecule.	Image by Erowid, &copy; 2001 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Selegiline
+REGULATED	Yes
+STATUS	Prescription Only
+SCHEDULE	Un-Scheduled
+federalLawText :: Selegiline is unscheduled in the United States, but is available by prescription only. This means that sales and distribution are allowed only by those with a license and only to those with a prescription (according to FDA regulations). Possession is not illegal even without a prescription.
+stateLaw :: null
+internationalLaw :: Brazi	Not controlled, but available by prescription only. (unconfirmed) (thanks MB Soares)
+Italy	Not controlled, but available by prescription only. (unconfirmed) (thanks M) (last updated Oct 27 2012)
+Japa	Selegiline is a controlled substance in Japan [reference]. (thanks OE)
+Swede	Selegiline is unscheduled in Sweden, but available by prescription only. (unconfirmed) (thanks JM)
+
+[Chemistry]
+chemTable :: NAME :	Selegiline; Deprenyl
+CHEMICAL NAME :	L-(-)-N,a-dimethyl-N-2-propynlphenethylamine
+CHEMICAL FORMULA	C13H17N
+MOLECULAR WEIGHT :	223.7449
+moleculeURL :: https://www.erowid.org/smarts/selegiline/images/archive/selegiline_3d_mid.jpg

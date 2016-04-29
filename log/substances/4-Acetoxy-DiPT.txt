@@ -1,0 +1,65 @@
+[Substance]
+
+id :: 18
+name :: 4-Acetoxy-DiPT
+url :: https://www.erowid.org/chemicals/4_acetoxy_dipt/4_acetoxy_dipt.shtml
+category :: Chemicals
+commonNames :: Ace; Aces; Iprocetyl
+effectsClassification :: Psychedelic Tryptamine
+chemicalName :: 4-acetoxy-N,N-diisopropyltryptamine
+description :: 4-Acetoxy-DIPT is a synthetic psychedelic. It is relatively uncommon and has only a short history of human use.
+imageURL :: https://www.erowid.org/chemicals/4_acetoxy_dipt/images/4_acetoxy_dipt_summary1.jpg
+imagesURL :: https://www.erowid.org/chemicals/4_acetoxy_dipt/4_acetoxy_dipt_images.shtml
+lawURL :: https://www.erowid.org/chemicals/4_acetoxy_dipt/4_acetoxy_dipt_law.shtml
+doseURL :: https://www.erowid.org/chemicals/4_acetoxy_dipt/4_acetoxy_dipt_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/4_acetoxy_dipt/4_acetoxy_dipt_chemistry.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Images]
+imageEntryList :: 4-Acetoxy-DiPT Powder	https://www.erowid.org/chemicals/show_image.php?i=4_acetoxy_dipt/4-acetoxy-dipt1.jpg	Color photo of a small pile of 4-Acetoxy-DiPT HCl powder.	Photo by Erowid. &copy; 2000 Erowid.org
+4-Acetoxy-DiPT Powder	https://www.erowid.org/chemicals/show_image.php?i=4_acetoxy_dipt/4-acetoxy-dipt_powder2.jpg	Nice color photo of 200 mg of 4-Acetoxy-DIPT powder next to a metric ruler for size comparison.	Photo by Anonymous Photographer. &copy; 2003 Erowid.org
+4-Acetoxy-DiPT Powder	https://www.erowid.org/chemicals/show_image.php?i=4_acetoxy_dipt/4-acetoxy-dipt_powder3.jpg	Color photo of a small 1 gram baggie of 4-Acetoxy-DIPT powder.	Photo by Anonymous Photographer. &copy; 2003 Erowid.org
+4-Acetoxy-DiPT 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=4_acetoxy_dipt/4-acetoxy-dipt_2d.jpg	Still 2D image of the 4-Acetoxy-DiPT molecule.	Image by Erowid. &copy; 2001 Erowid.org
+4-Acetoxy-DiPT 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=4_acetoxy_dipt/4-acetoxy-dipt_3d.jpg	Still 3D image of the 4-acetoxy-DiPT molecule.	Image by Erowid. &copy; 2001 Erowid.org
+4-Acetoxy-DiPT 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=4_acetoxy_dipt/4-acetoxy-dipt__.mol	Rotating 3D image of the 4-Acetoxy-DiPT molecule.	Image by Erowid. &copy; 2001 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+4-Acetoxy-DiPT
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: 4-Acetoxy-DiPT and 4-HO-DiPT are both uncontrolled substances in the U.S. as well as in most if not all other countries. It could conceivably be covered under the U.S. Analogue Act depending on how it's sold, but there have been no cases brought to trial that we are aware of. (1/Nov/2004)	
+There are pending cases (beginning July 2004) in which vendors selling 4-Acetoxy-DIPT and other psychoactive chemicals to the general public are being prosecuted. Please see Research Chemical Arrests and Investigations. It is important to note, however, that there have been no convictions in these cases and so there is no further clarification of the legal status of 4-Acetoxy-DIPT at this time.
+stateLaw :: null
+internationalLaw :: Finland	4-Acetoxy-DIPT was banned in Finland in December 2014. A new government regulation was enacted in Finland that banned over 100 psychoactive chemicals. See Finland's Prohibited Psychoactive Substances: December 19, 2014. (last updated Dec 26, 2014)
+Japan	4-AcO-DIPT is controlled as a "Designated Substance" (Shitei-Yakubutsu) by the Pharmaceutical Affairs Law, making it illegal to possess or sell (see Ref)
+Sweden	AMT,2C-C,2C-D, 4-AcO-DIPT, and 4-HO-DIPT were controlled as of March 1, 2005. See Statens Folkhaelsoinstitut. (thanks P)
+
+[Dose]
+doseTable :: Oral 4-Acetoxy-DiPT Dosages
+Threshold3 - 5 mg
+Light5 - 15 mg
+Common15 - 30 mg
+Strong25 - 40 mg
+Onset : 20 - 60 minutes (depending on form and stomach contents)
+Duration : 2 - 4 hours
+Normal After Effects : 1 - 4 hours
+doseText :: 4-Acetoxy-DiPT is a tryptamine that's effects have been compared to both 2C-B and mushrooms. It is found as a slightly off-white powder and is usually taken orally. 4-Acetoxy-DiPT can be found in both HCl salt form and as a freebase. Both of these forms are orally active with the freebase being about 10% lighter and therefore 10% more potent than the HCl form (ie 20 mg HCl = ~18 mg freebase). 4-Hydroxy-DiPT (4-OH-DiPT) is a very similar chemical which has slighly lower dosages.
+notes :: null
+
+[Chemistry]
+chemTable :: NAME :	4-Acetoxy-DiPT
+CHEMICAL NAME :	4-Acetoxy-N,N-diisopropyltryptamine
+CHEMICAL FORMULA	C18H26N2O2
+MELTING POINT	?
+MOLECULAR WEIGHT	302.411
+moleculeURL :: https://www.erowid.org/chemicals/4_acetoxy_dipt/images/archive/4-acetoxy-dipt_3d_mid.jpg
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

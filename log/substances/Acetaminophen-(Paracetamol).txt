@@ -1,0 +1,22 @@
+[Substance]
+
+id :: 249
+name :: Acetaminophen (Paracetamol)
+url :: https://www.erowid.org/pharms/acetaminophen/acetaminophen.shtml
+category :: Pharms
+commonNames :: Tylenol; Paracetamol; APAP; [...]
+effectsClassification :: Peripheral; Antipyretic Analgesic
+chemicalName :: N-(4-hydroxyphenyl)acetamide
+description :: Acetaminophen is a non-salicylate analgesic and antipyretic (pain killer and fever reducer). It is a common over-the-counter pain medication found in hundreds of products around the world. At higher doses it is known to cause liver-damage and has a low therapeutic index (ratio of effective dose to toxic dose), making it dangerous when included in recreationally used pharmaceuticals. It is not known to be psychoactive.
+imageURL :: https://www.erowid.org/pharms/acetaminophen/images/acetaminophen_summary1.jpg
+lawURL :: https://www.erowid.org/pharms/acetaminophen/acetaminophen_law.shtml
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Acetaminophen
+REGULATED	Yes
+STATUS	Over-The-Counter
+SCHEDULE	Un-Scheduled
+federalLawText :: Acetaminophen is unscheduled in the United States. It is sold over-the-counter as an approved drug and is legal to buy, possess, and ingest without a license or prescription. Sales for human consumption are regulated by the FDA and each formulation or product requires specific FDA approval.
+stateLaw :: null
+internationalLaw :: Unied Kingdom (U.K.)	Acetaminophen is uncontrolled in the U.K., but in 2012 two men were convicted of importing a large quantity of acetaminophen for use as a cutting agent for heroin. See Pair convicted for drug offence over crushed paracetamol and caffeine - Independent, Sep 21 2012. (thanks j) (last updated Sep 25 2012)

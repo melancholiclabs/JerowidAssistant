@@ -1,0 +1,87 @@
+[Substance]
+
+id :: 131
+name :: TMA-2 (and other TMAs)
+url :: https://www.erowid.org/chemicals/tma2/tma2.shtml
+category :: Chemicals
+commonNames :: None
+effectsClassification :: Psychedelic Stimulant
+chemicalName :: 2,4,5-trimethoxyamphetamine
+description :: TMA-2 is a synthetic psychedelic chemically similar to mescaline. It has only a short history of human use.
+imageURL :: https://www.erowid.org/chemicals/tma2/images/tma2_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/tma2/tma2_basics.shtml
+imagesURL :: https://www.erowid.org/chemicals/tma2/tma2_images.shtml
+lawURL :: https://www.erowid.org/chemicals/tma2/tma2_law.shtml
+doseURL :: https://www.erowid.org/chemicals/tma2/tma2_dose.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Basics]
+description :: TMA-2, or 2,4,5-TrimethoxyAmphetamine, is a synthetic chemical that is related to, but more potent than mescaline. It has both stimulant and psychedelic effects. It's qualitative effects on mood alteration and sensory enhancement are similar to mescaline. [ Main TMA-2 Vault ]
+descriptionSections :: dose	10-50 mg. Dr. Shulgin suggests that there is only a small margin between the dose needed to produce psychoactive effects and a toxic dose (Shulgin, 1976). Toxic dose in humans is not known.
+price	Price Summary Needed.
+law	TMA is a schedule I substance in the United States, making it illegal to buy, sell, or possess. TMA-2 - TMA-6 are all positional isomers of TMA, making them schedule I substances as well. TMA-2 has been placed in Schedule I by the U.N. Narcotics Commission.
+chemistry	2,4,5-trimethoxyamphetamine (TMA-2) is a synthetic chemical which can be derived from the Calamus root's active ingredient Asarone.
+pharmacology	TMA-2 is known to be a 5-HT2 agonist.
+production	Production Summary Needed.
+history	TMA-2 was first synthesized in 1933 and it's psychoactive properties were recognized by A. Shulgin in 1962.
+terminology	The Substance:TMA-2. The Experience:No common terms known.
+effects :: Effects Summary Needed.
+effectsSections :: onset	Onset Summary Needed.
+duration	Duration Summary Needed.
+visuals	Visuals Summary Needed.
+problems :: Although TMA-2 has some stimulant effects, one researcher found high doses of TMA-2 caused bradycardia (slow heart) and hypothermia (low temperature) in rats (Mallaret 2003, Ho 1970). There are too few reports to sanity-check whether these findings hold true for humans.  Because of its psychedelic properties, mental health risks are assumed to be similar to those of other hallucinogens and psychedelic-crisis management is appropriate for acute handling of anxiety and panic reactions. More severe schizophrenic or psychotic reactions would be handled as with other hallucinogen precipitated mental crises.
+problemsSections :: contraindications	Do not take TMA-2 if you are currently taking an MAOI. MAOIs are most commonly found in the prescription anti-depressants Nardil (phenelzine), Parnate (tranylcypromine), Marplan (isocarboxazid), Eldepryl (l-deprenyl), and Aurorex or Manerix (moclobemide). Ayahuasca also contains MAOIs (harmine and harmaline). 2C-B and MAOIs are a potentially dangerous combination. Check with your doctor if you are not sure whether your prescription medication is an MAOI. Do not operate heavy machinery. Do Not Drive. If you have a seizure or convulsive disorder or heart problems, you may be at higher risk for health problems when taking TMA-2. Diabetics should monitor their blood sugar closely as there have been some reports of problems. Individuals currently in the midst of emotional or psychological upheaval in their everyday lives should be careful about choosing to use psychedelics such as TMA-2 as they can trigger even more difficulty. Individuals with a family history of schizophrenia or early onset mental illness should be extremely careful because psychedelics have been known to trigger latent psychological and mental problems.
+addiction	direct data about this exists, but the addiction potential of TMA-2 is considered to be extremely low due to its psychedelic effects. Summary Needed.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Images]
+imageEntryList :: TMA-2	https://www.erowid.org/chemicals/show_image.php?i=tma2/tma-2_powder__i2003e0582_disp.jpg	Heat-sealed cellophane packet of TMA-2 from a Japanese headshop. [Japan]	Photo by Anonymous. &copy; 2007 Erowid.org
+TMA-2 Tablet	https://www.erowid.org/chemicals/show_image.php?i=tma2/tma-2_tablet__i2002e0394_disp.jpg	10 mg TMA-2 tablet from a Swiss smartshop. [Switzerland]	Photo by Murple. &copy; 2007 Erowid.org
+TMA-2 Powder	https://www.erowid.org/chemicals/show_image.php?i=tma2/tma2_powder1.jpg	Photo of a small baggie containing 500 mg of TMA-2 powder.	Photo by Anonymous Photographer. &copy; 2003 Erowid.org
+TMA-2  & 2C-T-2	https://www.erowid.org/chemicals/show_image.php?i=tma2/tma2_powder2.jpg	Photo of a two small baggies, one containing 200 mg 2C-T-2 powder and one containing 500 mg of TMA-2 powder.	Photo by Anonymous Photographer. &copy; 2003 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+TMA-2
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule I
+CLASSIFICATION	Hallucinogen
+federalLawText :: TMA-2 is a position isomer of TMA, which is a Schedule I substance, thus TMA-2 is automatically controlled under U.S. Federal law as a Schedule I substance as well.
+stateLaw :: null
+internationalLaw :: Belgium	TMA-2 was added to the list of illegal psychotropic substances on Nov 8, 2004 [Moniteur Belge/Belgisch
+TMA-2 was added to the list of illegal psychotropic substances on Nov 8, 2004 [Moniteur Belge/Belgisch	Staatsblad].
+Canada	TMA-2 is listed (as 2,4,5-trimethoxyamphetamine) in Schedule III of Canada's Controlled Drugs and Substances Act, making it illegal to possess or sell.
+E.U.	EU Council published an order on Dec 6 2003, asking all member states to control 2C-I, 2C-T-2, 2C-T-7, and TMA-2 within 90. See Final Rule here. This binding order went against a non-binding EU Commission's recommendation from earlier in 2003. The Commission did not recommend controlling these chemicals because of lack of evidence of problems: Commission of the European Communities : Report from the Comission to the Council : TMA-2, 2C-I, 2C-T-2, and 2C-T-7.
+Finland	TMA-2 is controlled in Finland. TMA-6 was banned in Finland in December 2014. A new government regulation was enacted in Finland that banned over 100 psychoactive chemicals. See Finland's Prohibited Psychoactive Substances: December 19, 2014. (last updated Dec 26, 2014)
+Germany	TMA-2 is controlled under Schedule I (BtMG, Sept. 1999).
+Greece	TMA-2 became a controlled substance in Greece on Feb 18, 2003 [EU Legal Database].
+Ireland	TMA-2 is controlled as a positional isomer of TMA, a UN listed substance and is effectively under Schedule 1 of the Misuse of Drugs Act, similar to that in Britain.
+Italy	TMA-2 was added to the "Tabella 1" (list of prohibited plants and substances) in a Jan 11, 2005 Ministry of Health statement. (Text of Jan 11 2005 decree: Gazzetta Ufficiale N. 54 del 07 Marzo 2005; text of Jun 2004 ordinance)
+TMA-2 was added to the "Tabella 1" (list of prohibited plants and substances) in a Jan 11, 2005 Ministry of Health statement. (Text of Jan 11 2005 decree: Gazzetta Ufficiale N. 54 del 07 Marzo 2005; text of Jun 2004 ordinance)	(thanks X, AG, GBH)
+Portugal	Portugal enacted a law in January 2005 to control 2C-I, 2C-T-2, 2C-T-7, and TMA-2. (thanks PL) See policiajudicia.pt : law changes and Psychoactives Law : Portugal
+Slovakia	TMA-2 was added to Grade 2 (Schedule II to the 1971 United Nations Convention on Psychotropic Substances) in October 2009. (TASR)
+Sweden	TMA-2 was placed into Class I as of March 16, 2004 (mpa.se). (thanks WP)
+U.K.	TMA-2 is controlled as a Class A drug under the broad Misuse of Phenethylmaines Act.
+
+[Dose]
+doseTable :: Oral TMA-2 Dosages
+Threshold7-12 mg
+Light10-25 mg
+Common20-50 mg
+Strong40-60 mg
+Heavy60+ mg
+Onset : 30 - 90 minutes
+Duration : 7-10 hours
+Normal After Effects : up to 6 additional hours
+doseText :: Little data exists about the dosage range in humans for TMA-2 and the following must be considered tentative.      Oral TMA-2 Dosages Threshold7-12 mg Light10-25 mg Common20-50 mg Strong40-60 mg Heavy60+ mg    Onset : 30 - 90 minutes Duration : 7-10 hours Normal After Effects : up to 6 additional hours
+notes :: null
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

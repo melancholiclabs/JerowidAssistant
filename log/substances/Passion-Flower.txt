@@ -1,0 +1,46 @@
+[Substance]
+
+id :: 180
+name :: Passion Flower
+url :: https://www.erowid.org/plants/passionflower/passionflower.shtml
+category :: Plants
+botanicalClassification :: Family :Passifloraceae, Genus :Passiflora, Species :incarnata, involucrata, alata, edulis, quadrangularis, caeruleacommonNames :: Passion Vine; Maracuja; Apricot Vine; Maypop
+effectsClassification :: Mild Sedative
+description :: Passion Flower is a woody vine with intricate blue, purple, red, or white flowers. Several species, which act as sedatives and anxiolytics, are consumed as a tea or herbal supplement. Some Passion Flower species may contain small amounts of MAOIs, potentially interacting with other chemicals and medications. And some species, notably P. caerulea, also contain poisonous cyanogenic glycoside.
+imageURL :: https://www.erowid.org/plants/passionflower/images/passionflower_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/passionflower/passionflower_images.shtml
+lawURL :: https://www.erowid.org/plants/passionflower/passionflower_law.shtml
+
+[Images]
+imageEntryList :: Passiflora alata	https://www.erowid.org/plants/show_image.php?i=passionflower/passiflora_alata1.jpg	Color photo of a red Passiflora alata flower. (Brazil)	Photo by Hi Ho Silver, &copy; 2004 Erowid.org
+Passiflora alata	https://www.erowid.org/plants/show_image.php?i=passionflower/passiflora_alata_flower__i2006e2248_disp.jpg	Closeup of a single red Passiflora alata flower. [Brasil]	Photo by PyrosG13. &copy; 2007 Erowid.org
+Passiflora alata Fruit	https://www.erowid.org/plants/show_image.php?i=passionflower/passiflora_alata_fruit1.jpg	Photo of a passion fruit of Passiflora alata. (Brazil)	Photo by Hi Ho Silver, &copy; 2004 Erowid.org
+Passiflora caerulea	https://www.erowid.org/plants/show_image.php?i=passionflower/passiflora_caerulea7.jpg	Color photo of a Passiflora caerulea flower, bud, and foliage in late October. (San Francisco, USA)	Photo by Erowid, &copy; 2004 Erowid.org
+Passiflora caerulea	https://www.erowid.org/plants/show_image.php?i=passionflower/passiflora_caerulea8.jpg	Color photo of a Passiflora caerulea bud in late October. (San Francisco, USA)	Photo by Erowid, &copy; 2004 Erowid.org
+Passiflora caerulea	https://www.erowid.org/plants/show_image.php?i=passionflower/passiflora_caerulea4.jpg	Close-up color photo of the white and blue P. caerulea flower. (Italy)	Photo by Justin, &copy; 2004 Erowid.org
+Passiflora caerulea	https://www.erowid.org/plants/show_image.php?i=passionflower/passiflora_caerulea5.jpg	Color photo of a Passiflora caerulea flower. (Belgium)	Photo by Laurent Limbort, &copy; 2004 Erowid.org
+Passiflora caerulea	https://www.erowid.org/plants/show_image.php?i=passionflower/passiflora_caerulea_plant1.jpg	Color photo of a flowering Passiflora caerulea vine growing in a pot. (Belgium)	Photo by Laurent Limbort, &copy; 2004 Erowid.org
+Passiflora caerulea	https://www.erowid.org/plants/show_image.php?i=passionflower/passiflora_caerulea2.jpg	Beautiful image of a P. caerulea flower. (British Colombia)	Photo by Norman C. Crom, &copy; 2001 Erowid.org
+Passiflora caerulea	https://www.erowid.org/plants/show_image.php?i=passionflower/passiflora_caerulea3.jpg	Beautiful photo of a P. caerulea flower and leaves. (Otsu City, Shiga Prefecture, Japan)	Photo by Adania, used by Erowid with permission.
+Passiflora caerulea	https://www.erowid.org/plants/show_image.php?i=passionflower/passiflora_caerulea1.jpg	Close-up color photo of a P. caerulea flower.	Photo by Alberto Tucci, Erbeofficinali.com, &copy; 2001 Erowid.org
+Passiflora caerulea	https://www.erowid.org/plants/show_image.php?i=passionflower/passiflora_caerulea6.jpg	Close-up photo of a white and blue flowered Passiflora caerulea. (S. CA, USA)	Photo by Nicole Verhamme, &copy; 2004 Erowid.org
+Passiflora caerulea "Constance Elliot"	https://www.erowid.org/plants/show_image.php?i=passionflower/passiflora_caerulea_ce_flower__i2006e0026_disp.jpg	Close-up of the all-white Passiflora caerulea "Constance Elliot". [CA, USA]	Photo by Linda Braubitz. &copy; 2006 Erowid.org
+Passiflora edulis	https://www.erowid.org/plants/show_image.php?i=passionflower/passiflora_edulis__i2005e1335_disp.jpg	Closeup of a Passiflora edulis flower in September. [Goa, India]	Photo by Miluschka. &copy; 2006 Erowid.org
+Passiflora edulis	https://www.erowid.org/plants/show_image.php?i=passionflower/passiflora_edulis_flower__i2005e1336_disp.jpg	Passiflora edulis flower in a monsoon. [Goa, India]	Photo by Miluschka. &copy; 2006 Erowid.org
+Passiflora foetida	https://www.erowid.org/plants/show_image.php?i=passionflower/passiflora_foetida_flower__i2005e0389_disp.jpg	Close-up of a white and pink Passiflora foetida flower. [Australia]	Photo by D.C. Williams. &copy; 2006 Erowid.org
+Passiflora incarnata	https://www.erowid.org/plants/show_image.php?i=passionflower/passiflora_incarnata_flower__i2006e0027_disp.jpg	Closeup of a purple Passiflora incarnata flower. [CA, USA]	Photo by Linda Braubitz. &copy; 2006 Erowid.org
+Passiflora incarnata Flower	https://www.erowid.org/plants/show_image.php?i=passionflower/passiflora_incarnata_flower__i2013e0289_disp.jpg	Grade "A" Passiflora incarnata flower [lakeland, Fl.]	Photo by Anonymous. &copy; 2013 Erowid.org
+Passiflora incarnata	https://www.erowid.org/plants/show_image.php?i=passionflower/passiflora_incarnata_flower__i2006e1353_disp.jpg	Close-up of a purple Passiflora incarnata flower. [FL, USA]	Photo by Jolly Green. &copy; 2007 Erowid.org
+Passiflora incarnata	https://www.erowid.org/plants/show_image.php?i=passionflower/passiflora_incarnata2.jpg	Color photo of the blue Passiflora incarnata flowers and leaves.	Photo by Anonymous photographer.
+Passiflora incarnata	https://www.erowid.org/plants/show_image.php?i=passionflower/passiflora_incarnata_flower__i2005e0404_disp.jpg	Nice close-up of a wild passiflora incarnata flower. [GA, USA]	Photo by H. Turner. &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Passiflora incarnata
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: Passiflora incarnata is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: Germany (Deutschland)	One visitor writes: "Passion Flower and its extractions are legal to buy, posess and distribute in Germany and its neighbour Countries. It is legal to use it in Food and beverages. It is sold as over-the-counter drug, tea or as a Flower." (unconfirmed) (thanks ak) (last updated Aug 17, 2012)
+Europe (EU)	We have been told that Passiflora incarnata extracts and herbal material are legal for use in food and beverages in the European Union. (unconfirmed) (thanks L)

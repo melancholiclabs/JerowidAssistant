@@ -1,0 +1,29 @@
+[Substance]
+
+id :: 320
+name :: Triazolam
+url :: https://www.erowid.org/pharms/triazolam/triazolam.shtml
+category :: Pharms
+commonNames :: Halcion; Somniton; Novodorm
+effectsClassification :: Anxiolytic; Sedative; Benzodiazepine
+chemicalName :: 8-chloro-6-(2-chlorophenyl)-1-methyl-4H-[1,2,4]triazolo [4,3-a][1,4]benzodiazepine
+description :: Triazolam is a short-acting benzodiazepine used in the treatment of insomnia and anxiety disorders. Its popularity peaked in the mid-1980s but then became associated with causing "traveller's amnesia" when used on airplanes.
+imageURL :: https://www.erowid.org/pharms/triazolam/images/triazolam_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/triazolam/triazolam_images.shtml
+lawURL :: https://www.erowid.org/pharms/triazolam/triazolam_law.shtml
+
+[Images]
+imageEntryList :: Triazolam	https://www.erowid.org/pharms/show_image.php?i=triazolam/triazolam1.jpg	Color photo of a pile of .25 mg generic triazolam tablets (U.S.).	Photo by Mean Cinderella, &copy; 2001 Erowid.org
+Triazolam	https://www.erowid.org/pharms/show_image.php?i=triazolam/triazolam2.jpg	Color photo of a pile of triazolam tablets.	Photo by Mean Cinderella, &copy; 2001 Erowid.org
+Triazolam 2D Molecule	https://www.erowid.org/pharms/show_molecule.php?i=triazolam/triazolam_2d.gif	Still 2D image of the Triazolam molecule.	Image by Erowid, &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Triazolam
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule IV
+CLASSIFICATION	Depressant
+federalLawText :: Triazolam (Halcion) is Schedule IV in the U.S. This means it is illegal to sell without a license and illegal to possess without a valid license or prescription.
+stateLaw :: null
+internationalLaw :: Canada	Benzodiazepines (including triazalam) are Schedule IV under Canadian law. See http://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-26.html#h-29. (thanks e) (last updated Jul 30 2012)

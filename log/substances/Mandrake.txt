@@ -1,0 +1,37 @@
+[Substance]
+
+id :: 172
+name :: Mandrake
+url :: https://www.erowid.org/plants/mandrake/mandrake.shtml
+category :: Plants
+botanicalClassification :: Family :Solanaceae, Genus :Mandragora (former: Atropa), Species :officinarum (former: mandragora)commonNames :: Mandrake
+effectsClassification :: Poison; Deliriant
+description :: Traditionally known as an aphrodisiac and closely associated with witchcraft. Poisonous.
+imageURL :: https://www.erowid.org/plants/mandrake/images/mandrake_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/mandrake/mandrake_images.shtml
+lawURL :: https://www.erowid.org/plants/mandrake/mandrake_law.shtml
+
+[Images]
+imageEntryList :: Mandragora officinarum	https://www.erowid.org/plants/show_image.php?i=mandrake/mandragora_officinarum_plant__i2004e0136_disp.jpg	Top down photo of a 2 1/2 yr old M. officinarum plant with blue flowers. [Nice, France]	Photo by Ayaell. &copy; 2006 Erowid.org
+Mandragora officinarum	https://www.erowid.org/plants/show_image.php?i=mandrake/mandragora_officinarum_flower__i2004e0135_disp.jpg	Close-up of a cluster of Mandragora officinarum flowers. [Nice, France]	Photo by Ayaell. &copy; 2006 Erowid.org
+Mandragora officinarum	https://www.erowid.org/plants/show_image.php?i=mandrake/mandragora_officinarum4.jpg	Color photo of European Mandrake root slices. [Turkey]	Photo by Maurice of Maya Ethnobotanicals, &copy; 2002 Erowid.org
+Mandragora officinarum	https://www.erowid.org/plants/show_image.php?i=mandrake/mandragora_officinarum2.jpg	Color photo of potted mandrake plant. The plant is a few years old.	Photo by One A.M., &copy; 1999 Erowid.
+Mandragora officinarum	https://www.erowid.org/plants/show_image.php?i=mandrake/mandragora_officinarum3.jpg	Color photo of mandrake plant being transplanted...roots are visible.	Photo by One A.M., &copy; 1999 Erowid.
+Mandragora officinarum	https://www.erowid.org/plants/show_image.php?i=mandrake/mandragora_officinarum5.jpg	Color photo of a potted Mandragora officinarum plant. [Netherlands]	Photo by Dennis Biesmans, &copy; 2002 Erowid.org
+Mandragora officinarum	https://www.erowid.org/plants/show_image.php?i=mandrake/mandragora_officinarum6.jpg	Color photo of an Mandragora officinarum plant. [Netherlands]	Photo by Dennis Biesmans, &copy; 2002 Erowid.org
+Mandragora autumnalis	https://www.erowid.org/plants/show_image.php?i=mandrake/mandragora_autumnalis_seedling__i2005e0314_disp.jpg	Mandragora autumnalis seedling propagated from seed. [Thessaloniki, Greece]	Photo by Tinkal. &copy; 2006 Erowid.org
+Mandragora officinarum	https://www.erowid.org/plants/show_image.php?i=mandrake/mandragora_officinarum_drawing1.jpg	Color drawing of Mandragora officinarum plant.	Artist unknown.
+Mandragora officinarum	https://www.erowid.org/plants/show_image.php?i=mandrake/mandragora_officinarum_drawing3.jpg	Color drawing of M. officinarum plant.	Image from Fuchs Botanical (1545), as scanned by Richard Siderits.
+Mandragora officinarum	https://www.erowid.org/plants/show_image.php?i=mandrake/mandragora_officinarum_drawing2.jpg	Black and white drawing of Mandragora officinarum plant.	Artist unknown.
+Mandragora officinarum	https://www.erowid.org/plants/show_image.php?i=mandrake/mandragora_officinarum_drawing4.jpg	Black and white drawing of a mandrake plant.	Artist unknown.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Mandragora officinarum
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: Mandrake is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: Louisiana	Effective Aug 8, 2005 (signed into law Jun 28, 2005) Louisiana Act No 159 makes 40 plants illegal, including Mandragora officinarum, when intended for human consumption. The law specifically excludes the "possession, planting, cultivation, growing, or harvesting" of these plants if used "strictly for aesthetic, landscaping, or decorative purposes." (Text of HLS_05RS-52 and Update June 2005)
+Tennessee 	Tennessee did not pass the proposed bill that would have banned dozens of plants as "hallucinogenic" when intended for human consumption. Instead, they banned only Salvia divinorum. See Comments on New State Laws Controlling the Consumption of Hallucinogenic Plants.
+internationalLaw :: 

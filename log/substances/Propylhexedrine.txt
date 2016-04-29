@@ -1,0 +1,28 @@
+[Substance]
+
+id :: 308
+name :: Propylhexedrine
+url :: https://www.erowid.org/pharms/propylhexedrine/propylhexedrine.shtml
+category :: Pharms
+commonNames :: Benzedrex
+effectsClassification :: Adrenergic; Vasoconstrictor; Stimulant
+chemicalName :: N,a-dimethyl-cyclohexylethylamine
+description :: Propylhexedrine is an adrenergic used for the treatment of nasal congestion due to its vasoconstrictive properties. It is typically administered through a respiratory inhaler.
+imageURL :: https://www.erowid.org/pharms/images/pharms_spacer_summary.jpg
+imagesURL :: https://www.erowid.org/pharms/propylhexedrine/propylhexedrine_images.shtml
+lawURL :: https://www.erowid.org/pharms/propylhexedrine/propylhexedrine_law.shtml
+
+[Images]
+imageEntryList :: Benzedrex-Brand Propylhexedrine Inhalers	https://www.erowid.org/pharms/show_image.php?i=propylhexedrine/benzedrex_inhalers__i2014e0043_disp.jpg	Closeup photo of white plastic Benzedrex-brand propylhexedrine inhalers. [Michigan, USA]	Photo by march4that. &copy; 2014 Erowid.org
+Propylhexedrine 2D Molecule	https://www.erowid.org/pharms/show_image.php?i=propylhexedrine/propylhexedrine_2d.jpg	2D image of a propylhexedrine molecule.	Image by Erowid, &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Paroxetine
+REGULATED	No
+STATUS	Over-The-Counter
+SCHEDULE	Un-Scheduled
+federalLawText :: Propylhexedrine (Benzedrex) is unscheduled in the United States and is approved for over-the-counter sale. Propylhexedrine is legal to buy, possess, and ingest without a license or prescription. Sales for human consumption are regulated by the FDA and each formulation or product requires specific FDA approval.	
+It appears that Propylhexedrine was placed in Schedule V in the United States in May 4, 1988 (53 FR 10869) and then removed from Schedule V on Dec 3, 1991 (56 FR 61372). Unfortunately, we do not have access to the federal register entry to determine why it was unscheduled. [DEA Ref]
+stateLaw :: null
+internationalLaw :: Canada	Propylhexedrine is Schedule V in Canada.

@@ -1,0 +1,81 @@
+[Substance]
+
+id :: 27
+name :: 4-Methylaminorex
+url :: https://www.erowid.org/chemicals/4_methylaminorex/4_methylaminorex.shtml
+category :: Chemicals
+commonNames :: U4Euh; Euphoria; Intellex; Ice
+effectsClassification :: Stimulant
+chemicalName :: 4-methyl-5-phenyl-2-amino-oxazoline
+description :: 4-methylaminorex is a relatively uncommon stimulant similar in effects to amphetamine.
+imageURL :: https://www.erowid.org/chemicals/4_methylaminorex/images/4_methylaminorex_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/4_methylaminorex/4_methylaminorex_basics.shtml
+imagesURL :: https://www.erowid.org/chemicals/4_methylaminorex/4_methylaminorex_images.shtml
+lawURL :: https://www.erowid.org/chemicals/4_methylaminorex/4_methylaminorex_law.shtml
+doseURL :: https://www.erowid.org/chemicals/4_methylaminorex/4_methylaminorex_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/4_methylaminorex/4_methylaminorex_chemistry.shtml
+
+[Basics]
+description :: 4-methylaminorex is a long-lasting synthetic stimulant which is generally found in the form of either crystals or powder which are taken orally, smoked, or insufflated. It is often touted for its use as a work-drug, especially when writing or working on long projects. It is also noted for providing somewhat more euphoria (hence the slang name U4Euh) than other stimulants such as caffeine or amphetamine. 4-methylaminorex use has never been particularly widespread and the material is rarely seen on the street market. [ Main 4-methylaminorex Vault ]
+descriptionSections :: dose	A standard dose of 4-methylaminorex seems to run between 10 and 25 mg regardless of ingestion method (oral, insufflated or smoked). Ingestion method primarily affects the duration of the experience with smoking providing the shortest duration and oral the longest.
+price	Price Summary Needed.
+law	4-methylaminorex is illegal to possess and sell in the United States (schedule I). It was scheduled in the U.S. in 1987.
+chemistry	Chemistry Summary Needed.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	4-methylaminorex was first synthesized by George Poos in the early 1960s and was studied for its appetite suppressant effects. It gained some popularity for recreational use during the early 1980s and was emergency scheduled in 1987.
+terminology	The Substance:Ice; Euphoria; U4Euh; Intellex; 4-MAR; U4EA; EU4EA. The Experience:No common terms known.
+effects :: Effects Summary Needed.
+effectsSections :: onset	Onset depends on the method of ingestion. Onset after oral use can take up to 2 hours. Onset after insufflation takes approximately 30 minutes, while effects from smoking take 1-2 minutes.
+duration	There is some discrepancy in the reported duration of 4-methylaminorex. Traditionally it has been described as a "long-lasting" stimulant which reported effects lasting 14-16 hours after oral use. Others describe the primary effects as lasting 4-6 hours with noticeable lingering effects lasting another 12-24. Dose and method of ingestion will significantly effect duration.
+visuals	Visuals Summary Needed.
+problems :: Pulmonary hypertension has been strongly associated with Aminorex and may be associated with the ingestion of 4-methylaminorex as well. A propensity towards negative (and violent) experiences has been noted when 4-methylaminorex is combined with LSD.
+problemsSections :: contraindications	Do not take 4-methylaminorex if you are currently taking an MAOI. MAOIs are most commonly found in the prescription anti-depressants Nardil (phenelzine), Parnate (tranylcypromine), Marplan (isocarboxazid), Eldepryl (l-deprenyl), and Aurorex or Manerix (moclobemide). Ayahuasca also contains MAOIs (harmine and harmaline). 4-methylaminorex and MAOIs are a potentially dangerous combination. Check with your doctor if you are not sure whether your prescription medication is an MAOI. If you have a seizure or convulsive disorder or heart problems, you may be at higher risk for health problems when taking 4-methylaminorex.
+addiction	Addiction Potential Summary Needed.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Images]
+imageEntryList :: 4-methylaminorex	https://www.erowid.org/chemicals/show_image.php?i=4_methylaminorex/4_methylaminorex_crystals__i2003e0613_disp.jpg	Small pile of 4-methylaminorex crystals. Synthesized from (1S,2R)-(+)-norephedrine, recrystalized from dichloromethane.	Photo by Nick, &copy; 2006 Erowid.org
+4-methylaminorex	https://www.erowid.org/chemicals/show_image.php?i=4_methylaminorex/4_methylaminorex1.jpg	Color photo of 125 mg of 4-methylaminorex crystals.	Photo by Erowid. &copy; 2002 Erowid.org
+4-Methylaminorex Crystal	https://www.erowid.org/chemicals/show_image.php?i=4_methylaminorex/4_methylaminorex_crystal__i2010e0397_disp.jpg	A single 4-methylaminorex crystal weighing 1.25 g, held by a tweezers. [Canada]	Photo by Maelstrom Devnal. &copy; 2010 Erowid.org
+4-methylaminorex	https://www.erowid.org/chemicals/show_image.php?i=4_methylaminorex/4_methylaminorex2.jpg	Color photo of 125 mg of 4-methylaminorex crystals next to a one dollar coin.	Photo by Erowid. &copy; 2002 Erowid.org
+4-methylaminorex	https://www.erowid.org/chemicals/show_image.php?i=4_methylaminorex/4_methylaminorex3.jpg	Color photo of two small 4-methylaminorex crystals (SE U.S.).	Photo by Anonymous Photographer. &copy; 2002 Erowid.org
+4-methylaminorex	https://www.erowid.org/chemicals/show_image.php?i=4_methylaminorex/4_methylaminorex4.jpg	Color photo of small pile of crushed 4-methylaminorex powder (SE U.S.).	Photo by Anonymous Photographer. &copy; 2002 Erowid.org
+4-methylaminorex 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=4_methylaminorex/4_methylaminorex_2d.gif	Still 2D image of the 4-methylaminorex molecule.	Image by Erowid. &copy; 2001 Erowid.org
+4-methylaminorex 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=4_methylaminorex/4_methylaminorex_3d.jpg	Still 3D image of the 4-methylaminorex molecule.	Image by Erowid. &copy; 2000 Erowid.org
+4-methylaminorex 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=4_methylaminorex/4_methylaminorex__.mol	Rotating 3D image of the 4-methylaminorex molecule.	Image by Erowid. &copy; 2000 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+4-Methylaminorex
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule I
+CLASSIFICATION	Stimulant
+federalLawText :: 4-methylaminorex is Schedule I in the United States. This means it is illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license.	
+The list of Schedule I drugs in the U.S. includes "(+/-)cis-4-methylaminorex", which is strangely over-specific. 4-Methylaminorex has four stereoisomers + and - cis-4-methylaminorex and + and - trans-4-methylaminorex. As Schedule I currently reads, the trans-isomers would not be strictly in Schedule I, though would clearly qualify as Controlled Substance Analogues if intended for human consumption.
+stateLaw :: null
+internationalLaw :: Australia	4-methylaminorex is in Schedule 9, the most restrictive schedule. (unconfirmed) (thanks r) (last updated Nov 30, 2009)
+Canada	4-methylaminorex is Schedule III. (unconfirmed) (thanks r) (last updated Nov 30, 2009)
+Germany (Deutschland)	4-methylaminorex is listed in Anlaga I, the most restrictive list, in the BtMG. See BtMG. (thanks r) (last updated Nov 30, 2009)
+Netherlands (Nederlands)	4-methylaminorex is a List I drug of the Opium Law and is not approved by the CBG as a medicine. (unconfirmed) (thanks r) (last updated Nov 30, 2009)
+United Kingdom (U.K.)	4-methyl-aminorex is listed as a Class A drug and under Schedule 1 of the Misuse of Drugs Act (2001). (thanks d) (last updated Aug 18 2009)
+
+[Dose]
+doseTable :: Oral 4-Methylaminorex Dosages
+Light5 - 10 mg
+Common10 - 25 mg
+Strong25 + mg
+Onset : 1 - 2 hours (depending on form and stomach contents)
+Duration : 10 - 16 hours
+Normal After Effects : up to 48 hours
+doseText :: 4-Methylaminorex is a white crystaline (or powdered) substance which is most commonly insufflated (snorted) or taken orally but can also be smoked in either the freebase or hydrochloride salt forms.     Oral 4-Methylaminorex Dosages Light5 - 10 mg Common10 - 25 mg Strong25 + mg    Onset : 1 - 2 hours (depending on form and stomach contents) Duration : 10 - 16 hours Normal After Effects : up to 48 hours   (There appears to be some discrepency in reported duration, with some people reporting only 4 - 6 hours)        Insufflated 4-Methylaminorex Dosages Light5 - 10 mg Common10 - 20 mg Strong20 + mg    Onset : 20 - 40 minutes Duration : 5 - 10 hours Normal After Effects : up to 48 hours          Smoked 4-Methylaminorex Dosages Light5 - 10 mg Common10 - 20 mg Strong20 + mg    Onset : 1 - 3 minutes Peak Duration : 1 hour Duration : 6 - 12 hours Normal After Effects : up to 48 hours
+notes :: null
+
+[Chemistry]
+chemTable :: NAME :	4-methylaminorex
+CHEMICAL NAME :	4-methyl-5-phenyl-2-amino-oxazoline
+ALTERNATE NAME :	U4Euh, Euphoria
+CHEMICAL FORMULA :	C10H12N2O
+moleculeURL :: https://www.erowid.org/chemicals/4_methylaminorex/images/archive/4_methylaminorex_3d_mid.jpg

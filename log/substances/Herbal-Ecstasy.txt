@@ -1,0 +1,11 @@
+[Substance]
+
+id :: 332
+name :: Herbal Ecstasy
+url :: https://www.erowid.org/smarts/herbal-e/herbal-e.shtml
+category :: Smarts
+commonNames :: HerbalX; Cloud9
+effectsClassification :: Stimulant
+chemicalName :: Various
+description :: Herbal Ecstasy formulas vary from one brand to another, but almost all are stimulants based on caffeine and ephedrine. They generally produce a stimulating effect though most people find them to be nothing like MDMA (ecstasy).
+imageURL :: https://www.erowid.org/smarts/images/smarts_spacer_summary.jpg

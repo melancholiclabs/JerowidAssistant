@@ -1,0 +1,37 @@
+[Substance]
+
+id :: 129
+name :: Selective Serotonin Reuptake Inhibitors (SSRIs)
+url :: https://www.erowid.org/chemicals/ssris/ssris.shtml
+category :: Chemicals
+commonNames :: Fluoxetine; Paroxetine; Sertraline; Citalopram; [...]
+effectsClassification :: SSRIs
+chemicalName :: Various
+description :: SSRIs are a class of pharmaceuticals that increase levels of serotonin in the brain. They are the most popular type of anti-depressants prescribed in the U.S. and have also been shown to reduce MDMA-related neurotoxicity in research animals.
+imageURL :: https://www.erowid.org/chemicals/ssris/images/ssris_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/ssris/ssris_basics.shtml
+imagesURL :: https://www.erowid.org/chemicals/ssris/ssris_images.shtml
+
+[Basics]
+description :: SSRI is the abbreviation for "Selective Serotonin Reuptake Inhibitor". SSRIs are a grouping of chemicals and pharmaceuticals (antidepressants, antiobsessionals, & antipanic agents) that selectively inhibit the reuptake of serotonin.  Generally, in order to be classified as an SSRI, a chemical must have little or no effects on other neurotransmitters such as norepinephrine or dopamine. Chemicals that have weak SSRI activity--or which inhibit dopamine or norepinephrine in addition to serotonin--are not primarily classified as SSRIs. [ Main SSRI Vault ]
+descriptionSections :: dose	SSRI dosages vary from chemical to chemical.
+price	Price Summary Needed.
+law	SSRIs as a grouping are not specifically mentioned in any schedule or law. A number of chemicals within the SSRI grouping are available by prescription only.
+chemistry	Chemistry Summary Needed.
+pharmacology	There are specific serotonin axons in the brain which, amongst other things, release serotonin into the space between the axons and neurons (the 'inter-synaptic gap'). The released serotonin hangs out in this inter-synaptic gap, and from there can move in a variety of directions. Some of the serotonin fits into specific receptors on neurons triggering an electro-chemical message of sorts to be sent through the brain. But there are far more serotonin molecules released than will actually find a neuronal receptor to trigger, so some serotonin molecules will be grabbed by 'serotonin reuptake transporters' on the serotonin axons like the ones from which they were originally released. Still other serotonin molecules are destroyed by MAO enzymes in the inter-synaptic gap (this is the process which is inhibited by MAOIs). This is a complex inter-related process which regulates the amount of serotonin that is floating about in the inter-synaptic gap, and thereby also regulates the number of serotonin receptors that are being triggered.  SSRIs block the serotonin reuptake transporters so they are temporarily no longer capable of moving serotonin out of the inter-synaptic gap and back into the axon. Functionally what this does is to increase the amount of serotonin in the inter-synaptic gap, and therefore also increase the number of serotonin receptors which are being triggered.
+production	Production Summary Needed.
+history	History Summary Needed.
+terminology	The Substance:Citalopram (Celexa); Fluoxetine (Prozac); Fluvoxamine (Luvox); Paroxetine (Paxil); Sertraline (Zoloft); and Trazodone (Desyrel). The Experience:No common terms known.
+effects :: Effects Summary Needed.
+effectsSections :: onset	Onset Summary Needed.
+duration	Duration Summary Needed.
+visuals	Visuals Summary Needed.
+problems :: Adverse reactions to SSRIs can include anxiety, headache, tremors, dizziness, sleep disturbances, and sexual dysfunction. Less common negative reactions include nose bleeds, fever, skin rash, weight gain/loss, seizures, hyponatremia, and suicidal ideation. Individual chemicals with SSRI activity may cause additional types of adverse reactions.
+problemsSections :: contraindications	SSRIs should not be used in combination with MAOIs. This combination can lead to serotonin syndrome, which can be dangerous and/or deadly. SSRIs should be avoided by those with a history of seizure disorder as well as in debilitated patients or those taking multiple medications, because of the possibility of drug-induced seizure. SSRIs should only be used with caution in those with a history of liver problems. Use of SSRIs in breast-feeding women is not generally recommended as SSRIs appear in breast milk.
+addiction	Addiction Potential Summary Needed.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Images]
+imageEntryList :: Pharmaceutical SSRIs	https://www.erowid.org/chemicals/show_image.php?i=ssris/ssris1.jpg	Photo showing a collection of pharmaceutical SSRIs in pill and capsule form, with bottles. [E KY, USA]	Photo by Biopharma. &copy; 2005 Erowid.org
+Pharmaceutical SSRIs	https://www.erowid.org/chemicals/show_image.php?i=ssris/ssris_tablets__i2006e0802_disp.jpg	Two pharmaceutical SSRI's: Lexapro on the left and Zoloft on the right. [CT, USA]	Photo by Anonymous. &copy; 2010 Erowid.org

@@ -1,0 +1,30 @@
+[Substance]
+
+id :: 156
+name :: Diplopterys cabrerana
+url :: https://www.erowid.org/plants/diplopterys/diplopterys.shtml
+category :: Plants
+botanicalClassification :: Family :Malpighiaceae, Genus :Diplopterys (Former: Banisteriopsis), Species :cabrerana (Former: rusbyana)commonNames :: Chaliponga; Chagropanga; Oco-yag�
+effectsClassification :: Psychedelic
+description :: Diplopterys cabrerana is a tropical vine which produces DMT in its leaves. It has been used as an admixture plant in S. American ayahuasca brews.
+imageURL :: https://www.erowid.org/plants/diplopterys/images/diplopterys_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/diplopterys/diplopterys_images.shtml
+lawURL :: https://www.erowid.org/plants/diplopterys/diplopterys_law.shtml
+
+[Images]
+imageEntryList :: Diplopterys cabrerana	https://www.erowid.org/plants/show_image.php?i=diplopterys/diplopterys_cabrerana__i2006e1819_disp.jpg	Diplopterys cabrerana in a forest. [Iquitos, Peru]	Photo by Steffan Heydon. &copy; 2009 Erowid.org
+Diplopterys cabrerana	https://www.erowid.org/plants/show_image.php?i=diplopterys/diplopterys_cabrerana__i2005e0211_disp.jpg	Small Diplopterys cabrerana plant. [Austria]	Photo by mindperformer. &copy; 2009 Erowid.org
+Dried Diplopterys cabrerana Leaves	https://www.erowid.org/plants/show_image.php?i=diplopterys/diplopterys_cabrerana_leaves_dried__i2006e2273_disp.jpg	Dried Diplopterys cabrerana leaves packed in rolls and secured with a needle and thread through the main portion of the leaf roll. [Brazil]	Photo by salvialight.com. &copy; 2009 Erowid.org
+Unknown Sold as Diplopterys cabrerana Seed	https://www.erowid.org/plants/show_image.php?i=diplopterys/unknown_sold_as_diplopterys_cabrerana_seed__i2009e0337_disp.jpg	Closeup of a winged seed sold as D. cabrarena and previously posted as an actual Diplopterys cabrarena seed, in error. [Germany]	Photo by Zhah. &copy; 2009 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Diplopterys cabrerana
+REGULATED	No
+STATUS	Ambiguous
+SCHEDULE	ContainsSchedule I Chemical
+CLASSIFICATION	Hallucinogen
+federalLawText :: Diplopterys cabrerana is not specifically a controlled species in the United States. Live plants and seeds are bought and sold and are not generally considered illegal. However, DMT, one of the chemicals contained in the plant, is Schedule I in the U.S. Practically, this means that if an extraction is done on DMT containing Diplopterys species, the resulting DMT is illegal to possess.	
+Large scale (especially commercial) extraction of DMT from Diplopterys species falls into the realm of "clearly illegal" and would very likely be prosecuted. We are also aware of one case in which a relatively large quantity of Diplopterys cabrerana was imported into the U.S. and stopped at the border by customs. The individual who attempted to import it is being prosecuted for importation of a schedule I substance. The case has yet to be decided.
+stateLaw :: null
+internationalLaw :: France	As of May 3, 2005, France added Banisteriopsis caapi, Peganum harmala, Psychotria viridis, Diplopterys cabrerana, Mimosa hostilis, Banisteriopsis rusbyana, harmine, harmaline, tetrahydroharmine (THH), haroml, and harmalol to the list of controlled substances. See France Control Ayahuasca Plants and Chemicals. Earlier, in Jan 2005, a Paris court of appeals determined that Ayahuasca is not considered a preparation of DMT and is therefore not a controlled substance.

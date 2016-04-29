@@ -1,0 +1,15 @@
+[Substance]
+
+id :: 329
+name :: GABA
+url :: https://www.erowid.org/smarts/gaba/gaba.shtml
+category :: Smarts
+commonNames :: None
+effectsClassification :: Neurotransmitter; General
+chemicalName :: gamma aminobutyric acid
+description :: Gaba is an inhibitory neurotransmitter found naturally in the brain. Research suggests that increased levels of gaba might help reduce the mental decline associated with aging.
+imageURL :: https://www.erowid.org/smarts/gaba/images/gaba_summary1.jpg
+imagesURL :: https://www.erowid.org/smarts/gaba/gaba_images.shtml
+
+[Images]
+imageEntryList :: GABA Capsules	https://www.erowid.org/smarts/show_image.php?i=gaba/gaba_capsule1.jpg	Photo showing commercially available 750 mg GABA capsules and bottle. [E. KY, USA]	Photo by Biopharma, &copy; 2005 Erowid.org

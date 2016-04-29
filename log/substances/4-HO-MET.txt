@@ -1,0 +1,69 @@
+[Substance]
+
+id :: 24
+name :: 4-HO-MET
+url :: https://www.erowid.org/chemicals/4_ho_met/4_ho_met.shtml
+category :: Chemicals
+commonNames :: 4-HO-MET, Metocin; Methylcybin; Colour
+effectsClassification :: Psychedelic Tryptamine
+chemicalName :: 4-hydroxy-N,N-ethyl-methyltryptamine
+description :: 4-HO-MET is a synthetic psychedelic considered similar in effect to psilocin. It is relatively uncommon and has only a short history of human use.
+imageURL :: https://www.erowid.org/chemicals/4_ho_met/images/4_ho_met_summary1.jpg
+effectsURL :: https://www.erowid.org/chemicals/4_ho_met/4_ho_met_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/4_ho_met/4_ho_met_images.shtml
+lawURL :: https://www.erowid.org/chemicals/4_ho_met/4_ho_met_law.shtml
+doseURL :: https://www.erowid.org/chemicals/4_ho_met/4_ho_met_dose.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Effects]
+duration :: 4-HO-MET Duration
+Oral
+Total Duration	4 - 6 hrs
+Onset	5 - 60  mins
+Coming Up	5 - 30 mins
+Plateau	90 mins - 6 hrs
+Coming Down	2 - 4 hrs
+&nbsp;	&nbsp;
+After Effects	- - -
+Hangover / Day After	- - -
+positiveEffects :: null
+neutralEffects :: null
+negativeEffects :: null
+description :: null
+experienceReports :: null
+
+[Images]
+imageEntryList :: 4-HO-MET	https://www.erowid.org/chemicals/show_image.php?i=4_ho_met/4-ho-met_powder__i2011e0526_disp.jpg	4-HO-MET salt purchased online from Poland. [BC, Canada]	Photo by Plutonic. &copy; 2011 Erowid.org
+4-HO-MET 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=4_ho_met/4-ho-met_2d.gif	Still 2D image of the 4-HO-MET molecule.	Image by Erowid. &copy; 2011 Erowid.org
+4-HO-MET 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=4_ho_met/4-ho-met__.mol	Rotating 3D image of the 4-HO-MET molecule.	Image by Erowid. &copy; 2002 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+4-HO-MET
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Possible Analog
+federalLawText :: 4-HO-MET is unscheduled in the United States. It is possible that it could be considered an analog (of psilocin and psilocybin), in which case, sales for human consumption or possession with the intent to ingest could be prosecuted under the Federal Analogue Act though we are unaware of any such existing cases (8/12/2011).
+stateLaw :: 
+internationalLaw :: Sweden	4-HO-MET was added to Schedule I (slightly different than US Schedule I), making it illegal to possess without a license as of May 2012. Medical Products Agency lists it in their regulation LVFS 2012:6 listed as 4-HO-MET
+4-HO-MET was added to Schedule I (slightly different than US Schedule I), making it illegal to possess without a license as of May 2012. Medical Products Agency lists it in their regulation LVFS 2012:6 listed as 4-HO-MET	3-[2-[etyl(metyl)amino]etyl]-1H-indol-4-ol. (thanks h) (last updated Feb 24, 2015)
+United Kingdom (U.K., England, Wales, Scotland, Northern Ireland)	4-HO-MET is considered a controlled substance under the UK's catch-all recreational tryptamine ban. (unconfirmed) (thanks h) (last updated Feb 24, 2015)
+
+[Dose]
+doseTable :: 4-HO-MET Dosages
+Oral
+Threshold	2 - 8 mg
+Light	5 - 10 mg
+Common	8 - 15 mg
+Strong	10 - 20 mg
+Heavy	25+ mg
+doseText :: 4-HO-MET is an uncommon synthetic psychedelic tryptamine that is most often found in powder form that is taken orally. Insufflated doses are similar to that of oral administration, but the effects from insufflation come on more abruptly and do not last as long.
+notes :: null
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

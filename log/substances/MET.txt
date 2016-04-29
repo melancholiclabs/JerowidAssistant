@@ -1,0 +1,72 @@
+[Substance]
+
+id :: 102
+name :: MET
+url :: https://www.erowid.org/chemicals/met/met.shtml
+category :: Chemicals
+commonNames :: MET
+effectsClassification :: Psychedelic Tryptamine
+chemicalName :: Methylethyltryptamine, N-methyl,N-ethyltryptamine
+description :: MET's effects are not well documented, but it probably has effects similar to DMT and DET. Although most likely to be smoked, it might be orally active and there are reports of insufflation.
+imageURL :: https://www.erowid.org/chemicals/met/images/met_summary1.jpg
+effectsURL :: https://www.erowid.org/chemicals/met/met_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/met/met_images.shtml
+lawURL :: https://www.erowid.org/chemicals/met/met_law.shtml
+doseURL :: https://www.erowid.org/chemicals/met/met_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/met/met_chemistry.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Effects]
+duration :: MET Duration
+Oral
+( very tentative )
+Total Duration	~4.0 - 6.0 hrs
+positiveEffects :: Euphoria	Open and closed eye visuals
+neutralEffects :: Colorshifting
+negativeEffects :: Nasal pain (when insufflating freebase)	Unpleasant taste (when vaporized)	Hard on the lungs to smoke
+description :: General Effects Notes	The effects of MET have been compared to DMT ("beginner DMT" and "like a combo of DMT & Salvia" both reported on Bluelight). One report on Bluelight describes effects increased and lengthened from co-ingestion with an MAOI.
+experienceReports :: [25 mg vaporized followed by 15 mg vaporized] "[...] This is a sort of slightly speedy tryptamine, slightly LSD-like state with a warm MDMA-ish center. [...]" -- Exp 90320[15 mg vaporized] "[...] The come up was about 2-3 times as slow as the come up on DMT. It was strangely reminiscent of something, which I eventually realized was the come-down from DMT. This 'I'm not in the crazy fractalizing weirdness any more but I still feel pretty damn odd' feeling came first, but was almost immediately accompanied by a deeply satisfying feeling of body warmth and comfort. [...]" -- Exp 89318
+
+[Images]
+imageEntryList :: MET Freebase	https://www.erowid.org/chemicals/show_image.php?i=met/met_freebase__i2011e0531_disp.jpg	MET freebase powder, purchased online from Canada. [BC, Canada]	Photo by Plutonic. &copy; 2011 Erowid.org
+MET 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=met/met_2d.png	Still 2D image of the MET molecule.	Image by Erowid. &copy; 2011 Erowid.org
+MET 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=met/met__.mol	Rotating 3D image of the MET molecule.	Image by Erowid. &copy; 2011 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+MET
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Likely Analog
+federalLawText :: MET is unscheduled in the United States. It is likely that it would be considered a controlled substance analogue (of DMT or DET), in which case, sales for human consumption or possession with the intent to ingest could be prosecuted under the Federal Analogue Act.	
+We are unaware of any cases against individuals for possession alone (7/6/11).
+stateLaw :: 
+internationalLaw :: 
+
+[Dose]
+doseTable :: MET Dosages
+Oral
+( very tentative )
+Threshold	?? mg
+Light	60 - 120 mg
+Common	80 - 150 mg
+Strong	150+ mg
+doseText :: MET is a tryptamine. It is most often found in a salt or freebase powder form that is most often taken orally or smoked/vaporized.
+notes :: None
+
+[Chemistry]
+chemTable :: NAME :	MET
+CHEMICAL NAME :	Methylethyltryptamine
+ALTERNATE CHEMICAL NAMES : 	ethyl-(2-(1H-indol-3-yl)-ethyl)-methylamine
+ALTERNATE CHEMICAL NAMES : 	N-methyl-N-ethyltryptamine
+CHEMICAL FORMULA	C13H18N2
+MOLECULAR WEIGHT	202.2954
+moleculeURL :: https://www.erowid.org/chemicals/met/images/archive/met_2d.png
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

@@ -1,0 +1,90 @@
+[Substance]
+
+id :: 160
+name :: Hawaiian Baby Woodrose
+url :: https://www.erowid.org/plants/hbw/hbw.shtml
+category :: Plants
+botanicalClassification :: Family :Convolvulaceae, Genus :Argyreia, Species :nervosacommonNames :: Hawaiian Baby Woodrose; Elephant Creeper; Wooly Morning Glory
+effectsClassification :: Psychedelic
+description :: Hawaiian Baby Woodrose is a perennial climbing vine with large heart-shaped leaves and white trumpet-shaped flowers. Its large furry seeds grow in seed pods and contain the psychedelic LSA.
+imageURL :: https://www.erowid.org/plants/hbw/images/hbw_summary1.jpg
+effectsURL :: https://www.erowid.org/plants/hbw/hbw_effects.shtml
+imagesURL :: https://www.erowid.org/plants/hbw/hbw_images.shtml
+lawURL :: https://www.erowid.org/plants/hbw/hbw_law.shtml
+doseURL :: https://www.erowid.org/plants/hbw/hbw_dose.shtml
+
+[Effects]
+duration :: Hawaiian Baby Woodrose Seed Duration
+Oral
+Total Duration	5 - 8 hours
+Onset	20 - 40 mins
+Coming Up	20 - 60 mins
+Plateau	4 - 6 hrs
+Coming Down	1 - 2 hrs
+&nbsp;	&nbsp;
+After Effects	0 - 6 hrs
+Hangover / Day After	- - -
+positiveEffects :: mood lift, euphoria	feelings of insight	increase in sensual and aesthetic appreciation	feeling interested in things one normally ignores	increased giggling and laughing	feeling engaged with the world	closed- and open-eye visuals
+neutralEffects :: general change in consciousness (as with most psychoactives)	altered perceptions	relaxation or laziness (both physical and mental)	changes in perception of time	unusual thoughts and speech	day-after effects light, but no work should be planned
+negativeEffects :: anxiety	nausea, gas, vomiting (common)	abdominal cramps	delerium, dizziness, confusion	paranoia, fear, and panic (infrequent, more common with higher doses)
+description :: There is currently no Effects Description for this substance.
+experienceReports :: null
+
+[Images]
+imageEntryList :: Hawaiian Baby Woodrose Seeds	https://www.erowid.org/plants/show_image.php?i=hbw/argyreia_nervosa_seeds__i2014e0563_disp.jpg	Hawaiian Baby Woodrose (Argyreia nervosa) seeds, about 50 pcs. [Germany]	Photo by Tryptomaniac. &copy; 2015 Erowid.org
+Argyreia nervos Seeds & Fruit	https://www.erowid.org/plants/show_image.php?i=hbw/argyreia_nervosa_seeds6.jpg	Beautiful photo showing the fruit and seeds of a cultivated Australia specimen of Argyreia nervosa. [Australia]	Photo by Zariat, &copy; 2005 Erowid.org
+Argyreia nervosa and Argyreia speciosa Seeds	https://www.erowid.org/plants/show_image.php?i=hbw/argyreia_nervosa_seed__i2003e0117_disp.jpg	Argyreia nervosa (active) and Argyreia speciosa (inactive) seeds compared side by side. [KS, USA]	Photo by Entheomation. &copy; 2008 Erowid.org
+Argyreia nervosa Seeds	https://www.erowid.org/plants/show_image.php?i=hbw/argyreia_nervosa_seeds3.jpg	Close-up color photo of 5 Hawaiian Baby Woodrose seeds next to a ruler to show size.	Photo by Erowid, &copy; 2002 Erowid.org
+Argyreia nervosa Seeds	https://www.erowid.org/plants/show_image.php?i=hbw/argyreia_nervosa_seeds4.jpg	Close-up color photo of 3 Hawaiian Baby Woodrose seeds next to a ruler to show size.	Photo by Erowid, &copy; 2002 Erowid.org
+Argyreia nervosa Seeds	https://www.erowid.org/plants/show_image.php?i=hbw/argyreia_nervosa_seeds2.jpg	Color photo of a collection of Hawaiian Baby Woodrose seeds.	Photo by Maya Ethnobotanicals, &copy; 2001 Erowid.org
+Argyreia nervosa Seeds	https://www.erowid.org/plants/show_image.php?i=hbw/argyreia_nervosa_seeds1.jpg	Color photo of Hawaiian Baby Woodrose Seeds.	Photo by Ooz, &copy; 2000 Erowid.org
+Argyreia nervosa	https://www.erowid.org/plants/show_image.php?i=hbw/argyreia_nervosa2.jpg	Close-up color photo of 2 flowers.	Photo by Gerald Carr.
+Argyreia nervosa	https://www.erowid.org/plants/show_image.php?i=hbw/argyreia_nervosa9.jpg	Color photo of a flowering Argyreia nervosa in a wild setting. (Reunion island, Indian Ocean, 2002).	Photo by Jean Jacques Segalen, &copy; 2002 Erowid.org
+Argyreia nervosa	https://www.erowid.org/plants/show_image.php?i=hbw/argyreia_nervosa3.gif	Small color photo of 1 flower.	Photographer unknown.
+Argyreia nervosa	https://www.erowid.org/plants/show_image.php?i=hbw/argyreia_nervosa8.jpg	Closeup color photo of the leaves of a large (7 foot) potted A. nervosa plant.	Photo by Tabula Rasa, &copy; 2000 Erowid.org
+Argyreia nervosa	https://www.erowid.org/plants/show_image.php?i=hbw/argyreia_nervosa4.jpg	Color photo of a Hawaiian Baby Woodrose plant.	Photo by Scruff, &copy; 2000 Erowid.org
+Argyreia nervosa	https://www.erowid.org/plants/show_image.php?i=hbw/argyreia_nervosa5.jpg	Beautiful close-up color photo of Hawaiian Baby Woodrose leaves.	Photo by Scruff, &copy; 2000 Erowid.org
+Argyreia nervosa	https://www.erowid.org/plants/show_image.php?i=hbw/argyreia_nervosa6.jpg	Color photo of a Hawaiian Baby Woodrose plant.	Photo by Scruff, &copy; 2000 Erowid.org
+Argyreia nervosa	https://www.erowid.org/plants/show_image.php?i=hbw/argyreia_nervosa10.jpg	Color photo of a small 2 month old A. nervosa plant being cultivated in a pot [MO, USA].	Photo by Entheomation, &copy; 2004 Erowid.org
+Argyreia nervosa	https://www.erowid.org/plants/show_image.php?i=hbw/argyreia_nervosa1.jpg	Black and white drawing of A. nervosa.	Photo from "Psychedelic Shamanism" by Jim DeKorne.
+Argyreia nervosa	https://www.erowid.org/plants/show_image.php?i=hbw/argyreia_nervosa_fruit1.jpg	Nice color photo of the ripe fruit of A. nervosa. (Reunion island, Indian Ocean, 2002).	Photo by Jean Jacques Segalen, &copy; 2002 Erowid.org
+Argyreia nervosa var. Speciosa	https://www.erowid.org/plants/show_image.php?i=hbw/argyreia_nervosa_seedpod__i2006e0045_disp.jpg	Young seed capsules of a 1 year old Argyreia nervosa var.Speciosa. [Israel]	Photo by Tomer D. &copy; 2006 Erowid.org
+Merremia tuberosa	https://www.erowid.org/plants/show_image.php?i=hbw/merremia_tuberosa_leaf_flower1.jpg	Color photo of M. tuberosa (Hawaiian Woodrose) vine and flowers from the island of Hawaii.	Photo by Erowid, &copy; 2003 Erowid.org
+Merremia tuberosa	https://www.erowid.org/plants/show_image.php?i=hbw/merremia_tuberosa_seedpod1.jpg	Color photo of M. tuberosa dried seed pod ('woodrose') from the island of Hawaii.	Photo by Erowid, &copy; 2003 Erowid.org
+Merremia tuberosa	https://www.erowid.org/plants/show_image.php?i=hbw/merremia_tuberosa_leaf_flower2.jpg	Color photo of M. tuberosa (Hawaiian Woodrose) vine and flowers from the island of Hawaii.	Photo by Erowid, &copy; 2003 Erowid.org
+Merremia tuberosa	https://www.erowid.org/plants/show_image.php?i=hbw/merremia_tuberosa_leaf_vine1.jpg	Color photo of M. tuberosa vine wrapping around a stem from the island of Hawaii.	Photo by Erowid, &copy; 2003 Erowid.org
+Merremia tuberosa	https://www.erowid.org/plants/show_image.php?i=hbw/merremia_tuberosa2.jpg	Color photo of M. tuberosa leaves, woodrose, and seeds, from Florida.	Photo by MG, &copy; 2003 Erowid.org
+Merremia tuberosa	https://www.erowid.org/plants/show_image.php?i=hbw/merremia_tuberosa3.jpg	Small color photo of M. tuberosa (Hawaiian Woodrose).	Photo by http://www.morningglories.cjb.net. Used with permission.
+Merremia tuberosa	https://www.erowid.org/plants/show_image.php?i=hbw/merremia_tuberosa1.jpg	Small color photo of M. tuberosa (Hawaiian Woodrose).	Photo by http://www.morningglories.cjb.net. Used with permission.
+Unidentified Seeds	https://www.erowid.org/plants/show_image.php?i=hbw/argyreia_nervosa_lookalike_seeds1.jpg	Color photo of a baggie of unknown seeds sold as Hawaiian Baby Woodrose seeds next to a ruler to show size [Germany]. (Thespesia populnea?)	Photo by Anonymous, &copy; 2003 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Argyreia nervosa
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: Hawaiian Baby Woodrose is not a controlled plant in the United States. Both the live plants and the seeds are commonly sold by botanical supply companies. However, it is important to know that one of the chemicals contained in the seeds, LSA, is Schedule III in the U.S. Practically, this means that if an extraction is done on Hawaiian Baby Woodrose seeds, the resulting LSA is illegal to possess. We are unaware of any cases in which an individual has been prosecuted simply for growing a plant or for doing a home extraction of a plant, although it seems possible that a few such cases exist. Large scale (especially commercial) extraction of LSA from H.B. Woodrose seeds begins to fall into the realm of "clearly illegal" and would certainly be difficult to defend.
+stateLaw :: null
+internationalLaw :: Australia	It is illegal to import or export Argyreia nervosa seeds from Australia (Customs Act 1901, Regulations, Schedule 4; and Schedule 8 export regulations). Possession of seeds may be illegal under the Standard for the uniform scheduling of drugs and poisons, Schedule 9. Treated seeds (which may still contain LSA) are excluded (Appendix A) and are legal to trade and possess. Consumption of LSA containing materials such as hawaiian baby woodrose seeds is prohibited under state legislation in most Australian states. (thanks DM)
+Brazil	Hawaiian Baby Woodrose is not controlled in Brazil. (thanks P)
+Canada	Hawaiian Baby Woodrose is not listed as controlled under Canadian law, nor is LSA listed as a controlled substance. HBW seeds and plants should be free to buy, sell, and possess in Canada. (thanks t) (last updated Oct 27, 2013)
+Germany	Hawaiian Baby Woodrose is not controlled in Germany. (thanks Rumpel)
+Italy	Hawaiian Baby Woodrose seeds are listed as controlled narcotic drugs in Italy. (Health Ministry Decree, 25 Sept 2007) (thanks SD, M)
+Poland	Hawaiian Baby Woodrose is controlled in Poland under the latin name Argyreia nervosa. See http://orka.sejm.gov.pl/Druki6ka.nsf/0/BCCEFA718901B844C125753F00318B23/$file/1547.pdf. (thanks scbc) (last updated May 10, 2013)
+Russia	In April 2009, Argyreia nervosa was banned along with Spice and related products, Salvia divinorum, Nymphae caerulea and others. See http://english.pravda.ru/hotspots/crimes/14-04-2009/107400-Light_drugs-0. (last updated April 15 2009)
+Sweden	The plants, seeds, and extracts of A. nervosa ('Elefantvinda') are not controlled in Sweden. (thanks e) (last updated apr 26 2010)
+United Kingdom (UK, Great Britain)	LSA-containng plants such as Hawaiian Baby Woodrose are uncontrolled in the United Kingdom. Plants, seeds, and instructions for how to grow them are legally available as decorative plants. (thanks R, g) (last updated May 23, 2014)
+
+[Dose]
+doseTable :: Oral H.B. Woodrose Seed Dosages (by # of seeds)
+Threshold1 - 4
+Light3 - 6
+Common5 - 8
+Strong7 - 12
+Heavy12 +
+Onset : 
+Duration : 4 - 8 hours
+Normal After Effects :
+doseText :: Hawaiian Baby Woodrose seeds contain LSA, a substance with hallucinogenic and stimulant properties somewhat similar to LSD. Seeds are generally eaten, though there are a variety of preparation methods used. The chart below shows approximate oral dosages for Hawaiian Baby Woodrose seeds (in number of seeds).
+notes :: null

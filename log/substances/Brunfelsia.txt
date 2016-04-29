@@ -1,0 +1,28 @@
+[Substance]
+
+id :: 142
+name :: Brunfelsia
+url :: https://www.erowid.org/plants/brunfelsia/brunfelsia.shtml
+category :: Plants
+botanicalClassification :: Family :Solanaceae, Genus :Brunfelsia, Species :charicaspi; grandiflora; latifoliacommonNames :: Brunfelsia; Manac&aacute; root; Chiric sanango
+effectsClassification :: Unknown
+description :: Brunfelsia are a small to medium sized tree which produces white and purple flowers. It has been used as an admixture in ayahuasca brews as well as having a reputation as an aphrodisiac. It has a history of medicinal use in S. America.
+imageURL :: https://www.erowid.org/plants/brunfelsia/images/brunfelsia_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/brunfelsia/brunfelsia_images.shtml
+lawURL :: https://www.erowid.org/plants/brunfelsia/brunfelsia_law.shtml
+
+[Images]
+imageEntryList :: Brunfelsia grandiflora Flower	https://www.erowid.org/plants/show_image.php?i=brunfelsia/brunfelsia_grandiflora__i2007e1335_disp.jpg	Brunsfelsia grandiflora branch with late summer flower. [NW USA]	Photo by Jeremy T. &copy; 2009 Erowid.org
+Brunfelsia latifolia	https://www.erowid.org/plants/show_image.php?i=brunfelsia/brunfelsia_latifolia1.jpg	Bush with several small purple flowers.	
+Brunfelsia latifolia	https://www.erowid.org/plants/show_image.php?i=brunfelsia/brunfelsia_latifolia__i2005e0345_disp.jpg	Brunfelsia latifolia blooming with white and purple flowers. [Mullumbimby, Australia]	Photo by Wandjina Gardens. &copy; 2007 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Brunfelsia spp.
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: Brunfelsia is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: Louisiana	Effective Aug 8, 2005 (signed into law Jun 28, 2005) Louisiana Act No 159 makes 40 plants illegal, including Brunfelsia spp., when intended for human consumption. The law specifically excludes the "possession, planting, cultivation, growing, or harvesting" of these plants if used "strictly for aesthetic, landscaping, or decorative purposes." (Text of HLS_05RS-52 and Update June 2005)
+Tennessee 	Tennessee did not pass the proposed bill that would have banned dozens of plants as "hallucinogenic" when intended for human consumption. Instead, they banned only Salvia divinorum. See Comments on New State Laws Controlling the Consumption of Hallucinogenic Plants.
+internationalLaw :: 

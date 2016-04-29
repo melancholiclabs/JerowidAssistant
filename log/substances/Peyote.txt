@@ -1,0 +1,179 @@
+[Substance]
+
+id :: 181
+name :: Peyote
+url :: https://www.erowid.org/plants/peyote/peyote.shtml
+category :: Plants
+botanicalClassification :: Family :Cactaceae, Genus :Lophophora, Species :williamsii; diffusacommonNames :: Peyote; Buttons; Mescalito
+effectsClassification :: Psychedelic
+description :: Peyote is a small, spineless cactus that contains mescaline as its primary active chemical. It has a long history of use among the natives of northern Mexico and SW United States.
+imageURL :: https://www.erowid.org/plants/peyote/images/peyote_summary1.jpg
+basicsURL :: https://www.erowid.org/plants/peyote/peyote_basics.shtml
+effectsURL :: https://www.erowid.org/plants/peyote/peyote_effects.shtml
+imagesURL :: https://www.erowid.org/plants/peyote/peyote_images.shtml
+lawURL :: https://www.erowid.org/plants/peyote/peyote_law.shtml
+doseURL :: https://www.erowid.org/plants/peyote/peyote_dose.shtml
+chemistryURL :: https://www.erowid.org/plants/peyote/peyote_chemistry.shtml
+
+[Basics]
+description :: Peyote (Lophophora williamsii) is a small button shaped cactus 2-5 inches in diameter, which grow in Mexico and the Southwest United States. Peyote is a hallucinogen, producing significant physical, visual, and perceptual changes. It is traditionally dried and eaten in a ritual setting to induce visions, and has been used by natives of Mexico for thousands of years.  Though Peyote is used recreationally by some, it is relatively uncommon on the street. Because a single Peyote button can take 5-15 years to mature, there is some concern about the over-harvesting of Peyote in the wild. [ Main Peyote Vault ]
+descriptionSections :: dose	Dose Summary Needed.
+price	Price Summary Needed.
+law	Lophophora williamsii is one of the few plants specifically named as illegal in the United States. It is a schedule I substance, along with its active ingredient Mescaline, making it illegal to buy, sell, or possess. There is a notable exception to this law which allows the use of Peyote by member of the Native American Church.
+chemistry	The primary effects of Peyote come from it's main active alkaloid: Mescaline.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	The use of Peyote as a psychoactive was first recorded by Spanish conquistadors when they first arrived in the new world in the late 15th century. Based on historical Chichimeca and Toltec events, estimates are that Peyote has been used by native Mexicans for thousands of years. Use of Peyote spread during the late 19th and early 20th centuries.
+terminology	The Substance:Peyote; Lophophora williamsii; Mescal; Buttons; Big Chief; Mescalito. The Experience:Tripping.
+effects :: Effects Summary Needed.
+effectsSections :: onset	Onset Summary Needed.
+duration	Duration Summary Needed.
+visuals	Visuals Summary Needed.
+problems :: Problems Summary Needed.
+problemsSections :: contraindications	Contraindications Summary Needed.
+addiction	Peyote is neither physically addicting nor likely to cause psychological dependence. Withdrawal effects following discontinuation have not been reported.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Effects]
+duration :: Peyote Duration
+Oral
+Total Duration	5 - 8 hrs
+Onset	60 - 120 mins
+Coming Up	30 - 60 mins
+Plateau	3 - 5 hrs
+Coming Down	1 - 2 hrs
+&nbsp;	&nbsp;
+After Effects	6 - 8 hrs
+Hangover / Day After	- - -
+positiveEffects :: feelings of insight	brightening of colors	closed and open eye visuals	mood lift, euphoria1	increased giggling and laughing	increase in energy (stimulation)	increased tactile sensation	happy, dreamy feelings1	feelings of hope or rejuvination1	increased access to spiritual ideation; deep esoteric experiences1
+neutralEffects :: general change in consciousness (as with most psychoactives)	loss of appetite	change in body temperature regulation	unusual thoughts and speech	unusual focus on either small details or large concepts; changes in meaning or significance of experiences1	mild to extreme distractability1	changes in perception of time1	changes in perception of "reality"	changes in self control1	unusual body sensations (facial flushing, chills, goosebumps, body energy)	ego softening	pupil dilation1	body tremors1	urge to urinate1 (in early stages of experience)	restlessness
+negativeEffects :: nausea and/or vomiting	chest and neck pain1 (in early stages of experience)	shortness of breath1	uncomfortable changes in body temperature (sweating/chills)	confusion, difficulty concentrating, problems with activities requiring linear focus	difficulty communicating1	inhibition of sex drive	insomnia	unpleasant or frightening visions	unwanted and overwhelming feelings, depression, anxiety	paranoia, fear, and panic
+description :: As with many other psychedelics, the coming-up period of a peyote experience can be uncomfortable with some of the more negative effects occurring during this time.
+experienceReports :: null
+
+[Images]
+imageEntryList :: Lophophora diffusa	https://www.erowid.org/images/archive/plants/peyote/lophophora_diffusa1.jpg	Color photo of a single L. diffusa button.	Photo by Murple, &copy; 2000 Erowid.
+Lophophora diffusa	https://www.erowid.org/images/archive/plants/peyote/lophophora_diffusa2.jpg	Color photo of a single L. diffusa button.	Photo by Murple, &copy; 2000 Erowid.
+Lophophora diffusa	https://www.erowid.org/images/archive/plants/peyote/lophophora_diffusa3.jpg	Color photo of a single L. diffusa button.	Photo by Murple, &copy; 2000 Erowid.
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii3.jpg	Color photo of a large cluster of peyote buttons.	Photo by knehnav, used with permission.
+Living Control Peyote Plant	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii__i2011e0908_disp.jpg	Living Control Peyote Plant [TX, USA]	Photo by Keeper Trout. &copy; 2011 Erowid.org
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii__i2010e0154_disp.jpg	Lophophora williamsii (peyote) cacti with full root still attached. [UK]	Photo by Farmer Dodds. &copy; 2011 Erowid.org
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii__i2011e0504_disp.jpg	A small cultivated peyote (Lophophora williamsii) button. [Mexico]	Photo by Koto. &copy; 2011 Erowid.org
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii31.jpg	Beautiful photo of a newly rooted peyote button which took only 4 months to root.	Photo by WhiteRabbit, &copy; 2002 Erowid.
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii__i2002e0630_disp.jpg	Large cluster of Lophophora Williamsii buttons. It has been the photographer's companion for 24 years. [Australia]	Photo by Skeet. &copy; 2007 Erowid.org
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii__i2007e0613_disp.jpg	A large cluster of Lophophora williamsii buttons growing. [Mexico]	Photo by Lucho. &copy; 2009 Erowid.org
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii__i2002e0631_disp.jpg	A nine-headed Lophophora williamsii growing in rocky medium. [Australia]	Photo by Skeet. &copy; 2007 Erowid.org
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii33.jpg	Beautiful color photo of a L. williamsii button. Notice how tall the button is. It was grown in Canada, thus stretching for the sun, and now only recently after being put under lights, is returing to its normal shape.	Photo by WhiteRabbit, &copy; 2002 Erowid.
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii15.jpg	Color photo of a single potted peyote button next to a columnar cacti (Mexico City).	Photo by Humito, &copy; 2000 Erowid.
+Two Lophophora williamsii Buttons	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii__i2011e0261_disp.jpg	Lophophora williamsii - Two peyote buttons with stem and roots intact, showing exposed soil. [Holland]	Photo by Hamhurricane. &copy; 2011 Erowid.org
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii28.jpg	Color photo of a pot full of peyote buttons, the oldest is 12 yrs old (S. Arizona).	Photo by JeeLiX, &copy; 2002 Erowid.
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii30.jpg	Color photo of a peyote plant 3 months after transplanting. Behind it is an amenite from the desert arround real de catorce, Mexico.	Photo by JeeLiX, &copy; 2002 Erowid.
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii15.jpg	Close-up color photo of a single potted peyote button. Originally from "Real de 14", Mexico City.	Photo by Humito, &copy; 2000 Erowid.
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii28.jpg	Color photo of a pot full of peyote buttons, the oldest is 12 yrs old (S. Arizona).	Photo by JeeLiX, &copy; 2002 Erowid.
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii4.jpg	Color photo of 2 buttons growing in small pots.	Photo by knehnav, used with permission.
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii8.jpg	Color photo of single peyote button.	Photo by John W. Allen
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii9.jpg	Color photo of single peyote button.	Photo by John W. Allen
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii10.jpg	Color photo of a group of cultivated peyote buttons in a pot.	Photo by John W. Allen
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii29.jpg	Color photo of a medium sized peyote button surrounded by several smaller buttons.	Photo by MeneerCactus, &copy; 2002 Erowid.
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii35.jpg	Color photo of a collection of potted L. williamsii of various sizes. Largest specimen is 10 years old. (UK, 2002).	Photo by Add.L, &copy; 2002 Erowid.org
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii11.jpg	Color photo of a group of cultivated peyote buttons in a pot.	Photo by John W. Allen
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii5.jpg	Color photo from above of single spiral button.	Photo by knehnav, used with permission.
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii6.jpg	Color photo of the side of single spiral button.	Photo by knehnav, used with permission.
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii12.jpg	Color photo of a large collection of peyote buttons grafted onto Myrtillocactus geometrizans cacti.	Photo taken at the Peyote Foundation by anonymous contributor.
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii13.jpg	Color photo of a large collection of peyote buttons grafted onto Myrtillocactus geometrizans cacti in the foreground and San Pedro cacti in the background.	Photo taken at the Peyote Foundation by anonymous contributor.
+Peyote Grafted on Pereskiopsis spathulata	https://www.erowid.org/plants/show_image.php?i=peyote/lophophora_williamsii_grafted__i2016e0041_disp.jpg	18-month-old Lophophora williamsii grafted onto Pereskiopsis spathulata. [West Coast, USA]	Photo by Talus. &copy; 2016 Erowid.org
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii32.jpg	Photo of several L. williamsii var. caespitosa in a pot.	Photo by Chris Kamarampi, &copy; 2002 Erowid.
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii7.jpg	Black and white drawing of button and root.	Artist unknown.
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii34.jpg	First known botanical illustration of Lophophora williamsii.	From Botanical Magazine, 1847.
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii_flower__i2006e1509_disp.jpg	Three flowering Lophophora williamsii (peyote) buttons. [S. Africa]	Photo by Michael Knott. &copy; 2007 Erowid.org
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii_flower__i2004e1029_disp.jpg	Beautiful close-up photo of a flowering L. williamsii. [San Luis Potosi, Mexico]	Photo by Mr. B. &copy; 2007 Erowid.org
+Flowering Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii_flower__i2011e0247_disp.jpg	Lophophora williamsii (peyote) in full bloom. [Europe]	Photo by Chacer. &copy; 2011 Erowid.org
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii_flower__i2011e0187_disp.jpg	A mature specimen of Lophophora williamsii with two flowers. [UK]	Photo by Haymaker. &copy; 2011 Erowid.org
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii36.jpg	Beautiful photo of a flowering Lophophora williamsii. [S. TX, USA]	Photo by Wayne James, &copy; 2005 Erowid.org
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii19.jpg	Color photo of a L. williamsii button in bloom.	Photo by Christopher B, &copy; 2000 Erowid.org
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii20.jpg	Close-up color photo of a L. williamsii button with two flowers.	Photo by Christopher B, &copy; 2000 Erowid.org
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii21.jpg	Close-up color photo of a L. williamsii button with two flowers.	Photo by Christopher B, &copy; 2000 Erowid.org
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii22.jpg	Extreme close-up color photo of a L. williamsii flower.	Photo by Christopher B, &copy; 2000 Erowid.org
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii25.jpg	Color photo of a L. williamsii button in with two flowers.	Photo by Christopher B, &copy; 2000 Erowid.org
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii14.jpg	Close-up color photo of a pair of peyote buttons, one flowering, taken at the Peyote Foundation.	Photo by anonymous contributor.
+Flowering Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii26.jpg	Color photo of a half buried L. williamsii button in bloom.	Photo by Christopher B, &copy; 2000 Erowid.org
+Flowering Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii2.jpg	Color photo of flowering peyote buttons.	Photo by knehnav, used with permission.
+Flowering Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii23.jpg	Color photo showing a side view of two L. williamsii flowers.	Photo by Christopher B, &copy; 2000 Erowid.org
+Flowering Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii17.jpg	Color photo of two flowering peyote buttons.	Photo by Anonymous Photographer, &copy; 2000 Erowid.
+Flowering Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii24.jpg	Color photo of a L. williamsii button in with two flowers.	Photo by Christopher B, &copy; 2000 Erowid.org
+Flowering Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii_flower1.jpg	Closeup color photo of a flowering peyote button next to a seedpod.	Photo by Jangrow, &copy; 2002 Erowid.
+Flowering Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii_flower2.jpg	Beautiful color photo of a single flowering peyote button (5 cm diameter)	Photo by Clint Bridges, &copy; 2002 Erowid.
+Flowering Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii_flower3.jpg	Another color photo of a single flowering peyote button (5 cm diameter)	Photo by Clint Bridges, &copy; 2002 Erowid.
+Twelve Year Old Peyote with Double Flower	https://www.erowid.org/images/archive/plants/peyote/peyote_flowering__i2012e0279_disp.jpg	A pot-grown peyote plant at around twelve years old with two fresh flowers and dried remnants of old flowers. [Barcelona]	Photo by anonymous. &copy; 2012 Erowid.org
+Lophophora williamsii seedpod	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii_seedpod1.jpg	Closeup color photo of a peyote seedpod.	Photo by Jangrow, &copy; 2002 Erowid.
+Lophophora williamsii seed package	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii_seeds1.jpg	Photo of a seed packet for L. williamsii var Decipiens (Netherlands).	Photo by Murple, &copy; 2002 Erowid.
+Proper Harvesting Technique - Before	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii_harvesting__i2011e0901_disp.jpg	Proper Harvesting Technique - Before [TX, USA]	Photo by Keeper Trout. &copy; 2011 Erowid.org
+Proper Peyote Harvesting Technique - After	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii_harvesting__i2011e0902_disp.jpg	Proper Peyote Harvesting Technique - After [TX, USA]	Photo by Keeper Trout. &copy; 2011 Erowid.org
+Dead Post-harvest Peyote Plant	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii_dead__i2011e0907_disp.jpg	Peyote plant that died after the button was harvested. [TX, USA]	Photo by Keeper Trout. &copy; 2011 Erowid.org
+Peyote Stem Branching	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii_stem__i2011e0912_disp.jpg	Branching from the underground stem. [TX, USA]	Photo by Keeper Trout. &copy; 2011 Erowid.org
+Regrowth on a Live Test Subject	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii_regrowth__i2011e0906_disp.jpg	Three new buttons regrowing after harvest on a live test subject. [TX, USA]	Photo by Keeper Trout. &copy; 2011 Erowid.org
+New Peyote Growth	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii__i2011e0913_disp.jpg	New peyote heads emerging after harvest.	Photo by Keeper Trout. &copy; 2011 Erowid.org
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii18.jpg	Color photo of two dried L. williamsii buttons.	Photo by Anonymous Photographer, &copy; 2000 Erowid.org
+Lophophora williamsii	https://www.erowid.org/images/archive/plants/peyote/lophophora_williamsii27.jpg	Color photo of three dried L. williamsii buttons.	Photo by Erowid, &copy; 2000 Erowid.org
+Peyote Way Church Sacramental Tea	https://www.erowid.org/images/archive/plants/peyote/peyote_tea_jar__i2014e0004_disp.jpg	A jar of peyote-based concentrated sacramental tea from the Peyote Way Church in Arizona with green lid. Label reads "Recommended ingestion procedure. Sip and wait 20 minutes. Sip and wait 20 minutes. Should take 4-6 hours minimum. Peyote is a succulent that takes 12 years to grow to maturity. Each sip is like eating half a button/peyote top. Slow as you go works best!! Please return jar with unfinished contents when done. From  "A Remote Arizona Church Offers Followers Peyote-Induced Psychedelic Trips" in Phoenix New Times .	Photo by Andrew Pielage. &copy; 2014 Andrew Pielage
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Lophophora williamsii
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule I
+CLASSIFICATION	Hallucinogen
+federalLawText :: Peyote (lophophora williamsii) is Schedule I in the United States. This means it is illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license.	
+The CSA states:	
+(22) Peyote Meaning all parts of the plant presently classified botanically as Lophophora williamsii Lemaire, whether growing or not, the seeds thereof, any extract from any part of such plant, and every compound, manufacture, salts, derivative, mixture, or preparation of such plant, its seeds or extracts (Interprets 21 USC 812(c), Schedule I(c) (12))	
+
+Federal Native American Church Exemption	
+TITLE 21-Food And Drugs	Administration, Department of Justice	PART 1307--MISCELLANEOUS--Table of Contents		Sec. 1307.31 Native American Church.	
+The listing of peyote as a controlled substance in Schedule I does not apply to the nondrug use of peyote in bona fide religious ceremonies of the Native American Church, and members of the Native American Church so using peyote are exempt from registration. Any person who manufactures peyote for or distributes peyote to the Native American Church, however, is required to obtain registration annually and to comply with all other requirements of law.
+stateLaw :: Arizona	Arizona has an exemption for "bona fide practice of a religious belief" in Title 13-3402. In a January 2014 article in the Phoenix New Times, a DEA agent said they deferred to local laws with regard to peyote. The author Eric Tsetsi writes : "Still, there's much controversy surrounding the legality of taking peyote, and if federal authorities wanted to prosecute Peyote Way for its use, cultivation, and distribution of the plant, they probably could make a case. Peyote Way Church technically is in violation of federal law, as neither Kent nor Zapf is Native American. Special Agent Sanchez, however, deferred to local and state authorities when asked about Peyote Way, suggesting that the DEA has taken a hands-off approach regarding peyote use, in the same way the Obama Administration recently has backed off going after medical-marijuana distribution in states including Arizona." (Jan 8 2014) See blogs.phoenixnewtimes.com/valleyfever/2014/01/arizona_church_peyote_way_hallucinogen.php?print=true. (Last Updated Jan 8 2014)
+California	California law states that "every person who plants, cultivates, harvests, dries, or processes any plant of the genus Lophophora, also known as peyote, or any part thereof shall be punished by imprisonment in the county jail for a period of not more than one year or the state prison." (Health & Safety Code:Ch.6,Art.3,Sec.11363) This is notable because the wording includes the entire Lophophora genus, not just Lophophora williamsii.
+Utah	Utah Supreme Court ruled that peyote use in "bona fide" religious ceremonies, regardless of the race of the participants, is protected under Utah and Federal Law in Utah. The court wrote: "On its face, the exemption applies to members of the Native American Church, without regard to tribal membership. The bona fide religious use of peyote cannot serve as the basis for prosecuting members of the Native American Church under state law." See: Salt Lake Tribune, June 23 2004, Utah State Supreme Court Decision
+internationalLaw :: Australia	Peyote is not fedearlly scheduled in Australia, but is controlled in the Australian Capital Territory (see Criminial Code and may be illegal in other territories as well. Import restrictions exist on the artichoke cactus (Obregonia denegrii), which is referred to in Australian law as "peyote". (see Wildlife Protection Act). (thanks T, DR, ET)
+Brazil	Peyote (Lopsophoria williamsii) is listed as a controlled substance, making production, distribution, or possession illegal. (thanks P)
+Canada	According to the 2001 Controlled Drugs and Substances Act (which replaced the older Narcotics Control Act) mescaline is listed as a schedule III drug, while peyote is specifically exempted from Canada's Controlled Substances list. However, if peyote is prepared for ingestion (ground, made into tea, etc), it is possible that it would be treated as "mescaline" rather than as "peyote" which could make the preparation illegal. See Ask Erowid for more info.
+France	Peyote (Lophophora williamsii) was specifically added to the list of controlled substances in August 2004. [Reference]
+Italy (Italia)	Listed in Tabella I of "Tabelle delle sostanze stupefacenti e psicotrope", making it illegal to possess, purchase, or sell. (see Tabelle delle sostanze stupefacenti e psicotrope. (thanks a) (last updated Dec 16, 2015)
+Japan	We do not know the legal status of Peyote in Japan, but have been told that as of Jun 2005, it is available in headshops (3 buttons for Y12,000 or $110).
+Mexico	Peyote is Schedule I in Mexico, although a few indigenous tribes are allowed to harvest it. Peyote is protected as an endangered species in Mexico and harvesting is controlled. (thanks M, I)
+Netherlands	Peyote is not scheduled in the Netherlands in its fresh/live state (similar to fresh psilocybe mushrooms). Only "preparations" containing mescaline and psilo(cyb)in are scheduled although this is currently being debated in the courts with one vendor challenging the definition of dried magic mushrooms as a "preparation". See the Dutch Opium Act: http://www.cannabisbureau.nl/pdf/Opiumwet_EN_29nov2004.pdf. (thanks SS) (last updated Jun 2007)
+Poland	We have been told that, according to 'Ustawa z dnia 29 lipca 2005 r. o przeciwdzia3aniu narkomanii' ( a bill concerning drug abuse and addiction), mescaline is scheduled IIP, which means that one can be sentenced to up to 3 years for possesion of mescaline in any form, unless they have special permit for research. (unconfirmed) (thanks M)
+Russia	A new law on drug possession came into effect Sep 7 2004, banning seven new substances, including peyote. Anyone caught in possession of two or more adult-size Lophophora williamsii can be arrested and face up to two years in prison. See Moscow Times article (thanks CC)
+Singapore	Peyote is not listed in the laws of Singapore, but mescaline is a Class A controlled drug. (unconfirmed) (thanks T)
+South Korea	Several online vendors in South Korea carry peyote as a floral/decorative cactus, though we do not have any information about its legal status. (thanks J) (last updated Oct 6 2010)
+Spain 	Peyote is reportedly sold in shops and by florists in Spain as an ornamental cactus. Sale and distribution are regulated by the 2006 "list of regulated plants". See http://noticias.juridicas.com/base_datos/Admin/l29-2006.t2.html#a51 and http://todoesdroga.blogspot.com.es/2011/10/sobre-la-famosa-lista-de-plantas.html?zx=c433689d559fa0b7. (thanks vm) (last updated Jul 15 2015)
+Switzerland	Peyote is listed as a prohibited substance in Switzerland. (see Liste des stup&eacute;fiants prohib&eacute;s (thanks V)
+United Kingdom	In 2004, fresh (not dried) peyote buttons are currently sold fresh in shops across Britain. Currently, mescaline containing cacti are not controlled in the United Kingdom. In the United Kingdom, there is no legal distinction between different species of mescaline-containing cacti, so peyote are controlled in the same way as San Pedro, for instance. See 2007 U.K. Trichocereus Cacti Legal Case for more information about the current legal status of mescaline-containing cacti in the United Kingdom. (thanks SS) (last updated Jun 2007)
+
+[Dose]
+doseTable :: Fresh Peyote Dosages
+Oral
+Light	3 - 6 mid-sized buttons	50 - 100 g
+Common	6 - 12 buttons	100 - 150 g
+Strong	8 - 16 buttons	150 - 200 g
+Heavy	15 + buttons	200 + g
+doseText :: The peyote cactus contains mescaline as its primary active chemical, but also contains 50-60 other alkaloids. The alkaloid content (potency) of peyote buttons can vary greatly based on age, location, and season at harvest. Winter (January) is prime season with summer (June) showing lower levels. Though it has been suggested that some mescaline degrades as buttons dry, generally the same number of buttons are consumed, whether fresh or dried.  The above chart is based on average potency, mid-sized buttons (greater than 1 inch/2.5 cm in diameter when dried).
+notes :: Mescaline content in dried buttons can reach 5-6% of total weight, but is more commonly now reported as 1-2% or less, perhaps because of a decrease in the average age of buttons at harvest. A dried peyote button may weigh 2-5 grams (2.5 grams for a dried mid-sized button approximately 1 inch/2.5 cm diameter). Mescaline accounts for approximately 30% of the alkaloids present. The percentage of mescaline content by weight in fresh buttons is much lower than in dry buttons because of the higher water content. Mescaline content in fresh buttons is approximately 0.2-0.3%.	
+The alkaloid content appears to be highest at the top of the cactus, with the top half of the button reportedly somewhat more potent than the bottom half. The alkaloid content of fresh roots is approximately one quarter that of fresh whole buttons/tops. It is considered inappropriate to harvest and consume the roots because a root can regrow a new button after a button is harvested.	
+Traditional peyote ceremonies continue for an entire night, with additional pairs of buttons eaten over time. Following are approximate single dosages (not including re-dosing) for fresh and dried peyote.
+
+[Chemistry]
+chemTable :: NAME :	Mescaline
+CHEMICAL NAME :	3,4,5-Trimethoxybenzeneethanamine;
+ALTERNATE CHEMICAL NAMES :	3,4,5-trimethoxyphenethylamine; mezcaline
+CHEMICAL FORMULA	C11H17NO3
+MOLECULAR WEIGHT	211.26
+MELTING POINT	35-36&#176; C (non-salt?)
+MELTING POINT	183-186&#176; C (Sulfate dihydrate)
+MELTING POINT	181&#176; C (Hydrochloride)
+LD50	crystals : 212 mg/kg i.p.(mice)
+LD50	crystals : 132 mg/kg i.p. (rats)
+LD50	crystals : 328 mg/kg i.p.(guinea pigs)
+Approximately 30% of total alkaloid content in peyote is mescaline.
+moleculeURL :: https://www.erowid.org/chemicals/mescaline/images/archive/mescaline_3d_mid.jpg

@@ -1,0 +1,24 @@
+[Substance]
+
+id :: 328
+name :: Fipexide
+url :: https://www.erowid.org/smarts/fipexide/fipexide.shtml
+category :: Smarts
+commonNames :: Attentil; Vigilor; BP 662
+effectsClassification :: Stimulant; Learning; Memory
+chemicalName :: 1-(1,3-benzodioxol-5-ylmethyl)-4-[(4-chlorophenoxy)acetyl]piperazine
+description :: Fipexide is a mild stimulant that is thought to indirectly affect dopamine levels in the brain. It is said to improve short term memory, attention, learning, and cognition. There is a risk of serious liver damage and high fever with use.
+imageURL :: https://www.erowid.org/smarts/images/smarts_spacer_summary.jpg
+imagesURL :: https://www.erowid.org/smarts/fipexide/fipexide_images.shtml
+chemistryURL :: https://www.erowid.org/smarts/fipexide/fipexide_chemistry.shtml
+
+[Images]
+imageEntryList :: Fipexide 2D Molecule	https://www.erowid.org/smarts/show_molecule.php?i=fipexide/fipexide_2d.gif	Still 2D image of the Fipexide molecule.	Image by Erowid, &copy; 2001 Erowid.org
+Fipexide 3D Rotating Molecule	https://www.erowid.org/smarts/show_molecule.php?i=fipexide/fipexide__.mol	Rotating 3D image of the Fipexide molecule.	Image by Erowid, &copy; 2001 Erowid.org
+
+[Chemistry]
+chemTable :: NAME :	Fipexide
+CHEMICAL NAME :
+CHEMICAL FORMULA	C20H21ClN2O4
+MOLECULAR WEIGHT :	388.8499
+moleculeURL :: null

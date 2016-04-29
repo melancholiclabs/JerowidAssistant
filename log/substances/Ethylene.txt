@@ -1,0 +1,17 @@
+[Substance]
+
+id :: 77
+name :: Ethylene
+url :: https://www.erowid.org/chemicals/ethylene/ethylene.shtml
+category :: Chemicals
+commonNames :: Ethylene; Ethene
+effectsClassification :: Anaesthetic Volatile Gas
+chemicalName :: ethene
+description :: Ethylene is a slightly sweet-smelling hydrocarbon gas with industrial, agricultural and medical uses. Its use as an anaesthetic was discontinued in the early 1970s. A theory that ethylene inhalation may have played a role in divinatory ceremonies at Delphi in Classical Greece received popular press attention in the early 2000s, yet has not been conclusively proven.
+imageURL :: https://www.erowid.org/chemicals/ethylene/images/ethylene_summary1.jpg
+imagesURL :: https://www.erowid.org/chemicals/ethylene/ethylene_images.shtml
+
+[Images]
+imageEntryList :: Ethylene 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=ethylene/ethylene_2d.jpg	Still 2D image of the ethylene molecule.	Image by Erowid. &copy; 2002 Erowid.org
+Ethylene 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=ethylene/ethylene_3d.jpg	Still 3D image of the Ethylene molecule.	Image by Erowid. &copy; 2007 Erowid.org
+Ethylene 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=ethylene/ethylene__.mol	Rotating 3D image of the Ethylene molecule.	Image by Erowid. &copy; 2007 Erowid.org

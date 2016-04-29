@@ -1,0 +1,22 @@
+[Substance]
+
+id :: 268
+name :: Cyclizine
+url :: https://www.erowid.org/pharms/cyclizine/cyclizine.shtml
+category :: Pharms
+commonNames :: Marezine; Marzine; Emoquil
+effectsClassification :: Antiemetic; Antivertigo
+chemicalName :: 1-diphenylmethyl-4-methylpiperazine
+description :: Cyclizine is a piperazine-derivative antihistamine used in the treatment of motion sickness (similar to dimenhydrinate/dramamine).
+imageURL :: https://www.erowid.org/pharms/images/pharms_spacer_summary.jpg
+lawURL :: https://www.erowid.org/pharms/cyclizine/cyclizine_law.shtml
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Cyclizine
+REGULATED	Yes
+STATUS	Over-The-Counter
+SCHEDULE	Un-Scheduled
+federalLawText :: Cyclizine (Marezine) is unscheduled in the United States. It is sold over-the-counter as an approved drug and is legal to buy, possess, and ingest without a license or prescription. Sales for human consumption are regulated by the FDA and each formulation or product requires specific FDA approval.
+stateLaw :: null
+internationalLaw :: Australia	Cyclizine is available by prescription only in Brazil. (thanks UL)

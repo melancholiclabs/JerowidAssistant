@@ -1,0 +1,99 @@
+[Substance]
+
+id :: 101
+name :: Mescaline
+url :: https://www.erowid.org/chemicals/mescaline/mescaline.shtml
+category :: Chemicals
+commonNames :: Mescalito
+effectsClassification :: Psychedelic Phenethylamine
+chemicalName :: 3,4,5-trimethoxy-&#223-phenethylamine
+description :: Mescaline is a naturally occurring psychedelic with a long history of human use. It is best known as the primary active chemical in the peyote cactus.
+imageURL :: https://www.erowid.org/chemicals/mescaline/images/mescaline_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/mescaline/mescaline_basics.shtml
+imagesURL :: https://www.erowid.org/chemicals/mescaline/mescaline_images.shtml
+lawURL :: https://www.erowid.org/chemicals/mescaline/mescaline_law.shtml
+doseURL :: https://www.erowid.org/chemicals/mescaline/mescaline_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/mescaline/mescaline_chemistry.shtml
+
+[Basics]
+description :: Mescaline is a psychoactive phenethylamine chemical, best known for being the primary psychoactive component in peyote and San Pedro cacti. It was first isolated by Arthur Heffter in 1897 when he was trying to identify the mind-altering principals in peyote. Mescaline is considered one of the classic psychedelic / entheogens, with a long history of traditional use in North and South America (in the form of cacti), formalized modern ritual use in the Native American Church, considered by many experienced users as uniquely powerful, and widely known througout the world because of the many accounts of its use. Both synthetic and extracted crystaline mescaline are available on the underground markets, but both are rare and usually quite expensive. [ Main Mescaline Vault ]
+descriptionSections :: dose	A standard dose for oral mescaline use ranges from 200-500 mg. One of the more common myths around its use is that it can come in the form of tiny microdot pills. Even 200 mg of material fills a medium size capsule, so obviously microdots are not mescaline.  Mescaline concentration in cacti varies from one species to the next. Peyote is traditionally eaten in pairs of buttons, with anwhere from a single pair (2 buttons) to dozens of pairs of buttons (24 or more) being consumed over the course of an evening/night. Dosages of columnar cacti like San pedro and Peruvianus are generally measured by the number of inches of cacti consumed. One rule of thumb for a relatively potent variety is one foot of cacti (approx 4 inches in diameter) per dose, another says a piece of cacti the length from your elbow to your fingertips.
+price	Pure crystaline mescaline is very rare in the underground and is usually expensive when available (40+ USD per dose). Live trichocereus range in price from 10$ per foot for the cheapest cut columns to 80$ per foot or more for rooted columns. Prepared trichocereus is almost unheard of for sale. We have no data on the current price of peyote buttons in the US. (August 2000)
+law	Mescaline is illegal to possess in the United States (schedule I). It is Schedule I by United Nations Convention and is illegal to possess in most  countries. Mescaline containing cacti, however, are controlled very differently from country to country. In the U.S. peyote possession is federally illegal except for some native American ritual use, while some states allow even broader use. Canada excepts peyote from its scheduling as do some other countries. Many other species of mescaline containing cacti are uncontrolled in both the U.S. and other countries.
+chemistry	Chemistry Summary Needed.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	Mescaline was first isolated and identified by German chemist Arthur Heffter in 1897, but the use of mescaline cacti has been documented in North & South America for thousands of years. Immediately after European subjugation of the native populations in the Americas, Peyote and San Pedro use became persecuted by Christian zealots and the mescaline-using traditions were forced to go underground. In the late 1800s these traditions slowly began a resurgance as North American indians began incorporating peyote use into their religious practices and persecution in South America diminished. Peyote was banned federally in the United States in 1967 and was placed in Schedule I when the Controlled Substance Act was passed in 1971.
+terminology	The Substance:Mescaline. The Experience:Tripping.
+effects :: Effects Summary Needed.
+effectsSections :: onset	Onset Summary Needed.
+duration	Duration Summary Needed.
+visuals	Visuals Summary Needed.
+problems :: Problems Summary Needed.
+problemsSections :: contraindications	Contraindications Summary Needed.
+addiction	Mescaline is neither physically addicting nor likely to cause psychological dependence. Withdrawal effects following discontinuation have not been reported.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Images]
+imageEntryList :: Synthetic Mescaline Powder	https://www.erowid.org/chemicals/show_image.php?i=mescaline/mescaline_powder__i2001e0151_disp.jpg	One gram of pure, white, synthetic mescaline hydrochloride salt on a weighing tray with a US quarter. This photo is released under the Creative Commons Attribution-Required (CC BY 3.0 US) license. [San Francisco, California]	Photo by Erowid. &copy; 2014 Erowid.org
+Mescaline Sulfate	https://www.erowid.org/chemicals/show_image.php?i=mescaline/mescaline_sulfate__i2006e0387_disp.jpg	Close-up of mescaline sulfate.	Photo by fmoc, &copy; 2006 Erowid.org
+Mescaline Crystals	https://www.erowid.org/chemicals/show_image.php?i=mescaline/mescaline_crystal__i2005e1683_disp.jpg	A small pile of grey needle-shaped mescaline crystals.	Anonymous. &copy; 2007 Erowid.org
+Mescaline	https://www.erowid.org/chemicals/show_image.php?i=mescaline/mescaline2.jpg	Beautiful photo of mescaline hydrochloride recently extracted from domestic Trichocereus pachanoi. [SW USA]	Photo by Anonymous Photographer. &copy; 2005 Erowid.org
+Mescaline	https://www.erowid.org/chemicals/show_image.php?i=mescaline/mescaline1.jpg	Color photo of a small packet of Mescaline powder.	Image from Indiana Prevention Resource Center. Public Domain Photo.
+Mescaline 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=mescaline/mescaline_2d.gif	Still 2D image of the Mescaline molecule.	Image by Erowid. &copy; 2001 Erowid.org
+Mescaline 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=mescaline/mescaline_3d.jpg	Still 3D image of the Mescaline molecule.	Image by Erowid. &copy; 2001 Erowid.org
+Mescaline 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=mescaline/mescaline__.mol	Rotating 3D image of the Mescaline molecule.	Image by Erowid. &copy; 2001 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Mescaline
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule I
+CLASSIFICATION	Hallucinogen
+federalLawText :: Mescaline (as well as Peyote) is Schedule I in the United States. This means it is illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license.	
+Mescaline-containing columnar, such as San Pedro, have a more complex legal status. Please see the Mescaline-Containing Cacti Law Vault.	
+Peyote's legal status is less ambiguous, but has its own legal issues. See the Peyote Law Vault for more information.
+stateLaw :: null
+internationalLaw :: Australia	Mescaline is illegal in every state and territory. (thanks T)
+Brazil	Mescaline is listed in law 6368 of the criminal code as a controlled illegal drug, making the production, possession, or distribution illegal. (thanks P)
+Canada	According to the 1996 Controlled Drugs and Substances Act (which replaced the older Narcotics Control Act) mescaline is listed as a schedule III drug, while peyote appears to be exempt.
+Estonia	Mescaline is Schedule I [reference]. (thanks TJJ)
+Ireland	Mescaline is scheduled in Ireland, making it illegal to supply or posses (see Misuse of Drugs Act. (thanks S)
+Italy (Italia)	Listed in Tabella I of "Tabelle delle sostanze stupefacenti e psicotrope", making it illegal to possess, purchase, or sell. (see Tabelle delle sostanze stupefacenti e psicotrope. (thanks a) (last updated Dec 16, 2015)
+New Zealand	Mescaline is Schedule I (Class A) in New Zealand [reference].
+Norway	Mescaline is Schedule I in Norway and illegal to buy or possess without a special license. See Norway Law. (thanks Y)
+Romania	Mescaline is Table I (most restricted) in Romania. See Romanian Drug Law Vault. (thanks VJ)
+Russian Federation	Mescaline is in List 1 and is illegal to buy, sell, or possess.(confirmed) While the law probably does not extend to natural mescaline-containing plants, cacti vendors are reportedly harassed and sometimes arrested. (unconfirmed) (thanks e) (last updated May 11, 2009)
+Switzerland	Mescaline is listed as a prohibited substance in Switzerland. (see Liste des stup&eacute;fiants prohib&eacute;s, thanks V)
+U.K.	Mescaline is Schedule I/Class A in the U.K., making it illegal to sell, buy or possess without a license.
+
+[Dose]
+doseTable :: Oral Mescaline HCl Dosages
+Threshold100 mg
+Light100 - 200 mg
+Common200 - 300 mg
+Strong300 - 500 mg
+Heavy500 - 700 mg
+Onset : 45 - 60 minutes
+Peak : T + 4 hours
+Duration : 4 - 8 hours
+Normal After Effects : 2 - 4 hours
+doseText :: Oral Mescaline HCl Dosages Threshold100 mg Light100 - 200 mg Common200 - 300 mg Strong300 - 500 mg Heavy500 - 700 mg    Onset : 45 - 60 minutes Peak : T + 4 hours Duration : 4 - 8 hours Normal After Effects : 2 - 4 hours     FORMS of MESCALINE :  If an acid extraction is performed on mescaline containing plant material, different forms of mescaline are produced, depending on the acid used. If hydrochloric acid is used the result is mescaline hydrochloride. If sulphuric acid is used, the result is mescaline sulfate. If citric acid is used, the result is mescaline citrate. And if acetic acid (vinegar) is used, the result is mescaline acetate. Each of these forms has a different molecular weight and therefore dosage...as well as having a different level of solubility in water (the more soluble it is in water, the more mescaline will be extracted from the plant material in an aqueous extraction).  The two most commonly produced synthetic forms of mescaline are mescaline hydrochloride and mescaline sulfate which have very similar dosages. Mescaline sulfate is 11% heavier than mescaline hydrochloride, meaning it takes 11% _more_ mescaline sulfate by weight to get the same effects as a certain amount of mescaline hydrochloride.  If an acid--base--solvent extraction is done on the plant material the result is freebase mescaline. Freebase mescaline is 15% lighter than mescaline hydrochloride (and 25% lighter than mescaline sulfate), thereby requiring 15% _less_ material by weight for the same dose as mescaline hydrochloride. However, most (if not all) extractions end with the freebase being turned into a salt. If the extracted mescaline is not converted to a salt and the solvent is evaporated, it can readily form a salt with the carbon dioxide in the air, forming Mescaline carbonate (molecular weight unknown?).  More information about calculating mescaline dosages    Mescaline is found in many types of cacti, most prominently in peyote (lophophora williamsii), San Pedro (trichocerus pachanoi) and the Peruvian Torch (trichocerus peruvianus). The mescaline content of the various mescaline containing cacti varies greatly between individual samples as well as between species. Following is an estimate of the mescaline contents of these three species. Although there has long been a myth that Trichocerus peruvianus is "10 times" stronger than T. pachanoi, there is not much data to support this view. Many reports indicate that peruvianus may be somewhat stronger than pachanoi, but this is hotly disputed among cactus experts. See A Look at the Mescaline Content of T. peruvianus and T. pachanoi.   Lophophora williamsii - 300 mg / 27 g dried material Trichocerus peruvianus - 300 mg / 15 to 100 grams dried material (.3% - 2.0%) Trichocerus pachanoi - 300 mg / 15 to 100 grams grams dried material (.3% - 2.0%)   178 mg mescaline HCl = 200 mg mescaline sulfate.
+notes :: null
+
+[Chemistry]
+chemTable :: NAME :	Mescaline
+CHEMICAL NAME :	3,4,5-Trimethoxybenzeneethanamine;
+ALTERNATE CHEMICAL NAMES :	3,4,5-trimethoxyphenethylamine; mezcaline
+CHEMICAL FORMULA	C11H17NO3
+MOLECULAR WEIGHT	211.26
+MELTING POINT	35-36&#176; C (non-salt?)
+MELTING POINT	183-186&#176; C (Sulfate dihydrate)
+MELTING POINT	181&#176; C (Hydrochloride)
+LD50	crystals : 212 mg/kg i.p.(mice)
+LD50	crystals : 132 mg/kg i.p. (rats)
+LD50	crystals : 328 mg/kg i.p.(guinea pigs)
+From the Merck Index 12th Edition
+moleculeURL :: https://www.erowid.org/chemicals/mescaline/images/archive/mescaline_3d_mid.jpg

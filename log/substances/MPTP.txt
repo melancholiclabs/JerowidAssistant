@@ -1,0 +1,11 @@
+[Substance]
+
+id :: 111
+name :: MPTP
+url :: https://www.erowid.org/chemicals/mptp/mptp.shtml
+category :: Chemicals
+commonNames :: None
+effectsClassification :: Industrial Toxin / Poison
+chemicalName :: 1-methyl-4-phenyl-1,2,5,6-tetrahydropyridine
+description :: MPTP is a contaminant that can result from sloppy synthesis of MPPP, a street analog of the opioid meperidine (Demerol). It is a known industrial toxin that was responsible for a rash of Parkinsons-like cases in the early 1980s which spurred the development of the federal Analogue Act in the U.S.
+imageURL :: https://www.erowid.org/chemicals/images/chemicals_spacer_summary.jpg

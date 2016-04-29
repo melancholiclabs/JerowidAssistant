@@ -1,0 +1,27 @@
+[Substance]
+
+id :: 168
+name :: Wild Lettuce
+url :: https://www.erowid.org/plants/lactuca/lactuca.shtml
+category :: Plants
+botanicalClassification :: Family :Asteraceae / Compositae, Genus :Lactuca, Species :virosacommonNames :: Wild Lettuce; Opium Lettuce; Bitter Lettuce; Great Lettuce; Lactucarium; Laitue vireuse; Poisonous Lettuce; Rakutu-Karyumu-So; Rauschlattich
+effectsClassification :: Mild Sedative
+description :: Biennial, growing up to 2-4 feet, maximum height of 6 feet (cultivated plants usually smaller). The erect stem, springing from a brown tap-root, is smooth and pale green, sometimes spotted with purple. Leaves are from 6 to 18 inches long, flowers are pale yellow, with large open clusters.
+imageURL :: https://www.erowid.org/plants/lactuca/images/lactuca_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/lactuca/lactuca_images.shtml
+lawURL :: https://www.erowid.org/plants/lactuca/lactuca_law.shtml
+
+[Images]
+imageEntryList :: Lactuca virosa	https://www.erowid.org/plants/show_image.php?i=lactuca/lactuca_virosa__i2006e1163_disp.jpg	Nice photo of a young, dense Lactuca virosa plant in a garden. [Poland]	Photo by DziQ. &copy; 2009 Erowid.org
+Lactuca virosa	https://www.erowid.org/plants/show_image.php?i=lactuca/lactuca_virosa1.jpg	Closeup photo showing Lactuca virosa leaves. [Austria]	Photo by Mindperformer, &copy; 2006 Erowid.org
+Lactuca virosa	https://www.erowid.org/plants/show_image.php?i=lactuca/lactuca_virosa2.jpg	Photo showing Lactuca virosa plants. [CA, USA]	Photo by Mitcho, &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Wild Lettuce
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Wild Lettuce is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: 

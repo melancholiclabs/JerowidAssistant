@@ -1,0 +1,40 @@
+[Substance]
+
+id :: 157
+name :: Ephedra
+url :: https://www.erowid.org/plants/ephedra/ephedra.shtml
+category :: Plants
+botanicalClassification :: Family :Ephedraceae, Genus :Ephedra, Species :sinica; equisetina; nevadensis; viridis; ...commonNames :: E. sinica; E. equisetina - Ma Huang; Ephedra Various American Ephedra spp - Desert Tea; Mormon Tea
+effectsClassification :: Stimulant
+description :: Ephedra is a low stalky shrub with jointed green to brown stems and tiny unnoticeable leaves. It is the source of ephedrine alkaloids and has an extremely long history of use in China. Supplements containing ephedra extracts are a popular herbal stimulant.
+imageURL :: https://www.erowid.org/plants/ephedra/images/ephedra_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/ephedra/ephedra_images.shtml
+lawURL :: https://www.erowid.org/plants/ephedra/ephedra_law.shtml
+
+[Images]
+imageEntryList :: Ephedra distachya	https://www.erowid.org/plants/show_image.php?i=ephedra/ephedra_distachya__i2005e0046_disp.jpg	A collection of potted Ephedra distachya plants growing at the U.S. national botanical gardens. [DC, USA]	Photo by Anonymous. &copy; 2007 Erowid.org
+Ephedra gerardiana	https://www.erowid.org/plants/show_image.php?i=ephedra/ephedra_gerardiana__i2004e0048_disp.jpg	Ephedra gerardiana plants growing on rocky outcropping. [Muktinath, Annapurna region, Nepal]	Photo by Matthias Ortlieb. &copy; 2007 Erowid.org
+Ephedra major seeds	https://www.erowid.org/plants/show_image.php?i=ephedra/ephedra_major_seed1.jpg	Photo of a small packet of Ephedra major seeds from Spain.	Photo by Murple, &copy; 2003 Erowid.org
+Ephedra sinica	https://www.erowid.org/plants/show_image.php?i=ephedra/ephedra_sinica2.jpg	Color photo of a small Ephedra sinica plant, with tape measure showing size.	Photo by Murple, &copy; 2000 Erowid.org
+Ephedra sinica herb	https://www.erowid.org/plants/show_image.php?i=ephedra/ephedra_sinica_herb1.jpg	Color photo of a small pile of ground Ephedra sinica.	Photo by Murple, &copy; 2000 Erowid.org
+Ephedra sinica	https://www.erowid.org/plants/show_image.php?i=ephedra/ephedra_sinica1.jpg	Color photo of a branch of Ephedra.	Photo from The Drug and Natural Medicine Advisor.
+Ephedra spp.	https://www.erowid.org/plants/show_image.php?i=ephedra/ephedra_spp1.jpg	Color photo of dried Ephedra spp. stalks.	Photo by Erowid, &copy; 2000 Erowid.org
+Ephedrine 3D Molecule	https://www.erowid.org/plants/show_molecule.php?i=ephedra/ephedrine_3d_mid.jpg	Still 3D image of the Ephedrine molecule.	Image by Erowid, &copy; 1999.
+Ephedrine 3D Rotating Molecule	https://www.erowid.org/plants/show_molecule.php?i=ephedra/ephedrine__.mol	Rotating 3D image of the Ephedrine molecule.	Image by Erowid, &copy; 1999 Erowid.org
+Pseudoephedrine 3D Molecule	https://www.erowid.org/plants/show_molecule.php?i=ephedra/pseudoephedrine_3d_mid.jpg	Still 3D image of the Pseudoephedrine molecule.	Image by Erowid, &copy; 1999 Erowid.org
+Pseudoephedrine 3D Rotating Molecule	https://www.erowid.org/plants/show_molecule.php?i=ephedra/pseudoephedrine__.mol	Rotating 3D image of the Pseudoephedrine molecule.	Photo by Erowid, &copy; 1999 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Ephedra spp.
+REGULATED	No
+STATUS	Contains FDARestricted Chemical
+SCHEDULE	Un-Scheduled
+federalLawText :: Ephedra sinica is not specifically a controlled species in the United States. Live plants and seeds are bought and sold and are clearly legal in the US.	Ephedra contains a racemic mixture of ephedrine (pseudoephedrine and ephedrine). Ephedrine is controlled for sale in many countries and states because it is a stimulant.	
+In December 2003, the US FDA, after a previous failed attempt, announced its intention to ban supplement products containing ephedra and its extracts. The final rule took effect on April 12, 2004 [Federal Register 69(28)]. This action followed several years of the FDA's work to ban ephedrine-containing supplements. The FDA cited health problems, including some deaths, as the primary reason for the ban on this category of supplements. There is speculation that the increased scrutiny on ephedrine is also related to the War on Drugs effort to reduce availability of methamphetamine precursors. The restriction only applies to preparations sold for human use and does not apply to whole plants or other non-ingestion uses.	
+In April 2005, a federal judge ordered the FDA to reconsider its ban of ephedra-containing products. However, in August 2006 the U.S. Tenth Circuit Court of Appeals overruled the lower judge and reinstated the FDA's ban on the sale of all ephedra-containing products for human consumption.	
+
+FDA's Statement about Tenth Circuit Ruling - Aug 21 2006	Stephen Barrett's summary of this ruling - Aug 2006	Federal Judge Strikes Down Ephedra Ban - AP, Apr 14, 2005	FDA Announces Plan to Prohibit Ephedra Supplements - Dec 30 2003
+stateLaw :: null
+internationalLaw :: Germany	Ephedra (herb) is controlled by the AMG (like FDA), available only by prescription. (Mar 2007) (unconfirmed) (thanks WB)
+Netherlands	Ephedrine and Ephedra-alkaloid containing extracts have been added to the list of substances which may only be prescribed by doctors in the Netherlands. Over-the-counter sales are illegal as of Apr 6, 2004. Rivm.nl, Ephedra.nu, drugsweb.nl. (thanks D, U)

@@ -1,0 +1,11 @@
+[Substance]
+
+id :: 92
+name :: Monoamine Oxidase Inhibitors (MAOIs)
+url :: https://www.erowid.org/chemicals/maois/maois.shtml
+category :: Chemicals
+commonNames :: Moclobemide; Harmala; Nardil; Parnate; Marplan
+effectsClassification :: MAOI
+chemicalName :: Various
+description :: MAOIs inhibit naturally occurring enzymes in the human body. This inhibition leads to increased levels of chemicals such as the neurotransmitters serotonin and dopamine. By slowing their metabolism, MAOIs also allow chemicals such as N,N-DMT, to become active when taken orally.
+imageURL :: https://www.erowid.org/chemicals/images/chemicals_spacer_summary.jpg

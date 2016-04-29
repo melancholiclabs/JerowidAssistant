@@ -1,0 +1,28 @@
+[Substance]
+
+id :: 300
+name :: Oxymorphone
+url :: https://www.erowid.org/pharms/oxymorphone/oxymorphone.shtml
+category :: Pharms
+commonNames :: Numorphan (injectable solution); Opana (tablet)
+effectsClassification :: Opioid Analgesic
+chemicalName :: 4,5-epoxy-3,14-dihydroxy-17-methylmorphinan-6-one
+description :: Oxymorphone, a semisynthetic opioid analgesic 10 times more potent than morphine, is used in the treatment of moderate to severe pain. It is sometimes used as an adjunct to anesthesia.
+imageURL :: https://www.erowid.org/chemicals/images/chemicals_spacer_summary.jpg
+imagesURL :: https://www.erowid.org/pharms/oxymorphone/oxymorphone_images.shtml
+lawURL :: https://www.erowid.org/pharms/oxymorphone/oxymorphone_law.shtml
+
+[Images]
+imageEntryList :: Oxymorphone (Opana) Tablets	https://www.erowid.org/pharms/show_image.php?i=oxymorphone/oxymorphone_tablet__i2009e0419_disp.jpg	Three 10 mg oxymorphone (Opana) tablets bearing the imprint "E613 / 10" [Northeatern USA]	Photo by Streetpharmer. &copy; 2009 Erowid.org
+Oxymorphone (Opana) Tablets	https://www.erowid.org/pharms/show_image.php?i=oxymorphone/oxymorphone_tablet__i2008e1035_disp.jpg	An open bottle of 10 mg Oxymorphone (Opana) tablets with some spilled out. Tablets bear the imprint "E163 / 10". [USA]	Photo by Mekone. &copy; 2009 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Oxymorphone
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule II
+CLASSIFICATION	Opioid
+federalLawText :: Oxymorphone is Schedule II in the U.S. This means it is illegal to sell without a DEA license and illegal to buy or possess without a license or prescription.
+stateLaw :: null
+internationalLaw :: 

@@ -1,0 +1,43 @@
+[Substance]
+
+id :: 174
+name :: Mimosa spp.
+url :: https://www.erowid.org/plants/mimosa/mimosa.shtml
+category :: Plants
+botanicalClassification :: Family :Fabaceae (=Leguminosae; Mimosaceae), Genus :Mimosa, Species :tenuiflora (=hostilis); verrucosa; ophthalmocentracommonNames :: Mimosa; Jurema Preta (M. tenuiflora); Jurema Branca (M. verrucosa); Jurema Vermelha/Embira (M. ophthalmocentra)
+effectsClassification :: Psychedelic
+description :: Mimosa tenuiflora, M. verrucosa and M. ophthalmocentra are perennial drought-resistant shrubs. They have fern-like leafed branches and produce DMT in their root bark.
+imageURL :: https://www.erowid.org/plants/mimosa/images/mimosa_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/mimosa/mimosa_images.shtml
+lawURL :: https://www.erowid.org/plants/mimosa/mimosa_law.shtml
+
+[Images]
+imageEntryList :: Mimosa tenuiflora (hostilis) Rootbark	https://www.erowid.org/plants/show_image.php?i=mimosa/mimosa_hostilis6.jpg	Color photo of a collection of rootbark pieces layed out on a plate.	Photo by Murple, &copy; 2000 Erowid.org
+Mimosa tenuiflora (hostilis)	https://www.erowid.org/plants/show_image.php?i=mimosa/mimosa_hostilis3.jpg	Color photo of small Mimosa tenuiflora (hostilis) plant. Montreal.	Photo by Vincent Hicks, &copy; 2000 Erowid.
+Mimosa tenuiflora (hostilis)	https://www.erowid.org/plants/show_image.php?i=mimosa/mimosa_hostilis4.jpg	Close-up color photo of a branch of a small Mimosa tenuiflora (hostilis) plant. Montreal, Canada.	Photo by Vincent Hicks, &copy; 2000 Erowid.
+Mimosa tenuiflora (hostilis) Rootbark	https://www.erowid.org/plants/show_image.php?i=mimosa/mimosa_hostilis9.jpg	Color photo of Mimosa tenuiflora (hostilis) rootbark. [Brazil]	Photo by Maurice of Maya Ethnobotanicals, &copy; 2002 Erowid.org
+Mimosa tenuiflora (hostilis) rootbark	https://www.erowid.org/plants/show_image.php?i=mimosa/mimosa_hostilis7.jpg	Color photo of Brazilian Mimosa tenuiflora (hostilis) rootbark "Jurema Preta".	Photo by Maya Ethnobotanical, &copy; 2001 Erowid.org
+Mimosa tenuiflora (hostilis) rootbark	https://www.erowid.org/plants/show_image.php?i=mimosa/mimosa_hostilis8.jpg	Color photo showing several pieces of mature Mimosa tenuiflora (hostilis) (Jurema) rootbark [Mexico].	Photo by Maya Ethnobotanical, &copy; 2001 Erowid.org
+Mimosa tenuiflora (hostilis)	https://www.erowid.org/plants/show_image.php?i=mimosa/mimosa_hostilis5.jpg	Color photo of a Mimosa tenuiflora (hostilis) herbarium display by the Botanical Preservation Corps, Palenque Mexico.	Photo by Freeblood, &copy; 2000 Erowid.org
+Mimosa tenuiflora	https://www.erowid.org/plants/show_image.php?i=mimosa/mimosa_tenuiflora__i2012e0081_disp.jpg	Mimosa tenuiflora (=hostilis) in cultivation. [Australia]	Photo by D C Williams. &copy; 2012 Erowid.org
+Mimosa tenuiflora (hostilis)	https://www.erowid.org/plants/show_image.php?i=mimosa/mimosa_hostilis1.jpg	Black and white drawing of branch and flower.	Artist unknown.
+Mimosa tenuiflora (hostilis)	https://www.erowid.org/plants/show_image.php?i=mimosa/mimosa_hostilis2.jpg	Color drawing of a Mimosa tenuiflora (hostilis) plant.	Drawing from Plants of the Gods, by Schultes and Hofmann
+Mimosa tenuiflora Seeds	https://www.erowid.org/plants/show_image.php?i=mimosa/mimosa_hostilis_seeds__i2011e0663_disp.jpg	Close-up of several Mimosa tenuiflora (hostilis) seeds. [Durham, UK]	Photo by Farmer Dodds. &copy; 2011 Erowid.org
+Extracted DMT	https://www.erowid.org/plants/show_image.php?i=mimosa/dmt_crystals__i2010e0040_disp.jpg	A glass vial containing approximately 250 mg of DMT extracted from Mimosa tenuiflora (hostilis) Root Bark sitting on top of a U.S. dime for scale. [UT, USA]	Photo by El Bizzo. &copy; 2010 Erowid.org
+Extracted DMT	https://www.erowid.org/plants/show_image.php?i=mimosa/dmt_crystal__i2004e0664_disp.jpg	DMT crystals forming from dmt oil, extracted from Mimosa tenuiflora (hostilis) root bark. [Europe]	Photo by Anonymous. &copy; 2007 Erowid.org.
+Extracted DMT	https://www.erowid.org/plants/show_image.php?i=mimosa/dmt_extracted__i2006e0790_disp.jpg	DMT extracted from Mimosa tenuiflora (hostilis) root bark. [IL, USA]	Photo by Anonymous. &copy; 2007 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Mimosa tenuiflora (=hostilis)
+REGULATED	No
+STATUS	Ambiguous
+SCHEDULE	ContainsSchedule I Chemical
+CLASSIFICATION	Hallucinogen
+federalLawText :: Mimosa hostilis (and other Mimosa species) are not specifically controlled species in the United States. However, DMT, one of the chemicals contained in these plants, is Schedule I in the U.S. Practically, this means that if an extraction is done on DMT-containing Mimosa species, the resulting DMT is illegal to possess.	
+Live plants and seeds were bought and sold regularly prior to September 2012 when the DEA began cracking down on vendors selling Mimosa species. Reportedly, they first began seizing packages at customs and conducting tests to identify whether they contained controlled substances. Then at least one vendor was raided and Mimosa was seized, although no charges were filed. Because of this, most vendors have now stopped selling Mimosa root bark.	
+Large scale (especially commercial) extraction of DMT from Mimosa species falls into the realm of "clearly illegal" and would very likely be prosecuted. It is also possible that importation of DMT containing Mimosa species into the United States could result in problems with customs, especially if large volumes are imported.	
+Although not a legal issue, EBay changed its policy as of May 15, 2011 banning the sale of Mimosa hostilis root bark through their site.
+stateLaw :: Louisiana	Effective Aug 8, 2005 (signed into law Jun 28, 2005) Louisiana Act No 159 makes 40 plants illegal, including A. peregrina and A. colubrina, when intended for human consumption. The law specifically excludes the "possession, planting, cultivation, growing, or harvesting" of these plants if used "strictly for aesthetic, landscaping, or decorative purposes." (Text of HLS_05RS-52 and Update June 2005)
+Tennessee 	Tennessee did not pass the proposed bill that would have banned dozens of plants as "hallucinogenic" when intended for human consumption. Instead, they banned only Salvia divinorum. See Comments on New State Laws Controlling the Consumption of Hallucinogenic Plants.
+internationalLaw :: France	As of May 3, 2005, France added Banisteriopsis caapi, Peganum harmala, Psychotria viridis, Diplopterys cabrerana, Mimosa hostilis, Banisteriopsis rusbyana, harmine, harmaline, tetrahydroharmine (THH), haroml, and harmalol to the list of controlled substances. Text of new law additions.

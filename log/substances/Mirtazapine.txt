@@ -1,0 +1,25 @@
+[Substance]
+
+id :: 292
+name :: Mirtazapine
+url :: https://www.erowid.org/pharms/mirtazapine/mirtazapine.shtml
+category :: Pharms
+commonNames :: Remeron; Zispin; Avanza; Norset; Remergil
+effectsClassification :: Tetracyclic Antidepressant; Sedative
+chemicalName :: 1,2,3,4,10,14b-hexahydro-2-methylpyrazino[2,1-a] pyrido [2,3-c] benzazepine
+description :: Mirtazapine is an anti-depressant that is believed to work on serotonin and noradrenergic systems. It is not yet well known in the United States. Mirtazapine is also known to be a NaSSA (Noradrenergic and Specific Serotonin Antidepressant)
+imageURL :: https://www.erowid.org/pharms/mirtazapine/images/mirtazapine_summary1.jpg
+lawURL :: https://www.erowid.org/pharms/mirtazapine/mirtazapine_law.shtml
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Mirtazepine
+REGULATED	No
+STATUS	Prescription Only
+SCHEDULE	Un-Scheduled
+federalLawText :: Mirtazapine (Remeron) is unscheduled in the United States, but is available by prescription only. This means that sales and distribution are allowed only by those with a license and only to those with a prescription (according to FDA regulations). Possession is not illegal even without a prescription.
+stateLaw :: null
+internationalLaw :: Argentina	Mirtazapine is a List IV chemical. (unconfirmed) (thanks SC)
+Australia	Mirtazapine is prescription only (unconfirmed) (thanks YPMD)
+Romania	Prescription only, not illegal to possess but illegal to sell and buy without prescription. (unconfirmed) (thanks TA)
+Sweden	Mirtazapine is prescription only. (Fass.se).

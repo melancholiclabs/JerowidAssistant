@@ -1,0 +1,24 @@
+[Substance]
+
+id :: 346
+name :: Vinpocetine
+url :: https://www.erowid.org/smarts/vinpocetine/vinpocetine.shtml
+category :: Smarts
+commonNames :: Cavinton
+effectsClassification :: Memory; Vasodilator
+chemicalName :: ethyl apovincaminate
+description :: Vinpocetine is a derivative of vincamine from the periwinkle plant. It increases cerebral blood flow and is said to improve memory.
+imageURL :: https://www.erowid.org/smarts/images/smarts_spacer_summary.jpg
+imagesURL :: https://www.erowid.org/smarts/vinpocetine/vinpocetine_images.shtml
+chemistryURL :: https://www.erowid.org/smarts/vinpocetine/vinpocetine_chemistry.shtml
+
+[Images]
+imageEntryList :: Vinpocetine Containing Supplement	https://www.erowid.org/smarts/show_image.php?i=vinpocetine/vinpocetine_capsule__i2007e0717_disp.jpg	MemorAll, a dietary supplement that contains 10 mg of Vinpocetine in addition to vitamins B6 and B12, Folate, N-acetyl cysteine, Acetyl-L-Canitine, Phosphatidylserine, Gingko biloba, Baccopa Monniera Extract, Resveratrol, and Huperizine A. [California, USA]	Photo by Smurph. &copy; 2007 Erowid.org
+Vinpocetine 2D Molecule	https://www.erowid.org/smarts/show_molecule.php?i=vinpocetine/vinpocetine_2d.gif	Still 2D image of the Vinpocetine molecule.	Image by Erowid, &copy; 2001 Erowid.org
+Vinpocetine 3D Rotating Molecule	https://www.erowid.org/smarts/show_molecule.php?i=vinpocetine/vinpocetine__.mol	Rotating 3D image of the Vinpocetine molecule.	Image by Erowid, &copy; 2001 Erowid.org
+
+[Chemistry]
+chemTable :: NAME :	Vinpocetine
+CHEMICAL NAME :	14-ethoxycarbonyl-(3alpha,16alpha-ethyl)-14,15-eburnamine
+CHEMICAL FORMULA	C22H26N2O2
+moleculeURL :: null

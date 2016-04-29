@@ -1,0 +1,25 @@
+[Substance]
+
+id :: 229
+name :: Hydrangea
+url :: https://www.erowid.org/herbs/hydrangea/hydrangea.shtml
+category :: Herbs
+botanicalClassification :: Family :Saxifragaceae, Genus :Hydrangea, Species :aborescenscommonNames :: Seven Barks; Wild or Mountain Hydrangea
+uses :: Diuretic and Soothant. Hydrangea paniculata has been smoked to produce cannabis-like effects, but many species from this genus are dangerous if smoked, as they contain a cyanide compound when burned.
+description :: Hydrangea is a large shrub growing 3-5 m tall. Leaves are oval and green while flower clusters grow 6-10 inches long with white flowers in early season changing to purplish pink later.
+imageURL :: https://www.erowid.org/herbs/images/herbs_spacer_summary.jpg
+imagesURL :: https://www.erowid.org/herbs/hydrangea/hydrangea_images.shtml
+lawURL :: https://www.erowid.org/herbs/hydrangea/hydrangea_law.shtml
+
+[Images]
+imageEntryList :: Hydrangea paniculata	https://www.erowid.org/herbs/show_image.php?i=hydrangea/hydrangea_paniculata_leaf1.jpg	Color photo of a single Hydrangea paniculata leaf. [Latvia]	Photo by Aris89, &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Hydrangea
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Hydrangea is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: 

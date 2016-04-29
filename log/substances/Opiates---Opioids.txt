@@ -1,0 +1,50 @@
+[Substance]
+
+id :: 118
+name :: Opiates / Opioids
+url :: https://www.erowid.org/chemicals/opiates/opiates.shtml
+category :: Chemicals
+commonNames :: Various
+effectsClassification :: Euphoric Depressant; Analgesic
+chemicalName :: Various
+description :: Opiates and opioids are classes of depressant analgesics derived from or chemically similar to substances found in P. somniferum, the opium poppy. They include both naturally occurring and synthetic substances.
+imageURL :: https://www.erowid.org/chemicals/opiates/images/opiates_summary1.jpg
+imagesURL :: https://www.erowid.org/chemicals/opiates/opiates_images.shtml
+lawURL :: https://www.erowid.org/chemicals/opiates/opiates_law.shtml
+chemistryURL :: https://www.erowid.org/chemicals/opiates/opiates_chemistry.shtml
+
+[Images]
+imageEntryList :: Codeine Syrup & Opiate Syrup	https://www.erowid.org/pharms/show_image.php?i=codeine/codeine_syrup__i2007e0144_disp.jpg	A 500 ml bottle of "Squill Opiate Linctus" and a 500 ml bottle of Codeine Phosphate syrup both by Allied Drug Company (ADC). [Eastern Cape, South Africa]	Photo by Michael Knott. &copy; 2007 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Opiates
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule II
+CLASSIFICATION	Opiate
+federalLawText :: Opium is Schedule II in the United States. This means it is illegal to sell without a DEA license and illegal to buy or possess without a license or prescription.	
+Opium is specifically listed in Schedule II with the following wording:	
+
+1) Opium and opiate, and any salt, compound, derivative, or preparation of opium or opiate excluding apomorphine, thebaine-derived butorphanol, dextrorphan, nalbuphine, nalmefene, naloxone, and naltrexone, and their respective salts, but including the following:	
+
+(1) Raw opium 9600	(2) Opium extracts 9610	(3) Opium fluid 9620	(4) Powdered opium 9639	(5) Granulated opium 9640	(6) Tincture of opium	
+
+2) Any salt, compound, derivative, or preparation thereof which is chemically equivalent or identical with any of the substances referred to in paragraph (b) (1) of this section, except that these substances shall not include the isoquinoline alkaloids of opium.	
+3) Opium poppy and poppy straw.	
+4) [. . .]	
+5) Concentrate of poppy straw (the crude extract of poppy straw in either liquid, solid or powder form which contains the phenanthrene alkaloids of the opium poppy), 9670.	
+
+Until 2000, it had been illegal in the U.S. to prescribe opiates for the management of opiate addiction. In June, 2005, the DEA announced a further loosening of the rules for allowing doctors to prescribe maintenance opiates to addicts: Federal Register Vol 70, Num 120.
+stateLaw :: null
+internationalLaw :: Canada	Opium is schedule I in Canada. (Note: Canadian schedules are very different than U.S. schedules)
+
+[Chemistry]
+chemTable :: NAME :	Codeine
+CHEMICAL NAME :	(5alpha,6alpha)-7,8-Didehydro-4,5-epoxy-3-methoxy-17-methylmorphinan-6-ol
+ALTERNATE CHEMICAL NAMES : 	methylmorphine, morphine monomethyl ether
+CHEMICAL FORMULA	C18H21NO3
+MOLECULAR WEIGHT	299.37
+MELTING POINT	154-156&#176; (monohydrate)
+From the Merck Index 12th Edition
+moleculeURL :: https://www.erowid.org/pharms/codeine/images/archive/codeine_3d_mid.jpg

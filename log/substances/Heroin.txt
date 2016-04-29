@@ -1,0 +1,114 @@
+[Substance]
+
+id :: 83
+name :: Heroin
+url :: https://www.erowid.org/chemicals/heroin/heroin.shtml
+category :: Chemicals
+commonNames :: Dope; Junk; Smack; H
+effectsClassification :: Euphoric Depressant; Analgesic
+chemicalName :: diacetylmorphine
+description :: Heroin is a powerful opiate pain-killer that produces euphoria and blissful apathy. It is known for leading to addiction and difficult physical withdrawal symptoms.
+imageURL :: https://www.erowid.org/chemicals/heroin/images/heroin_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/heroin/heroin_basics.shtml
+imagesURL :: https://www.erowid.org/chemicals/heroin/heroin_images.shtml
+lawURL :: https://www.erowid.org/chemicals/heroin/heroin_law.shtml
+doseURL :: https://www.erowid.org/chemicals/heroin/heroin_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/heroin/heroin_chemistry.shtml
+
+[Basics]
+description :: Heroin is a semi-synthetic opiate derived from morphine. Intravenously-injected heroin causes a rush of powerful euphoria lasting a few minutes, followed by sedation lasting a few hours. When injected IM or insufflated, there is a slower onset and a less intense peak of effects.  Heroin is primarily produced in Colombia, Mexico, Southeast Asia (especially Burma), and Afghanistan. Depending on how it is processed, it ranges from a thick sticky "black tar" to a brown, tan, or white powder. Street material varies greatly in potency from as high as 95% purity to as low as 5 or 10% purity. Heroin is most commonly injected (intravenously, intramuscularly, or subcutaneously), smoked, or insufflated (snorted). [ Main Heroin Vault ]
+descriptionSections :: dose	Dose depends greatly on the purity of the heroin and level of tolerance. Common IV doses generally fall between 5 and 10 mg; smoked heroin doses may range from 15 to 25 mg. Heroin users typically use small quantities of new material to determine potency and reduce the risk of overdose.
+price	According to the United Nations Office of Drug Control, in 2005 heroin cost between $40 and $350 per gram retail in the United States, while the price in the United Kingdom was much lower at about $27 per gram.
+law	Heroin is illegal to possess and sell in the United States (Schedule I) and in most other countries.
+chemistry	The chemical name for heroin is diacetylmorphine (C21H23NO5). It is a semi-synthetic opiate made by extracting morphine from the opium produced by opium poppies and then acetylating the morphine into diacetylmorphine (heroin).
+pharmacology	Heroin itself is believed to be inactive, but after administration it is rapidly metabolized into the mu-opioid agonists 6-monoacetylmorphine and morphine. Heroin delivers a more intense "rush" and more potent analgesia than morphine, probably because it crosses the blood-brain barrier more rapidly. It is also more soluble in water than morphine, and forms a more concentrated solution. Smoking yields rapid delivery, but relatively low bioavailability as a considerable amount of the drug is destroyed in combustion.
+production	Production Summary Needed.
+history	Opiates have been used for thousands of years for their euphoric and analgesic effects. Heroin was first synthesized in 1874 by English chemist C.R. Wright. But its commercial value was first recognized in 1897 by Heinrich Dreser and Felix Hoffman at the Bayer pharmaceutical laboratory -- the same researchers who invented aspirin, which is is made by a similar process. Heroin was intended to be a less-addictive substitute for other common opiates.  In the late nineteenth and early twentieth centuries, heroin was common in over-the-counter medicines, but it was made illegal in the United States in 1924 through the Heroin Act. In the second half of the twentieth century, heroin was widely stigmatized as the quintessential illicit drug, as images of urban heroin addicts were propagated by media reports.
+terminology	The Substance:Heroin; Dope; Smack; Junk; Horse; H; Chiva. The Experience:No common terms known.
+effects :: The effects of heroin vary greatly depending on the quality of material, route of administration, the person, and the dose. Possible effects may include feelings of euphoria and well-being, relaxation, sedation, and analgesia. Negative effects may include nausea or vomiting (sometimes severe), constipation, dizziness, and blackout.
+effectsSections :: onset	Intravenous injection can produce strong effects in as little as 3-5 seconds. Smoking produces milder effects within 5-15 seconds. Intramuscular and subcutaneous injection produce a more gradual onset in 5-10 minutes. Insufflated heroin produces effects within 2-10 minutes. Oral use can take 60-90 minutes to produce effects.
+duration	When injected intravenously, smoked, or insufflated, heroin produces a wash of euphoria followed by a period of sedation lasting for 2-4 hours. Intramuscular and subcutaneous injection typically lack the initial wave of intense euphoria, and cause feelings of sedation lasting three to five hours.
+visuals	Visuals Summary Needed.
+problems :: Heroin use can cause death by respiratory failure. Several factors can increase the risk of overdose, including the strong tolerance effects that develop with repeated use. Tolerance effects wear off over time, and users who take a break may find that a previously-safe dose is now dangerously large. The purity of street heroin is also highly variable (and may have risen in recent years) and users often do not know how much heroin they are taking.  Street heroin is frequently impure, and some adulterants are dangerous. Several hundred heroin users died in 2006 in the U.S. after unwittingly taking heroin cut with fentanyl, a powerful synthetic opiate.  Repeatedly snorting heroin can cause severe damage to the nose, especially with long term exposure. Smoking heroin can cause breathing difficulties.
+problemsSections :: contraindications	Do not operate heavy machinery. Do Not Drive. Heavy or frequent opiate use during pregnancy may cause dependence in the fetus, who may undergo withdrawal after birth. It has also been associated with lower birth weight and increased infant mortality.
+addiction	One of the most problematic aspects of heroin is that it causes rapid tolerance and physical dependence. In combination with its euphoric effects, this leads many people to become addicted, having difficulty controlling their own use. Once physically dependent, discontinuation generally causes extremely unpleasant (but not life-threatening) withdrawal symptoms such as nausea, vomiting, insomnia, diarrhea, and sweating.
+long	Major problems associated with repeated recreational use of heroin include loss of interest in other activities (a type of anhedonia), increase in amount of pain medications (especially opiates) needed for medical purposes, and side problems from over use of central nervous system depressants. The most commonly described long term problems associated with heroin are addiction, physical dependence, and compulsive behaviors related to addiction. Those addicted to heroin will often have lasting health complications not from the direct pharmacological effects of the drug itself, but from injuries, diseases, and traumas that occured as a result of intoxication and willingness to engage in risky behavior while high, to achieve the heroin high, or to acquire the substance.  Intra-Venous (IV) drug use can lead to exposure to viral hepatitis and other serious, life-threatening diseases, injection site infections, collapsed and scarred/hardened veins, damage to heart, and related issues. Other health problems associated with recurring use of heroin are: insomnia, depression, weight gain, and general health decline with worsening diet. Another major problem is that strong physical addiction and unreliable access to the drug can result in withdrawal symptoms, including shaking, an overwhelming feeling of anxiety, physical discomfort or pain, inability to sleep, use of other sedatives and depressants to reduce the severity of the withdrawal symptoms, diarrhea, cold flashes, and a strong desire to find and take any opiate of any quality.
+death	All methods of using heroin have resulted in deaths from depressed breathing and general autonomic suppression from overdoses. Risks of death from using heroin are substantially worse when heroin is injected. Intra-Venous (IV) use of heroin results in fatalities from allergic reactions to contaminants, injection-site infections, and overdoses associated with large variations in concentration of heroin in the materials uses. Some harm reduction organizations strongly advocate that heroin users switch to smoking it to avoid IV-specific risks.
+
+[Images]
+imageEntryList :: Heroin Tar	https://www.erowid.org/chemicals/show_image.php?i=heroin/heroin_tar__i2005e1425_disp.jpg	A lump of black tar heroin from Mexico. [Mexico]	Photo by Anonymous. &copy; 2007 Erowid.org.
+Black Tar Heroin	https://www.erowid.org/chemicals/show_image.php?i=heroin/heroin_tar__i2010e0534_disp.jpg	Three grams of black tar heroin with equipment. [AZ, USA]	Photo by MobTies. &copy; 2011 Erowid.org
+Heroin Tar	https://www.erowid.org/chemicals/show_image.php?i=heroin/heroin_tar__i2006e0997_disp.jpg	1.6 grams of black tar heroin next to a ruler. [CA, USA]	Photo by Borisb73. &copy; 2007 Erowid.org.
+Heroin Balls	https://www.erowid.org/chemicals/show_image.php?i=heroin/heroin_tar__i2008e1553_disp.jpg	Three $20 balls of black tar heroin, one unopened, one with wrapping open, and one unwrapped. [CO, USA]	Photo by Roberto. &copy; 2009 Erowid.org
+Two Forms of Heroin in the US 2013	https://www.erowid.org/chemicals/show_image.php?i=heroin/heroin_two_forms__i2013e0501_disp.jpg	Two types of heroin being sold in the US Midwest: a grey soft powder of medium-low potency, and a tan rocked powder of medium-strong to strong potency. Both were analyzed and both were found to be cut with quinine. The greyer powder was also cut with lactose.	Photo by Hammilton. &copy; 2013 Erowid.org
+Heroin	https://www.erowid.org/chemicals/show_image.php?i=heroin/heroin__i2005e1520_disp.jpg	Small plastic bag containing heroin next to a needle. [Spain]	Photo by Eduardo Hidalgo. &copy; 2006 Erowid.org
+Heroin	https://www.erowid.org/chemicals/show_image.php?i=heroin/heroin_powder__i2008e1117_disp.jpg	3.01 grams of 80-90% purity Heroin #3 (quantative analysis confirmed) on a digital scale. [Rotterdam, The Netherlands]	Photo by Psych0naut. &copy; 2009 Erowid.org
+Heroin Chunks	https://www.erowid.org/chemicals/show_image.php?i=heroin/heroin_chunk__i2008e1116_disp.jpg	A pile containing 3.01 grams of heroin #3 (80-90% purity reportedly confirmed by quantative analysis). [Netherlands]	Photo by Psych0naut. &copy; 2009 Erowid.org
+Heroin	https://www.erowid.org/chemicals/show_image.php?i=heroin/heroin_powder__i2005e1516_disp.jpg	Chunks of tan-colored heroin. [Spain]	Photo by Eduardo Hidalgo. &copy; 2007 Erowid.org
+Heroin Powder	https://www.erowid.org/chemicals/show_image.php?i=heroin/heroin_powder__i2009e0868_disp.jpg	Light brown heroin powder next to a Euro coin. [Europe]	Photo by Anonymous. &copy; 2009 Erowid.org
+Heroin Powder	https://www.erowid.org/chemicals/show_image.php?i=heroin/heroin_powder__i2005e1410_disp.jpg	Two forms of Asian heroin, light brown and white. [Mexico]	Photo by Anonymous. &copy; 2007 Erowid.org.
+Heroin Powder	https://www.erowid.org/chemicals/show_image.php?i=heroin/heroin_package__i2006e1303_disp.jpg	Small envelope of heroin labelled "SORTED", bought in the U.K. [U.K.]	Photo by Jake. &copy; 2009 Erowid.org
+Heroin	https://www.erowid.org/chemicals/show_image.php?i=heroin/heroin4.jpg	Color photo of several small packets of Heroin wrapped in cellophane.	Photo by Anonymous Photographer. &copy; 2001 Erowid.org
+Heroin Chunk	https://www.erowid.org/chemicals/show_image.php?i=heroin/heroin_chunk__i2010e0184_disp.jpg	A 1.7 gram chunk of heroin powder. [MO, USA]	Photo by Teefizzle. &copy; 2011 Erowid.org
+Heroin	https://www.erowid.org/chemicals/show_image.php?i=heroin/heroin5.jpg	Small color photo showing four different varieties of heroin powder.	U.S. government Public Domain photo.
+Heroin	https://www.erowid.org/chemicals/show_image.php?i=heroin/heroin6.jpg	Small color photo showing chunky brown powder heroin.	U.S. government Public Domain photo.
+Heroin	https://www.erowid.org/chemicals/show_image.php?i=heroin/heroin7.jpg	Small color photo showing off-white powder heroin.	U.S. government Public Domain photo.
+Heroin	https://www.erowid.org/chemicals/show_image.php?i=heroin/heroin8.jpg	Small color photo showing white powder heroin.	U.S. government Public Domain photo.
+Heroin	https://www.erowid.org/chemicals/show_image.php?i=heroin/heroin2.jpg	Color photo of white heroin powder.	Image courtesy StreetDrugs.org.
+Heroin	https://www.erowid.org/chemicals/show_image.php?i=heroin/heroin3.jpg	Color photo of brown heroin powder.	Image courtesy StreetDrugs.org.
+Pharmaceutical Heroin	https://www.erowid.org/chemicals/show_image.php?i=heroin/heroin_ampule__i2007e1730_disp.jpg	5 and 30 mg ampules of freeze-dried pharmaceutical diamorphine hydrochloride (heroin) for medical use. [United Kingdom]	Photo by Pete Chapman. GFDL
+Heroin	https://www.erowid.org/chemicals/show_image.php?i=heroin/heroin1.gif	Color photo of heroin pills, powder, and balloons.	U.S. government Public Domain photo.
+Heroin Ad	https://www.erowid.org/chemicals/show_image.php?i=heroin/heroin_ad1.gif	Black and white Bayer Pharmaceuticals ad for Aspirin and Heroin.	Photographer unknown.
+Heroin Book	https://www.erowid.org/chemicals/show_image.php?i=heroin/heroin_book1.jpg	Color photo of the cover of a book titled "H is for Heroin".	Photographer unknown.
+Teen Age Dope Slaves	https://www.erowid.org/chemicals/show_image.php?i=heroin/heroin_propaganda_novel1.jpg	Color photo of the cover of a book titled "Teen-Age Dope Slaves".	StileProject.com (? now a porn site?).
+Heroin & Terpin Hydrate Scripts	https://www.erowid.org/chemicals/show_image.php?i=heroin/heroin_script1.jpg	Color photo of a 19th Century heroin prescription for Heroin & Terpin Hydrate (a combination of Codeine and tripelennamine).	Photo by Wonderama. &copy; 2004 Erowid.org
+Heroin 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=heroin/heroin_2d.jpg	Still 2D image of the Heroin molecule.	Image by Erowid. &copy; 1999 Erowid.org
+Heroin 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=heroin/heroin_3d.jpg	Still 3D image of the Heroin molecule.	Image by Erowid. &copy; 1999 Erowid.org
+Heroin 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=heroin/heroin__.mol	Rotating 3D image of the Heroin molecule.	Image by Erowid. &copy; 1999 Erowid.org
+Heroin 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=heroin/heroin_2d_black.gif	Another 2D molecule image of Heroin (black background).	Image by Erowid. &copy; 1999 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Heroin
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule I
+CLASSIFICATION	Opium Derivative
+federalLawText :: Heroin is Schedule I in the United States. This means it is illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license.
+stateLaw :: null
+internationalLaw :: Australia	Heroin is controlled in Australa, but we have found conflicting information about its exact legal status. Heroin was listed in Schedule I of the Narcotic Drugs Act of 1967, but we are unclear whether the control system has changed since then.
+Brazil	Heroin is listed as a controlled substance, making production, distribution, or possession illegal. (thanks P)
+Canada	Heroin is Schedule I in Canada. However, a unanimous Supreme Court decision in 2011 declared that there is a right under Section 7 of the Charter to have access to clean injection sites, if they are available. See http://www.bbc.co.uk/news/world-us-canada-15130282, and http://scc.lexum.org/en/2011/2011scc44/2011scc44.html. (last updated Sep 30 2011)
+Czech Republic	We have been told that the Czech Republic has decriminalized 1.5g or less of heroin and the punishment is similar in scale to a parking ticket. Sales, production, and larger quantity possession are still crimes. See http://www.praguepost.com/news/3194-new-drug-guidelines-are-europes-most-liberal.html. (thanks zb) (last updated Oct 13, 2012)
+Finland	Heroin is a controlled substance, making production, distribution, and possession illegal without a license. See Finland Law.
+Germany (Deutschland)	in May 2009, Germany made it legal to prescribe heroin to addicts who are over 23 years old, been addicted for at least 5 years, and have tried 2 other therapies to get off heroin. See HanfJournal.de. (thanks t) (last updated may 31, 2009)
+Italy (Italia)	Listed in Tabella I of "Tabelle delle sostanze stupefacenti e psicotrope", making it illegal to possess, purchase, or sell. (see Tabelle delle sostanze stupefacenti e psicotrope. (thanks a) (last updated Dec 16, 2015)
+New Zealand	Heroin is Class A in New Zealand. (thanks MM)
+Norway	Heroin is Schedule I in Norway and illegal to buy or possess without a special license. There have been some projects to establish "needle rooms" in Norway by the government where heroin addicts are allowed to get fresh needles for injecting heroin, but the chemical is still Schedule I. See Norway Law. (thanks Y)
+Portugal	Effective July 2001, personal use of heroin was decriminalized by Law 30/2000 (see text of law). Possession of less than 1 g is not regarded as a criminal offense, though the substance is liable to be seized and the possessor can be referred to mandatory treatment. Sale, or possession of quantities greater than the personal possession limit, are criminal offenses punishable by jail time. (thanks P)
+Switzerland	Heroin is legally available for addicts under an ongoing
+Heroin is legally available for addicts under an ongoing 	experiment. (see Switzerland's Liberal Drug Policy Seems To Work, Study Says)
+U.K.	Heroin is Schedule II/Class A in the U.K. It is illegal to buy, sell or possess without a license.
+
+[Dose]
+doseTable :: Insufflated (Snorted) Heroin Dosages (tentative)
+&nbsp;w/ no tolerancew/ heavy tolerance
+Common5 - 40 mg20 - 60 mg
+Strong20 - 60 mg50 - 150 mg
+--&nbsp;&nbsp;
+Redosing5 - 10 mg10 - 20mg
+Onset : 30-120 seconds to first alert, 10 to 30 minutes to peak
+Redosing Time : 30 to 180 minutes after last dose
+Duration : 3 - 5 hours
+doseText :: Although insufflation (snorting/sniffing) is perhaps the most common way heroin is now used in the Americas and Europe, we have little information about the pure dosages which are used. Often heroin users will be taught about how much to insufflate from the person they first try it with and then simply titrate their own dose as they wish by increasing or decreasing the size of the line used. Our guesstimate is that doses for insufflation are probably between 10 and 50 mg for less tolerant people and 20 to 80 mg for those who use frequently.       Insufflated (Snorted) Heroin Dosages (tentative) &nbsp;w/ no tolerancew/ heavy tolerance Common5 - 40 mg20 - 60 mg Strong20 - 60 mg50 - 150 mg --&nbsp;&nbsp; Redosing5 - 10 mg10 - 20mg    Onset : 30-120 seconds to first alert, 10 to 30 minutes to peak Redosing Time : 30 to 180 minutes after last dose Duration : 3 - 5 hours   Heroin users describe chopping out "pin"-thin lines of heroin and then redosing every 30-60 minutes: getting high, coming down a little, snorting another line to get high, coming down a little. This is done over the course of an evening or a day and may feel like chasing the peak high that is achieved. Heroin use is often accompanied by other drug use such as alcohol, tobacco, or cannabis use. Combining heroin or other opioids with stimulants is sometimes called "speed balling" and many users report very powerful euphoric effects but also can be very dangerous at high doses or when done frequently. Using stimulants and depressants together is dangerous both in terms of acute physical risks and can lead to or be part of very serious addictions.  For some information about dosage at tolerance levels, see Heroin Tolerance Dosage Levels.        Intravenous Heroin Dosages &nbsp;w/ no tolerancew/ heavy tolerance Common5 - 10 mg20 - 40 mg Strong8 - 15 mg40 - 60 mg    Onset : 10 - 20 seconds Duration : 4 - 5 hours   The charts above shows intravenous (IV) dosages in milligrams (mg) for individuals with different levels of tolerance. Because people quickly develop tolerance to the effects of heroin, and because batches of heroin vary from extremely low (2-3%) to extremely high (98%) purity, dosages will vary dramatically depending on whether an individual has been using regularly, and for how long. The numbers on this page are approximations only and should not be used to determine actual dosages.  For some information about dosage at tolerance levels, see Heroin Tolerance Dosage Levels.        Smoked/Vaporized Heroin Dosages Common15 - 25 mg Strong20 - 30 mg    Onset : 5 - 10 seconds Peak Onset : 10 minutes Peak Duration : 5 - 6 minutes Duration : 3 - 5 hours         Oral Heroin Dosages Common50 - 70 mg     Although oral use of heroin is uncommon among party and weekend users, it is sometimes used this way as a pain medication, by field workers, and by addicts trying to ween themselves off.
+notes :: null
+
+[Chemistry]
+chemTable :: NAME :	Diacetylmorphine
+CHEMICAL NAME :	(5alpha,6alpha)-7,8-Didehydro-4,5-epoxy-17-methylmorphinan-3,6-diol diacetate (ester)
+ALTERNATE CHEMICAL NAMES : 	 heroin, diamorphine, acetomorphine
+CHEMICAL FORMULA	C21H23NO5
+MOLECULAR WEIGHT	369.42
+MELTING POINT	243-244&#176; (hydrochloride monohydrate-fine crystals)
+From the Merck Index 12th Edition
+moleculeURL :: https://www.erowid.org/chemicals/heroin/images/archive/heroin_3d_mid.jpg

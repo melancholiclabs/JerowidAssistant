@@ -1,0 +1,24 @@
+[Substance]
+
+id :: 285
+name :: Lorcaserin
+url :: https://www.erowid.org/pharms/lorcaserin/lorcaserin.shtml
+category :: Pharms
+commonNames :: Belviq, Lorquess
+effectsClassification :: Anorectic; Potential Hallucinogen
+chemicalName :: (1R)-8-chloro-1-methyl-2,3,4,5-tetrahydro-1H-3-benzazepine
+description :: Lorcaserin (Belviq) is a new serotonergic anorectic approved by the FDA as a weight-loss drug in June 2012. According to the FDA, it also has "CNS hallucinogenic properties". It was placed in Schedule IV on May 7, 2013. It is expected to become commercially available in June, 2013.
+imageURL :: https://www.erowid.org/pharms/lorcaserin/images/flurazepam_summary1.jpg
+lawURL :: https://www.erowid.org/pharms/lorcaserin/lorcaserin_law.shtml
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Zolpidem
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule IV
+CLASSIFICATION	Hallucinogenic Weightloss Drug
+federalLawText :: Lorcaserin was approved by the FDA in June 2012 and the DEA added it to Schedule IV in the US in May of 2013. This means it is illegal to sell without a license and illegal to possess without a valid license or prescription.	
+The DEA cited the following in its determination to add Lorcaserin to Schedule IV: "Clinical studies indicated that lorcaserin, similar to comparator drugs zolpidem (Schedule IV) and ketamine (Schedule III) produced significant increases on positive subjective measures (VAS for 'high' and 'good drug effects') as well as an increase on the VAS for 'hallucinations.' Lorcaserin, as well as zolpidem and ketamine, significantly increased reports of 'sedation' on the subjective scale of the ARCI, compared to placebo. In a human abuse potential study, incidence of euphoria resulting from lorcaserin administration is similar to the incidence reported following zolpidem (Schedule IV) administration (13–16%) and lower than that following ketamine (Schedule III) administration (50%)."
+stateLaw :: null
+internationalLaw :: 

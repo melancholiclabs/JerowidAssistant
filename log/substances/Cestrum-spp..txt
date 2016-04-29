@@ -1,0 +1,16 @@
+[Substance]
+
+id :: 149
+name :: Cestrum spp.
+url :: https://www.erowid.org/plants/cestrum/cestrum.shtml
+category :: Plants
+botanicalClassification :: Family :Solanaceae, Genus :Cestrum, Species :nocturnum (=hirtellum); parqui (=salicifolium, virgatum)commonNames :: Jessamine; Palquit
+effectsClassification :: Unknown
+description :: Cestrum parqui and C. nocturnum are mid-sized bushes native to Central and South America. Various parts including the leaves, bark, berries, and flowers are used in smoking blends, as tea, or ingested as a hallucinogen. There is little specific info about the use of this plant as a psychoactive.
+imageURL :: https://www.erowid.org/plants/cestrum/images/cestrum_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/cestrum/cestrum_images.shtml
+
+[Images]
+imageEntryList :: Cestrum auriantiacum	https://www.erowid.org/plants/show_image.php?i=cestrum/cestrum_auriantiacum1.jpg	Color photo of the leaves and yellow/orange flowers of Cestrum auriantiacum.	Photo &copy; Trout. Used by Erowid with permission.
+Cestrum nocturnum	https://www.erowid.org/plants/show_image.php?i=cestrum/cestrum_nocturnum_flower1.jpg	Color Photo showing the white flowers of Cestrum nocturnum.	Photo by Jean-Jacques, &copy; 2005 Erowid.org
+Cestrum nocturnum	https://www.erowid.org/plants/show_image.php?i=cestrum/cestrum_nocturnum_fruit1.jpg	Close-up color photo showing the white fruit of Cestrum nocturnum.	Photo by Jean-Jacques, &copy; 2005 Erowid.org

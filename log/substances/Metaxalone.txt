@@ -1,0 +1,11 @@
+[Substance]
+
+id :: 289
+name :: Metaxalone
+url :: https://www.erowid.org/pharms/metaxalone/metaxalone.shtml
+category :: Pharms
+commonNames :: Skelaxin
+effectsClassification :: Muscle Relaxant
+chemicalName :: 5-[(3,5- dimethylphenoxy) methyl]-2-oxazolidinone
+description :: Metaxalone is a centrally acting skeletal-muscle relaxant, used to relieve pain and discomfort caused by muscle injuries.
+imageURL :: https://www.erowid.org/pharms/images/pharms_spacer_summary.jpg

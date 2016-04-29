@@ -1,0 +1,23 @@
+[Substance]
+
+id :: 275
+name :: Ethchlorvynol
+url :: https://www.erowid.org/pharms/ethchlorvynol/ethchlorvynol.shtml
+category :: Pharms
+commonNames :: Placidyl
+effectsClassification :: Depressant; Sedative
+chemicalName :: ethyl 2-chlorovinyl ethynyl carbinol
+description :: Ethchlorvynol has been used to treat insomnia. Due to its barbiturate-like problems concerning abuse and overdose, U.S. manufacturers discontinued it in 1999.
+imageURL :: https://www.erowid.org/pharms/images/pharms_spacer_summary.jpg
+lawURL :: https://www.erowid.org/pharms/ethchlorvynol/ethchlorvynol_law.shtml
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Ethchlorvynol
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule IV
+CLASSIFICATION	Depressant
+federalLawText :: Ethchlorvynol (Placidyl) is Schedule IV in the U.S. This means it is illegal to sell without a license and illegal to possess without a valid license or prescription.
+stateLaw :: null
+internationalLaw :: 

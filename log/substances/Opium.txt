@@ -1,0 +1,29 @@
+[Substance]
+
+id :: 119
+name :: Opium
+url :: https://www.erowid.org/chemicals/opium/opium.shtml
+category :: Chemicals
+commonNames :: Joy Plant; Pen Yan; Paregoric
+effectsClassification :: Euphoric Depressant; Analgesic
+chemicalName :: Mixture
+description :: Opium is a naturally occurring analgesic harvested as a latex from ripe Papaver somniferum (opium poppy) pods. It has a long history of use by humans as an oral and smoked psychoactive.
+imageURL :: https://www.erowid.org/chemicals/opium/images/opium_summary1.jpg
+imagesURL :: https://www.erowid.org/chemicals/opium/opium_images.shtml
+
+[Images]
+imageEntryList :: Black Tar Opium	https://www.erowid.org/chemicals/show_image.php?i=opium/opium2.jpg	Color photo of a dark brown 3 gram lump of opium, soft at room temperature. Fingerprints visible from handling.	Photo by Anonymous Photographer. &copy; 2001 Erowid.org
+Opium	https://www.erowid.org/chemicals/show_image.php?i=opium/opium1.jpg	Color photo of a dark colored lump of opium.	Photo &copy; StreetDrugs.org, used by Erowid with permission.
+Black Tar Opium	https://www.erowid.org/chemicals/show_image.php?i=opium/opium_blacktar1.jpg	Color photo of chunk of black tar opium.	Photo by Anonymous Photographer. &copy; 2000 Erowid.org
+Drying Opium	https://www.erowid.org/chemicals/show_image.php?i=opium/opium_fresh__i2005e0111_disp.jpg	2 pics of opium drying: the first fresh, the second 6 hours later. [Romania]	Photo by Dudi. &copy; 2007 Erowid.org
+'Red Rock Opium' vs Dragon's Blood Incense	https://www.erowid.org/chemicals/show_image.php?i=opium/opium_redrock3.jpg	Side by side comparison of material sold as 'Red Rock Opium' and Dragon's Blood Incense.	Photo by Erowid. &copy; 2000 Erowid.org
+'Red Rock Opium' v.s. Dragon's Blood Incense	https://www.erowid.org/chemicals/show_image.php?i=opium/dragons_blood_incense3.jpg	Color photo comparing a small pile of ground material which was sold as 'Red Rock Opium', with a small pile of ground Dragon's Blood Incense.	Photo by Erowid. &copy; 2000 Erowid.org
+'Red Rock Opium'	https://www.erowid.org/chemicals/show_image.php?i=opium/opium_redrock1.jpg	Color photo of a chunk of 'red rock opium'.	Photo by Anonymous Photographer. &copy; 2000 Erowid.org
+'Red Rock Opium'	https://www.erowid.org/chemicals/show_image.php?i=opium/opium_redrock2.jpg	Color photo of a chunk of 'red rock' opium.	Photo by Anonymous Photographer. &copy; 2000 Erowid.org
+Dragon's Blood Incense	https://www.erowid.org/chemicals/show_image.php?i=opium/dragons_blood_incense1.jpg	Close-up color photo of a chunk of Dragon's Blood Incense.	Photo by Erowid. &copy; 2000 Erowid.org
+Dragon's Blood Incense	https://www.erowid.org/chemicals/show_image.php?i=opium/dragons_blood_incense2.jpg	Color photo of a packet of Dragon's Blood Incense along with several chunks of the incense, some polished, some not.	Photo by Erowid. &copy; 2000 Erowid.org
+"White Rock Opium" 	https://www.erowid.org/chemicals/show_image.php?i=opium/opium_whiterock1.jpg	Color photo of about 3 ounces of "cut white rock opium".	Photo by Speedracer. &copy; 2000 Erowid.org
+Laudanum Bottle	https://www.erowid.org/chemicals/show_image.php?i=opium/laudanum_bottle__i2013e0264_disp.jpg	A small corked laudanum bottle from Spain labelled "Laudano". [Spain]	Photo by Psilocybe. &copy; 2013 Erowid.org
+Woman in Thailand Smoking Opium	https://www.erowid.org/chemicals/show_image.php?i=opium/opium_smoker2.jpg	Men are more common opium smokers than women. A guide identified this woman as smoking opium, though pipes of this sort are also used to smoke tobacco.	Photo by John W. Allen.
+T-shirt of Thai Opium Smoker	https://www.erowid.org/chemicals/show_image.php?i=opium/opium_smoker1.jpg		Photo by John W. Allen.
+1970s Fake Opium Incense	https://www.erowid.org/chemicals/show_image.php?i=opium/fake_opium_incense__i2015e0070_disp.jpg	Vintage incense from the 1970s that was sold in headshops as opium. Saved from 1970s, photo taken in 2013.	Photo by RevMeO. &copy; 2015 Erowid.org

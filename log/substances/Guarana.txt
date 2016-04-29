@@ -1,0 +1,21 @@
+[Substance]
+
+id :: 159
+name :: Guarana
+url :: https://www.erowid.org/plants/guarana/guarana.shtml
+category :: Plants
+botanicalClassification :: Family :Sapindaceae, Genus :Paullinia, Species :cupanacommonNames :: Guarana; Fruits of Youth (seeds)
+effectsClassification :: Stimulant
+description :: Guarana is a creeping rainforest shrub thats seeds contain high levels of caffeine and other xanthines. It has a long history of use in S. America as a stimulant.
+imageURL :: https://www.erowid.org/plants/guarana/images/guarana_summary1.jpg
+lawURL :: https://www.erowid.org/plants/guarana/guarana_law.shtml
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Guarana
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Guarana (Paullinia cupana) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: United Kingdom	We have been told that guarana is available as an ingredient in various supplements which are available in health food shops. It is also available in chewing gum and along with caffeine in some 'energy' enhancing products. (unconfirmed) (thanks D)

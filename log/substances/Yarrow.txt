@@ -1,0 +1,26 @@
+[Substance]
+
+id :: 248
+name :: Yarrow
+url :: https://www.erowid.org/herbs/yarrow/yarrow.shtml
+category :: Herbs
+botanicalClassification :: Family :Compositae (Composite), Genus :Achillea, Species :millefoliumcommonNames :: Bloodwort; Milfoil; Sanguinary; Stanchgrass
+uses :: Diaphoretic and Fever Reducer; Lowers Blood Pressure; Stimulates digestion; Tones Blood Vessels; Urinary Antisceptic; Can be used externally to treat wounds.
+description :: Yarrow is a perennial herb growing from 8 in. to 3 feet tall. Feathery, delicate leaves resemble tiny fern fronds. Stems branch near the top to support cream colored flowers, 1/4 inch across. Contains thujone in essential oil.
+imageURL :: https://www.erowid.org/herbs/images/herbs_spacer_summary.jpg
+imagesURL :: https://www.erowid.org/herbs/yarrow/yarrow_images.shtml
+lawURL :: https://www.erowid.org/herbs/yarrow/yarrow_law.shtml
+
+[Images]
+imageEntryList :: Achillea millefolium	https://www.erowid.org/herbs/show_image.php?i=yarrow/achillea_millefolium1.jpg	Color photo of A. millefolium in bloom.	Photo by Alberto Tucci, Erbeofficinali.com, &copy; 2001 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Yarrow
+REGULATED	No
+STATUS	Food Approved
+SCHEDULE	Un-Scheduled
+federalLawText :: Yarrow (Achillea millefolium) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.	
+Yarrow (Achillea millefolium) is approved for food use as a spice or seasoning in the U.S. and appears in the FDA's list of substances Generally Recognized As Safe (GRAS).
+stateLaw :: null
+internationalLaw :: 

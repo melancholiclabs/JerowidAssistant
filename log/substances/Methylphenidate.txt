@@ -1,0 +1,42 @@
+[Substance]
+
+id :: 290
+name :: Methylphenidate
+url :: https://www.erowid.org/pharms/methylphenidate/methylphenidate.shtml
+category :: Pharms
+commonNames :: Ritalin; Concerta; Tranquilyn
+effectsClassification :: CNS Stimulant
+chemicalName :: alpha-phenyl-2-piperidineacetic acid methyl ester; methyl phenidylacetate
+description :: Methylphenidate is a central nervous system stimulant widely prescribed to treat attention deficit disorder. It is also used in the treatment of narcolepsy, mild depression, and in combination with other drugs in the treatment of chronic pain.
+imageURL :: https://www.erowid.org/pharms/methylphenidate/images/methylphenidate_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/methylphenidate/methylphenidate_images.shtml
+lawURL :: https://www.erowid.org/pharms/methylphenidate/methylphenidate_law.shtml
+
+[Images]
+imageEntryList :: 10 mg Methylphenidate Tablets	https://www.erowid.org/pharms/show_image.php?i=methylphenidate/methylphenidate_tablet1.jpg	Photo showing a pile of 10 mg methylphenidate tablets, bearing the imprint "TEC / 59Y", on a digital scale. [Canada]	Photo by Romulaz, &copy; 2005 Erowid.org
+Methylphenidate (Concerta) Tablets	https://www.erowid.org/pharms/show_image.php?i=methylphenidate/methylphenidate_tablet__i2005e0777_disp.jpg	Yellow 18 mg and white 36 mg extended-release methylphenidate (Concerta) tablets. [USA]	Photo by Mars Windyhorse. &copy; 2009 Erowid.org
+Methylphenidate (Ritalin)	https://www.erowid.org/pharms/show_image.php?i=methylphenidate/methylphenidate_capsule1.jpg	Color photo of 20 mg Ritalin LA (time release) Capsules by Novartis bearing the imprint "NVR/R20".	Photo by Mbarr &copy; 2003 erowid.org
+Methylphenidate	https://www.erowid.org/pharms/show_image.php?i=methylphenidate/methylphenidate1.jpg	Color photo of a 10 mg methylphenidate tablet, brand unknown.	Photo from the the Drug and Natural Medicine Advisor
+Methylphenidate	https://www.erowid.org/pharms/show_image.php?i=methylphenidate/ritalin1.jpg	Color photo of a 5 mg Ritalin tablet.	Photo from the the Drug and Natural Medicine Advisor
+Methylphenidate 2D Molecule	https://www.erowid.org/pharms/show_molecule.php?i=methylphenidate/methylphenidate_2d.gif	Still 2D image of the Methylphenidate molecule.	Image by Erowid, &copy; Erowid 1999.
+Methylphenidate 3D Rotating Molecule	https://www.erowid.org/pharms/show_molecule.php?i=methylphenidate/methylphenidate__.mol	Rotating 3D image of the Methylphenidate molecule.	Image by Erowid, &copy; Erowid 1999.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Methylphenidate
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule II
+CLASSIFICATION	Stimulant
+federalLawText :: Methylphenidate (Ritalin) is Schedule II in the United States. This means it is illegal to sell without a DEA license and illegal to buy or possess without a license or prescription.
+stateLaw :: null
+internationalLaw :: Australia	Controlled, requires prescription or license. Prescriptions recorded by central government. Illegal to buy or possess Methylphenidate without prescription. Illegal to sell or give without a license.
+Brazil	Methylphenidate is schedule A3, requiring a prescription for purchase and a license to sell. We have been told that it can sometimes be purchased without a prescription, though this is illegal. See http://www.anvisa.gov.br/divulga/informes/2009/Resolu%E7%E3o%20RDC%2040_nova.pdf?id=35907&word and http://www.anvisa.gov.br/medicamentos/controlados/conceito.htm. (thanks RM, P) (last updated July 3 2011)
+Canada	Methylphenidate is Schedule III in Canada (see List of Schedule II substances). (Note: Canadian schedules are very different than U.S. schedules) (last updated Oct 27, 2014)
+Germany	Methylphenidate is BTMG Anlage 3 in Germany making it illegal to possess without a BTM prescription. It is sold as Ritalin, Concerta, and Equasym and widely used for children suffering from ADD. (thanks AliceD, PM)
+Israel	Although some media outlets have said that a ruling by the Ethics Committee of the Medical Histadrut (Federation) determined that methylphenidate can be sold without prescription, this is an error and methylphenidate still requires a prescription to purchase and possess in Israel. See http://www.ynet.co.il/articles/0,7340,L-4025610,00.html. (thanks a) (last updated Apr 27 2011)
+Netherlands	Methylphenidate is controlled and is illegal to possess without a prescription. One visitor reports that its use as a non-prescribed study drug in the Netherlands is increasing as of 2010. (thanks tbh) (last updated Jun 17 2010)
+New Zealand	Methylphenidate is a Schedule 2, Class B controlled substance and is only available by prescription in New Zealand. (thanks sm) (last updated Dec 27, 2011)
+Norway	Methylphenidate is Schedule II in Norway, making it illegal to buy or possess without a prescription and illegal to distribute without a license. Commonly prescribed for ADHD-treatment. The penalty for possessing methylphenidate illegally varies from case to case, but first time offenders are unlikely to receive jail time. See "Narkotikalisten" (English; "The Drug List"), by the Norwegian
+Methylphenidate is Schedule II in Norway, making it illegal to buy or possess without a prescription and illegal to distribute without a license.  Commonly prescribed for ADHD-treatment.  The penalty for possessing methylphenidate illegally varies from case to case, but first time offenders are unlikely to receive jail time.  See "Narkotikalisten" (English; "The Drug List"), by the Norwegian	government: http://www.lovdata.no/cgi-wift/ldles?doc=/sf/sf/sf-19780630-0008.html#map001. (thanks VA)
+United Kingdom (UK, Britain)	Methylphenidate (Ritalin) is controlled as a Class B drug in the United Kingdom. See Law U.K.. (thanks b) (last updated Apr 17 2011)

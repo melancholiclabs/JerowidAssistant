@@ -1,0 +1,22 @@
+[Substance]
+
+id :: 218
+name :: EUCALYPTUS
+url :: https://www.erowid.org/herbs/eucalyptus/eucalyptus.shtml
+category :: Herbs
+botanicalClassification :: Family :Myrtaceae, Genus :Eucalyptus, Species :globuluscommonNames :: Blue Gum; Fever Tree
+uses :: Treats respiratory ailments and skin problems; Expectorant; Cooling oil; Germicide; Antiseptic; Astringent
+description :: An evergreen growing up to 300 feet tall with a straight, smooth, gray trunk and leathery leaves. Leaves are bluish green, smooth and lance-shaped and emit a punget aroma when crushed.
+imageURL :: https://www.erowid.org/herbs/images/herbs_spacer_summary.jpg
+lawURL :: https://www.erowid.org/herbs/eucalyptus/eucalyptus_law.shtml
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Eucalyptus
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Eucalyptus (Eucalyptus globulus) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.	
+Eucalyptus oil is approved for food use as a flavoring agent in the U.S. and appears in the FDA's list of substances Generally Recognized As Safe (GRAS).
+stateLaw :: null
+internationalLaw :: 

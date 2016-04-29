@@ -1,0 +1,11 @@
+[Substance]
+
+id :: 132
+name :: Xenon
+url :: https://www.erowid.org/chemicals/xenon/xenon.shtml
+category :: Chemicals
+commonNames :: none
+effectsClassification :: Dissociative Anaesthetic Gas
+chemicalName :: Xenon (Xe)
+description :: Xenon is an elemental gas best known for its use in lighting products and various medical procedures. When inhaled, the effects are similar to inhaling nitrous oxide. Xenon is rare and expensive, and its effects are short lasting.
+imageURL :: https://www.erowid.org/chemicals/xenon/images/xenon_summary1.jpg

@@ -1,0 +1,133 @@
+[Substance]
+
+id :: 46
+name :: Amphetamine
+url :: https://www.erowid.org/chemicals/amphetamines/amphetamines.shtml
+category :: Chemicals
+commonNames :: Speed; Dex; Adderall; Dexamphetamine; Vyvanse
+effectsClassification :: Stimulant
+chemicalName :: amphetamine
+description :: Amphetamine is a strong physical and mental stimulant available widely in both prescription and street forms. It is the standard against which all other stimulants are measured.
+imageURL :: https://www.erowid.org/chemicals/amphetamines/images/amphetamines_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/amphetamines/amphetamines_basics.shtml
+effectsURL :: https://www.erowid.org/chemicals/amphetamines/amphetamines_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/amphetamines/amphetamines_images.shtml
+healthURL :: https://www.erowid.org/chemicals/amphetamines/amphetamines_health.shtml
+lawURL :: https://www.erowid.org/chemicals/amphetamines/amphetamines_law.shtml
+chemistryURL :: https://www.erowid.org/chemicals/amphetamines/amphetamines_chemistry.shtml
+
+[Basics]
+description :: Amphetamines include both the specific chemical 'amphetamine' and the general class of chemicals which share structural similaries. Amphetamines generally cause strong physical and mental stimulation, keeping users awake and alert for many hours, and some amphetamines cause mood lift / euphoria. Because they increase wakefulness, various amphetamines have been used by the military, by pilots, truck drivers, and other workers to keep functioning past their normal limits.  Amphetamines are also used to treat Attention Deficit Disorder and can have the seemingly paradoxical effect of quieting and calming users. Common amphetamines include Dexedrine (d-amphetamine), methamphetamine, and adderall (dl-amphetamine). Substantial amounts of pharmaceutical amphetamines are diverted from medical use to recreational and work-related uses and methamphetamine is produced in huge quantities in underground labs around the world. [ Main Amphetamine Vault ]
+descriptionSections :: dose	Dose Summary Needed.
+price	Methamphetamine is sold for $100-300 USD retail per gram for good quality crystals and $50-100 USD for wholesale or 'family' prices. Dexedrine is sold for .75 - 2$ per 10 mg dose by prescription and $1-10 per pill on the underground market.
+law	Amphetamines and methamphetamine are Schedule 2 in the United States and their possession requires a valid prescription. Most countries control amphetamines tightly as medicines.
+chemistry	Chemistry Summary Needed.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	Amphetamine was first synthesized by German chemist L. Edeleano in 1887 (originally named phenylisopropylamine). In the 1930's amphetamines were first marketed as 'benzedrine' in an over-the-counter inhaler to treat congestion and in the late 30's, amphetamine was prescribed for the treatment of narcolepsy and ADHD (attention deficit hyperactivity disorder). Amphetamine use grew rapidly when amphetamines were distributed to soldiers during World War II. In 1971, amphetamines were scheduled in the United States and prescriptions became required for possession.
+terminology	The Substance:Amphetamine; Speed; Dex; Adderall; Dexamphetamine; Bennies; Dexies; Black Beauty; Jollies. The Experience:Speeding; Tweaking; Spinning; Up.
+effects :: Effects Summary Needed.
+effectsSections :: onset	Onset Summary Needed.
+duration	Duration Summary Needed.
+visuals	Visuals Summary Needed.
+problems :: Problems Summary Needed.
+problemsSections :: contraindications	Addiction Potential Summary Needed.
+addiction	Addiction Potential Summary Needed.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Effects]
+duration :: null
+positiveEffects :: increased alertness	increased motivation	increased sociability / talkativeness	positive mood shift, sense of well-being	euphoria (at high doses)	increased sex drive
+neutralEffects :: reduced appetite (anorexia)	dilated pupils	flushing	loss of coordination (at high doses)	restlessness
+negativeEffects :: increased aggressiveness	paranoia	dry mouth	headache	increased heart rate (tachycardia)	increased breathing rate	increased blood pressure	rise in body temperature	fever and sweating	diarrhea or constipation	blurred vision	impaired speech	dizziness	uncontrollable movements (twitching, jerking, tremors, etc...)	insomnia	numbness	irregular heartbeat (palpitations, arrhythmia)	impotence / inability to achieve erection in men (high dose or chronic use)	convulsions (high dose)	dry, itchy skin (chronic use)	acne, sores (chronic use)	pallor (high dose or chronic use)	psychotic episodes (rare except in overdoses or after chronic use)
+description :: Amphetamines are stimulants that affect the central nervous system. Medically they are used to treat depression, obesity, and other conditions.	
+In addition to the physical effects of amphetamines, users report feeling restless, anxious and moody. Increased doses intensify the effects, and users may become excited or talkative and experience a false sense of self-confidence or superiority. They may behave in a bizarre manner; some become aggressive and hostile.	
+Prolonged use of amphetamines can lead to malnutrition and vitamin deficiencies, skin disorders, ulcers, lack of sleep, weight loss and depression. Frequent use of large amounts of amphetamines can cause brain damage that results in speech and thought disturbances.	
+Note: "Speed" is used to refer to amphetamine, methamphetamine, methylphenidate (Ritalin), and other strong stimulants that feel something like amphetamine.	
+
+
+Addiction and Withdrawal #	
+Users of large amounts of amphetamines over a long period of time can develop an amphetamine psychosis, which is a mental disorder similar to paranoid schizophrenia. The psychosis is manifested by hallucinations, delusions, and paranoia. Bizarre, sometime violent, behavior is exhibited by those with amphetamine psychosis. Symptoms usually disappear within a few weeks after drug use stops.	
+Withdrawal Symptoms	Amphetamines have the potential to produce tolerance, which means that increased amounts of the drug are needed to achieve the desired effects. Withdrawal symptoms can occur when use of amphetamines is stopped abruptly. Users may experience fatigue; long, disturbed periods of sleep; irritability; intense hunger, and moderate to severe depression. The length and severity of the depression is related to how much and how often amphetamines were used.	
+
+craving	exhaustion	depression	mental confusion	restlessness and insomnia	deep or disturbed sleep lasting up to 48 hours	extreme hunger	psychotic reaction	anxiety reactions	
+
+Treatment (from FADAA)	Medical treatments include the use of antidepressant agents such as imipramine, desipramine, amitriptyline, dosepin, trazodone, or fluoxetine (Prozac). These affect serotonin, the neurotransmitter in the brain that deals with both depression and drug craving.	
+Sedatives such as Dalmane, chloral hydrate, Librium, phenobarbital, or even Valium are used, very carefully, on a short-term basis to treat anxiety or sleep disturbance problems. Antipsychotic medications such as Haldol, Thorazine, and others are also used to buffer the effects of unbalanced dopamine, the neurotransmitter that moderates paranoia and pleasurable sensation.	
+In addition to treating the physical and psychological aspects of craving, treatment providers should stress group counseling and peer pressure for compulsive amphetamine users, as these forms of therapy work well for this population.	
+
+Effects of use During Pregnancy #	
+It is possible for babies of mothers who use amphetamines to be born with:	
+
+cardiac defects	cleft palate	birth defects	addiction and withdrawal	
+
+
+Overdose #	(from PDR 1998's amphetamine prescription information)	Individual patient response to amphetamines varies widely. While toxic symptoms occasionally occur	as an idiosyncracy at dosages as low as 2 mg, they are rare with doses of less than 15 mg; 30 mg can produce	severe reactions, yet doses of 400 to 500 mg are not necessarily fatal. In rats, the oral LD50 of dextroamphetamine sulfate is 96.8 mg/kg.	
+Symptoms	Manifestations of acute overdosage with amphetamines include restlessness, tremor, hyperreflexia, rapid respiration, confusion, assaultiveness, hallucinations, panic states, hyperpyrexia, and rhabdomyolysis.	
+Fatigue and depression usually follow the central stimulation.	
+Cardiovascular effects include arrhythmias, hypertension or hypotension, and circulatory collapse.		Gastrointestinal symptoms include nausea, vomiting, diarrhea, and abdominal cramps. Fatal poisoning is usually preceded by convulsions and coma.	
+Treatment	Consult with a Certified Poison Control Center for up-to-date guidance and advice. Management of acute amphetamine intoxication is largely symptomatic and includes gastric lavage, administration of activated charcoal, administration of a cathartic and sedation. Experience with hemodialysis or peritoneal dialysis is inadequate to permit recommendation in this regard. Acidification of the urine increases amphetamine excretion, but is believed to increase risk of acute renal failure if myoglobinuria is present. If acute, severe hypertension complicates amphetamine overdosage, administration of intravenous phentolamine (Regitine (r) CIBA) has been suggested. However a gradual drop in blood pressure will usually result when sufficient sedation has been achieved. Chlorpromazine antagonizes the central stimulation effects of amphetamines and can be used to treat amphetamine intoxication.
+experienceReports :: null
+
+[Images]
+imageEntryList :: 30 mg Adderall Tablets	https://www.erowid.org/chemicals/show_image.php?i=amphetamines/adderall_tablet3.jpg	Photo of six orange 30 mg Adderall tablets (containing Amphetamine Aspartate, Amphetamine Sulfate, Dextroamphetamine Saccharate, and Dextroamphetamine Sulfate) and bearing the imprint "AD || 30". (AL, USA)	Photo by Synesthetic. &copy; 2005 Erowid.org
+30 mg Adderall Tablets	https://www.erowid.org/chemicals/show_image.php?i=amphetamines/adderall_tablet4.jpg	Photo showing 30 mg Adderall tablets bearing the imprint "AD || 30". [USA]	Photo by Patrick McGee. &copy; 2005 Erowid.org
+10 mg Adderall Tablets	https://www.erowid.org/chemicals/show_image.php?i=amphetamines/adderall_tablet1.jpg	Color photo of two 10 mg Adderall tablets (containing 2.5 mg each of Amphetamine Aspartate, Amphetamine Sulfate, Dextroamphetamine Saccharate, and Dextroamphetamine Sulfate) and bearing the imprint "AD || 10". (USA)	Photo by Anonymous Photographer. &copy; 2002 Erowid.org
+30 mg Adderall Capsule	https://www.erowid.org/chemicals/show_image.php?i=amphetamines/adderall_capsule__i2005e0500_disp.jpg	Photo of three orange 30 mg extended release Adderall capsules (containing Amphetamine Aspartate, Amphetamine Sulfate, Dextroamphetamine Saccharate, and Dextroamphetamine Sulfate). [USA]	Photo by Benzoguy. &copy; 2007 Erowid.org
+25 mg Adderall Capsules	https://www.erowid.org/chemicals/show_image.php?i=amphetamines/adderall_capsule1.jpg	Photo showing several 25 mg Adderall capsules bearing the imprint "Adderall / XR || 25 mg". [USA]	Photo by DJ Chill. &copy; 2005 Erowid.org
+Adderall XR Capsule	https://www.erowid.org/chemicals/show_image.php?i=amphetamines/adderall_capsule__i2011e0055_disp.jpg	Adderall XR 15 mg capsule broken open, showing beads. [CO, USA]	Photo by Benzophenaz. &copy; 2011 Erowid.org
+Adderall Tablets	https://www.erowid.org/chemicals/show_image.php?i=amphetamines/adderall_tablet2.jpg	Color photo of several 10 mg and one 20 mg Adderall tablet (containing Amphetamine Aspartate, Amphetamine Sulfate, Dextroamphetamine Saccharate, and Dextroamphetamine Sulfate) bearing the imprint "AD || 10" and "AD || 20". (USA)	Photo by Anonymous Photographer. &copy; 2002 Erowid.org
+30 mg Generic Adderall Tablets	https://www.erowid.org/chemicals/show_image.php?i=amphetamines/amphetamine_tablet1.jpg	Photo of seven 30 mg generic Adderall tablets (containing Amphetamine Aspartate, Amphetamine Sulfate, Dextroamphetamine Saccharate, and Dextroamphetamine Sulfate) and bearing the imprint "b / 974 || 30". (FL, USA)	Photo by Anthony Anderson. &copy; 2005 Erowid.org
+10 mg Generic Adderall Tablets	https://www.erowid.org/chemicals/show_image.php?i=amphetamines/amphetamine_tablet3.jpg	Photo of a pile of blue 10 mg generic Adderall tablets (containing Amphetamine Aspartate, Amphetamine Sulfate, Dextroamphetamine Saccharate, and Dextroamphetamine Sulfate) and bearing the imprint "b / 972 || 10". (CA, USA)	Photo by Kisps. &copy; 2005 Erowid.org
+10 mg Generic Adderall Tablets	https://www.erowid.org/chemicals/show_image.php?i=amphetamines/amphetamine_tablet2.jpg	Photo of 10 mg generic Adderall tablets (containing Amphetamine Aspartate, Amphetamine Sulfate, Dextroamphetamine Saccharate, and Dextroamphetamine Sulfate) and bearing the imprint "b / 972 || 10". (USA)	Photo by Tetraset. &copy; 2005 Erowid.org
+Amphetamines	https://www.erowid.org/chemicals/show_image.php?i=amphetamines/amphetamines1.jpg	Color photo of 6 different amphetamine capsules.	U.S. government Public Domain photo.
+Amphetamine powder	https://www.erowid.org/chemicals/show_image.php?i=amphetamines/amphetamine_powder__i2008e0217_disp.jpg	4g of "pep" (adulterated amphetamine) in a 4 cm diameter bag. [Germany]	Photo by sniPe. &copy; 2009 Erowid.org
+Dexedrine	https://www.erowid.org/chemicals/show_image.php?i=amphetamines/dexedrine1.jpg	Color photo of two 15 mg Dexedrine capsules containing Dextroamphetamine.	Photo by Anonymous Photographer. &copy; 2000 Erowid.org
+Dexamphetamine	https://www.erowid.org/chemicals/show_image.php?i=amphetamines/dexamphetamine1.jpg	Color photo of a bottle of prescription 5 mg dexamphetamine tablets. Australia.	Photo by MC Assassin. &copy; 2000 Erowid.org
+Dexamphetamine	https://www.erowid.org/chemicals/show_image.php?i=amphetamines/dexamphetamine4.jpg	Color photo of a bottle of prescription 5 mg dexamphetamine tablets. Australia.	Photo by Tim Moran. &copy; 2002 Erowid.org
+Dexamphetamine	https://www.erowid.org/chemicals/show_image.php?i=amphetamines/dexamphetamine2.jpg	Color photo of a bottle of prescription DextroStat tablets. Iowa.	Photo by Osyrus. &copy; 2000 Erowid.org
+Dexamphetamine Capsules	https://www.erowid.org/chemicals/show_image.php?i=amphetamines/dexamphetamine_capsule__i2007e1033_disp.jpg	Dexedrine (Dextroamphetamine) Capsules 15 mg [CA, USA]	Photo by crenshaw387. &copy; 2007 Erowid.org
+Dexamphetamine	https://www.erowid.org/chemicals/show_image.php?i=amphetamines/dexamphetamine3.jpg	Close-up color photo of a bottle of prescription 5 mg DextroStat tablets. Iowa.	Photo by Osyrus. &copy; 2000 Erowid.org
+Amphetamine 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=amphetamines/amphetamine_2d.gif	Still 2D image of the Amphetamine molecule.	Image by Erowid, &copy; Erowid 2001.
+Amphetamine 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=amphetamines/amphetamine_3d.jpg	Still 3D image of the Amphetamine molecule.	Image by Erowid, &copy; Erowid 1999.
+Amphetamine 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=amphetamines/amphetamine__.mol	Rotating 3D image of the Amphetamine molecule.	Image by Erowid, &copy; Erowid 1999.
+
+[Health]
+notes :: null
+deaths :: null
+warnings :: null
+cautions :: null
+benefits :: null
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Amphetamine
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule II
+CLASSIFICATION	Stimulant
+federalLawText :: Amphetamine is Schedule II in the United States. This means it is illegal to sell without a DEA license and illegal to buy or possess without a license or prescription.
+stateLaw :: null
+internationalLaw :: Brazil	Amphetamines are schedule A3, requiring a prescription for purchase and a license to sell. We have been told that they can sometimes be purchased without a prescription, though this is illegal. See http://www.anvisa.gov.br/divulga/informes/2009/Resolu%E7%E3o%20RDC%2040_nova.pdf?id=35907&word and http://www.anvisa.gov.br/medicamentos/controlados/conceito.htm. (thanks RM, P) (last updated July 3 2011)
+Canada	In Aug 2005, Canada reinstated sales of Adderall XR after banning their sales in Feb 2005. See Health Canada News Release Allowing Adderall XR back on market and BBC. Immediate release Adderall is not approved for sale in Canada. Amphetamine is Schedule I in Canada (was Schedule III until 2012). (Note: Canadian schedules are very different than U.S. schedules). (last updated Oct 1 2012)
+China	Amphetamine is disallowed as a prescription drug in China, with a limited exception for tourists carrying prescriptions in from other countries. Chinese pharmacies do not carry amphetamine-based medicines. It is possible for longer term visitors to have prescriptions imported by mail, but this requires complex paperwork and administrative approval. Taiwan is reportedly more lenient, but amphetamine prescription drugs are still unavailable. (unconfirmed) (thanks J) (last updated May 12, 2013)
+Germany	Amphetamine is BTM Anlage 3 in Germany making it illegal to possess without a BTM prescription. (unconfirmed) (thanks PM)
+Israel	Israel banned four "families" of substances and their derivatives in July 2010. The families are cathinones, methcathinones, amphetamines, and methamphetamines. The new rules are designed to preemptively ban new drugs before they are sold in Israel. See http://www.jpost.com/Israel/Article.aspx?id=181254. (Thanks A) (last updated May 12 2011)
+New Zealand	Amphetamine was recategorized from class B2 to the stricter class B1 controlled substance on Aug 2 2005. See legislation.govt.nz. (thanks M)
+Norway	Amphetamine is Schedule II in Norway and illegal to buy or possess without a prescription. See Norway Law. (thanks Y)
+Poland	Amphetamine is included in the Appendix II-P group of Poland's Narcotic Drugs and Psychotropic Substances Law, making it illegal to buy, sell, possess, or use. (thanks T)
+Portugal	Effective July 2001, personal use of amphetamine without a prescription was decriminalized by Law 30/2000 (see text of law). Possession of less than 1 g is not regarded as a criminal offense, though the substance is liable to be seized and the possessor can be referred to mandatory treatment. Sale, or possession of quantities greater than the personal possession limit, are criminal offenses punishable by jail time. (thanks P)
+U.K.	Amphetamine is Schedule 2/Class B in the U.K. making it illegal to possess without a prescription. Note that U.K. law changes any Class B drug to a Class A drug if it is prepared for injection. See U.K. Law.
+
+[Chemistry]
+chemTable :: NAME :	Amphetamine
+CHEMICAL NAME :	(&#177;)-alpha-Methylbenzeneethanamine
+ALTERNATE CHEMICAL NAMES : 	 dl-alpha-methylphenethylamine, 1-phenyl-2-aminopropane, beta-aminopropylbenzene
+ALTERNATE CHEMICAL NAMES : 	 racemic desoxy-nor-ephedrine, Actedron, Allodene, Adipan, Sympatedrine
+ALTERNATE CHEMICAL NAMES : 	 Psychedrine, Isomyn, Isoamyne, Mecodrin, Norephedrane, Novydrine, Elastonon
+ALTERNATE CHEMICAL NAMES : 	 Ortedrine, Phenedrine, Profamina, Propisamine, Sympamine, Simpatedrin
+CHEMICAL FORMULA	C9H13N
+MOLECULAR WEIGHT	135.21
+From the Merck Index 12th Edition
+moleculeURL :: https://www.erowid.org/chemicals/amphetamines/images/archive/amphetamine_3d_mid.jpg

@@ -1,0 +1,45 @@
+[Substance]
+
+id :: 13
+name :: 2C-T-21
+url :: https://www.erowid.org/chemicals/2ct21/2ct21.shtml
+category :: Chemicals
+commonNames :: None
+effectsClassification :: Psychedelic Phenethylamine
+chemicalName :: 4-(2-fluoroethylthio)-2,5-dimethoxyphenethylamine
+description :: 2C-T-21 is a synthetic psychedelic. It is very uncommon and has only a short history of human use.
+imageURL :: https://www.erowid.org/chemicals/2ct21/images/2ct21_summary1.jpg
+imagesURL :: https://www.erowid.org/chemicals/2ct21/2ct21_images.shtml
+lawURL :: https://www.erowid.org/chemicals/2ct21/2ct21_law.shtml
+chemistryURL :: https://www.erowid.org/chemicals/2ct21/2ct21_chemistry.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Images]
+imageEntryList :: 2C-T-21 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=2ct21/2ct21_2d.gif	Still 2D image of the 2C-T-21 molecule.	Image by Erowid. &copy; 2006 Erowid.org
+2C-T-21 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=2ct21/2ct21_3d.jpg	Still 3D image of the 2C-T-21 molecule.	Image by Erowid. &copy; 2004 Erowid.org
+2C-T-21 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=2ct21/2ct21__.mol	Rotating 3D image of the 2C-T-21 molecule.	Image by Erowid. &copy; 2004 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+2C-T-21
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Possible Analog
+federalLawText :: 2C-T-21 is unscheduled in the United States. It is possible that it could be considered an analog (of 2C-T-7), in which case, sales for human consumption or possession with the intent to ingest could be prosecuted under the Federal Analogue Act.	
+In 2004 several cases related to research chemicals were pending in U.S. federal court. A chemical supplier was federally charged in fall of 2004 with intent to distribute "2C-T-2 1 [2,5-Dimethoxy-4- (2-fluoroethylthio)Phenethylamine HCL],...controlled substance analogues as defined by Title 21, United States Code, Section 802(32)(A), knowing that the substances were intended for human consumption." -- See indictment of American Chemical Supply. On March 21, 2005, Burton plead guilty to Count One of the indictment. See DEA press release about subsequent sentencing. We are unaware of any cases against individuals for possession alone (10/2/2006).
+stateLaw :: null
+internationalLaw :: 
+
+[Chemistry]
+chemTable :: NAME :	2C-T-21
+CHEMICAL NAME :	2,5-dimethoxy-4-(2-fluoroethylthio)phenethylamine
+CHEMICAL FORMULA	C12H18NO2SF
+moleculeURL :: https://www.erowid.org/chemicals/2ct21/images/archive/2ct21_3d_mid.jpg
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

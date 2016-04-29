@@ -1,0 +1,112 @@
+[Substance]
+
+id :: 41
+name :: Absinthe
+url :: https://www.erowid.org/chemicals/absinthe/absinthe.shtml
+category :: Chemicals
+commonNames :: Green Fairy; Green Goddess; La F&eacute;e Verte
+effectsClassification :: Alcoholic Depressant Intoxicant
+chemicalName :: Mixture
+description :: Absinthe is a distilled spirit infused with herbs including the thujone-containing Artemisia absinthium. Many describe its effects as significantly different than alcohol alone, but the nature of thujone's effects are much disputed. It was popularized in the late 19th century and associated with the bohemian artistic movements of the time.
+imageURL :: https://www.erowid.org/chemicals/absinthe/images/absinthe_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/absinthe/absinthe_basics.shtml
+imagesURL :: https://www.erowid.org/chemicals/absinthe/absinthe_images.shtml
+lawURL :: https://www.erowid.org/chemicals/absinthe/absinthe_law.shtml
+chemistryURL :: https://www.erowid.org/chemicals/absinthe/absinthe_chemistry.shtml
+
+[Basics]
+description :: Absinthe is a green liquor, made by soaking wormwood (Artemisia absinthium) and other herbs in grain alcohol. Its psychoactive effects may be the result of both the alcohol and the presence of thujone, the primary active ingredient in wormwood. Whether or not thujone is psychoactive in the concentrations found in commercial absinthe (typically less than 10 mg/liter) is a matter of debate. The drink was popular in Europe and America in the 19th century before many countries outlawed it due to concerns about the health effects of thujone. In the late 1980s absinthe began to reappear in many European countries.  Because of the bitter taste of Absinthe, it is traditionally served poured over a perforated spoon full of sugar and then diluted with water. Another traditional method includes dipping the spoonful of sugar in the absinthe then lighting it on fire, the melting sugar drips into the Absinthe, lighting it on fire, only to be put out by adding water. [ Main Absinthe Vault ]
+descriptionSections :: dose	Dose Summary Needed.
+price	Absinthe containing thujone is difficult to find for sale inside the United States, but is available from suppliers in other countries, many of whom are willing to ship into the U.S. Prices depend on the brand and the thujone content, and can range from $10 a bottle to over $200 per bottle.
+law	As of 2007, the de facto position of the FDA and the Alcohol and Tobacco Tax and Trade Bureau is to allow the sale of wormwood-infused alcoholic beverages that contain less than 10 mg/L thujone in the finished product, which they consider to meet the "thujone free" requirement. The sale of absinthe has become increasingly common in Europe over the last several years, and many countries have adopted the thujone levels established by the EU.
+chemistry	Chemistry Summary Needed.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	Elixirs resembling absinthe have existed for thousands of years. Pythagoras and Hippocrates may have both recommended wormwood and wormwood tinctures for a variety of ailments. Legend has it that the modern recipe for Absinthe was developed in 1792 by a French doctor named Pierre Ordinaire. A few years later, it made its way into the hands of Major Dubied and his nephew Henri-Louis Pernod, who developed several distilleries and were the first to produce modern Absinthe on a large scale. Absinthe sale was prohibited in many countries in the late nineteenth and early twentieth centuries amid fears that it was neurotoxic. Beginning in the late twentieth century, several countries began allowing the sale of absinthe-style liquors again, and it is undergoing something of a resurgence of popularity.
+terminology	The Substance:Absinthe; Green Fairy; Green Goddess; La Fe&eacute; Verte. The Experience:No common terms known.
+effects :: Effects Summary Needed.
+effectsSections :: onset	Onset Summary Needed.
+duration	Duration Summary Needed.
+visuals	Visuals Summary Needed.
+problems :: Problems Summary Needed.
+problemsSections :: contraindications	Contraindications Summary Needed.
+addiction	Addiction Potential Summary Needed.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Images]
+imageEntryList :: Absinthe	https://www.erowid.org/chemicals/show_image.php?i=absinthe/absinthe1.jpg	Color photo of a bottle of "Absinto" Absinthe from Portugal.	Photo by MaxHell and B||ndGuard|an. &copy; 2001 Erowid.org
+Absinthe	https://www.erowid.org/chemicals/show_image.php?i=absinthe/absinthe3.jpg	Color photo of three bottles of "Absinth" brand Absinthe purchased in Tallin, Estonia [2001].	Photo by Skeet. &copy; 2002 Erowid.org
+Absinthe	https://www.erowid.org/chemicals/show_image.php?i=absinthe/absinthe_bottle__i2007e0330_disp.jpg	Bottle of thujone-containing "Jacques Senqaux" absinthe purchased in Spain. [Scotland]	Photo by Stojio. &copy; 2007 Erowid.org
+Absinthe	https://www.erowid.org/chemicals/show_image.php?i=absinthe/absinthe_bottle__i2004e0738_disp.jpg	Bottle of "Vincent" absinthe, purchased in the Netherlands in 2004. [Netherlands]	by R Heemstra. &copy; 2007 Erowid.org
+Flaming Absinthe	https://www.erowid.org/chemicals/show_image.php?i=absinthe/absinthe_glass__i2007e0210_disp.jpg	A flaming glass of L`Extreme d`Absente - 70% alcohol and 35 mg thujone. [Sweden]	Photo by Gromna. &copy; 2007 Erowid.org
+Pernod Label	https://www.erowid.org/chemicals/show_image.php?i=absinthe/label_pernod.jpg	1890s color drawing of a pernod label advertising its absinthe content.	
+Absinthe Label	https://www.erowid.org/chemicals/show_image.php?i=absinthe/label_absinthe.jpg	Color drawing from an absinthe bottle label.	
+Absinthe label.	https://www.erowid.org/chemicals/show_image.php?i=absinthe/label_absinthe2.jpg	Color drawing from an absinthe bottle label.	
+Absinthe Poster	https://www.erowid.org/chemicals/show_image.php?i=absinthe/poster_absinthe1.gif	Advertising poster for Absinthe-Perle.	Poster by Bense-Dupont, 1900.
+Absinthe Poster	https://www.erowid.org/chemicals/show_image.php?i=absinthe/poster_absinthe2.gif	1898 Privat-Livemont Absinthe robette poster.	
+Absinthe Poster	https://www.erowid.org/chemicals/show_image.php?i=absinthe/poster_absinthe3.gif	Lucien Lefevre's Absinthe Mugnier poster from 1898, Paris.	
+Absinthe Poster	https://www.erowid.org/chemicals/show_image.php?i=absinthe/poster_absinthe4.gif	Absinthe Parisienne poster. P.Gelis-Didot and Louis Maltese.	
+Absinthe Poster	https://www.erowid.org/chemicals/show_image.php?i=absinthe/poster_absinthe5.gif	Absinthe Suisse poster.	
+Absinthe Painting	https://www.erowid.org/chemicals/show_image.php?i=absinthe/painting_absinthe_picasso.jpg	Absinthe painting by Picasso.	
+Absinthe Painting	https://www.erowid.org/chemicals/show_image.php?i=absinthe/painting_absinthe_lautrec.jpg	Absinthe painting by Lautrec.	
+Absinthe Painting	https://www.erowid.org/chemicals/show_image.php?i=absinthe/painting_absinthe_unknown1.jpg	Absinthe painting by unknown artist.	
+Absinthe Drawing	https://www.erowid.org/chemicals/show_image.php?i=absinthe/drawing_absinthe1.gif	Absinthe drawing by unknown artist.	
+Absinthe Painting	https://www.erowid.org/chemicals/show_image.php?i=absinthe/painting_absinthe_maignan.jpg	Maignon Painting "The Green Muse" from 1895.	
+Absinthe Painting	https://www.erowid.org/chemicals/show_image.php?i=absinthe/painting_absinthe_degas.jpg	Degas Painting "The Absinthe Drinker" (L'absinthe), from 1876. From the Web Museum in Paris.	
+Absinthe Painting	https://www.erowid.org/chemicals/show_image.php?i=absinthe/painting_absinthe_vangogh.gif	Van Gough Painting "Still Life with Absinthe", from 1887.	
+Thujone Drawing	https://www.erowid.org/chemicals/show_image.php?i=absinthe/drawing_thujone.jpg	Thujone drawing by Unknown Artist.	
+Thujone 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=absinthe/thujone_2d.jpg	Still 2D image of the Thujone molecule.	Image by Erowid. &copy; 2002 Erowid.org
+Thujone 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=absinthe/thujone_3d_mid.jpg	Still 3D image of the Thujone molecule.	Image by Erowid. &copy; 2003 Erowid.org
+Thujone 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=absinthe/thujone__.mol	Rotating 3D image of the Thujone molecule.	Image by Erowid. &copy; 2002 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Absinthe
+REGULATED	Yes
+STATUS	FDA Regulated
+SCHEDULE	Un-Scheduled
+federalLawText :: Traditional absinthe has been illegal to sell in the U.S. since 1912, because it contains the chemical thujone. However, in 2007 some products labelled as "absinthe" were approved for sale in the United Stated. The situation is somewhat complex, but the short version is that the agency that now regulates alcohol in the U.S. (the Alcohol and Tobacco Tax and Trade Bureau) defines "thujone free" (an FDA requirement for any food made with Absinthe's defining herb wormwood) as meaning less than 10 parts-per-million (10 mg/L) thujone. It is an ongoing debate whether "thujone free" absinthe should be considered authentic, with the common understanding being that traditional absinthe contained higher levels of thujone but current manufacturers arguing that vintage absinthe had similarly low levels of thujone. Whatever the truth of their arguments, the modern low-thujone absinthes are being widely publicized as the first legal absinthes in the U.S. since the 1912 ban.	
+For more details about the legality of Absinthe, see Absinthe in the United States?	
+Another legal issue is that it is illegal in the United States to distill alcohol (even for personal consumption) without paying special taxes, filing paperwork & requesting a license from the Bureau of Alcohol Tobacco and Firearms. Some absinthe recipes call for distilling the product and some do not. So, technically a distilled absinthe could be illegal if made without a license. It is also illegal to sell any alcohol for human consumption without a license.	
+It is likely legal in the US to produce absinthe for one's personal use using commercially available distilled liquor and infusing one's own herbs into the alcohol.
+stateLaw :: null
+internationalLaw :: Australia	According to Agnu, Doubs Absinthe with around 10 mg/L of thujone is available for sale in Sydney. (March 2007) R told us that Absinthe containing Thujone at around 7.8 mg per litre and 60% alcohol is scarce but legally available in Australia. (unconfirmed) (thanks A, R) (last updated Mar 2007)
+Brazil	Absinthe is legal and common in Brazil. Thujone-containing absinthe is available in almost all stores and supermarkets including the brands: Camargo (Brazilian), Lautrec (Brazilian, poor quality), Pere Kerman's (French), Neto Costa (Portugese). The law in Brazil requires that Absinthe be less than 55% alcohol and at most 10 mg/kg thujone, but it's not hard to find other absinthes like Hapsburg (85% alcohol). (unconfirmed) (thanks C)
+E.U.	Absinthe has been unavailable in most of Europe throughout the twentieth century due to regulations governing thujone. This changed in 1988 when the European Economic Community issued directive 88/388/EEC, which set maximum legal levels of thujone in beverages sold in EEC member states: 5 mg/kg in alcoholic beverages with up to 25% alcohol, 10 mg/kg in alcoholic beverages with more than 25% alcohol, and 35 mg/kg in bitters (see Opinion of the Scientific Committee on Food and Thujone). Since this regulation was passed several European countries including France and Switzerland lifted their bans on absinthe that comply with EU restrictions, and it is now widely available throughout the EU. (reference)
+Canada	As of March 2007, thujone-containing absinthe seems to be regulated by the Provinces, with the central government's agency Health Canada, only providing non-binding guidelines to each Province's liquor board. We have been unable to find definitive information about the current regulatory status, but it appears that low-thujone abinsthe (< 5 mg/liter) is now available in every Province. Higher thujone content absinthe seems to be available in BC, Alberta, Ontario, Nova Scotia, and Quebec. (Ontario & Quebec allow 10ppm thujone, BC has no limit). All other provinces have laws against thujone-containing absinthe. Generally, alcoholic products must be individually approved for retail sale in Canada and are thus tightly controlled by Provicial liquor boards. (unconfirmed) (thanks TOR) (last updated Mar 2007)
+Czech Republic	Absinthe is legal and common in the Czech Republic. Thujone-containing absinthe is available in stores including Tesco, a large supermarket chain.
+Denmark	We have been told that absinthe is legal in Denmark and is commonly available in liquor stores. (thanks D)
+France	The sale of Absinthe has been prohibited in France since March 16, 1915. [Reference] In 1988, a law was passed which specified that the 1915 law only applied to products that do not comply with European Union regulations on thujone content and products which explicitly call themselves "absinthe". Thujone-containing beverages are now available, often labelled as "spiritueux � base de plantes d'absinthe." Higher thujone content absinthes are also produced in France for export.
+Germany	Thujone-containing absinthe available at bars and stores in Germany, in 2002 it is quite popular in some parts of Germany and Austria
+Hungary	We have been told that Absinthe became legally available in Hungary in early 2004 but that quality and potency is generally low. (thanks G)
+We have been told that Absinthe became legally available in Hungary in early 2004 but that quality and potency is generally low. (thanks G)	Israel #
+Israel	Thujone-containing absinthe sold in some liquor stores in 2004. (thanks AE)
+Ireland	The Food Safety Authority of Ireland sets the levels of thujone allowed in various drinks. The total of alpha and beta thujone allowed in alcohol beverages "except those produced from Artemisia species" is 10mg/liter; 35mg/liter allowed in alcoholic beverages from Artemisia species; and only 0.5mg/liter in non-alcohol beverages produced from Artemisia species. See https://www.fsai.ie/guidanceonflavourings.html. The Irish rules are based on or in compliance with the European Union's food and drink flavoring regulations. As of 2015, EU-legal absinthes are available in Ireland. (thanks m) (last updated Nov 4, 2015)
+Italy	Thujone-containing absinthe sold in some smartshops. (thanks DL)
+Malta	Absinthe is available in bars and clubs. (thanks C)
+Netherlands	1909 ban on absinthe sales lifted Jul 2004. Thujone-containing absinthe sold in liquor stores, as long as thujone quantity remain within European-accepted levels. (thanks Tino and Enrico)
+New Zealand	Thujone-containing absinthe sold in liquor stores.
+Norway	We have been told that absinthe is legal in Norway and available in liquor stores but only with low thujone content.
+Poland	Absinthe is not available in stores and presumed illegal. (unconfirmed) (thanks D)
+Portugal	Thujone-containing absinthe sold in liquor stores, bars, clubs, and supermarkets.
+Russia	Thujone-containing absinthe (with as much as 50-75 mg thujone) available, mostly in stores geared towards foreigners. (unconfirmed) (thanks K)
+Serbia	We have been told that thujone-containing absinthe and absinthe above 50% alcohol is banned for sale in Serbia. Lower quality French and Chech absinthe are available. (unconfirmed) (thanks A)
+Slovakia	Absinthe is legal and common in Slovakia. Thujone-containing absinthe is available in stores. (unconfirmed) (thanks D)
+South Africa	We have been told that Absinthe is being legalised in South Africa, effective January 1, 2005. (unconfirmed) (thanks HTMS)
+Spain	Thujone-containing absinthe widely available.
+Sweden	Absinthe sold in all liquor stores must be marked as containing wormwood extract. We are told that absinthe can be purchased in most liquor stores since EU laws allow sales of absinthe below a specific thujone level. Products are labeled with "Spiriteux aux extraits de plantes d'absinthe" and list wormwood as an ingredient on the back label. (thanks U)
+Switzerland	In June, 2004, the Swiss parliament voted to end a 96-year ban on absinthe. Although absinthe had been available in most of Europe for 20 years, it had remained outlawed in Switzerland until June 14, 2004. (thanks SC)
+Turkey	Thujone-containing absinthe is banned in Turkey. (unconfirmed) (thanks IS)
+United Kingdom	Thujone-containing absinthe sold in some stores (liquor stores, Tesco, Harrods) and small number of pubs, as long as thujone quantity remains within European-accepted levels. Absinthe was never banned in the UK, as the market for it ended with the banning of French exports and the belt-tightening during and after the first world war. (unconfirmed) (thanks AG)
+
+[Chemistry]
+chemTable :: NAME :	alpha-thujone
+CHEMICAL NAME :	4-Methyl-1-(1-methylethyl)bicyclo[3.1.0]hexan-3-one; 3-thujanone
+ALTERNATE CHEMICAL NAMES : 	(-)-Isothujone; (1S, 4R, 5R)-(-)-3-thujanone; thujon; thujone; (-)-thujone
+CHEMICAL FORMULA	C10H16O
+MOLECULAR WEIGHT	152.24
+MELTING POINT
+BOILING POINT	201&#176;C
+CAS #	546-80-5
+moleculeURL :: https://www.erowid.org/chemicals/absinthe/images/archive/thujone_3d_mid.jpg

@@ -1,0 +1,32 @@
+[Substance]
+
+id :: 171
+name :: Psychoactive Lotus / Lily
+url :: https://www.erowid.org/plants/lotus/lotus.shtml
+category :: Plants
+botanicalClassification :: Family :Nymphaeaceae, Genus :Nymphaea, Species :nouchali var caerulea; amplaGenus :NelumboSpecies :nuciferacommonNames :: Nymphaea nouchali var caerulea: Blue Lotus; Blue Water Lily; Egyptian Lotus; Sacred Narcotic Lily of the Nile
+effectsClassification :: Sedative
+description :: The dried flowers of certain species of Nymphaea and Nelumbo are sometimes smoked, made into a tea, or macerated in alcohol for a mild sedative effect.
+imageURL :: https://www.erowid.org/plants/lotus/images/lotus_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/lotus/lotus_images.shtml
+lawURL :: https://www.erowid.org/plants/lotus/lotus_law.shtml
+
+[Images]
+imageEntryList :: Nymphaea nouchali v caerulea	https://www.erowid.org/plants/show_image.php?i=lotus/wandjina_gardens_nymphaea_sp_cootha_04__i2005e0442_disp.jpg	Beautiful photo showing a positively identified single N. nouchali v. Caerulea flower and leaf. [QLD, Australia]	Photo by Wandjina Gardens. &copy; 2007 Erowid.org
+Nymphaea colorata Flower	https://www.erowid.org/plants/show_image.php?i=lotus/nymphaea_colorata_flower__i2005e0284_disp.jpg	Closeup of a single open flower of Nymphaea colorata. [Australia]	Photo by Strangebrew. &copy; 2007 Erowid.org
+Nymphaea nouchali v. caerulea Flower	https://www.erowid.org/plants/show_image.php?i=lotus/nymphaea_nouchali_caerulea_flower__i2005e0202_disp.jpg	A single Nymphaea nouchali v. caerulea (Blue lotus), in September. [Goa, India]	Photo by Miluschka. &copy; 2007 Erowid.org
+Nymphaea nouchali v. caerulea	https://www.erowid.org/plants/show_image.php?i=lotus/nymphaea_nouchali_caerulea_flowers__i2007e1620_disp.jpg	A large groups of Nymphaea nouchali v. caerulea flowers and pads in a lake [Australia]	Photo by Audacia. &copy; 2007 Erowid.org
+Nymphaea nouchali v. caerulea	https://www.erowid.org/plants/show_image.php?i=lotus/nymphaea_caerulea1.jpg	Color photo of blue lotus flower growing in water.	Photo by Ian Clayton.
+Blue Lotus	https://www.erowid.org/plants/show_image.php?i=lotus/blue_lotus_dried1.jpg	Color photo of a bag of commercially sold dried blue lotus.	Photo by Erowid, &copy; 2004 Erowid.org
+Nelumbo nucifera Seeds	https://www.erowid.org/plants/show_image.php?i=lotus/nelumbo_nucifera_seed__i2006e0028_disp.jpg	Nelumbo nucufera seeds, picked from a small pond in Nepal [Nepal]	Photo by Mr Big Cookies. &copy; 2007 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Blue Lotus
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: Psychoactive Lotus/Lily (Nymphaea caerulea, Nymphaea ampla, Nelumbo nucifera) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: Louisiana	Effective Aug 8, 2005 (signed into law Jun 28, 2005) Louisiana Act No 159 makes 40 plants illegal, including Nymphaea caerulea, when intended for human consumption. The law specifically excludes the "possession, planting, cultivation, growing, or harvesting" of these plants if used "strictly for aesthetic, landscaping, or decorative purposes." (Act No. 565; House Bill No. 173, 2010. (last updated Sep 29 2011)
+internationalLaw :: Australia	Not currently controlled in Australia, selling for human consumption may be controlled by medical regulations and may not be legal. (unconfirmed) (thanks callan)
+Russia	In April 2009, Nymphaea caerulea was banned along with Spice and related products, Salvia divinorum, Argyreia nervosa and others. See http://english.pravda.ru/hotspots/crimes/14-04-2009/107400-Light_drugs-0. (last updated April 15 2009)

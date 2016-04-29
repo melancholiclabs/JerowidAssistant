@@ -1,0 +1,68 @@
+[Substance]
+
+id :: 166
+name :: Khat
+url :: https://www.erowid.org/plants/khat/khat.shtml
+category :: Plants
+botanicalClassification :: Family :Celastraceae, Genus :Catha, Species :eduliscommonNames :: Khat; Qat; Kat; Quat; Chat; Miraa
+effectsClassification :: Stimulant
+description :: Catha edulis is an drought-tolerant evergreen shrub thats leaves contain cathinone and cathine. These leaves are traditionally chewed by people of E. Africa and the Middle East as a stimulant. It has a long history of human use.
+imageURL :: https://www.erowid.org/plants/khat/images/khat_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/khat/khat_images.shtml
+lawURL :: https://www.erowid.org/plants/khat/khat_law.shtml
+
+[Images]
+imageEntryList :: Catha edulis Leaves	https://www.erowid.org/plants/show_image.php?i=khat/catha_edulis_leaf__i2005e0196_disp.jpg	Closeup photo showing growing Catha edulis leaves and stems. [Eastern Cape, S. Africa]	Photo by Michael Knott. &copy; 2007 Erowid.org
+Catha edulis Bush	https://www.erowid.org/plants/show_image.php?i=khat/catha_edulis_bush__i2007e0152_disp.jpg	A single large Catha edulis bush. [E. Cape, S. Africa]	Photo by Michael Knott. &copy; 2007 Erowid.org
+Young Catha edulis	https://www.erowid.org/plants/show_image.php?i=khat/catha_edulis__i2006e2198_disp.jpg	Close-up photo of a young Catha edulis plant in a pot. [France]	Photo by JP &copy; 2010 Erowid.org
+Potted Catha edulis	https://www.erowid.org/plants/show_image.php?i=khat/catha_edulis__i2006e2197_disp.jpg	Several young potted Catha edulis plants. [France]	Photo by JP. &copy; 2007 Erowid.org
+Catha edulis Plant	https://www.erowid.org/plants/show_image.php?i=khat/catha_edulis7.jpg	Nice closeup color photo of Catha edulis leaves and flowers.	Photo by Dan Lieberman. Used by Erowid with permission.
+Catha edulis Plant	https://www.erowid.org/plants/show_image.php?i=khat/catha_edulis8.jpg	Photo of a Catha edulis plant growing in the U.S. botanical garden. (Washington DC, USA)	Photo by Aaryn Powell, &copy; 2004 Erowid.org
+Flowering Catha edulis	https://www.erowid.org/plants/show_image.php?i=khat/catha_edulis_flower__i2005e0198_disp.jpg	A small flowering Catha edulis tree. [S. Africa]	Photo by Michael Knott. &copy; 2007 Erowid.org
+Catha edulis Plant	https://www.erowid.org/plants/show_image.php?i=khat/catha_edulis9.jpg	Color photo of a young Catha edulis plant. (Lismore, Australia)	Photo by Madhva, &copy; 2004 Erowid.org
+Catha edulis Plant	https://www.erowid.org/plants/show_image.php?i=khat/catha_edulis10.jpg	Color photo a potted one year old Catha edulis plant in October. (Manchester, UK)	Photo by Spawnee, &copy; 2004 Erowid.org
+Catha edulis Plant	https://www.erowid.org/plants/show_image.php?i=khat/catha_edulis11.jpg	Color photo of the shoot tips of a young Catha edulis plant. (Manchester, UK)	Photo by Spawnee, &copy; 2004 Erowid.org
+Catha edulis Leaves	https://www.erowid.org/plants/show_image.php?i=khat/catha_edulis_leaves__i2012e0141_disp.jpg	Close up of 6 year old red Catha edulis (Khat) tips. [Perth, Australia]	Photo by Anonymous. &copy; 2012 Erowid.org
+Catha edulis	https://www.erowid.org/plants/show_image.php?i=khat/catha_edulis1.jpg	Color photo of single plant growing in indoor greenhouse.	Photographer Unknown.
+Catha edulis	https://www.erowid.org/plants/show_image.php?i=khat/catha_edulis2.jpg	Color photo of a Catha edulis branches and leaves.	Photographer Unknown.
+Catha edulis	https://www.erowid.org/plants/show_image.php?i=khat/catha_edulis3.jpg	Color photo of Catha edulis bush.	Photographer Unknown.
+Catha edulis	https://www.erowid.org/plants/show_image.php?i=khat/catha_edulis4.jpg	Color photo of several C. edulis specimens growing outside.	Photographer Unknown.
+Catha edulis	https://www.erowid.org/plants/show_image.php?i=khat/catha_edulis5.jpg	Closeup color photo of C. edulis leaves.	Photographer Unknown.
+Catha edulis	https://www.erowid.org/plants/show_image.php?i=khat/catha_edulis6.jpg	Color photo of C. edulis leaves.	Photographer Unknown.
+Catha edulis Cuttings	https://www.erowid.org/plants/show_image.php?i=khat/catha_edulis_cuttings__i2012e0151_disp.jpg	Two different grades of Kenyan khat (Catha edulis) from old trees in the Nyambene Region. Trimmed and stored one day after picking. Red type at front was Kangeta. Stems have been trimmed for convenience. [Kenya]	Photo by Jarmon. &copy; 2012 Erowid.org
+Khat	https://www.erowid.org/plants/show_image.php?i=khat/khat1.jpg	Color photo of khat bundle.	Photo &copy; StreetDrugs.org. Used by Erowid with permission.
+Khat Leaves	https://www.erowid.org/plants/show_image.php?i=khat/khat_leaf1.jpg	Photo showing two fresh khat leaves.	Photo by Erowid, &copy; 2004 Erowid.org
+"Khat Busters" Patch	https://www.erowid.org/plants/show_image.php?i=khat/khat_patch__i2004e0094_disp.jpg	U.S. Customs Service "Khat Busters" patch, seen for sale on eBay.	Photo by Unknown. &copy; 2007 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Catha edulis
+REGULATED	No
+STATUS	Ambiguous
+SCHEDULE	ContainsSchedule I Chemical
+CLASSIFICATION	Stimulant
+federalLawText :: Khat is not specifically listed in any schedule in the United States. However the federal government appears to be treating Khat as equivalent of Cathinone, one of the chemical constituents in the plant. Cathinone is Schedule I in the United States, making it illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license.	
+It is reported that the cathinone in Khat breaks down quickly and after only a few days, only cathine is left. The DEA temporarily (emergency) scheduled cathine in Schudule IV on May 17th 1988, but there is some confusion about whether the appropriate administrative measures were taken to permanently add it to Schedule IV. Regardless of whether it was properly scheduled, the US federal government has considered cathine a Schedule IV drug for over twenty years. Multiple Federal Register entries and DEA documents describe cathine as a Schedule IV compound. See /freedom/law/federal_register/58.FR.4316.shtml and Khat Faces Legal Challenges, 2007.	
+Individuals in the US have been successfully federally prosecuted for possessing and distributing dried khat leaves intended for ingestion. Dried leaves, intended for ingestion, courts will likely find constitute a "material or preparation" containing a schedule I substance, and thus controlled under the Controlled Substances Act (CSA). Cases such as: a man from Portland, Maine convicted in 2002 for 'intent to distribute' dried leaves. For live plants, not intended for ingestion, the law is ambiguous and has not yet been fully resolved.	
+The DEA considers khat "an illegal plant", but the DEA's views are not law and do not have the force of law. See DEA's 2002 Briefing on Khat for more information on their view of khat. In two entries in the Federal Register, the DEA mentions khat and their view of its legal status, but in the scheduling of cathine and cathinone, the DEA chose both times not to list the plant itself and thus the plant remains in a legal grey area.	
+
+Cathinone Placed in Schedule I - [Federal Register 58 FR 4316]
+stateLaw :: Alaska	Catha edulis is controlled in Alaska. In June 2013, a man was charged with possession of a green leafy material on suspicion it was Khat. See http://www.adn.com/2013/07/26/2993049/east-african-drug-khat-shows-up.html. (thanks g) (last updated Jul 30 2013)
+Missouri	Catha edulis is Schedule I in Missouri, "to include all parts of the plant presently classified botanically as catha edulis, whether growing or not; the seeds thereof; any extract from any part of such plant; and every compound, manufacture, salt, derivative, mixture, or preparation of the plant, its seed or extracts." [Missouri Revised Statutes - Drug Regulations, August 28, 2008]
+Australia	As is often the case with Australian law, the status of khat is rather murky. Khat does not appear to be federally regulated in Australia, but its active compounds cathine and cathinone are. This may mean that the plant itself is not illegal unless it is harvested or consumed (unconfirmed). Import of khat is regulated and requires a permit. Import law allows "up to 5 kg of khat per month per individual for personal use" under certain conditions and with the correct permits, but this would not supersede state prohibitions on khat if they exist. See Office of Chemical Safetey Khat information sheet for more information. (thanks C)
+Belgium	Khat became controlled in Belgium on Oct 22, 2006. [EMCDDA reference]
+Canada	Khat (Catha edulis) is schedule IV in Canada. (Note: Canadian schedules are very different than U.S. schedules.)
+Israel	A specific note in Israel's Dangerous Drugs Act states that the law banning khat's psychoactive chemicals does not apply to "khat leaves in their natural state intended for chewing". Cathinone, Cathine, and Methcathinone were added to the list of controlled Dangerous Drugs in early November, 2004 after cathinone was sold in capsules "Hagigat" and several people were reported to have required medical attention. See Haaretz.com. See Psychoactives Law : Israel. (thanks KP, ELI)
+Italy (Italia)	Listed in Tabella I of "Tabelle delle sostanze stupefacenti e psicotrope", making it illegal to possess, purchase, or sell. (see Tabelle delle sostanze stupefacenti e psicotrope. (thanks a) (last updated Dec 16, 2015)
+Kenya	A recent study "What Harm: Kenyan and Ugandan Perspectives on Khat" by Beckerleg published in May 2006 said that there is no medical reason for a khat ban in East Africa. See AllAfrica.com.
+Netherlands	Khat was banned in January, 2012. See http://www.nu.nl/politiek/2711346/kabinet-verbiedt-qat.html Previously, cathinone and cathine were banned, but the plant was legal. (thanks b) (last updated Aug 29, 2015)
+Norway	Khat and all of its parts are illegal in Norway. (see Forskrift om narkotika) (thanks SR)
+Somalia	According to the BBC on Nov 17, 2006, the Islamic group currently in control of much of southern Somalia banned Khat. (See BBC Nov 17)
+South Africa	Cathinone and Methcathinone are controlled, but Manton Hirst reports that the plant itself is, as of 2004, protected and the SANAB is no longer on an eradication campaign. See Khat in South Africa for more info.
+U.K.	Against the advice of the formal advisory group, the UK government banned Catha edulis (khat) as a class C drug on May 12, 2014. See http://www.theyworkforyou.com/lords/?id=2014-05-12a.1701.3.
+RELATED LINKS	Cathinone Law
+NEWS &amp; MEDIA	Khat - is it more coffee or cocaine?, Jan 2009, LA Times
+Khat - is it more coffee or cocaine?, Jan 2009, LA Times	Making a federal case of an obscure leaf, May 2007, MSNBC
+Making a federal case of an obscure leaf, May 2007, MSNBC	Somali Islamists ban popular drug, Nov 17 2006, BBC
+Somali Islamists ban popular drug, Nov 17 2006, BBC	DEA's Khat String Stirs up Somali 'Cultural Clash', Aug 2006, LATimes
+internationalLaw :: null

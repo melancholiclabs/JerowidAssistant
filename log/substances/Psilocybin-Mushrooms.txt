@@ -1,0 +1,98 @@
+[Substance]
+
+id :: 177
+name :: Psilocybin Mushrooms
+url :: https://www.erowid.org/plants/mushrooms/mushrooms.shtml
+category :: Plants
+botanicalClassification :: Family :Strophariaceae, Genus :Psilocybe, Species :cubensis; cyanescens; semilanceata; ... Genus :PanaeolusSpecies :campanulatus; subbalteatus; ...commonNames :: Shrooms; Magic Mushrooms; Sacred Mushrooms; teonan&aacute;catl
+effectsClassification :: Psychedelic
+description :: There are more than 180 species of mushrooms that contain the psychedelic chemicals psilocybin or psilocin. They have a long history of use in Mexico and are currently one of the most popular and commonly available natural psychedelics.
+imageURL :: https://www.erowid.org/plants/mushrooms/images/mushrooms_summary1.jpg
+basicsURL :: https://www.erowid.org/plants/mushrooms/mushrooms_basics.shtml
+effectsURL :: https://www.erowid.org/plants/mushrooms/mushrooms_effects.shtml
+imagesURL :: https://www.erowid.org/plants/mushrooms/mushrooms_images.shtml
+lawURL :: https://www.erowid.org/plants/mushrooms/mushrooms_law.shtml
+doseURL :: https://www.erowid.org/plants/mushrooms/mushrooms_dose.shtml
+chemistryURL :: https://www.erowid.org/plants/mushrooms/mushrooms_chemistry.shtml
+
+[Basics]
+description :: There are dozens of species of psilocybin or 'magic mushrooms' belonging primarily to the genuses psilocybe, panaeolus, and copelandia (unrelated to psychoactive amanita species). The effects of their ingestion resemble a shorter acting LSD trip, producing significant physical, visual, and perceptual changes.  Nearly all of the psilocybin containing mushrooms are small brown or tan mushrooms easily mistakable for any number of non-psychoactive, inedible, or poisonous mushrooms in the wild. This makes them somewhat difficult, and potentially hazardous, to identify. The primary distinguishable feature of most psilocybin containing mushrooms is that they bruise blue when handled. [ Main Mushroom Vault ]
+descriptionSections :: dose	Recreational doses range from 1-5 grams of dry mushrooms depending on the species and individual strength of the specimens. Dosages for wet mushrooms will be approximately 10 times higher (10-50 grams). Because different species vary in size, the number of mushrooms per gram will also vary.
+price	$20-$40 per 1/8 ounce. $100 - $250 per ounce.
+law	Psilocybin mushrooms are illegal in the United States because they contain psilocybin and psilocin which are specifically listed as illegal (Schedule I).
+chemistry	The primary effects of mushrooms come from several active alkaloids they contain; the most common are psilocybin, psilocin, and baeocystin. Psilocybin is a more stable compound than psilocin, but is broken down into psilocin after ingestion.
+pharmacology	Pharmacology Summary Needed.
+production	Psilocybin containing mushrooms grow wild across the United States and in many countries around the world. There are also several species which are easily cultivated with a fairly simple and inexpensive setup. Most recreationally used mushrooms are cultivated rather than picked wild.
+history	Psilocybe mushrooms have been used for thousands of years by Native Americans in Central and South America. The first european record of their use showed up in the 16th century writings of a Spanish priest who wrote about the Aztec's use of both mushrooms and peyote. In 1957, Wasson became the first in modern times to document and publish a description of his own experience (Life Magazine). The active ingredient of the mushrooms, psilocybin, was soon isolated and by the mid 60's mushrooms were being both studied and used recreationally. In 1968 possession of psilocybin mushrooms was made illegal in the United States.
+terminology	The Substance:Mushrooms; Magic Mushrooms; Shrooms; Mushies; Boomers; Psilocybes; Cubes (P. cubensis); Liberty Caps (P. semilanceata) The Experience:Shrooming; Tripping.
+effects :: In the beginning stages of onset, Mushrooms are likely to cause a sort of undefineable feeling similar to anticipation or anxiety. There may be a feeling of energy in the body, and the sense that things are different than usual. As the effects intensify, a wide variety of perceptual changes may occur; pupil dilation, visuals, mental stimulation, new perspectives, feelings of insight, quickly changing emotions (lots of laughter), possible paranoia and confusion. More advanced users may seek spiritual awareness or a sense of universal understanding through their use of mushrooms. Closed-eye visuals are extremely common with psilocybin mushrooms. Open-eye visuals are common for some people and are more likely at higher doses.
+effectsSections :: onset	Depending on how much and how recently one has eaten food, Mushrooms generally takes 30-60 minutes (though sometimes as long as 2 hrs) to take effect.
+duration	The primary effects of magic mushrooms last for 4-6 hours when taken orally. For many people there is an additional period of time (2-6 hrs) where it is difficult to go to sleep and there is definitely a noticeable difference from everyday reality, but which is not strong enough to be considered 'tripping'.
+visuals	Visuals Summary Needed.
+problems :: Many people experience nausea and/or vomiting during mushroom experiences, epecially with higher doses. Other possible negative effects include anxiety and unwanted or frightening thoughts and visions. Mushrooms, though perhaps to a lesser degree than LSD, can precipitate strong, temporary changes in an individual's experience of life and reality. It can be a powerful psychoactive experience, especially at higher doses, which is significantly affected by experiences, set and setting. Recent experiences, especially strong ones, can have a substantial effect on a trip. Physically or psychologically unsettling events in the days before a Mushroom trip can blossom into more serious distress and trauma while tripping. It is important to be prepared for the possibility of encountering difficult or frightening mental states. The Psychedelic Crisis FAQ addresses some of the issues involved in dealing with a difficult trip.
+problemsSections :: contraindications	Do not operate heavy machinery. Do Not Drive. Taking psyilocybin containing mushrooms while on an MAOI can dramatically increase the effects of the experience. MAOIs are most commonly found in the prescription anti-depressants Nardil (phenelzine), Parnate (tranylcypromine), Marplan (isocarboxazid), Eldepryl (l-deprenyl), and Aurorex or Manerix (moclobemide). Ayahuasca also contains MAOIs (harmine and harmaline). Check with your doctor if you are not sure whether your prescription medication is an MAOI. Individuals currently in the midst of emotional or psychological upheaval in their everyday lives should be careful about choosing to use psychedelics such as mushrooms as they can trigger even more difficulty. Individuals with a family history of schizophrenia or early onset mental illness should be extremely careful because mushrooms have been known to trigger latent psychological and mental problems.
+addiction	Mushrooms are neither physically addicting nor likely to cause psychological dependance. Many people actually find that their desire to use mushrooms goes down for a period of time after use. As with most substances, some people will use them more frequently than they are comfortable with. There is a short period of tolerance after Mushroom use. Using Mushrooms two days in a row is likely to lead to a diminished experience the second day, though spaced 5-7 or more days apart, this effect is nearly non-existent.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Effects]
+duration :: Mushrooms Duration
+Oral
+Total Duration	4 - 7 hrs
+Onset	15 - 60 mins
+Coming Up	15 - 30 mins
+Plateau	2 - 4 hrs
+Coming Down	1 - 3 hrs
+&nbsp;	&nbsp;
+After Effects	0 - 6 hrs
+Hangover / Day After	- - -
+positiveEffects :: There is currently no Effects List for this substance.
+neutralEffects :: null
+negativeEffects :: null
+description :: null
+experienceReports :: null
+
+[Images]
+imageEntryList :: 
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Psilocybin Mushrooms
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	ContainsSchedule I Chemical
+CLASSIFICATION	Hallucinogen
+federalLawText :: Psilocybin mushrooms are not specifically named in the U.S. federal scheduling system, however their two primary active chemicals Psilocybin and Psilocin are both Schedule I in the United States. This means they are illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license. Fresh and dried psilocybin mushrooms are considered containers of Psilocybin and Psilocin, making them illegal to possess as well.	
+Because spores contain no psilocybin or psilocin, they are legal to sell and possess (in all states except California, Georgia, and Idaho). But in most states, it is illegal to cultivate or propogate spores into mycelium since mycelium generally contains both psilocybin and psilocin.	
+Some countries have ruled that growing psilocybe mushrooms does not qualify as 'manufacturing' a controlled substance (psilocybin). In 2005, a New Mexico state appelate court ruled that growing mushrooms did not qualify as manufacturing psilocybin under state law (see State of New Mexico v. Pratt, 2005 or http://caselaw.findlaw.com/nm-court-of-appeals/1401800.html). In Feb 2006, the FMRC's TEO journal reported that the Pratt ruling was overturned and that people have been prosecuted for growing psilocybin mushrooms in New Mexico.(TEO Feb 2006). However, Erowid has not been able to substantiate FMRC's claim and to the best of our understanding, the Pratt appelate ruling stands. (last updated Jun 28, 2013)
+stateLaw :: null
+internationalLaw :: null
+
+[Dose]
+doseTable :: Oral P. cubensis Dosages
+Threshold.25 g1/100 oz
+Light.25 - 1 g1/100 - 1/28oz
+Common1 - 2.5 g1/28 - 1/10oz
+Strong2.5 - 5 g1/10 - 1/6oz
+Heavy5 + g1/6oz +
+Onset : 10 - 40 minutes (when chewed and held in mouth)
+Onset : 20 - 60 minutes (when swallowed on empty stomach)
+Duration : 2 - 6 hours
+Normal After Effects : up to 8 hours
+doseText :: PSILOCYBE CUBENSIS Psilocybe cubensis is a medium strength psilocybian mushroom consisting of approximately .63% psilocybin and .60% psilocin in dried wild mushrooms. Indoor cultivated mushrooms tend to have higher concentrations. Note that potency of mushrooms can vary greatly from one batch to the next. The following chart shows approximate oral dosages for (dried) Psilocybe cubensis in grams.         Oral P. cubensis Dosages Threshold.25 g1/100 oz Light.25 - 1 g1/100 - 1/28oz Common1 - 2.5 g1/28 - 1/10oz Strong2.5 - 5 g1/10 - 1/6oz Heavy5 + g1/6oz +    Onset : 10 - 40 minutes (when chewed and held in mouth) Onset : 20 - 60 minutes (when swallowed on empty stomach) Duration : 2 - 6 hours Normal After Effects : up to 8 hours      SEE ALSO Comparative potency of selected Psilocybe mushrooms, Stamets 1996 Extraction and analysis of indole derivatives from fungal biomass, Gartz 1994     DOSAGE REFERENCES Psychedelics Encyclopedia, by Peter Stafford Psilocybin Mushrooms of the World, Paul Stamets
+notes :: null
+
+[Chemistry]
+chemTable :: NAME :	Psilocybin
+CHEMICAL NAME :	3-[2-(Dimethylamino)ethyl]-1H-indol-4-ol dihydrogen phosphate ester
+ALTERNATE CHEMICAL NAMES :	O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine; Indocybin
+CHEMICAL FORMULA	C12H17N2O4P
+MOLECULAR WEIGHT	284.25
+MELTING POINT	220-228&#176; C (Crystals from boiling water)
+MELTING POINT	185-195&#176; C (Crystals from methanol)
+pH	5.2 (in 50% aq ethanol)
+LD50	285 mg/kg i.v.(mice)
+LD50	280 mg/kg i.v. (rats)
+LD50	12.5 mg/kg i.v.(rabbits)
+From the Merck Index 12th Edition
+moleculeURL :: https://www.erowid.org/plants/mushrooms/images/archive/psilocybin_3d_mid.jpg

@@ -1,0 +1,26 @@
+[Substance]
+
+id :: 240
+name :: Nootka Lupine
+url :: https://www.erowid.org/herbs/nootka_lupine/nootka_lupine.shtml
+category :: Herbs
+botanicalClassification :: Family :Fabaceae (=Leguminosae), Genus :Lupinus, Species :nootkatensiscommonNames :: Nootka lupine; Sundial; Quaker's bonnet
+uses :: Navajo Sterility Remedy
+description :: Nootka Lupine is a perennial wildflower that dies back annually to its thick rhizome. Hairy, hollow stems grow erect to 1 meter tall and produce brilliant blue/purple flowers. Green to black seed pods are similar to small pea pods.
+imageURL :: https://www.erowid.org/herbs/nootka_lupine/images/nootka_lupine_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/nootka_lupine/nootka_lupine_images.shtml
+lawURL :: https://www.erowid.org/herbs/nootka_lupine/nootka_lupine_law.shtml
+
+[Images]
+imageEntryList :: Lupinus nootkatensis	https://www.erowid.org/herbs/show_image.php?i=nootka_lupine/lupinus_nootkatensis1.jpg	Color photo showing Lupinus nootkatensis in a field at the end of June. [Vik, Iceland]	Photo by Stefan Kutzsche, &copy; 2006 Erowid.org
+Lupinus nootkatensis	https://www.erowid.org/herbs/show_image.php?i=nootka_lupine/lupinus_nootkatensis2.jpg	Photo of a field of Lupinus nootkatensis at the end of June. [Vik, Iceland]	Photo by Stefan Kutzsche, &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Nootka lupine
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Nootka lupine is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: 

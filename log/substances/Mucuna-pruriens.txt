@@ -1,0 +1,30 @@
+[Substance]
+
+id :: 176
+name :: Mucuna pruriens
+url :: https://www.erowid.org/plants/mucuna_pruriens/mucuna_pruriens.shtml
+category :: Plants
+botanicalClassification :: Family :Fabaceae (=Leguminosae), Genus :Mucuna, Species :prurienscommonNames :: Velvetbeans; Cowhage; Cow Itch; Itching Bean; Nescaf�
+effectsClassification :: Unknown
+description :: Mucuna pruriens is a tropical vine growing from 3-18 meters with white to dark purple hanging flowers. It's bean-like pods are covered with long stinging hairs and contain black, white, or tan seeds. The leaves, seeds, stems and roots contain L-Dopa, Serotonin, 5-HTP, and Nicotine, as well as N,N-DMT, Bufotenin, and 5-MeO-DMT. It has a tradition of use as a Ayurvedic aphrodesiac, treatment for parkinsons, ayahuasca admixture, and coffee substitute.
+imageURL :: https://www.erowid.org/plants/mucuna_pruriens/images/mucuna_pruriens_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/mucuna_pruriens/mucuna_pruriens_images.shtml
+lawURL :: https://www.erowid.org/plants/mucuna_pruriens/mucuna_pruriens_law.shtml
+
+[Images]
+imageEntryList :: Mucuna pruriens Beans	https://www.erowid.org/plants/show_image.php?i=mucuna_pruriens/mucuna_pruriens_seed__i2005e0351_disp.jpg	Ten Mucuna pruriens beans. [Australia]	Photo by Wandjina Gardens. &copy; 2007 Erowid.org
+Mucuna pruriens Beans	https://www.erowid.org/plants/show_image.php?i=mucuna_pruriens/mucuna_pruriens_beans1.jpg	Close-up color photo of Mucuna pruriens beans.	Photo by Entheomation, &copy; 2004 Erowid.org
+Mucuna pruriens Seedpods	https://www.erowid.org/plants/show_image.php?i=mucuna_pruriens/mucuna_pruriens_seedpod__i2010e0743_disp.jpg	Mucuna pruriens (Velvetbean) seedpods in October. [GA, USA]	Photo by Russell. &copy; 2010 Erowid.org
+Mucuna sloanei Beans	https://www.erowid.org/plants/show_image.php?i=mucuna_pruriens/mucuna_sloanei_seed__i2005e0361_disp.jpg	Three Mucuna sloanei beans. [Peru]	Photo by Maya Ethnobotanicals. &copy; 2007 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Mucuna pruriens
+REGULATED	No
+STATUS	Ambiguous
+SCHEDULE	ContainsSchedule I Chemical
+CLASSIFICATION	Hallucinogen
+federalLawText :: Mucuna pruriens is not specifically a controlled species in the United States. Live plants and seeds are bought and sold and are not generally considered illegal. However, DMT, one of the chemicals contained in the plant, is Schedule I in the U.S. Practically, this means that if an extraction is done on DMT containing Mucuna species, the resulting DMT is illegal to possess.	
+Large scale (especially commercial) extraction of DMT from Mucuna species falls into the realm of "clearly illegal" and would very likely be prosecuted. It is also possible that importation of DMT containing Mucuna species into the United States could result in problems with customs, especially if large volumes are imported.
+stateLaw :: null
+internationalLaw :: 

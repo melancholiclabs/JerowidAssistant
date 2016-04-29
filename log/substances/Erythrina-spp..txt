@@ -1,0 +1,10 @@
+[Substance]
+
+id :: 217
+name :: Erythrina spp.
+url :: https://www.erowid.org/herbs/erythrina/erythrina.shtml
+category :: Herbs
+botanicalClassification :: Family :Leguminosae, Genus :Erythrina, Species :mulungu; americana; bereroana;commonNames :: Coral Tree
+uses :: Seeds: Aphrodisiac; Deliriant; Sedative Bark [E. mulungu]: Analgesic; Sedative
+description :: Deciduous trees usually 20-30 ft high, though up to 100 ft. Found in tropical and sub-tropical regions of the Old and New World and Australia. The leguminous seeds of several Erythrina species contain curare-like alkaloids, as does the bark of E. mulungu. Some plant material may be toxic. E. mulungu extracts are widely sold as mild herbal sedatives.
+imageURL :: https://www.erowid.org/herbs/images/herbs_spacer_summary.jpg

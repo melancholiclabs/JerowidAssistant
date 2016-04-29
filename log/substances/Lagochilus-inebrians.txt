@@ -1,0 +1,33 @@
+[Substance]
+
+id :: 169
+name :: Lagochilus inebrians
+url :: https://www.erowid.org/plants/lagochilus/lagochilus.shtml
+category :: Plants
+botanicalClassification :: Family :Lamiaceae (Former: Labiatae), Genus :Lagochilus, Species :inebrians [Bunge]commonNames :: Intoxicating Mint; Turkistan Mint
+effectsClassification :: Sedative Intoxicant
+description :: Lagochilus inebrians is a small deciduous shrub growing to 1 meter. The leaves, stems, and flowers contain lagochiline and are toasted and made into tea as an intoxicant in Turkistan.
+imageURL :: https://www.erowid.org/plants/lagochilus/images/lagochilus_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/lagochilus/lagochilus_images.shtml
+lawURL :: https://www.erowid.org/plants/lagochilus/lagochilus_law.shtml
+
+[Images]
+imageEntryList :: Lagochilus inebrians Flower	https://www.erowid.org/plants/show_image.php?i=lagochilus/lagochilus_inebriens_flower__i2006e1089_disp.jpg	Close-up of a Lagochilus inebrians flower in cultivation. [Australia]	Photo by D.C. Williams. &copy; 2007 Erowid.org
+Lagochilus inebriens	https://www.erowid.org/plants/show_image.php?i=lagochilus/lagochilus_inebrians1.jpg	Close-up color photo of leafy stem.	Photo by Daniel Siebert of SageWisdom.org, &copy; 2002 Daniel Siebert.
+Lagochilus inebrians Seeds	https://www.erowid.org/plants/show_image.php?i=lagochilus/lagochilus_inebrians_seed__i2005e0349_disp.jpg	Properly identified Lagochilus inebrians seeds sourced from Samarkand University in Uzbekistan as herbarium sample. [Uzbekistan]	Photo by Wandjina Gardens. &copy; 2007 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Lagochilus inebrians
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Lagochilus inebrians is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: Louisiana	Effective Aug 8, 2005 (signed into law Jun 28, 2005) Louisiana Act No 159 makes 40 plants illegal, including Lagoehilus inebrians (sic)., when intended for human consumption. The law specifically excludes the "possession, planting, cultivation, growing, or harvesting" of these plants if used "strictly for aesthetic, landscaping, or decorative purposes." (Text of HLS_05RS-52 and Update June 2005)
+Tennessee 	Tennessee did not pass the proposed bill that would have banned dozens of plants as "hallucinogenic" when intended for human consumption. Instead, they banned only Salvia divinorum. See Comments on New State Laws Controlling the Consumption of Hallucinogenic Plants.
+internationalLaw :: Central Asia	Lagochilus inebriens is an endangered species in Central Asia. While it
+Lagochilus inebriens is an endangered species in Central Asia. While it	is not listed as endangered by the Conventional on International Trade in Endangered Species of Wild Flora and Fauna (CITES), countries in the region do list is
+is not listed as endangered by the Conventional on International Trade in Endangered Species of Wild Flora and Fauna (CITES), countries in the region do list is	as endangered in their own laws. Therefore, while it may not be
+as endangered in their own laws. Therefore, while it may not be	considered an illegal substance in the United States, it is illegal to harvest
+considered an illegal substance in the United States, it is illegal to harvest	the plant from the wild in Central Asia. However, seeds there can be
+the plant from the wild in Central Asia. However, seeds there can be	collected from the wild and grown locally. [Citation: "Lagochilus inebriens (Bunge)" in Red Data Book of Uzbek SSR: Rare and Endangered Species of Animals and Plants: Volume II ("Plants"); pp 41-42. "Fan" Publishing House of the Uzbek SSR, Tashkent, Uzbekistan, 1984.]

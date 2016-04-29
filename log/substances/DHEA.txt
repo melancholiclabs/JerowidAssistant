@@ -1,0 +1,32 @@
+[Substance]
+
+id :: 326
+name :: DHEA
+url :: https://www.erowid.org/smarts/dhea/dhea.shtml
+category :: Smarts
+commonNames :: None
+effectsClassification :: Anti-aging; Memory; Cognitive Function
+chemicalName :: dehydroepiandrosterone
+description :: DHEA is a steroid hormone produced by the adrenal gland; Natural levels drop with age. DHEA supplements are said to increase energy, enhance memory and cognitive function, improve immunity, and reduce the effects of stress.
+imageURL :: https://www.erowid.org/smarts/dhea/images/dhea_summary1.jpg
+basicsURL :: https://www.erowid.org/smarts/dhea/dhea_basics.shtml
+
+[Basics]
+description :: DHEA is a steroid hormone produced by the adrenal gland. Research shows that natural DHEA levels decline as humans get older, peaking sometime around age 18-25. Low levels of DHEA have been linked to immune system decline. [ Main DHEA Vault ]
+descriptionSections :: dose	5-25 mg / day
+price	Price Summary Needed.
+law	DHEA has been classified as a controlled substance by some countries including Australia, Canada, and Norway. It is not scheduled in the U.S. (as of 2001) and is available over-the-counter without a prescription.
+chemistry	Chemistry Summary Needed.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	History Summary Needed.
+terminology	Brand Names:Prastera, Fidelin, Fluasterone. The Substance:DHEA; Dehydroepiandrosterone. The Experience:No common terms known.
+effects :: Effects Summary Needed.
+effectsSections :: onset	Onset Summary Needed.
+duration	Duration Summary Needed.
+visuals	Visuals Summary Needed.
+problems :: Common side effects include Acne and skin oiliness, unwanted facial hair growth in women, irritability or mood changes, overstimulation and insomnia. Less common side effects may include fatigue, headaches, menstrual irregularities, increased hair loss, hearth irregularities.
+problemsSections :: contraindications	DHEA should NOT be used by persons who are suffering from prostate or testicular cancer. Pregnant women should consult their doctor before taking DHEA during pregnancy.
+addiction	Addiction Potential Summary Needed.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.

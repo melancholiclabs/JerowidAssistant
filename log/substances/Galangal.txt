@@ -1,0 +1,30 @@
+[Substance]
+
+id :: 222
+name :: Galangal
+url :: https://www.erowid.org/herbs/galangal/galangal.shtml
+category :: Herbs
+botanicalClassification :: Family :Zingiberaceae, Genus :Alpinia (or: Languas), Species :galanga; officinarumGenus :KaempferiaSpecies :galangacommonNames :: galanga root; greater galangal (A. galanga); lesser galangal (A. officinarum); false ginger; maraba
+uses :: Spice; Treatment for stomach problems; Aphrodisiac
+description :: Galangal is a tropical perennial thats rhizomes (roots) are used medicinally and as a spice.
+imageURL :: https://www.erowid.org/herbs/galangal/images/galangal_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/galangal/galangal_images.shtml
+lawURL :: https://www.erowid.org/herbs/galangal/galangal_law.shtml
+
+[Images]
+imageEntryList :: Alpinia galanga	https://www.erowid.org/herbs/show_image.php?i=galangal/alpinia_galanga__i2005e1362_disp.jpg	A fresh 40 cm tall juvenile Alpinia galanga plant with roots intact lying on a table. [Australia]	Photo by T.Wiedemann. &copy; 2007 Erowid.org
+Galanga root	https://www.erowid.org/herbs/show_image.php?i=galangal/alpinia_galanga1.jpg	Color photo of cut rhizomes	Photographer Unknown.
+Kaempferia galanga Root	https://www.erowid.org/herbs/show_image.php?i=galangal/kaempferia_galanga_root__i2006e1494_disp.jpg	A sprouting Kaempferia galanga root (indonesian strain). [France]	Photo by Mauve . &copy; 2007 Erowid.org
+Kaempferia galanga	https://www.erowid.org/herbs/show_image.php?i=galangal/kaempferia_galanga__i2005e1343_disp.jpg	A small Kaempferia galanga plant. [Austria]	Photo by Mindperformer. &copy; 2007 Erowid.org
+Kaempferia galanga	https://www.erowid.org/herbs/show_image.php?i=galangal/kaempferia_galanga1.jpg	Color drawing of K. galanga flowering plant and rhizomes.	From Plants of The Gods, by Schultes & Hofmann
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Galangal
+REGULATED	No
+STATUS	Food Approved
+SCHEDULE	Un-Scheduled
+federalLawText :: Galangal (Alpinia spp) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.	
+Alpinia spp is approved for food use as a spice or seasoning in the U.S. and appears in the FDA's list of substances Generally Recognized As Safe (GRAS).
+stateLaw :: Louisiana	Effective Aug 8, 2005 (signed into law Jun 28, 2005) Louisiana Act No 159 makes 40 plants illegal, including Kaempferia galanga, when intended for human consumption. The law specifically excludes the "possession, planting, cultivation, growing, or harvesting" of these plants if used "strictly for aesthetic, landscaping, or decorative purposes." (Text of HLS_05RS-52 and Update June 2005)
+internationalLaw :: 

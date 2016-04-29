@@ -1,0 +1,18 @@
+[Substance]
+
+id :: 173
+name :: Sophora secundiflora
+url :: https://www.erowid.org/plants/mescal/mescal.shtml
+category :: Plants
+botanicalClassification :: Family :Fabaceae (=Leguminosae), Genus :Sophora (=Calia; =Broussonetia), Species :secundifloracommonNames :: Mescal bean; Texas Mountain Laurel
+effectsClassification :: Poison
+description :: Sophora secundiflora is a tall evergreen shrub with violet flowers and silvery pods containing bright red seeds or beans. Mescal beans are highly toxic but may have been used traditionally as a divinatory material, though this is contested. Mescal beans do not contain mescaline.
+imageURL :: https://www.erowid.org/plants/mescal/images/mescal_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/mescal/mescal_images.shtml
+
+[Images]
+imageEntryList :: Sophora secundiflora	https://www.erowid.org/plants/show_image.php?i=mescal/sophora_secundiflora_beans1.jpg	Color photo of a set of Sophora secundiflora (mescal) beans.	Photo by Alkaloidaholic, &copy; 2003 Erowid.org
+Sophora secundiflora	https://www.erowid.org/plants/show_image.php?i=mescal/sophora_secundiflora_beans2.jpg	Color photo of a set of Sophora secundiflora (mescal) beans.	Photo by Alkaloidaholic, &copy; 2003 Erowid.org
+Sophora secundiflora	https://www.erowid.org/plants/show_image.php?i=mescal/sophora_secundiflora_seed1.jpg	Color photo of six S. secundiflora seeds. [CA, USA]	Photo by Erowid, &copy; 2000 Erowid.org
+Sophora secundiflora	https://www.erowid.org/plants/show_image.php?i=mescal/sophora_secuindiflora_seedling__i2003e0124_disp.jpg	Two small Sophora secundiflora seedlings.	Photo by Entheomation. &copy; 2007 Erowid.org
+Sophora secundiflora Flowers	https://www.erowid.org/plants/show_image.php?i=mescal/sophora_secundiflora_flower__i2008e0386_disp.jpg	Close up of Sophora secundiflora (mescal bean) flowers, they have a grape soda scent. [NM, USA]	Photo by Dorothy Woodall Peterson. &copy; 2009 Erowid.org

@@ -1,0 +1,70 @@
+[Substance]
+
+id :: 91
+name :: LSZ
+url :: https://www.erowid.org/chemicals/lsz/lsz.shtml
+category :: Chemicals
+commonNames :: Diazedine, Lambda, LA-SS-Az
+effectsClassification :: Psychedelic; Ergoloid
+chemicalName :: Lysergic acid 2,4-dimethylazetidide
+description :: LSZ is chemically related to LSD active at similar dosages, with one of its isomers more potent in rats than d-LSD. LSZ sold on white blotter became commercially available in mid 2013. LSZ is one of a group of ergoloids developed by David Nichols' lab at Purdue in the early 2000s, but there are unconfirmed reports that LSZ was previously available on blotter prior to Nichols' first publication. LSZ has three stereoisomers, one (S,S) is substantially more potent than the other three.
+imageURL :: https://www.erowid.org/chemicals/lsz/images/lsz_summary1.jpg
+effectsURL :: https://www.erowid.org/chemicals/lsz/lsz_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/lsz/lsz_images.shtml
+lawURL :: https://www.erowid.org/chemicals/lsz/lsz_law.shtml
+doseURL :: https://www.erowid.org/chemicals/lsz/lsz_dose.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Effects]
+duration :: LSZ Duration
+Oral
+Total Duration	6 - 10 hrs
+Onset	20 - 60 mins
+Coming Up	15 - 30 mins
+Plateau	3 - 6 hrs
+Coming Down	3 - 5 hrs
+&nbsp;	&nbsp;
+After Effects	2 - 5 hrs
+Hangover / Day After	- - -
+positiveEffects :: There is currently no Effects List for this substance.
+neutralEffects :: null
+negativeEffects :: null
+description :: null
+experienceReports :: null
+
+[Images]
+imageEntryList :: LSZ Blotter	https://www.erowid.org/chemicals/show_image.php?i=lsz/lsz_blotter__i2013e0562_disp.jpg	A closeup photo of LSZ blotter from mid 2013.	Photo by Brother Wolf. &copy; 2014 Erowid.org
+LSZ Blotter and Packaging	https://www.erowid.org/chemicals/show_image.php?i=lsz/lsz_blotter__i2013e0561_disp.jpg	Paper LSZ blotter dosed with approximately 150 micrograms per square with plastic packaging. This blotter was distributed widely in 2013. [UK]	Photo by Brother Wolf. &copy; 2014 Erowid.org
+LSZ Blotter	https://www.erowid.org/chemicals/show_image.php?i=lsz/lsz_blotter__i2013e0290_disp.jpg	The back of a small section of LSZ blotter. [UK]	Photo by Borax. &copy; 2013 Erowid.org
+LSZ 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=lsz/lsz_2d.gif	Still 2D image of the LSZ molecule.	Image via Wikipedia, creator unknown.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+LSZ
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Possible Analog
+federalLawText :: LSZ (Lysergic acid 2,4-dimethylazetidide) is unscheduled in the United States. It is possible or likely that it would be considered a controlled substance analogue (of LSD), in which case, sales for human consumption or possession with the intent to ingest could be prosecuted under the Federal Analogue Act.	
+We are unaware of any cases against individuals for possession alone (Dec 2013).
+stateLaw :: 
+internationalLaw :: Germany	LSZ is not currently listed in the German BtmG. (thanks C) (last updated Feb 28 2014)
+United Kingdom (U.K., UK, England, Wales, Scotland, Northern Ireland, Britain)	LSZ was added to Scheule 1 as of January 15th, 2015. See http://www.legislation.gov.uk/uksi/2014/3277/introduction/made. (last updated Jan 3, 2015)
+
+[Dose]
+doseTable :: LSZ Dosages
+Oral
+( very tentative )
+Threshold	10 ug
+Light	50 - 100 ug
+Common	100 - 300 ug
+Strong	200+ ug
+doseText :: LSZ is an ergoloid most commonly found on blotter. LSZ has three stereoisomers and one of the three is substantially more potent than the other three. A racemic mixture of LSZ (not stereo pure for the most potent S,S isomer) will have different effective dosages than S,S-pure LSZ.  Extreme caution and care must be used if it is ever encountered as a powder/crystal, though that form is rare and has not been seen in retail markets. Most or all LSZ in 2013/2014 has been available as blotter.
+notes :: Because LSZ's first widespread commercial availability was in mid 2013, there are only a small number of reports of human use. Dose information must be considered tentative. Although most reports indicate dosage similar to or lower than (more potent than) LSD, it's possible that a small number of people are unusually sensitive or insensitive to LSZ.
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

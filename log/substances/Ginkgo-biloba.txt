@@ -1,0 +1,28 @@
+[Substance]
+
+id :: 331
+name :: Ginkgo biloba
+url :: https://www.erowid.org/smarts/ginkgo/ginkgo.shtml
+category :: Smarts
+commonNames :: Maidenhair Tree; Kew Tree
+effectsClassification :: Increases Blood Flow
+chemicalName :: ginkgolides; bilobalide
+description :: The extract of the Ginkgo biloba tree increases blood flow to the brain. Research has shown it to improve memory and cognition. The seeds and leaves have been used in traditional Chinese medicine for asthma and circulatory disease.
+imageURL :: https://www.erowid.org/smarts/images/smarts_spacer_summary.jpg
+imagesURL :: https://www.erowid.org/smarts/ginkgo/ginkgo_images.shtml
+lawURL :: https://www.erowid.org/smarts/ginkgo/ginkgo_law.shtml
+
+[Images]
+imageEntryList :: Ginkgo biloba Leaves	https://www.erowid.org/smarts/show_image.php?i=ginkgo/ginkgo_biloba_leaves__i2008e1132_disp.jpg	Nice image of Ginkgo biloba leaves showing their veins in the sunlight. Taken in May. [Austin, TX]	Photo by Rachel S. &copy; 2012 Erowid.org
+Ginkgo biloba Leaves	https://www.erowid.org/smarts/show_image.php?i=ginkgo/ginkgo_biloba_leaves__i2011e0174_disp.jpg	Close-up of the leaves of a Ginkgo biloba tree. [USA]	Photo by Anonymous. &copy; 2011 Erowid.org
+Ginkgo biloba Extract	https://www.erowid.org/smarts/show_image.php?i=ginkgo/ginkgo_biloba_extract__i2011e0872_disp.jpg	A 50 ml bottle of Ginkgo biloba extract. [Portugal]	Photo by Miguel Sousa. &copy; 2012 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Ginkgo biloba
+REGULATED	No
+STATUS	Over-The-CounterSupplement
+SCHEDULE	Un-Scheduled
+federalLawText :: Both Ginkgo biloba (the plant) and ginkgo extracts are unscheduled in the United States. This means they are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. Ginkgo extracts are commonly sold over-the-counter as a supplement.
+stateLaw :: null
+internationalLaw :: 

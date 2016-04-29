@@ -1,0 +1,43 @@
+[Substance]
+
+id :: 20
+name :: 4-Acetoxy-MIPT
+url :: https://www.erowid.org/chemicals/4_acetoxy_mipt/4_acetoxy_mipt.shtml
+category :: Chemicals
+commonNames :: 4-AcO-MiPT
+effectsClassification :: Psychedelic Tryptamine
+chemicalName :: 4-acetoxy-N,N-methyl-isopropyltryptamine
+description :: 4-Acetoxy-MiPT is a synthetic psychedelic considered similar in activity to psilocin. It is relatively uncommon and has only a short history of human use.
+imageURL :: https://www.erowid.org/chemicals/4_acetoxy_mipt/images/4_acetoxy_mipt_summary1.jpg
+imagesURL :: https://www.erowid.org/chemicals/4_acetoxy_mipt/4_acetoxy_mipt_images.shtml
+lawURL :: https://www.erowid.org/chemicals/4_acetoxy_mipt/4_acetoxy_mipt_law.shtml
+chemistryURL :: https://www.erowid.org/chemicals/4_acetoxy_mipt/4_acetoxy_mipt_chemistry.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Images]
+imageEntryList :: 4-AcO-MIPT	https://www.erowid.org/chemicals/show_image.php?i=4_acetoxy_mipt/4-aco-mipt_package__i2003e0612_disp.jpg	Front of plastic baggie containing 90 mg of 4-AcO-MIPT HCl. [USA]	Photo by Embroglio. &copy; 2007 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+4-Acetoxy-MiPT
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Possible Analog
+federalLawText :: 4-Acetoxy-MiPT is unscheduled in the United States. It is possible that it could be considered an analog (of 5-MeO-DIPT?), in which case, sales for human consumption or possession with the intent to ingest could be prosecuted under the Federal Analogue Act though we are unaware of any such existing cases (1/24/2011).
+stateLaw :: null
+internationalLaw :: Finland	4-Acetoxy-MIPT was banned in Finland in December 2014. A new government regulation was enacted in Finland that banned over 100 psychoactive chemicals. See Finland's Prohibited Psychoactive Substances: December 19, 2014. (last updated Dec 26, 2014)
+Sweden	4-Acetoxy-MiPT (along with 4-AcO-DET, 4-HO-DET, 4-HO-MIPT and bk-MDMA) was scheduled as "h&auml;lsofarliga varor" (health-threatening substances, having no acceptable medical use) in Sweden on Nov 1 2005, according to the "Statens folkh&auml;lsoinstitut" web site [See related document from fhi.se]. (thanks WolfofBlueFlame)
+
+[Chemistry]
+chemTable :: NAME :	4-Acetoxy-MiPT
+CHEMICAL NAME :	4-Acetoxy-N,N-methylisopropyltryptamine
+ALTERNATE CHEMICAL NAMES :
+moleculeURL :: null
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

@@ -1,0 +1,34 @@
+[Substance]
+
+id :: 276
+name :: Etizolam
+url :: https://www.erowid.org/pharms/etizolam/etizolam.shtml
+category :: Pharms
+commonNames :: Etilaam; Etizola; Etizest; Sedekopan; Arophalm; Depas; Pasaden
+effectsClassification :: Anxiolytic; Sedative; Benzodiazepine analog
+chemicalName :: 4-(2-chlorophenyl)-2-ethyl-9-methyl-6H-thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepine
+description :: Etizolam is a somewhat uncommon benzodiazepine-like anxiolytic used as a sleep aid and for the treatment of anxiety disorders. It has been seen in circulation on blotter for recreational use.
+imageURL :: https://www.erowid.org/pharms/etizolam/images/etizolam_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/etizolam/etizolam_images.shtml
+lawURL :: https://www.erowid.org/pharms/etizolam/etizolam_law.shtml
+
+[Images]
+imageEntryList :: Etizolam Tablets	https://www.erowid.org/pharms/show_image.php?i=etizolam/etizolam_tablet__i2013e0036_disp.jpg	Plastic baggie of blue 1 mg etizolam tablets spilled onto a sheet of aluminum foil. [USA]	Photo by Anonymous. &copy; 2013 Erowid.org
+Etizolam Blotter	https://www.erowid.org/pharms/show_image.php?i=etizolam/etizolam_blotter__i2013e0378_disp.jpg	Hunter S. Thompson (Gonzo) blotter containing 500 ug (0.5 mg) etizolam per hit from late 2013.	Photo by Anonymous. &copy; 2014 Erowid.org
+Etizolam Tablet Packages	https://www.erowid.org/pharms/show_image.php?i=etizolam/etizolam_tablet__i2013e0412_disp.jpg	Three Etilaam brand etizolam tablet blister packs. [TN, USA]	Photo by Brandon Maly. &copy; 2014 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Etizolam
+REGULATED	No
+STATUS	Not Scheduled
+SCHEDULE	Un-Scheduled
+CLASSIFICATION	Not Classified
+federalLawText :: Etizolam is not controlled in the US. Although it is chemically similar to other benzodiazepines, the U.S. Controlled Substance Analogue Act does not apply, as no similar drugs are in Schedule I or II. Sales of this chemical to end users would likely be considered drug sales and thus regulated by the FDA.
+stateLaw :: Alabama	Etizolam became Schedule I in March 2014. See https://legiscan.com/AL/text/SB333/2014. (thanks MA) (last updated Mar 31, 2015)
+Arkansas	Etizolam becomes Schedule I in Arkansas on December 1st, 2014. On June 17th, 2014 Arkansas proposed an amendment to the state CSA that would schedule Etizolam as Schedule I, effective December 1st, 2014. On September 2nd, 2014 the Arkansas Board of Health met with public officials and concerned citizens to hear public commenting. Public commenting was in favor of scheduling Etizolam, as well as two other proposed changes. See http://www.healthy.arkansas.gov/aboutADH/RulesRegs/controlled_substances_list.pdf and http://www.healthy.arkansas.gov/aboutADH/Pages/RulesRegulationsProposed.aspx. (last updated Nov 9 2014)
+Georgia	Added to Schedule IV in May 2015. See http://www.legis.ga.gov/Legislation/en-US/display/20152016/HB/211. (thanks ch) (last updated Feb 26 2016)
+Mississippi	Etizolam was controlled and added to Schedule I in Mississippi by law in April, 2014. See http://legiscan.com/MS/bill/HB1231/2014. (thanks d) (last updated Oct 13, 2014)
+internationalLaw :: Germany (Deutschland	Phenazepam and Etizolam were controlled in Germany in July 2013. See http://www.bundesgesundheitsministerium.de/fileadmin/dateien/Downloads/B/Betaeubungsmittelgesetz/27_BtMAEndV.pdf and http://www.gesetze-im-internet.de/btmg_1981/index.html. (thanks jl) (last updated Jul 21 2013)
+Polan	Etizolam may be scheduled under the Act on Counteracting Drug Addiction and the State Sanitary Inspection -Article 27c. (from drugs-forum)(last updated Mar 6 2014)
+United Kingdom (U.K., England)	Not controlled as of July 2013. (last updated July 21 2013)

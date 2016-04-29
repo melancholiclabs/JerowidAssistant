@@ -1,0 +1,24 @@
+[Substance]
+
+id :: 340
+name :: Phenytoin
+url :: https://www.erowid.org/smarts/phenytoin/phenytoin.shtml
+category :: Smarts
+commonNames :: Dilantin
+effectsClassification :: Anti-convulsant; General Cognitive Function; Anxiolytic
+chemicalName :: 5,5-diphenyl-2,4-imidazolidinedione
+description :: Phenytoin is an anti-convulsant which is said to improve mental functioning and increase IQ, memory, and learning. There is a long list of adverse and potentially dangerous side-effects associated with its use.
+imageURL :: https://www.erowid.org/smarts/images/smarts_spacer_summary.jpg
+imagesURL :: https://www.erowid.org/smarts/phenytoin/phenytoin_images.shtml
+chemistryURL :: https://www.erowid.org/smarts/phenytoin/phenytoin_chemistry.shtml
+
+[Images]
+imageEntryList :: Phenytoin Capsules	https://www.erowid.org/smarts/show_image.php?i=phenytoin/phenytoin_capsule__i2006e0951_disp.jpg	A bottle of 100 mg Dilantin brand Phenytoin Sodium capsules. [Australia]	Photo by Baron VonMogadon. &copy; 2007 Erowid.org
+Phenytoin 2D Molecule	https://www.erowid.org/smarts/show_molecule.php?i=phenytoin/phenytoin_2d.gif	Still 2D image of the Phenytoin molecule.	Image by Erowid, &copy; 2001 Erowid.org
+Phenytoin 3D Rotating Molecule	https://www.erowid.org/smarts/show_molecule.php?i=phenytoin/phenytoin__.mol	Rotating 3D image of the Phenytoin molecule.	Image by Erowid, &copy; 2001 Erowid.org
+
+[Chemistry]
+chemTable :: NAME :	Phenytoin
+CHEMICAL NAME :
+CHEMICAL FORMULA	C15H12N2O2
+moleculeURL :: null

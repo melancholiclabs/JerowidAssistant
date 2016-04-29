@@ -1,0 +1,84 @@
+[Substance]
+
+id :: 32
+name :: 5-MAPB
+url :: https://www.erowid.org/chemicals/5-mapb/5-mapb.shtml
+category :: Chemicals
+commonNames :: 5-MAPB, 5MAPB
+effectsClassification :: Euphoric Stimulant; Empathogen
+chemicalName :: (1-(benzofuran-5-yl)-N-methylpropan-2-amine)
+description :: 5-MAPB is a synthetic euphoric stimulant with effects similar to MDMA, 5-APB, and related chemicals. Structurally related to MDMA, 5-MAPB has empathogenic effects. Though 5-MAPB is less physically stimulating than many euphoric stimulants, jaw tension, nystagmus, and other such side effects are still reported. 5-MAPB has been available in online research chemical markets since late 2011.
+imageURL :: https://www.erowid.org/chemicals/5-mapb/images/5-mapb_summary1.jpg
+effectsURL :: https://www.erowid.org/chemicals/5-mapb/5-mapb_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/5-mapb/5-mapb_images.shtml
+lawURL :: https://www.erowid.org/chemicals/5-mapb/5-mapb_law.shtml
+doseURL :: https://www.erowid.org/chemicals/5-mapb/5-mapb_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/5-mapb/5-mapb_chemistry.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Effects]
+duration :: 5-MAPB Duration
+Oral
+Total Duration	3 - 6 hrs
+Onset	20 - 60  mins
+Coming Up	20 - 60 mins
+Plateau	2 - 5 hrs
+Coming Down	1 - 2 hrs
+&nbsp;	&nbsp;
+After Effects	12 hrs
+Hangover / Day After	- - -
+positiveEffects :: null
+neutralEffects :: null
+negativeEffects :: null
+description :: null
+experienceReports :: null
+
+[Images]
+imageEntryList :: 5-MAPB Powder with Field Reagents	https://www.erowid.org/chemicals/show_image.php?i=5-mapb/5-mapb_reagents__i2014e0346_disp.jpg	A ziplock plastic bag containing 5-MAPB powder aside five field test reagents from EcstasyPillTest.com. Powder was verified by field test and GC/MS to contain 5-MAPB. [CA, USA]	Photo by Erowid. &copy; 2014 Erowid.org
+5-MAPB Powder and Packaging	https://www.erowid.org/chemicals/show_image.php?i=5-mapb/5-mapb_powder__i2014e0347_disp.jpg	A white crystalline solid of 5-MAPB with label from vendor.	Photo by Borax. &copy; 2014 Erowid.org
+Fluffy White 5-MAPB	https://www.erowid.org/chemicals/show_image.php?i=5-mapb/5-mapb_powder__i2014e0349_disp.jpg	A photo of lab-verified 5-MAPB white crystalline powder on a black dish. The material was fluffy so that this pile appeared to be substantially more material than it was by mass. [CA, USA]	Photo by Erowid . &copy; 2014 Erowid.org
+Field Reagent Tests of MDMA, MDPV, and 5-MAPB	https://www.erowid.org/chemicals/show_image.php?i=5-mapb/5-mapb_reagents__i2014e0351_disp.jpg	A white ceramic well plate with MDMA, MDPV, and 5-MAPB tested with Marquis, Mecke, and Mandelin reagents just under 3 minutes total run time. 5-MAPB appears as a dark brown smokey reaction to Marquis, a similar brown-black smokey color with Mecke, and a purple-red color with Mandelin reagent.	Photo by Erowid . &copy; 2014 Erowid.org
+5-MAPB with Field Reagent Tests	https://www.erowid.org/chemicals/show_image.php?i=5-mapb/5-mapb_reagents__i2014e0353_disp.jpg	5-MAPB and field reagent test reactions. The top row of the plate is unused, the second row is "blank" (just the reagents themselves with no chemical, and the bottom row is the reagents mixed with 5-MAPB at about 60 seconds after initial reaction.	Photo by Erowid. &copy; 2014 Erowid.org
+5-MAPB 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=5-mapb/5-mapb_2d.jpg	Still 2D image of the 5-MAPB molecule.	Image by Erowid. &copy; 2014 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+5-MAPB
+REGULATED	No
+STATUS	Not Approved for Human Consumption
+SCHEDULE	Likely Analog
+federalLawText :: 5-MAPB is unscheduled in the United States. It is likely that it would be considered an analog (of MDMA), in which case, sales for human consumption or possession with the intent to ingest could be prosecuted under the Federal Analogue Act though we are unaware of any such existing cases.
+stateLaw :: null
+internationalLaw :: Canada	5-MAPB could be considered an analogue of one of the listed Schedule I amphetamines. See http://laws-lois.justice.gc.ca/eng/acts/C-38.8/FullText.html. "Amphetamines, their salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues including." (last updated Mar 8 2016)
+United Kingdom (U.K., uk, england)	5-MAPB was temporarily banned in the UK in June 2013, and then permanently placed in class B on June 10, 2014. [reference]
+
+[Dose]
+doseTable :: 5-MAPB Dosages
+Oral
+( tentative )
+Threshold	10 - 20 mg
+Light	20 - 30 mg
+Common	30 - 70 mg
+Strong	60 - 120 mg
+Heavy	120+ mg
+doseText :: 5-MAPB is a synthetic empathogenic stimulant that is most often found in powder form and taken orally, nasally, or rectally. IM and IV use have been reported. Although there's a wide range of reported doses reported, often this is related to differences in expectations for effects. 5-MAPB is considered slightly more potent than MDMA (but less stimulating), on a milligram per milligram basis, with perhaps 50-70mg of 5-MAPB being the equivalent of 100mg of MDMA. Because Erowid has read less than 40 total human reports of 5-MAPB use (as of Oct 2014), dose ranges are tentative.  Some other information sources suggest that 100 mg is a "normal" dose, but the effects reported at this or higher doses are often very strong and the negative side-effects more prominent. 5-MAPB may not be suited to those seeking strong stimulation, as the doses required to achieve strong stimulation are quite high.  Several batches of 5-MAPB sold between 2013 and 2015 have included 5- or 6-EAPB and doses of the -EAPB versions appear to be lower, making some reported doses of 5-MAPB higher than they would be with pure 5- or 6-MAPB.  Note that insufflanting 5- or 6-MAPB can be more likely to result in unpleasantly strong effects or over doses.
+notes :: null
+
+[Chemistry]
+chemTable :: NAME :	5-MAPB
+CHEMICAL NAME :	1-(benzofuran-5-yl)-N-methylpropan-2-amine
+CHEMICAL NAME :	1-benzofuran-5-ylpropan-2-methylamine
+CHEMICAL NAME :	5-(2-methylaminopropyl)benzofuran
+CHEMICAL FORMULA	C12H15NO
+MOLECULAR WEIGHT	189.25 (HCl - 225.7)
+CAS Number	1354631-77-8
+BOILING POINT	279.8 �C
+moleculeURL :: https://www.erowid.org/chemicals/5-mapb/images/archive/5-mapb_2d.jpg
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

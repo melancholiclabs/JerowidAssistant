@@ -1,0 +1,44 @@
+[Substance]
+
+id :: 53
+name :: Bufotenin
+url :: https://www.erowid.org/chemicals/bufotenin/bufotenin.shtml
+category :: Chemicals
+commonNames :: Toad Venom
+effectsClassification :: Psychedelic Tryptamine
+chemicalName :: 5-hydroxy-N,N-dimethyltryptamine
+description :: Bufotenin is a naturally occurring psychedelic present in many species of plants and Bufo toad venom. There has been some controversy over the psychoactivity of bufotenin though recent data suggests it is similar in effects to, though less potent than, 5-MeO-DMT.
+imageURL :: https://www.erowid.org/chemicals/bufotenin/images/bufotenin_summary1.jpg
+imagesURL :: https://www.erowid.org/chemicals/bufotenin/bufotenin_images.shtml
+lawURL :: https://www.erowid.org/chemicals/bufotenin/bufotenin_law.shtml
+chemistryURL :: https://www.erowid.org/chemicals/bufotenin/bufotenin_chemistry.shtml
+
+[Images]
+imageEntryList :: Bufotenine from Yopo	https://www.erowid.org/chemicals/show_image.php?i=bufotenin/bufotenine__i2009e0366_disp.jpg	A vial containing 150 mg of bufotenine freebase crystals, extracted from Anadenanthera colubrina seeds (Yopo). The vial is nested on Yopo seeds from Peru. The bufotenine was recrystallised from ethyl acetate/hexane. [UK]	Photo by Crystal Toad. &copy; 2009 Erowid.org
+Bufotenin 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=bufotenin/bufotenin_2d.gif	Still 2D image of the Bufotenin molecule.	Image by Erowid. &copy; 2006 Erowid.org
+Bufotenin 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=bufotenin/bufotenin_3d.jpg	Still 3D image of the Bufotenin molecule.	Image by Erowid. &copy; 1999 Erowid.org
+Bufotenin 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=bufotenin/bufotenin__.mol	Rotating 3D image of the Bufotenin molecule.	Image by Erowid. &copy; 1999 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Bufotenin
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule I
+CLASSIFICATION	Hallucinogen
+federalLawText :: Bufotenin is Schedule I in the United States. This means it is illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license.
+stateLaw :: null
+internationalLaw :: New Zealand	Bufotenine is Schedule I (Class A) in New Zealand [reference].
+South Africa	Bufotenin is classified under the Drug and Drug Trafficking Act No. 140 of 1992 as a "Undesirable Dependence Producing Substance". See www.justice.gov.za/legislation/acts/1992-140.pdf. (thanks MvS) (last updated April 18 2011)
+U.K.	Bufotenine is Schedule I/Class A in the U.K., making it illegal to sell, buy, or possess without a license.
+
+[Chemistry]
+chemTable :: NAME :	Bufotenin
+CHEMICAL NAME :	3-[2-(Dimethylamino)thyl]-1H-indol-5-ol
+ALTERNATE CHEMICAL NAMES : 	3-(2-dimethylaminoethyl)-5-indolol; 5-hydroxy-N,N-dimethyltryptamine
+ALTERNATE CHEMICAL NAMES : 	 N,N-dimethylserotonin, 3-(&#223;-dimethylaminoethyl)-5-hydroxyindole, mappine
+CHEMICAL FORMULA	C12H16N2O
+MOLECULAR WEIGHT	204.27
+MELTING POINT	174.5-178&#176C (Merck); 124-126&#176C (Ott)
+From the Merck Index 12th Edition
+moleculeURL :: https://www.erowid.org/chemicals/bufotenin/images/archive/bufotenin_3d_mid.jpg

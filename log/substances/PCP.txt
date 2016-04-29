@@ -1,0 +1,88 @@
+[Substance]
+
+id :: 120
+name :: PCP
+url :: https://www.erowid.org/chemicals/pcp/pcp.shtml
+category :: Chemicals
+commonNames :: Angel Dust; Sherms; Embalming Fluid
+effectsClassification :: Dissociative Psychedelic; Tranquilizer
+chemicalName :: phencyclidine
+description :: PCP is a powerful psychedelic known for its dissociative effects at higher doses. It is best known for stories of the strange and sometimes violent behavior of people under its influence.
+imageURL :: https://www.erowid.org/chemicals/pcp/images/pcp_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/pcp/pcp_basics.shtml
+effectsURL :: https://www.erowid.org/chemicals/pcp/pcp_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/pcp/pcp_images.shtml
+lawURL :: https://www.erowid.org/chemicals/pcp/pcp_law.shtml
+doseURL :: https://www.erowid.org/chemicals/pcp/pcp_dose.shtml
+
+[Basics]
+description :: Phencyclidine (PCP) is a synthetic chemical in the dissociative anaesthetic class. It is perhaps best known by the media hype it received in the late 1970's portraying it as a extremely dangerous chemical causing madness, psychotic reactions, and super-human strength. It is found in a variety of forms including crystals/powder, tablets, and liquid. Recently it seems to be available on the underground market most commonly as cannabis joints, regular cigarettes or cannabis leaf dipped in liquid PCP....and usually marketed as something else, seldom as 'PCP'. [ Main PCP Vault ]
+descriptionSections :: dose	PCP is used in very small quantities with 5-10 mg considered an average dose.
+price	Because PCP is unusual in the black market (2013), its price varies dramatically between vendors and venues. One submitter reportedly paid $15 USD per PCP-dipped cigarette (2013).
+law	PCP is illegal to possess in the United States (schedule II).
+chemistry	Phencyclidine (PCP) is a synthetic chemical.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	PCP was first synthesized in 1926 and began being investigated as a human anaesthetic in the mid 1950's by Parke Davis. It was marketed as a human anesthetic for two years under the name 'Sernyl' before being withdrawn from the market due to hallucinations experienced by patients under it's influence. Recreational use rose in the late 60's leading to its placement in Schedule III in the early 70's. After its recreational use continued to rise during the early 70's, PCP was moved to Schedule II in 1978.
+terminology	The Substance:PCP; Phencyclidine; Crystal; Angel Dust; Rocket Fuel; Wet; Water; Fry; Amp; Embalming Fluid; Formaldehyde; Hog. The Experience:Tripping.
+effects :: Effects Summary Needed.
+effectsSections :: onset	Onset Summary Needed.
+duration	Duration Summary Needed.
+visuals	Visuals Summary Needed.
+problems :: Problems Summary Needed.
+problemsSections :: contraindications	Contraindications Summary Needed.
+addiction	Addiction Potential Summary Needed.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Effects]
+duration :: PCP Duration
+Smoked
+Total Duration	4 - 6 hrs
+Onset	2 - 20 mins
+Coming Up	30 - 60 mins
+Plateau	2 - 3 hrs
+Coming Down	1 - 2 hrs
+&nbsp;	&nbsp;
+After Effects	24 + hrs
+Hangover / Day After	- - -
+positiveEffects :: Increase in energy	Euphoria	Pleasant mental and/or body high	Disconnected thoughts	Sense of calm	Increased sociability, loss of inhibitions	Closed- and open-eye visuals	Shifts in perception of reality
+neutralEffects :: Increased salivation	Change in body temperature regulation, sweating	Increased heart rate (lower doses)	Altered time perception	Disrupted speech patterns	Analgesia (decreased pain awareness) and numbness	Feelings of invulnerability	Distorted sensory perceptions, hallucinations	Unusual and unpredictable behavior	Mild to moderate dissociation (common)	Confusion, disorientation (common)	Nystagmus (rhythmic eye movement)
+negativeEffects :: Disturbing hallucinations and/or delusions	Severe anxiety, paranoia	Severe dissociation, depersonalization	Ataxia (loss of motor coordination)	Severe confusion, disorganized thinking	Psychotic episodes 1	Physical aggression	Nausea, vomiting	Temporary amnesia	Severe distortion or loss of auditory/visual perception	Decreased heart rate, blood pressure, and respiration (high doses)	Seizures (high doses)	Hangover including dizziness, numbness and lethargy; may last 24 hours or more	Coma (high doses, increased risk when combined with depressants)	Possible neurotoxicity (controversial) 2
+description :: Many users report feelings of dissociation, perceptual alterations and loss of coordination after using the drug. Intense hallucinations and delusions as well as a loss of physical control and coordination are also commonly experienced. PCP has been known to induce seizures, coma and even death, especially at high doses, and there is some evidence to indicate that, whilst not physically addictive, it can lead to psychological dependency and drug-seeking behaviour.	
+Long-term use has been known to lead to schizophrenia-like psychotic episodes, severe lasting memory loss, disorganised thinking, depression, weight loss, liver abnormalities and rhabomyolysis (skeletal muscle breakdown).
+experienceReports :: null
+
+[Images]
+imageEntryList :: PCP-dipped Cigarette	https://www.erowid.org/chemicals/show_image.php?i=pcp/pcp_cigarette__i2003e0657_disp.jpg	Jar of liquid pcp next to a a freshly dipped cigarette. [NY, USA]	Photo by MTM, &copy; 2006 Erowid.org
+PCP	https://www.erowid.org/chemicals/show_image.php?i=pcp/pcp_liquid__i2003e0654_disp.jpg	A glass jar half full of liquid PCP. [NY, USA]	Photo by MTM. &copy; 2006 Erowid.org
+1979 PCP Analytical Standard	https://www.erowid.org/chemicals/show_image.php?i=pcp/pcp_vial__i2011e0607_disp.jpg	Phencyclidine (PCP) HCl 10mg analytical standard from 1979. [Unknown]	Photo by Anonymous. &copy; 2011 Erowid.org
+PCP 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=pcp/pcp_2d.jpg	Still 2D image of the PCP molecule.	Image by Erowid. &copy; 2000 Erowid.org
+PCP 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=pcp/pcp__.mol	Rotating 3D image of the PCP molecule.	Image by Erowid. &copy; 2000 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+PCP
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule II
+CLASSIFICATION	Depressant
+federalLawText :: PCP is Schedule II in the United States. This means it is illegal to sell without a DEA license and illegal to buy or possess without a license or prescription.
+stateLaw :: null
+internationalLaw :: Canada	PCP is schedule I in Canada. (Note: Canadian schedules are very different than U.S. schedules)
+Italy (Italia)	Listed in Tabella I of "Tabelle delle sostanze stupefacenti e psicotrope", making it illegal to possess, purchase, or sell. (see Tabelle delle sostanze stupefacenti e psicotrope. (thanks a) (last updated Dec 16, 2015)
+New Zealand	PCP is Schedule I (Class A) in New Zealand [reference].
+Poland	PCP is schedule II (II-P group) in Poland. (No Reference)
+Portugal	Effective July 2001, personal use of PCP was decriminalized by Law 30/2000 (see text of law). Possession of less than 100 mg is not regarded as a criminal offense, though the substance is liable to be seized and the possessor can be referred to mandatory treatment. Sale, or possession of quantities greater than the personal possession limit, are criminal offenses punishable by jail time. (thanks P)
+U.K.	PCP is Schedule II/Class A in the U.K., making it illegal to buy or possess without a prescription.
+
+[Dose]
+doseTable :: Oral PCP Dosages
+Light3 - 5 mg
+Common5 - 10 mg
+Strong10 + mg
+Onset : 
+Duration : 4 - 6 hours
+Normal After Effects : up to 24 hours
+doseText :: PCP comes in a variety of forms including crystals/powder, tablets, and liquid. Recently it appears to be most commonly available as marijuana joints or regular cigarettes dipped in liquid PCP [called fry, embalming fluid, and wet, among other slang terms].
+notes :: null

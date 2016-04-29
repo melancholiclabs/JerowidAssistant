@@ -1,0 +1,20 @@
+[Substance]
+
+id :: 81
+name :: GHV & GVL
+url :: https://www.erowid.org/chemicals/ghv/ghv.shtml
+category :: Chemicals
+commonNames :: 4-hydroxyvalerate; Gamma valeractone
+effectsClassification :: Depressant Intoxicant
+chemicalName :: gamma-hydroxyvalerate
+description :: GHV is a sedative similar in nature to GHB but much less common. Its effects are not well understood.
+imageURL :: https://www.erowid.org/chemicals/images/chemicals_spacer_summary.jpg
+chemistryURL :: https://www.erowid.org/chemicals/ghv/ghv_chemistry.shtml
+
+[Chemistry]
+chemTable :: NAME :	Gamma-Hydroxyvalerate
+CHEMICAL NAMES :	4-Hydroxyvalerate (4HV); GHV; 4-methyl-GHB; Gamma Hydroxy Valerate
+CHEMICAL FORMULA	C5H8O3
+MOLECULAR WEIGHT	100.116
+CAS #	108-29-2 ??
+moleculeURL :: https://www.erowid.org/chemicals/ghv/images/archive/ghv_2d.gif

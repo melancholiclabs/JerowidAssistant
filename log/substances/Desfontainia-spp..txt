@@ -1,0 +1,17 @@
+[Substance]
+
+id :: 155
+name :: Desfontainia spp.
+url :: https://www.erowid.org/plants/desfontainia/desfontainia.shtml
+category :: Plants
+botanicalClassification :: Family :Desfontainiaceae, Genus :Desfontainia, Species :spinosa (=obovata; parvifolia); hookericommonNames :: Michay; Chapico; Taique
+effectsClassification :: Unknown
+description :: Desfontainia spinosa is a small evergreen shrub native South America. The leaves and fruit are made into a hallucinogenic tea. There is little specific info about the use of this plant as a psychoactive.
+imageURL :: https://www.erowid.org/plants/desfontainia/images/desfontainia_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/desfontainia/desfontainia_images.shtml
+
+[Images]
+imageEntryList :: Desfontainia spinosa	https://www.erowid.org/plants/show_image.php?i=desfontainia/desfontainia_spinosa3.jpg	Photo showing a small Desfontainia spinosa bush in flower. [SF, CA, USA]	Photo &copy; Trout. Used by Erowid with permission.
+Desfontainia spinosa	https://www.erowid.org/plants/show_image.php?i=desfontainia/desfontainia_spinosa1.jpg	Close-up color photo of the leaves and flowers of Desfontainia spinosa. [SF, CA, USA]	Photo &copy; Trout. Used by Erowid with permission.
+Desfontainia spinosa	https://www.erowid.org/plants/show_image.php?i=desfontainia/desfontainia_spinosa2.jpg	Close-up color photo of a single red Desfontainia spinosa flower. [SF, CA, USA]	Photo &copy; Trout. Used by Erowid with permission.
+Desfontainia spinosa	https://www.erowid.org/plants/show_image.php?i=desfontainia/desfontainia_spinosa4.jpg	Color photo of a Desfontainia spinosa herbarium display by the Botanical Preservation Corps, Palenque Mexico.	Photo by Freeblood, &copy; 2000 Erowid.org

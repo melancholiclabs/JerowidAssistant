@@ -1,0 +1,28 @@
+[Substance]
+
+id :: 295
+name :: Naloxone
+url :: https://www.erowid.org/pharms/naloxone/naloxone.shtml
+category :: Pharms
+commonNames :: Narcan; Nalone; Narcanti; Suboxone (w/buprenorphine)
+effectsClassification :: Narcotic detoxification adjunct
+chemicalName :: 17-allyl-4,alpha-epoxy- 3,14-dihydroxymorphinan-6-one
+description :: Naloxone is an opioid antagonist used to counter the effects of opioid overdose, particularly respiratory suppression. It rapidly displaces opioids such as heroin from binding sites in the brain, causing an almost-immediate cessation of drug effects.
+imageURL :: https://www.erowid.org/pharms/images/pharms_spacer_summary.jpg
+imagesURL :: https://www.erowid.org/pharms/naloxone/naloxone_images.shtml
+lawURL :: https://www.erowid.org/pharms/naloxone/naloxone_law.shtml
+
+[Images]
+imageEntryList :: Naloxone (Narcan) Ampule	https://www.erowid.org/pharms/show_image.php?i=naloxone/naloxone_ampule__i2007e1735_disp.jpg	A single 1 ml naloxone (Narcan) ampule containing 0.4 mg naloxone. [Japan]	Photo by Anon. &copy; 2009 Erowid.org
+Buprenorphine / Naloxone Tablets	https://www.erowid.org/pharms/show_image.php?i=buprenorphine/buprenorphine_naloxone_tablet__i2008e1098_disp.jpg	Several Suboxone tablets containing 8 mg buprenorphine and 2 mg naloxone. [Australia]	Photo by Psych0naut. &copy; 2010 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Naloxone
+REGULATED	Yes
+STATUS	Prescription Only
+SCHEDULE	Un-Scheduled
+federalLawText :: Naloxone is unscheduled in the United States, but is available by prescription only. This means that sales and distribution are allowed only by those with a license and only to those with a prescription (according to FDA regulations). Possession is not illegal even without a prescription.	
+Suboxone, which contains buprenorphine HCL and naloxone HCL dihydrate, is listed as Schedule III under the Controlled Substances Act.
+stateLaw :: null
+internationalLaw :: 

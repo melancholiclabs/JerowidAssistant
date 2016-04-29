@@ -1,0 +1,42 @@
+[Substance]
+
+id :: 188
+name :: Sinicuichi
+url :: https://www.erowid.org/plants/sinicuichi/sinicuichi.shtml
+category :: Plants
+botanicalClassification :: Family :Lythraceae (Loosestrife), Genus :Heimia, Species :salicifolia; myrtifoliacommonNames :: Sinicuichi; Sun Opener; Shrubby Yellowcrest
+effectsClassification :: Unknown
+description :: Heimia salicifolia is a perennial shrub with small narrow leaves and yellow flowers growing up to 1.5 meters. It has been identified as the Aztec hallucinogen "sinicuichi" though this fact is controversial. Sinicuichi is reported to be an auditory hallucinogen, but the effects of H. salicifolia are not well known.
+imageURL :: https://www.erowid.org/plants/sinicuichi/images/sinicuichi_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/sinicuichi/sinicuichi_images.shtml
+lawURL :: https://www.erowid.org/plants/sinicuichi/sinicuichi_law.shtml
+
+[Images]
+imageEntryList :: Heimia salicifolia	https://www.erowid.org/plants/show_image.php?i=sinicuichi/heimia_salicifolia5.jpg	Color photo of H. salicifolia branch showing leaves and yellow flowers. (N. california)	Photo by Erowid, &copy; 2001 Erowid.org
+Heimia salicifolia Plant	https://www.erowid.org/plants/show_image.php?i=sinicuichi/heimia_salicifolia_plant1.jpg	Color photo of a 4 foot tall H. salicifolia plant. (N. california)	Photo by Erowid, &copy; 2001 Erowid.org
+Heimia salicifolia	https://www.erowid.org/plants/show_image.php?i=sinicuichi/heimia_salicifolia__i2006e0022_disp.jpg	Two Heimia salicifolia (Sinicuichi) plants growing in pots in a window. [Norway]	Photo by Felix Poker. &copy; 2009 Erowid.org
+Heimia salicifolia Flower	https://www.erowid.org/plants/show_image.php?i=sinicuichi/heimia_salicifolia_flower1.jpg	Close-up color photo of the small yellow H. salicifolia flower, about 1.5 cm in diameter. (N. california)	Photo by Erowid, &copy; 2001 Erowid.org
+Heimia salicifolia Flower	https://www.erowid.org/plants/show_image.php?i=sinicuichi/heimia_salicifolia_flower2.jpg	Close-up color photo of the H. salicifolia flower, about 1.5 cm in diameter. (N. california)	Photo by Erowid, &copy; 2001 Erowid.org
+Heimia salicifolia Flower	https://www.erowid.org/plants/show_image.php?i=sinicuichi/heimia_salicifolia_flower3.jpg	Color scan of a single yellow/orange H. salicifolia flower. (N. california)	Photo by Erowid, &copy; 2001 Erowid.org
+Heimia salicifolia	https://www.erowid.org/plants/show_image.php?i=sinicuichi/heimia_salicifolia4.jpg	Color photo of small potted plant next to tape measure showing size.	Photo by Murple, &copy; 2000 Erowid.org
+Heimia salicifolia	https://www.erowid.org/plants/show_image.php?i=sinicuichi/heimia_salicifolia6.jpg	Color scan of a Sinicuichi branch and flower. Shows leaf shape quite well. (N. California)	Photo by Erowid, &copy; 2001 Erowid.org
+Heimia salicifolia	https://www.erowid.org/plants/show_image.php?i=sinicuichi/heimia_salicifolia7.jpg	Color photo of a Sinicuichi branch showing flowers/seed pods after the flower petals have dropped. (N. California).	Photo by Erowid, &copy; 2001 Erowid.org
+Heimia salicifolia	https://www.erowid.org/plants/show_image.php?i=sinicuichi/heimia_salicifolia1.jpg	Color photo of plant.	Photographer unknown.
+Heimia salicifolia	https://www.erowid.org/plants/show_image.php?i=sinicuichi/heimia_salicifolia2.jpg	Black and white botanical drawing of H. salicifolia.	From "The Plant Kingdom and Hallucinogens (part III)", by Richard Evans Schultes.
+Heimia salicifolia	https://www.erowid.org/plants/show_image.php?i=sinicuichi/heimia_salicifolia1.jpg	Color photo of flowering plant.	Photographer unknown.
+Heimia salicifolia	https://www.erowid.org/entheogens/show_image.php?i=xochi/xochi_sinicuichi1.jpg	Color photo of a carving of Sinicuichi bud from Xochipilli statue.	Photo from Plants of the Gods, by Schultes and Hofmann.
+Heimia salicifolia	https://www.erowid.org/entheogens/show_image.php?i=xochi/xochi_sinicuichi2.jpg	Color photo of a carving of Sinicuichi flower from Xochipilli statue.	Photo from Plants of the Gods, by Schultes and Hofmann.
+Heimia myrticifolia	https://www.erowid.org/plants/show_image.php?i=sinicuichi/heimia_myrticifolia_plant__i2002e0048_disp.jpg	Potted Heimia myrticifolia "sinicuiche" plant w/ new leaf growth turning burgandy. Grown indoors, photo taken in August. [ME, USA]	Photo by Boatswain76. &copy; 2006 Erowid.org
+Sinicuichi Comparison	https://www.erowid.org/plants/show_image.php?i=sinicuichi/sinicuichi1.jpg	Side by side comparison of the Sinicuichi representation from the 16th century Aztec Xochipilli statue with the pre-seed pod of a H. salicifolia plant from Northern California.	Photo by Erowid, &copy; 2001 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Heimia salicifolia
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: Sinicuichi (Heimia salicifolia) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: Louisiana	Effective Aug 8, 2005 (signed into law Jun 28, 2005) Louisiana Act No 159 makes 40 plants illegal, including A. peregrina and A. colubrina, when intended for human consumption. The law specifically excludes the "possession, planting, cultivation, growing, or harvesting" of these plants if used "strictly for aesthetic, landscaping, or decorative purposes." (Text of HLS_05RS-52 and Update June 2005)
+Tennessee 	Tennessee did not pass the proposed bill that would have banned dozens of plants as "hallucinogenic" when intended for human consumption. Instead, they banned only Salvia divinorum. See Comments on New State Laws Controlling the Consumption of Hallucinogenic Plants.
+internationalLaw :: INTERNATIONAL LAW	Australia #
+Australia	All parts of Heimia salicifolia and myrtifolia (seeds, plants, extracts) are not controlled in Australia and therefore legal to buy, sell, possess, and consume. If sold for human consumption, the products must conform to the standarfs of the TGA (thereapeutic goods administration). (unconfirmed) (thanks C)

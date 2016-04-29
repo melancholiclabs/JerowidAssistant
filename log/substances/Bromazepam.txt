@@ -1,0 +1,35 @@
+[Substance]
+
+id :: 257
+name :: Bromazepam
+url :: https://www.erowid.org/pharms/bromazepam/bromazepam.shtml
+category :: Pharms
+commonNames :: Lectopam; Lexotan
+effectsClassification :: Anxiolytic; Sedative; Benzodiazepine
+chemicalName :: 7-bromo-1,3-dihydro-5-(2-pyridyl)-2H-1,4-benzodiazepin-2-one
+description :: Bromazepam is a sedative used in the treatment of anxiety.
+imageURL :: https://www.erowid.org/pharms/bromazepam/images/bromazepam_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/bromazepam/bromazepam_images.shtml
+lawURL :: https://www.erowid.org/pharms/bromazepam/bromazepam_law.shtml
+
+[Images]
+imageEntryList :: Bromazepam	https://www.erowid.org/pharms/show_image.php?i=bromazepam/bromazepam_tablets1.jpg	Color photo of pile of 5 mg Lexotan Bromazepam tablets (Roche brand from Japan).	Photo by Mean Cinderella, &copy; 2001 Erowid.org
+Bromazepam	https://www.erowid.org/pharms/show_image.php?i=bromazepam/bromazepam_tablets2.jpg	Color photo of pile of 5 mg Lexotan Bromazepam tablets (Roche brand from Japan).	Photo by Mean Cinderella, &copy; 2001 Erowid.org
+Bromazepam Tablets	https://www.erowid.org/pharms/show_image.php?i=bromazepam/bromazepam_tablet__i2007e1973_disp.jpg	Two blister packs of 6 mg Bromazepam tablets (Lexotanil) produced by Roche. [USA]	Photo by Dj Chill. &copy; 2010 Erowid.org
+Bromazepam	https://www.erowid.org/pharms/show_image.php?i=bromazepam/bromazepam_tablets3.jpg	Color photo of a bubble pack of blue 6 mg Notorium (Bromazepam) tablets.	Photo by Anonymous Photographer, &copy; 2000 Erowid.
+Bromazepam	https://www.erowid.org/pharms/show_image.php?i=bromazepam/bromazepam_tablets4.jpg	Photo of a pile of pink 3 mg bromazepam tablets made by Rolab. (S. Africa)	Photo by Anonymous Photographer, &copy; 2005 Erowid.
+Bromazepam 2D Molecule	https://www.erowid.org/pharms/show_molecule.php?i=bromazepam/bromazepam_2d.gif	Still 2D image of the Bromazepam molecule.	Image by Erowid, &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Bromazepam
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule IV
+CLASSIFICATION	Depressant
+federalLawText :: Bromazepam is Schedule IV in the U.S. This means it is illegal to sell without a license and illegal to possess without a valid license or prescription.
+stateLaw :: null
+internationalLaw :: Canada	Benzodiazepines (including bromazepam) are Schedule IV under Canadian law. See http://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-26.html#h-29. (thanks e) (last updated Jul 30 2012)
+Czech Republic	Bromazepam is available by prescription only in the Czech Republic.
+Germany (Deutschland)	Bromazepam is available by prescription only in Germany. Brand name "Bromazanil, produced by Hexal, available in packages of 20 tablets at 6 mg bromazepam each. (thanks P)
+The Netherlands	Most benzodiazepeines are available with a prescription in the Netherlands. Preparation, possession, adaption, delivery, providing and transport, of benzodiazepines are prohibited, because they are scheduled on "List II" of the "Opium Law". Possession of small quantities (for personal use) of prohibited substances is typically not prosecuted. Recreational use of benzodiazepines, is, as with any other substance, not prohibited in the Netherlands. Benzodiazepines approved for medical use in the Netherlands: Alprazolam, Bromazepam, Brotizolam, Chloordiazepoxide (in english chlordiazepoxide), Clobazam, Clonazepam, Clorazepinezuur (in english clorazepate), Diazepam, Flunitrazepam, Flurazepam, Loprazolam, Lorazepam, Lormetazepam, Midazolam, Nitrazepam, Oxazepam, Prazepam, Temazepam, as well as Zolpidem and Zopiclone. (thanks K) (last updated Oct 11, 2012)

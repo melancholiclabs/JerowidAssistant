@@ -1,0 +1,18 @@
+[Substance]
+
+id :: 323
+name :: Zopiclone / Eszopiclone
+url :: https://www.erowid.org/pharms/zopiclone/zopiclone.shtml
+category :: Pharms
+commonNames :: Imovane; Lunesta; Zimovane; [...]
+effectsClassification :: Hypnotic; Sleep-aid
+chemicalName :: 4-methyl-1-piperazinecarboxylic acid 6-(5-chloro- 2-pyridinyl)-6,7-dihydro-7-oxo-5H-pyrrolo[3,4-b] pyrazin-5-yl ester
+description :: Zopiclone is a short-acting sedative-hypnotic used in the short-term treatment of insomnia. It is in a novel class of CNS depressants called cyclopyrrolones, which act on the same receptor sites as benzodiazapines. Zopiclone became commercially available in Europe in 1989 and in the U.S. -- as eszopiclone, its active (S) stereoisomer -- in 2005. It is known for causing a metallic taste in the mouth, which the others in its class (zolpidem, zaleplon) do not.
+imageURL :: https://www.erowid.org/pharms/zopiclone/images/zopiclone_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/zopiclone/zopiclone_images.shtml
+
+[Images]
+imageEntryList :: Zopiclone	https://www.erowid.org/pharms/show_image.php?i=zopiclone/zopiclone_tablet1.jpg	Color photo showing the front and back of a blue 7.5 mg Zopiclone tablet imprinted with "ZZ || 7.5". (Canada)	Photo by Akarahil, &copy; 2005 Erowid.
+Zopiclone	https://www.erowid.org/pharms/show_image.php?i=zopiclone/zopiclone_tablet2.jpg	Color photo of a small pile of white 7.5 mg Zopiclone tablets. (Japan)	Photo by Mean Cinderella, &copy; 2005 Erowid.
+Imovane	https://www.erowid.org/pharms/show_image.php?i=zopiclone/imovane_package1.jpg	Color photo of the front of an Imovane (Zopiclone) box. (Sweden)	Photo by Theft, &copy; 2005 Erowid.
+Imovane	https://www.erowid.org/pharms/show_image.php?i=zopiclone/imovane_package2.jpg	Color photo of the front and back of a 5 mg Imovane (Zopiclone) blister pack. (Sweden)	Photo by Theft, &copy; 2005 Erowid.

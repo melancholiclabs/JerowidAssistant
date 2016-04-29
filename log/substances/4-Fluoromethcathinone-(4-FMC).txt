@@ -1,0 +1,91 @@
+[Substance]
+
+id :: 22
+name :: 4-Fluoromethcathinone (4-FMC)
+url :: https://www.erowid.org/chemicals/4_fluoromethcathinone/4_fluoromethcathinone.shtml
+category :: Chemicals
+commonNames :: 4-FMC; Flephedrone
+effectsClassification :: Stimulant; Euphoriant
+chemicalName :: (RS)-1-(4-fluorophenyl)-2-methylaminopropan-1-one
+description :: 4-FMC is a synthetic stimulant with mild empathogenic effects that is chemically similar to methcathinone. It and its 2- and 3- positional isomers have been identified in "legal high" products. 4-FMC has an extremely short history of human use.
+imageURL :: https://www.erowid.org/chemicals/4_fluoromethcathinone/images/4_fluoromethcathinone_summary1.jpg
+effectsURL :: https://www.erowid.org/chemicals/4_fluoromethcathinone/4_fluoromethcathinone_effects.shtml
+lawURL :: https://www.erowid.org/chemicals/4_fluoromethcathinone/4_fluoromethcathinone_law.shtml
+doseURL :: https://www.erowid.org/chemicals/4_fluoromethcathinone/4_fluoromethcathinone_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/4_fluoromethcathinone/4_fluoromethcathinone_chemistry.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Effects]
+duration :: 4-Fluoromethcathinone Duration
+Oral
+( tentative )
+Total Duration	1.5 - 4 hrs
+Onset	15 - 45 mins
+Coming Up	15 - 30 mins
+Plateau	30 - 60 mins
+Coming Down	30 - 90  mins
+&nbsp;	&nbsp;
+After Effects	2 - 4 hrs
+Hangover / Day After	- - -
+positiveEffects :: mental and physical stimulation	euphoria, mood lift	feelings of empathy, openness	increase in sociability, desire to talk with others	pleasurable rushing	increased concentration	increased sense of motivation
+neutralEffects :: general change in consciousness (as with most psychoactives)	decreased appetite	pupil dilation	unusual body sensations (facial flushing, chills, goosebumps, body energy)	change in body temperature regulation	sweating	increase in heart rate and blood pressure	nystagmus	tremor
+negativeEffects :: desire to redose, craving to recapture initial euphoric rush	uncomfortable changes in body temperature (sweating/chills)	heart palpitations	significant increase in heart rate and blood pressure	impaired short term memory	tightened jaw muscles, grinding teeth (trismus and bruxia)	muscle twitching, stiffness, tension, pain	nystagmus	dizziness, light headedness, vertigo	headache	nausea	numbness/tingling in extremities	when insufflated: pain and swelling in nose and throat, sinusitis, nasal bleeding
+description :: General Effects Notes	The effects of 4-fluoromethcathinone are often compared to those of 4-methylmethcathinone (mephedrone), but with significantly less euphoria or feelings of empathy reported. Some users have noted that it feels "toxic", with lingering side effects such as headache, muscle tension and nausea.	
+Confusingly, both 4-FMC and, less frequently, its positional isomer 3-FMC have been referred to as "Flephedrone"; they seem to have similar effects.	
+Routes of Administration	As with other psychoactives, oral 4-fluoromethcathinone ingestion takes slightly longer to cause effects and lasts longer. Insufflation (snorting) is more associated with compulsive / addictive use patterns.	
+Addiction and Compulsive Use	As with 4-methylmethcathinone, compulsive use patterns that are similar to or stronger than those of other recreational euphoric stimulants have been reported. It is unlikely to be physically addictive, meaning that withdrawal symptoms are minimal and likely not life threatening, but psychological addiction seems likely to be a problem in some users with this substance.
+experienceReports :: "[unspecified dose and ROA] While 4-fluoromethcathinone is reasonably useful as a stimulant at various dosages, there are well-studied pharmaceuticals that perform much better. 4-FMC always left me with a sort of "'so what?' feeling and no urge whatsoever to take my experiments further." -- "Study of Four Cathinones", Erowid Extracts Jun 2012;(22)10."[30-50 mg, insufflated / 100-200 mg, oral] 4-FMC turned out to be a valuable tool for increasing energy, motivation, and, to some degree, concentration. [...] For general stimulation, insufflated doses of 30�50 mg and oral doses of 100�200 mg seemed to work best." -- "Study of Four Cathinones", Erowid Extracts Jun 2012;(22)11."[150 mg, rectal] Still working on my music collection. It seems a bit like amphetamine in that it encourages mindless repetitive activity. In small doses it could be used as a study aid, perhaps. It is much less more a plain stimulant than mephedrone, methylone, bk-MBDB, less empathic. It is has a low quotient (but not zero) of entactogenic qualities. I feel no uncomfortably elevated heart rate or other signs of physical discomfort so I decide the dose may be too low." -- Exp 86047"[repeated, oral, total ~400 mg] [...] pain and feelings of numbness in all extremities, intense tingling sensations and extreme sensitivity to touch, where even slight contact causes intense pain. Dizzyness, even feeling faintish periodically. Hand & feet freezing cold. Intermittent attacks of nausia. Unusually intense bodily (muscular) stiffness. Headache." -- Exp 84061
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+4-Fluoromethcathinone
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule I
+federalLawText :: 4-Fluoromethcathinone was added to Schedule I by DEA emergency scheduling on March 7, 2014. See http://www.deadiversion.usdoj.gov/fed_regs/rules/2014/fr0307_2.htm.
+stateLaw :: Florida	On January 26, 2011, an emergency scheduling went into effect in Florida for MDPV, methylone, mephedrone, 3-methoxymethcathinone, 3-fluoromethcathinone, and 4-fluoromethcathinone as media attention on products labeled as "bath salts" grew. These chemicals are now Schedule I under Florida law. See http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0800-0899/0893/0893.html. (last updated Jul 18, 2012)
+Georgia	Effective May 13 2011, Georgia banned MDPV, 4-Methylmethcathinone, 4-Fluoromethcathinone, 4-Methoxymethcathinone, Methylone, JWH-200, JWH-250, JWH-081 and related compounds. Making them illegal to possess without a license. See Georgia Senate Bill SB93. (thanks R) (last updated Jul 18 2012)
+Indiana	Effective July 1, 2011 fluoromethcathinone is controlled substances in Indiana. See http://www.in.gov/legislative/bills/2011/HE/HE1102.1.html">http://www.in.gov/legislative/bills/2011/HE/HE1102.1.html. (thanks K) (last updated Jul 18 2012)
+Kentucky	4-fluoromethcathinone is probably controlled in Kentucky. In 2012, Kentucky passed HR 481 that added controlls for "synthetic drugs". The law states "'Synthetic drugs' means any synthetic cannabinoids or piperazines or any synthetic cathinones.". See http://www.lrc.ky.gov/record/12rs/HB481.htm. (thanks dw) (last updated Jan 17, 2013)
+Louisiana	In January 2011, the governor of Louisiana emergency scheduled 4-fluoromethcathinone and 3-fluoromethcathinone, among other cathinones. See nolacriminallaw.com. (thanks tsc) (last updated Jul 18 2012)
+New Jersey	New Jersey added six stimulants to Schedule I under an order by the Acting Director of the Division of Consumer Affairs, including: 4-methylmethcathinone, MDPV, Methylone (3,4-methylenedioxymethcathinone, methedrone (4-methoxymethcathinone), 3-fluoromethcathinone, and 4-fluoromethcathinone. See http://www.njconsumeraffairs.gov/bathsalts/. (thanks es) (last updated Jul 18 2012)
+Pennsylvania	Pennsylvania passed a law on June 23 2011 adding several new drugs to the controlled substances list, including 4-Fluoromethcathinone, and 3-Fluoromethcathinone, making them Schedule I in the state of Pennsylvania. News about the law change refers to banning "bath salts". See http://www.centredaily.com/2011/06/23/2795790/corbett-to-sign-bill-outlawing.html and http://www.legis.state.pa.us/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=HTM&sessYr=2011&sessInd=0&billBody=S&billTyp=B&billNbr=1006&pn=1304. (thanks t) (last updated Jul 18 2012)
+Tennessee	Tennessee enacted a law making it Class A misdemeanor to "produce, manufacture, distribute, sell, or offer to sell" Methylone, MDPV, Mephedrone, Methedrone, Flephedrone, and 3-FMC as of May 2011. See http://wapp.capitol.tn.gov/apps/BillInfo/Default.aspx?BillNumber=HB0457. (thanks sb) (last updated Jul 18 2012)
+Utah	Utah banned 17 substances in February 2011, including 4-fluoromethcathinone and 3, fluoromethcathinone. See http://stopthedrugwar.org/chronicle/2011/feb/26/bath_salts_fake_marijuana_banned, Utah.gov 2011 HB23 (thanks smh) (last updated Jul 18 2012)
+internationalLaw :: China	Controlled in China as a Category I psychotropic substance, illegal to sell, buy, import, export, and manufacture 4-methylmethcathinone as of September 2010. See China's SFDA announcement. (thanks n) (last updated Nov 25, 2015)
+Denmark	Denmark's Minister for Health and Prevention Jakob Axel Nielsen banned "mephedrone", "flephedrone" and ethylcathinone on Dec 18, 2008. As of July 1, 2012, Denmark also created a type of Analogue law that would include cathinones like 4-Methylmethcathinone. See: https://www.retsinformation.dk/forms/R0710.aspx?id=140430 and Ministry of Health and Prevention press release. (thanks Rush; Abrad) (last updated Jul 19, 2012)
+Germany (Deutschland	4-Fluoromethcathinone was added to Anlage II in January, 2012. See www.bundesrat.de/cln_236/nn_8336/SharedDocs/Drucksachen/2012/0301-400/317-12,templateId=raw,property=publicationFile.pdf/317-12.pdf. (thanks nr) (last updated Oct 15, 2012)
+Israel	Israel banned four "families" of substances and their derivatives in July 2010. The families are cathinones, methcathinones, amphetamines, and methamphetamines. The new rules are designed to preemptively ban new drugs before they are sold in Israel. See http://www.jpost.com/Israel/Article.aspx?id=181254. (Thanks A) (last updated Jul 18 2011)
+Poland	On Aug 25, 2010, 4-Fluoromethcathinone was added to the list of controlled "psychotropic drugs" in the I-P group. See http://isap.sejm.gov.pl/DetailsServlet?id=WDU20101430962. (thanks WO) (last updated Jul 18 2012)
+Romania	Fluromethcathinone [positional isomers specified] was added to Romania's list of controlled substances in February 2010. See http://salviadivinorum.ro/noile-substante-intezise/. (thanks i) (last updated Jul 18 2012))
+Sweden	4-Fluromethcathinone was added to Schedule 1, effective Oct 1 2010. (Swedish Medical Products Agency's Code of Statutes, LVFS 2010:23; Sep 30 2010
+United Kingdom (U.K., Britain)	4-Fluoromethcathinone was added to the Misuse of Drugs Act under Class B as a part of additional controls on cathinone derivatives/analogs on April 16, 2010. See Home Secretary Bans Mephedrone (Mar 30 2010) and ACMD report on the consideration of cathinones. Importation and sale of these newly banned drugs took effect on March 31, 2010. (thanks bn) (last updated Jul 18 2012)
+
+[Dose]
+doseTable :: 4-Fluoromethcathinone Dosages
+Oral
+( tentative )
+Threshold	15 - 50 mg
+Light	50 - 100 mg
+Common	100 - 200 mg
+Strong	150 - 300+ mg
+doseText :: 4-Fluoromethcathinone is a stimulant with mild empathogenic qualities. As of 2012, it is most often found as a powder (either represented as 4-fluoromethcathinone or included in powder products that don't specify their active chemicals), though some tablets have been pressed that include 4-fluoromethcathinone.
+notes :: Some reports of 4-fluoromethcathinone use involve redosing ("boosting" / "bumping") multiple times.
+
+[Chemistry]
+chemTable :: NAME :	4-Fluoromethcathinone
+IUPAC NAME :	(RS)-1-(4-fluorophenyl)-2-methylaminopropan-1-one
+ALTERNATE NAME :	4-FMC; Flephedrone
+CHEMICAL FORMULA :	C10H12FNO
+MOLECULAR WEIGHT :	181.207 g/mol
+BOILING POINT :	Unknown
+MELTING POINT :	Unknown
+moleculeURL :: https://www.erowid.org/chemicals/4_fluoromethcathinone/images/archive/4-fluoromethcathinone_2d.jpg
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

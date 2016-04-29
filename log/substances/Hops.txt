@@ -1,0 +1,30 @@
+[Substance]
+
+id :: 227
+name :: Hops
+url :: https://www.erowid.org/herbs/hops/hops.shtml
+category :: Herbs
+botanicalClassification :: Family :Cannabinaceae (Former: Urticaceae), Genus :Humulus, Species :lupuluscommonNames :: Hops
+uses :: Flavors, Bitters, and Preserves Beer; Promotes Appetite and Sleep; Reduces Anxiety; Recently research has looked at anti-cancer and anti-viral effects.
+description :: Hops is a sturdy climbing perennial vine with dark green, sharply-toothed leaves. Male and female flowers are on separate plants. Male flowers are in loose bunches, 3 to 5 inches long while female flowers grow in leafy yellow-green cone-shaped "hops".
+imageURL :: https://www.erowid.org/herbs/hops/images/hops_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/hops/hops_images.shtml
+lawURL :: https://www.erowid.org/herbs/hops/hops_law.shtml
+
+[Images]
+imageEntryList :: Humulus japonicus	https://www.erowid.org/herbs/show_image.php?i=hops/humulus_japonicus1.jpg	Color photo of a female H. japonicus plant. [Chile]	Photo by Anonymous Photographer, &copy; 2002 Erowid.org
+Humulus japonicus	https://www.erowid.org/herbs/show_image.php?i=hops/humulus_japonicus2.jpg	Color photo of a female H. japonicus plant. [Chile]	Photo by Anonymous Photographer, &copy; 2002 Erowid.org
+Humulus japonicus	https://www.erowid.org/herbs/show_image.php?i=hops/humulus_japonicus3.jpg	Color photo of a female H. japonicus leaf. [Chile]	Photo by Anonymous Photographer, &copy; 2002 Erowid.org
+Humulus lupulus	https://www.erowid.org/herbs/show_image.php?i=hops/humulus_lupulus1.jpg	Closeup of Humulus lupulus flowers.	Photo by Hops for Homebrewing, &copy; 2006 Erowid.org
+Humulus lupulus	https://www.erowid.org/herbs/show_image.php?i=hops/humulus_lupulus__i2006e1044_disp.jpg	Lovely photo showing a Humulus lupulus (Chinook variety) after flowering and forming cones in mid July. [N. CA, USA]	Photo by Ckenny. &copy; 2007 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Hops
+REGULATED	No
+STATUS	Food Approved
+SCHEDULE	Un-Scheduled
+federalLawText :: Hops (Humulus lupulus) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.	
+Hops (Humulus lupulus) is approved for food use in the U.S. and appears in the FDA's list of substances Generally Recognized As Safe (GRAS).
+stateLaw :: null
+internationalLaw :: 

@@ -1,0 +1,80 @@
+[Substance]
+
+id :: 76
+name :: Ethylcathinone
+url :: https://www.erowid.org/chemicals/ethylcathinone/ethylcathinone.shtml
+category :: Chemicals
+commonNames :: Ethcathinone; E-Cat
+effectsClassification :: Stimulant
+chemicalName :: 2-ethylamino-1-phenyl-propan-1-one
+description :: Ethylcathinone is a synthetic stimulant chemically similar to methcathinone. It is very uncommon and has only a short history of human use.
+imageURL :: https://www.erowid.org/chemicals/ethylcathinone/images/ethylcathinone_summary1.jpg
+effectsURL :: https://www.erowid.org/chemicals/ethylcathinone/ethylcathinone_effects.shtml
+lawURL :: https://www.erowid.org/chemicals/ethylcathinone/ethylcathinone_law.shtml
+doseURL :: https://www.erowid.org/chemicals/ethylcathinone/ethylcathinone_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/ethylcathinone/ethylcathinone_chemistry.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Effects]
+duration :: Ethylcathinone Duration
+Oral
+( very tentative )
+Total Duration	2 - 5 hrs
+Onset	15 - 45 mins
+Coming Up	15 - 30 mins
+Plateau	30 - 45 mins
+Coming Down	30 - 90  mins
+&nbsp;	&nbsp;
+After Effects	2 - 4 hrs
+Hangover / Day After	- - -
+positiveEffects :: mental and physical stimulation	euphoria, mood lift	feelings of empathy, openness	increase in sociability, desire to talk with others	pleasurable rushing
+neutralEffects :: general change in consciousness (as with most psychoactives)	decreased appetite	pupil dilation	unusual body sensations (facial flushing, chills, goosebumps, body energy)	change in body temperature regulation	sweating	increase in heart rate and blood pressure
+negativeEffects :: Anxiety, "jitters"	uncomfortable changes in body temperature (sweating/chills)	heart palpitations, sense of racing heart	impaired short term memory	insomnia	tightened jaw muscles, grinding teeth (trismus and bruxia)	muscle twitching
+description :: General Effects Notes	The effects of ethylcathinone are milder and often compared to those of 4-methylmethcathinone (mephedrone), MDMA, MBDB, bk-MDMA (methylone), cocaine, methamphetamine and other euphoric stimulants.	
+Ethcathinone does not include substantial psychedelic visual effects.	
+Routes of Administration	As with other psychoactives, oral ethylcathinone ingestion takes slightly longer to cause effects and lasts longer. Insufflation (snorting) is more associated with compulsive / addictive use patterns. Smoking ethylcathinone is not commonly reported.	
+Addiction and Compulsive Use	While it is unlikely to be physically addictive, meaning that withdrawal symptoms are minimal and likely not life-threatening, psychological addiction in some users seems possible with this substance, given that its effects profile is similar to that of other recreational euphoric stimulants.
+experienceReports :: [100 mg to 200 mg, oral] "At first a dose of 100mg would have no discernable effect on me but now that I am a bit more familiar with it I do notice a small amount of stimulation, even a mild euphoria, at this dose. It is pleasant and makes me slightly more talkative, focused, etc. At about 200mg orally it feels like a classic stimulant. Urge to talk, excitation, euphoria, stimulation, and of course anorexia, muscle tension, teeth grinding etc." -- Exp 70604[100 mg oral] "T+0:40 - I'm expecting it to hit me already, but nothing is happening T+1:20 - Still nothing happening except for stronger pulse T+1:40 - Chatting with friend who dosed the same amount at the same time as me - we decide to draw a line T+1:50 - Slightly stimulated T+2:00 - Pulse rate increases, music sounds slightly better" -- Exp 93198[30 mg insufflated] "My hair at my arms stand right up and I get Goosebumps from time to time. It is all in all very promising. It reminds me of very good coke. My dick has shrunken into a little, depressing piece of meat, although I'm horny. Euphoria kicks in now and it feels really nice." -- Exp 69297
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Ethylcathinone
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Possible Analog
+federalLawText :: Ethylcathinone is unscheduled in the United States. It is possible that it could be considered an analog of a scheduled substance, in which case, sales for human consumption or possession with the intent to ingest could be prosecuted under the Federal Analogue Act though we are unaware of any such existing cases (Mar 03 2008).
+stateLaw :: Vermont	Classified under "Depressant and stimulant drugs" (Title 18, Chapter 84, Section 4234) : Illegal to possess, distribute, etc. Added July 2012. See healthvermont.gov/regs/documents/regulated_drugs_emergency_rule_annotated.pdf and http://www.leg.state.vt.us/statutes/fullsection.cfm?Title=18&Chapter=084&Section=04234. (Thanks DW) (last updated Jul 23, 2012)
+Virginia	Schedule I. http://www.mygov365.com/legislation/view/id/4f15545049e51b63146f1200/tab/overview/ : HB 508 Approved by Governor Apr 18, 2012 - Effective 7/1/12 and http://legiscan.com/gaits/text/631633. (Thanks NR) (last updated July 22, 2012)
+internationalLaw :: China	Controlled in China as a Category I psychotropic substance, illegal to sell, buy, import, export, and manufacture 4-methylmethcathinone as of September 2010. See China's SFDA announcement. (thanks n) (last updated Nov 25, 2015)
+Canada	Ethylcathinone is not currently scheduled in Canada. However, because Canada has an "analogue" rule, it is possible that ethylcathinone could be considered a controlled analog of a controlled substance and thus controlled itself. Health Canada has made unofficial statements that indicate they consider cathinone-based structures to be analogs of amphetamines. See http://isomerdesign.com/Cdsa/definitions.php?structure=C and http://www.rechem.ca/index.php?_a=viewCat&catId=12. (thanks m) (last updated Aug 6, 2014)
+Denmark	Denmark's Minister for Health and Prevention Jakob Axel Nielsen banned "mephedrone", "flephedrone" and ethylcathinone on Dec 18, 2008. (thanks Abrad; from Ministry of Health and Prevention press release)
+Israel	In December 2007, N-ethylcathinone was added to Israel's list of controlled substances, making it illegal to buy, sell, or possess. (thanks A)
+
+[Dose]
+doseTable :: Ethylcathinone Dosages
+Oral
+( very tentative )
+Threshold	30 - 50 mg
+Light	50 - 100 mg
+Common	100 - 200 mg
+Strong	150 - 300+ mg
+doseText :: Ethylcathinone is a stimulant with empathogenic qualities. As of 2012, it is most often found as a powder.
+notes :: Reports related to ethylcathinone use are uncommon, however, available data suggests similarities with other substituted cathinones: use may often involve redosing ("boosting" / "bumping") multiple times. Users sometimes mix oral and insufflated, taking some ethylcathinone orally, then insufflating some, then taking more orally. Because of the common desire to recapture the pleasurable initial high, redoses are sometimes higher than the initial dose or are spaced closely together in time. Many users report having difficulty not redosing after using a strong dose if more ethylcathinone is available when they are starting to come down. Experience reports in which users find themselves unexpectedly consuming a gram or more of ethylcathinone are common.
+
+[Chemistry]
+chemTable :: NAME :	Ethylcathinone
+IUPAC NAME :	2-ethylamino-1-phenyl-propan-1-one, N-ethylcathinone
+ALTERNATE NAME :	Ethcathinone
+CHEMICAL FORMULA :	C11H15NO
+MOLECULAR WEIGHT :	177.24
+BOILING POINT :	268.52&deg; C
+MELTING POINT :	54.09 &deg; C
+moleculeURL :: https://www.erowid.org/chemicals/ethylcathinone/images/archive/ethylcathinone_2d.gif
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

@@ -1,0 +1,101 @@
+[Substance]
+
+id :: 68
+name :: DOB
+url :: https://www.erowid.org/chemicals/dob/dob.shtml
+category :: Chemicals
+commonNames :: Brolamfetamine
+effectsClassification :: Psychedelic Phenethylamine
+chemicalName :: 2,5-dimethoxy-4-bromoamphetamine
+description :: DOB is a relatively uncommon synthetic psychedelic. It is best known for its very low doses and long duration.
+imageURL :: https://www.erowid.org/chemicals/dob/images/dob_summary1.jpg
+effectsURL :: https://www.erowid.org/chemicals/dob/dob_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/dob/dob_images.shtml
+lawURL :: https://www.erowid.org/chemicals/dob/dob_law.shtml
+doseURL :: https://www.erowid.org/chemicals/dob/dob_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/dob/dob_chemistry.shtml
+
+[Effects]
+duration :: DOB Duration
+Oral
+Total Duration	7 - 17 hrs
+Onset	30 - 90 mins
+Coming Up	60 - 90 mins
+Plateau	3 - 8 hrs
+Coming Down	3 - 8 hrs
+&nbsp;	&nbsp;
+After Effects	4 - 8 hrs
+Hangover / Day After	- - -
+positiveEffects :: There is currently no Effects List for this substance.
+neutralEffects :: null
+negativeEffects :: null
+description :: Effects		Light Effects	Medium Effects	Strong Effects	Overdose		Drug Interactions	Contra-Indications	
+
+
+
+DOB is a phenethylamine with a character similar to 2C-B but several times longer in duration. Because of this duration, many people prefer to do it earlier in the day. Caution...DOB takes a fairly long time to onset (up to 3 hours) for most people. Do not redose thinking you haven't taken enough.	
+As the effects of DOB first come on, the user feels a rush of energy which can be exhilerating or uncomfortable, depending on the person and the dose. A small majority of people report slightly less stomach discomfort than with 2C-B, although, as with all substances, each person reacts differently and there are also reports of higher discomfort than with 2C-B. Some people also report a greater ability to both eat and sleep with DOB than with LSD.	
+As DOB settles in, it has a long plateau (3-10 hours, depending on person and dose). Higher doses extend the length in addition to increasing the effects. .Some people boost their DOB experience with a small supplement between T+3 and T+6 hours. The booster usually kicks in a bit faster than the original dose (45 minutes).	
+
+light doses of DOB last from 6-12 hours	medium doses of DOB last from 8-16 hours	heavy doses of DOB can last more than 24 hours	
+
+See DOB Dosages for information about dosage.	
+As with many other entheogens, its often best to avoid eating for at least 2 hours (4 is better) beforehand and don't eat until after the peak.	
+Light Effects: (plateau between 3 and 6 hours)	An increase in energy, feeling of mental clarity, opening of mental space, less confusing than low doses of LSD, very light visual activity, visual patterns superimposed on vision, enhanced texture perception, shift in colors. Some people find it possible to sleep on low doses of DOB, though probably not at the peak.	
+Body load usually manageable. Nervousness, edginess, some body discomfort, stomach tension, yawning.	
+Medium Effects: (plateau between 4 and 8 hours)	Increased duration, energizing, pronounced visual effects, marked clarity and reduction of emotions. Some people suggest this might be a good therapeutic tool in cases where excessive emotion might be a problem.	
+Fairly high body load. Muscle and jaw tension, tension headache, eye discomfort, achy back spasms, nausea, general body discomfort.	
+Strong Effects: (plateau between 6 and 12 hours)	Long duration, visual brightening, able to connect with ideas, heart-opening happiness.	
+Overdose: (3.5 + mg)	Reports of moderate overdoses appear to often be the result of individuals deciding an hour after their original dose that because they aren't feeling anything they didnt take enough. Be Careful! DOB can take up to 3 hours to onset for some individuals.	
+The overdose experience seems to be one of memory loss, irrational and sometimes violent behavior, and the possibility of causing harm to oneself (not noticing pain?).	
+CONTRA-INDICATIONS	DOB can be quite harmful at high doses. Significant overdoses can cause serious vasso-constriction of the extremeties...possibly resulting in nerve damange and/or gangrene. There are unconfirmed reports of two people who accidentally ingested 75 mg (over 30x the regular dosage) and needed to have their legs amputated because their circulation had shut off and caused gangrene in their legs.	
+The use of DOB can be a problem for those with circulatory problems, heart ailments, glaucoma, hypertension, hepatic or renal disease, aneurism, or stroke history.	
+DRUG INTERACTIONS	DOB can be dangerous if mixed improperly with other drugs especially MAOI's or other liver-enzyme affecting chemicals. Mixing with stimulants is not recommended.	
+GHB:	For some people, GHB has little psychoactive effect during a DOB experience, though it can be used to help sleep at the end.
+experienceReports :: null
+
+[Images]
+imageEntryList :: DOB Powder	https://www.erowid.org/chemicals/show_image.php?i=dob/dob_powder__i2005e1617_disp.jpg	.5 grams of DOB HCl. [USA]	Photo by Moonrise Engineer. &copy; 2006 Erowid.org
+DOB Blotter	https://www.erowid.org/chemicals/show_image.php?i=dob/dob_blotter__i2005e1421_disp.jpg	DOB on blotter, confirmed via laboratory testing to be DOB. [CA, USA]	Photo by Anonymous. &copy; 2007 Erowid.org
+DOB Blotter	https://www.erowid.org/chemicals/show_image.php?i=dob/dob_blotter__i2005e1566_disp.jpg	Ten hits of DOB blotter of two different designs, confirmed to be DOB by LC/MS and NMR in a lab. [CA, USA]	Photo by InsomniakV. &copy; 2007 Erowid.org
+DOB Blotter	https://www.erowid.org/chemicals/show_image.php?i=dob/dob_blotter__i2005e1710_disp.jpg	Three hits of pyramid DOB Blotter. [Switzerland]	Photo by Anonymous. &copy; 2007 Erowid.org
+DOB Blotter	https://www.erowid.org/chemicals/show_image.php?i=dob/dob_blotter1.jpg	Color photo of 5 hits of blotter reportedly verified to contain DOB (Australia). We have no further details on how (or if) this verification was done.	Photographer unknown.
+DOB 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=dob/dob_2d.gif	Still 2D image of the DOB molecule.	Image by Erowid. &copy; 2000 Erowid.org
+DOB 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=dob/dob_3d.jpg	Still 3D image of the DOB molecule.	Image by Erowid. &copy; 2000 Erowid.org
+DOB 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=dob/dob__.mol	Rotating 3D image of the DOB molecule.	Image by Erowid. &copy; 2000 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+DOB
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule I
+CLASSIFICATION	Hallucinogen
+federalLawText :: DOB is Schedule I in the United States. This means it is illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license.
+stateLaw :: null
+internationalLaw :: Australia	Schedule II (Search for "DOB and Controlled Substances)
+Germany	Listed in the BtMG in Anlaga I (list 1). See BtMG. (thanks L) (last updated Jul 2007)
+New Zealand	DOB is Schedule I (Class A) in New Zealand [reference]. DOB would also qualify as an "Analogue" under New Zealand's catch-all Analogues section in Schedule 3 / Class C of their drug laws that would make 2C-I, 2C-E, DOI, DOB, ephedrine, and pseudoephedrine Schedule 3 compounds in New Zealand. See for more information about this.
+Poland	DOB is controlled in Poland. See http://isap.sejm.gov.pl/DetailsServlet?id=WDU20111050614+2011%2406%2408&min=1. (thanks p) (last updated Aug 1 2011)
+U.K.	DOB is Schedule I/Class A in the U.K., making it illegal to sell, buy, or possess without a license.
+
+[Dose]
+doseTable :: Oral DOB Dosages
+Threshold0.2 mg
+Light0.2 - 0.75 mg
+Common0.75 - 1.75 mg
+Strong1.75 - 2.5 mg
+Heavy2.5 - 3.5 mg
+Overdose3.5 + mg
+Onset : 1 - 2 hours
+Duration : 8 - 24 hours (depending on dosage)
+Normal After Effects : 6 - 12 hours
+doseText :: DOB is a phenethylamine found in blotter, liquid, or powder form. It is generally injested orally. Following are dosages for pure DOB.
+notes :: null
+
+[Chemistry]
+chemTable :: NAME :	DOB
+CHEMICAL NAME :	2,5-Dimethoxy-4-bromoamphetamine
+CHEMICAL FORMULA	C11H16NO2Br
+SYNTHESIZED	1953, 1967
+moleculeURL :: https://www.erowid.org/chemicals/dob/images/archive/dob_3d_mid.jpg

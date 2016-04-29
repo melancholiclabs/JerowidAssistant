@@ -1,0 +1,25 @@
+[Substance]
+
+id :: 237
+name :: Mugwort
+url :: https://www.erowid.org/herbs/mugwort/mugwort.shtml
+category :: Herbs
+botanicalClassification :: Family :Compositae, Genus :Artemisia, Species :vulgariscommonNames :: Mugwort; Common Artemisia; Felon Herb; St. John's Herb; chrysanthemum weed; sailor's tobacco; moxa; Ai Ye; armoise
+uses :: Beer Additive and Flavoring; Smudging Herb; Smoke Mixture; Dream Potentiator
+description :: Mugwort is a 3-4 foot tall aromatic plant with angular, purplish, grooved stem. Leaves are dark green on top and pale green with downy hairs on the bottom. Flowers are button-like and yellowish-brown.
+imageURL :: https://www.erowid.org/herbs/mugwort/images/mugwort_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/mugwort/mugwort_images.shtml
+lawURL :: https://www.erowid.org/herbs/mugwort/mugwort_law.shtml
+
+[Images]
+imageEntryList :: Artemisia vulgaris	https://www.erowid.org/herbs/show_image.php?i=mugwort/artemisia_vulgaris__i2005e1363_disp.jpg	A single Artemisia vulgaris (common mugwort) freshly pulled from the ground with roots intact, lying on a flat surface. [Australia]	Photo by T.Wiedemann. &copy; 2007 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Mugwort
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Mugwort (Artemisia vulgaris) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: Louisiana	Effective Aug 8, 2005 (signed into law Jun 28, 2005) Louisiana Act No 159 makes 40 plants illegal, including Artemesia vulgaris, when intended for human consumption. The law specifically excludes the "possession, planting, cultivation, growing, or harvesting" of these plants if used "strictly for aesthetic, landscaping, or decorative purposes." (Act No. 565; House Bill No. 173, 2010. (last updated Sep 29 2011)
+internationalLaw :: 

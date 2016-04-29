@@ -1,0 +1,80 @@
+[Substance]
+
+id :: 150
+name :: Erythroxylum Coca
+url :: https://www.erowid.org/plants/coca/coca.shtml
+category :: Plants
+botanicalClassification :: Family :Erythroxylaceae, Genus :Erythroxylum (Former: Erythroxylon), Species :coca; novagranatensecommonNames :: Huanuco (E. coca var coca)
+effectsClassification :: Stimulant
+description :: Erythroxylum coca is a high altitudes S. American shrub that's leaves are the source of cocaine. The leaves are "chewed" (held in the cheek) in combination with mineral lime to provide physical and mental stimulation and reduction in altitude sickness. It has a long history of human use.
+imageURL :: https://www.erowid.org/plants/coca/images/coca_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/coca/coca_images.shtml
+lawURL :: https://www.erowid.org/plants/coca/coca_law.shtml
+chemistryURL :: https://www.erowid.org/plants/coca/coca_chemistry.shtml
+
+[Images]
+imageEntryList :: Erythroxylum cataractarum	https://www.erowid.org/plants/show_image.php?i=coca/erythroxylum_cataractarum1.jpg	Color photo of small plant cultivated in a pot.	Photo by Pedro Luz. Used by Erowid with permission.
+Erythroxylum coca	https://www.erowid.org/plants/show_image.php?i=coca/erythroxylum_coca3.jpg	A very nice color photo of leaves and flower.	Photo by George Linney.
+Erythroxylum coca Leaves	https://www.erowid.org/plants/show_image.php?i=coca/erythroxylum_coca_leaf__i2010e0560_disp.jpg	Close-up of three Erythroxylum coca leaves.	Photo by Zariat. &copy; 2010 Erowid.org
+Erythroxylum coca Leaves	https://www.erowid.org/plants/show_image.php?i=coca/erythroxylum_coca_leaf__i2009e0845_disp.jpg	Four dry Erythroxylum coca leaves connected at the stem. [Mexico]	Photo by Pekon Metsa. &copy; 2009 Erowid.org
+Erythroxylum coca Leaves	https://www.erowid.org/plants/show_image.php?i=coca/coca_leaves1.jpg	Color scan of coca leaves and coins both from Bolivia.	Photo by Murple, &copy; 2002 Erowid.org
+Erythroxylum coca	https://www.erowid.org/plants/show_image.php?i=coca/erythroxylum_coca4.jpg	Color photo of plant.	Photo by George Linney.
+Erythroxylum coca	https://www.erowid.org/plants/show_image.php?i=coca/erythroxylum_coca5.jpg	Color photo of flower.	Photographer Unknown.
+Erythroxylum coca	https://www.erowid.org/plants/show_image.php?i=coca/erythroxylum_coca6.jpg	Small color photo of plant.	U.S. government Public Domain photo.
+E. coca leaf & Cocaine	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine2.jpg	Color photo of powder cocaine next to coca leaves.	U.S. government Public Domain photo.
+Trio of dried coca leaves.	https://www.erowid.org/plants/show_image.php?i=coca/coca_leaves__i2012e0307_disp.jpg	Offerings of coca leaves, placed on a "mesa" or altar, are traditionally arranged in threes. [Machu Picchu, Peru]	Photo by Erowid Crew. &copy; 2012 Erowid.org
+Terraced Coca Plantation in Bolivia.	https://www.erowid.org/plants/show_image.php?i=coca/coca_terrace__i2012e0305_disp.jpg	In the lush Yungas region of Bolivia, small parcels of land are allotted to families for coca cultivation, which is highly regulated. The soil of this terraced coca plantation is packed and rocky. [near Coroico, Bolivia]	Photo by Erowid Crew. &copy; 2012 Erowid.org
+Erythroxylum coca	https://www.erowid.org/plants/show_image.php?i=coca/erythroxylum_coca_flower__i2014e0326_disp.jpg	Closeup of a flowering Erythroxylum coca plant.	Photo by Shawn Xavier. &copy; 2014 Erowid.org
+Erythroxylum coca Fruit	https://www.erowid.org/plants/show_image.php?i=coca/erythroxylum_coca_fruit__i2006e2219_disp.jpg	Small ripe Erythroxylum coca fruit. [France]	Photo by JP. &copy; 2007 Erowid.org
+Erythroxylum coca Seeds	https://www.erowid.org/plants/show_image.php?i=coca/erythroxylum_coca_seed__i2004e0064_disp.jpg	A colletion of Erythroxylum coca seeds next to a match for size comparison.	Photo by Palex. &copy; 2007 Erowid.org
+Erythroxylum coca	https://www.erowid.org/plants/show_image.php?i=coca/erythroxylum_coca1.jpg	Color drawing of plant, flower and seeds.	From Kohler's Medicinal Plants, &copy; 1995-2003 Missouri Botanical Garden.
+Erythroxylum coca	https://www.erowid.org/plants/show_image.php?i=coca/erythroxylum_coca_botanical_drawing1.jpg	Color drawing showing plant, flowers, and fruit.	From "An Introduction to Materia Medica and Pharmacology" (1942).
+Erythroxylum coca	https://www.erowid.org/plants/show_image.php?i=coca/erythroxylum_coca7.jpg	Black and white drawing of plant and flower.	Illustration by Sir William Hooker, director of the Kew gardens. Published in Companion to the Botanical Magazine (1835)
+Erythroxylum coca	https://www.erowid.org/plants/show_image.php?i=coca/erythroxylum_coca2.jpg	Black and white drawing of plant.	Artist unknown.
+Erythroxylum novogranatense	https://www.erowid.org/plants/show_image.php?i=coca/erythroxylum_novogranatense__i2005e0104_disp.jpg	Closeup photo showing Erythroxylum novogranatense var. Novogranatense plant with leaves, flowers, and fruits, all attached to the motherplant (planted from seed). [SE Asia]	Photo by DBotany. &copy; 2007 Erowid.org
+Erythroxylum novogranatense	https://www.erowid.org/plants/show_image.php?i=coca/erythroxylum_novogranatense1.jpg	Collage of 4 color photos of leaves and flower.	Photo by Pedro Luz. Used by Erowid with permission.
+Erythroxylum novogranatense	https://www.erowid.org/plants/show_image.php?i=coca/erythroxylum_novogranatense2.jpg	Color photo of leaves and seeds (berries) of an E. novogranatense bush. [Colombia]	Photo by Shadow, &copy; 2003 Erowid..
+Coca Leaf Powder, Baking Soda, and Prepared Acullico	https://www.erowid.org/plants/show_image.php?i=coca/coca_acullico__i2015e0145_disp.jpg	Color photo showing a mylar bag of coca leaf powder, baking soda, and prepared acullico powder ready for use.	Photo by Erowid. &copy; 2016 Erowid.org
+Coca Products	https://www.erowid.org/plants/show_image.php?i=coca/erythroxylum_coca_product__i2008e0405_disp.jpg	Erythroxylum coca products from Peru. [Peru]	Photo by Howard Charing. &copy; 2010 Erowid.org
+Coca Tea (box)	https://www.erowid.org/plants/show_image.php?i=coca/coca_tea1.jpg	Color scan of a box of Zurit brand Mate de Coca (Coca leaf tea). From Peru.	Photo by Erowid, &copy; 2002 Erowid.org
+Coca Tea (bag)	https://www.erowid.org/plants/show_image.php?i=coca/coca_tea2.jpg	Color scan of a paper teabag cover of Zurit brand Mate de Coca (Coca leaf tea). From Peru.	Photo by Erowid, &copy; 2002 Erowid.org
+Coca Balm	https://www.erowid.org/plants/show_image.php?i=coca/coca_product_balm1.jpg	Color scan of a container of Coca balm used for topical uses such as arthritis and sore muscles. [Bolivia]	Photo by Murple, &copy; 2001 Erowid.org
+Coca leaves, sodium bicarbonate, and "potable alcohol".	https://www.erowid.org/plants/show_image.php?i=coca/coca_preparation__i2012e0312_disp.jpg	Coca leaves and sodium bicarbonate labeled "El Recreo" ("recreation" or "relaxation") are sold together at city markets and sidewalk stalls. As a base, sodium bicarbonate aids in releasing alkaloids from the plant when it is combined with leaves and chewed and held in the mouth. Shown here with no-nonsense "potable alcohol". [La Paz, Bolivia]	Photo by Erowid Crew. &copy; 2012 Erowid.org
+Coca leaf tea in Bolivia.	https://www.erowid.org/plants/show_image.php?i=coca/coca_tea__i2012e0313_disp.jpg	Coca tea is ubiquitous in Bolivia and Peru. Although coca is mixed with lime (calcium oxide) or sodium bicarbonate prior to buccal administration, tea is brewed with coca leaves alone, and has a pleasant, earthy taste. [La Paz, Bolivia]	Photo by Erowid Crew. &copy; 2012 Erowid.org
+Coca leaf vendor in Bolivia.	https://www.erowid.org/plants/show_image.php?i=coca/coca_vendor__i2012e0302_disp.jpg	A shopkeeper displays his coca in a large cloth sack, dispensing leaves in 500 gram bags. [Tupiza, Bolivia]	Photo by Erowid Crew. &copy; 2012 Erowid
+Ad for Coca tea	https://www.erowid.org/plants/show_image.php?i=coca/coca_ad1.jpg	Color ad for Coca tea.	Artist Unknown
+Coca Statue	https://www.erowid.org/plants/show_image.php?i=coca/coca_statue1.jpg	Statue of South American God with coca bag and flask	Photographer Unknown
+Coca Statue	https://www.erowid.org/plants/show_image.php?i=coca/coca_statue2.jpg	1500 yr old statue of Peruvian deity holding a bag of coca leaves.	Image from The Encyclopedia of Psychoactive Drugs: Cocaine
+Pottery Jar	https://www.erowid.org/plants/show_image.php?i=coca/coca_statue3.jpg	16th century carved pot shows seated figure with coca quid in his cheek.	Image from The Encyclopedia of Psychoactive Drugs: Cocaine
+Gold lime container	https://www.erowid.org/plants/show_image.php?i=coca/coca_statue4.jpg	Lime was mixed with coca leaves for chewing. This gold container was used to hold the lime.	Image from The Encyclopedia of Psychoactive Drugs: Cocaine
+Cocaine processing	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine_processing1.jpg	Coca leaf press.	U.S. government Public Domain photo.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Erythroxylon coca
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule II
+CLASSIFICATION	Stimulant
+federalLawText :: Coca leaves and extracts of coca leaves are both Schedule II in the United States. This means they are illegal to sell without a DEA license and illegal to buy or possess without a license or prescription.	
+Despite the clear Federal and state law, coca leaves are widely available for commercial retail outlets in 2013 and have been for over a decade.
+stateLaw :: Illinois	Illinois State Appellate Court for the Circuit Court of Cook County found that drinking coca tea without knowledge that it contains cocaine cannot be grounds for being fired as a police officer under "zero-tolerance drug testing" policies. See Garrido v Cook County Sheriff's Merit Board, June 9 2004.
+internationalLaw :: Bolivia	Coca leaf is legal in Bolivia in its unrefined form. In recent years, under the presidency of Evo Morales (an indigenous south-American and former coca farmer) Bolivia has softened its stance towards coca. During Morales's presidency, he has vocally supported the traditional and ceremonial use of the coca plant. While coca's official legal status in Bolivia remains unchanged, the traditional uses of the coca leaf, by indigenous people, has become more widely accepted among officials. No real change has occurred regarding refined cocaine or its commercial production. (Thanks globalloon) (last updated Sep 20 2010)
+Brazil	The coca plant (Erythroxylum coca) is scheduled in Brazil, making it illegal to cultivate, though we have an unconfirmed report that is legal to possess up to 500 g of coca leaves. (thanks P)
+Canada	The coca plant ("Erythroxylon") including the leaves are schedule I in Canada.
+New Zealand	The leaf of any plant in the genus Erythroxylon is a Class C Controlled Drug in New Zealand, making them illegal to possess or sell, 'except a leaf from which all ecgonine, cocaine, and any other ecgonine alkaloids have been removed.".
+United Kingdom (U.K.)	The leaves of the coca plant are Class A drugs under the Misuse of Drugs Act of 1971. UK Law Vault.
+
+[Chemistry]
+chemTable :: NAME :	Cocaine
+CHEMICAL NAME :	[1R-(exo,exo)]-3-(Benzoyloxy)-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylic acid methyl ester
+ALTERNATE CHEMICAL NAMES : 	 3beta-hydroxy-1alphaH, 5alphaH-tropane-2beta-carboxylic acid methyl ester benzoate
+ALTERNATE CHEMICAL NAMES : 	 2beta-carbomethyoxy-3beta-benzoxytropane, ecgonine methyl ester benzoate
+ALTERNATE CHEMICAL NAMES : 	 l-cocaine, beta-cocaine, benzoylmethyl-ecgonine
+CHEMICAL FORMULA	C17H21NO4
+MOLECULAR WEIGHT	303.36
+MELTING POINT	98&#176; (monoclinic tablets)
+MELTING POINT	195&#176; (Hydrochloride)
+MELTING POINT	58-63&#176; (Nitrate dihydrate)
+From the Merck Index 12th Edition
+moleculeURL :: https://www.erowid.org/chemicals/cocaine/images/archive/cocaine_3d_mid.jpg

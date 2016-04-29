@@ -1,0 +1,67 @@
+[Substance]
+
+id :: 260
+name :: Carisoprodol
+url :: https://www.erowid.org/pharms/carisoprodol/carisoprodol.shtml
+category :: Pharms
+commonNames :: Soma; Carisoma; Myolax
+effectsClassification :: Indirect Skeletal Muscle Relaxant; Sedative
+chemicalName :: ester with 2-(hydroxymethyl)-2-methylpentylisoproplylcarbamate
+description :: Carisoprodol is a prescription muscle relaxant which was approved by the FDA in 1959.
+imageURL :: https://www.erowid.org/pharms/carisoprodol/images/carisoprodol_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/carisoprodol/carisoprodol_images.shtml
+lawURL :: https://www.erowid.org/pharms/carisoprodol/carisoprodol_law.shtml
+chemistryURL :: https://www.erowid.org/pharms/carisoprodol/carisoprodol_chemistry.shtml
+
+[Images]
+imageEntryList :: Carisoprodol	https://www.erowid.org/pharms/show_image.php?i=carisoprodol/carisoprodol_tablet1.jpg	Close-up color photo of a 350 mg Carisoprodol tablet bearing the imprint "DAN || 5513". [Ohio]	Photo by An Orange Drip, &copy; 2002 Erowid.org
+Carisoprodol (Dolaren)	https://www.erowid.org/pharms/show_image.php?i=carisoprodol/carisoprodol_tablet2.jpg	Color photo of Dolaren brand Carisoprodol tablets and bottle.	Photo by Erowid, &copy; 2003 Erowid.org
+Carisoprodol (Dolaren)	https://www.erowid.org/pharms/show_image.php?i=carisoprodol/carisoprodol_tablet3.jpg	Color photo of Dolaren brand Carisoprodol tablets and bottle.	Photo by Erowid, &copy; 2003 Erowid.org
+Carisoprodol (Dolaren)	https://www.erowid.org/pharms/show_image.php?i=carisoprodol/carisoprodol_tablet4.jpg	Color photo of Dolaren brand Carisoprodol tablets and ruler.	Photo by Erowid, &copy; 2003 Erowid.org
+Carisoprodol (Dolaren)	https://www.erowid.org/pharms/show_image.php?i=carisoprodol/carisoprodol_tablet5.jpg	Color photo of 3 Dolaren brand Carisoprodol tablets.	Photo by Erowid, &copy; 2003 Erowid.org
+Carisoprodol (Carisoma) Tablets and Bottle	https://www.erowid.org/pharms/show_image.php?i=carisoprodol/carisoprodol_bottle__i2003e0214_disp.jpg	350 mg Carisoprodol (Carisoma) bottle and tablets bearing the imprint "P" in a hexagon, purchased from a European distributor. [Purchased from European distributor.]	Photo by Grey-Knight. &copy; 2009 Erowid.org
+Carisoprodol (Somacid)	https://www.erowid.org/pharms/show_image.php?i=carisoprodol/carisoprodol_tablet6.jpg	Color photo of 2 Somacid brand Carisoprodol tablets.	Photo by Anonymous Photographer, &copy; 2004 Erowid.
+Carisoprodol (Soma)	https://www.erowid.org/pharms/show_image.php?i=carisoprodol/carisoprodol1.jpg	Color photo of two Carisoprodol/Soma muscle relaxant tablets by Geneva	Photo by Osyrus, &copy; 2000 Erowid.
+Carisoprodol 2D Molecule	https://www.erowid.org/pharms/show_molecule.php?i=carisoprodol/carisoprodol_2d.gif	Still 2D image of the Carisoprodol molecule.	Image by Erowid, &copy; 2000 Erowid.org
+Carisoprodol 3D Molecule	https://www.erowid.org/pharms/show_molecule.php?i=carisoprodol/carisoprodol_3d_mid.jpg	Still 3D image of the Carisoprodol molecule.	Image by Erowid, &copy; 2000 Erowid.org
+Carisoprodol 3D Rotating Molecule	https://www.erowid.org/pharms/show_molecule.php?i=carisoprodol/carisoprodol__.mol	Rotating 3D image of the Carisoprodol molecule.	Image by Erowid, &copy; 2000 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Carisoprodol
+REGULATED	Yes
+STATUS	Controlled
+SCHEDULE	Schedule IV
+federalLawText :: Carisoprodol (Soma) was added to Schedule IV in December 2011 (See Federal Register Vol 76 No 238). This means it is illegal to sell without a license and illegal to possess without a valid license or prescription.	
+On November 17, 2009, the DEA entered a proposed rule to move carisoprodol to Schedule IV (Federal Register Volume 74, Number 220). It is extremely likely that this rule will become final and carisoprodol will become Schedule IV in the United States. See DEA Diversion.Gov. The DEA has been considering controlling carisoprodol for more than a decade and has listed it as a "Drug of Concern" since August 2006.
+stateLaw :: Alabama	Schedule IV in Alabama. Alabama Administrative Code.
+Arizona	Schedule IV
+Arkansas	Controlled, schedule unknown. Source DEA
+Florida	Schedule IV
+Georgia	Schedule IV
+Hawaii	Schedule IV
+Indiana	Controlled, schedule unknown. Source DEA
+Kentucky	Schedule IV
+Louisiana	Controlled, schedule unknown. Source DEA
+Massachusetts	Schedule IV
+Minnesota	Controlled, schedule unknown. Source DEA
+Nevada	Schedule IV
+New Mexico	Schedule IV
+Oklahoma	Schedule IV - 63-2-210 (thanks M)
+Oregon	Controlled, schedule unknown. Source DEA
+Texas	Controlled, schedule IV. Prescription only, illegal to possess without a prescription or license. (Last updated Jan 25 2012)
+West Virginia	Controlled, schedule unknown. Source DEA
+Wyoming	Carisoprodol is Schedule IV as of July 1, 2011. This makes it illegal to possess without a prescription or license. See PDF of Law and National Association of Boards of Pharmacy news. (thanks b) (last updated Feb 6 2012)
+internationalLaw :: Finland	We have been told that Carisoprodol is no longer available in Finland even as a prescription medication. Previously it was sold as Somadril with 200mg carisoprodol and 160mg acetaminophen (unconfirmed) (thanks s) (last updated Oct 11 2011)
+Mexico	Available without prescription in Mexico, but in doses smaller than those sold in the US. Advertisements for 'soma' availability common in border city Tijuana.
+Norway	We have been told that Carisoprodol is no longer available in Norway even as a prescription drug. (unconfirmed) (thanks s) (last updated Oct 11 2011)
+Spain	We have been told that carisoprodol is available over-the-counter (OTC) in Spain. (unconfirmed) (thanks CB77)
+Sweden	We have been told that Carisoprodol is no longer available even as a prescription medication and that it is a class 4 drug in Sweden. (unconfirmed) (thanks s,J) (last updated Oct 11 2011)
+Thailand	In 2005 an Erowid reader told us that carisoprodol is available over-the-counter in Thailand, in a 125 mg carisprodol/125 mg phenylbutazone formulation or mixed with Tylenol. It was reported to be inexpensive. (unconfirmed) (thanks S)
+
+[Chemistry]
+chemTable :: NAME :	Carisoprodol
+CHEMICAL NAME :	N-isopropyl-2-methyl-2-propyl-1,3-propanediol dicarbamate
+CHEMICAL FORMULA	C12H24N2O4
+MOLECULAR WEIGHT	260.33
+moleculeURL :: https://www.erowid.org/pharms/carisoprodol/images/archive/carisoprodol_3d_mid.jpg

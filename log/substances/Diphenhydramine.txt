@@ -1,0 +1,65 @@
+[Substance]
+
+id :: 273
+name :: Diphenhydramine
+url :: https://www.erowid.org/pharms/diphenhydramine/diphenhydramine.shtml
+category :: Pharms
+commonNames :: Benadryl; Benylin; Nytol; Sominex; DPH
+effectsClassification :: Antihistamine; Sedative; Antiemetic; Antivertigo; Antitussive; Topical Anaesthetic
+chemicalName :: 2-(diphenylmethoxy)-N,N-dimethylethylamine
+description :: Diphenhydramine (DPH) is an antihistamine with anticholinergic and sedative effects. It is found in both OTC and prescription drugs used in the treatment of allergy-related symptoms, some cold and flu symptoms, insomnia, motion sickness and Parkinson's disease.
+imageURL :: https://www.erowid.org/pharms/diphenhydramine/images/diphenhydramine_summary1.jpg
+effectsURL :: https://www.erowid.org/pharms/diphenhydramine/diphenhydramine_effects.shtml
+imagesURL :: https://www.erowid.org/pharms/diphenhydramine/diphenhydramine_images.shtml
+lawURL :: https://www.erowid.org/pharms/diphenhydramine/diphenhydramine_law.shtml
+doseURL :: https://www.erowid.org/pharms/diphenhydramine/diphenhydramine_dose.shtml
+
+[Effects]
+duration :: null
+positiveEffects :: increased awareness and appreciation of music	dream-like experiences	muscle relaxation
+neutralEffects :: visual distortions	auditory hallucinations / sound distortions	unusual thoughts and speech	delirious confusion	flushed skin	microsleep / nodding (at high doses)
+negativeEffects :: sensitivity to sunlight	loss of coordination	dry mouth	blurred vision	confusion, disorientation	dizziness	drowsiness during daytime	muscle cramps	nausea, vomitting (at higher doses)	temporary erectile dysfunction	nervousness	difficulty differentiating hallucinations from reality
+description :: Higher doses are often accompanied by hallucinations (seeing and interacting with people, creatures, or objects that aren't there, or NOT seeing things that are actually there, like cars) and dissociation.	
+Contraindications	
+READ THE LABEL - avoid using preparations that contain acetaminophen/paracetamol (Tylenol) or aspirin.	Diphenhydramine used in combination with alcohol, some pharmaceuticals or OTC remedies can increase risk of adverse reaction, including renal failure and death.
+experienceReports :: null
+
+[Images]
+imageEntryList :: Diphenhydramine Tablets	https://www.erowid.org/pharms/show_image.php?i=diphenhydramine/diphenhydramine_tablet__i2005e0461_disp.jpg	50 mg diphenhydramine (Nytol "one-a-night") tablets produced by GlaxoSmithKline UK. [UK]	Photo by Andy Lawler. &copy; 2007 Erowid.org
+Diphenhydramine Capsules	https://www.erowid.org/pharms/show_image.php?i=diphenhydramine/diphenhydramine_capsule__i2013e0076_disp.jpg	A pile of over 1,000 diphenhydramine capsules. [USA]	Photo by GanGreen. &copy; 2013 Erowid.org
+Diphenhydramine Capsules	https://www.erowid.org/pharms/show_image.php?i=diphenhydramine/diphenhydramine_capsule__i2005e0603_disp.jpg	A pile of pink and white diphenhydramine capsules. [CT, USA]	Photo by Evil Cleric. &copy; 2007 Erowid.org
+Diphenhydramine Capsules	https://www.erowid.org/pharms/show_image.php?i=diphenhydramine/diphenhydramine_capsule__i2005e0517_disp.jpg	Generic 50 mg diphenhydramine capsules with bottle. [KY, USA]	Photo by Biopharma . &copy; 2007 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Diphenhydramine
+REGULATED	Yes
+STATUS	Over-The-Counter
+SCHEDULE	Un-Scheduled
+federalLawText :: Diphenhydramine (Benadryl) is unscheduled in the United States. It is sold over-the-counter as an approved drug and is legal to buy, possess, and ingest without a license or prescription. Sales for human consumption are regulated by the FDA and each formulation or product requires specific FDA approval.
+stateLaw :: null
+internationalLaw :: Australia	Diphenhydramine is widely available over-the-counter in Australia. (unconfirmed) (thanks MP)
+Austria	Diphenhydramine is widely available over-the-counter in Austria, common brand name Calmaben (50 mg tablets). (thanks FK) (last update Feb 8 2016)
+Belgium	Diphenhydramine is widely available over-the-counter in Belgium, brand name Nustasium, in flat tablets (50 mg each). (unconfirmed) (thanks G) (last updated Aug 24 2010)
+Brazil	Diphenhydramine is reportedly a prescription medicine that one visitor tells us is sold at almost all pharmacies without a prescription needed. Diphenhydramine is not scheduled but is only approved for selling in pharmacies with associations, meds can be OTC or prescription only depending on concentration in a given form. As a pure drug, it is restricted to hospital environment as IV or IM injections. See http://www.anvisa.gov.br/medicamentos/validados/tb_ntvisa.htm. Commonly available, non-prescription products include chewable tablets, pills, and syrups. Most contain acetaminophen, guaifenesin, ammonium chloride, trisodium citrate, etc. (thanks r) (last updated Nov 20, 2012)
+Bulgaria	Diphenhydramine is widely available over-the-counter in Bulgaria, brand names include Calmaben (coated tablets, 50mg each) and APAP Night (coated tablets, 500 mg paracetamol and 25mg diphenhydramine). (unconfirmed) (thanks m) (last updated Nov 7 2014)
+Canada	Diphenhydramine is widely available over-the-counter in Canada. (thanks to AJS)
+Germany	Diphenhydramine is widely available over-the-counter in Germany. (thanks to BF) (last updated Apr 9 2007)
+New Zealand	Diphenhydramine and dimenhydrinate are controlled under the "Sedating Antihistamines" category and are restricted to pharmacy sales and prescriptions. See www.medsafe.govt.nz/downloads/mcc33SedatingAntihistamines.doc. (thanks R) (last updated Feb 16 2011)
+South Africa	Widely available over-the-counter in South Africa, brand name "Betasleep".
+Widely available over-the-counter in South Africa, brand name "Betasleep".	Each Betasleep capsule contains 50 mg Diphenhydramine. It is a schedule 2 drug according to the South African classification system. The package insert gives no warning of hallucination on overdose. (unconfirmed) (thanks FP) (last updated May 29 2007)
+United Kingdom (Britain, U.K., UK)	Diphenhydramine is widely available over-the-counter, but is not normally sold to people under 16, although is often sold if the purchaser does not look suspicious even if under age. (thanks pf, DP) (last updated Mar 23 2011)
+Zambia	Diphenhydramine is a controlled substance in Zambia and the US State Department warns "The Zambian Drug Enforcement Commission (DEC) has detained a number of U.S. citizens for possession of antihistamines such as Benadryl and other over-the-counter medications, which contained small quantities of diphenhydramine, an active ingredient that is on Zambia’s list of controlled substances. Although unaware of these restrictions, U.S. citizens have been charged with drug-trafficking offenses, had their passports confiscated, and have been jailed. " http://travel.state.gov/travel/cis_pa_tw/cis/cis_1062.html (thanks l) (last updated Oct 23 2013)
+
+[Dose]
+doseTable :: Oral Diphenhydramine Dosages(Recreational)
+
+Threshold10 mg
+Light25-150 mg
+Common150-300 mg
+Strong250-500 mg
+Heavy400-700
+LD50 (Lethal Dose*)500 mg/kg in rats
+Duration : 4 - 8 hours
+doseText :: Warnings Acetaminophen Warning: Diphenhydramine products containing acetaminophen/paracetamol should not be used recreationally. High doses of acetaminophen can be fatal.  Diphenhydramine products containing other medicines can be harmful if taken in doses above the recommended limits. Dangerous interactions can occur.    Notes   As with any powerful psychoactive substance, high doses are more likely to induce difficult experiences, negative side effects, allergic responses, etc.
+notes :: null

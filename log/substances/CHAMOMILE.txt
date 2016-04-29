@@ -1,0 +1,26 @@
+[Substance]
+
+id :: 212
+name :: CHAMOMILE
+url :: https://www.erowid.org/herbs/chamomile/chamomile.shtml
+category :: Herbs
+botanicalClassification :: Family :Compositae, Genus :Chamaemelum (Former: Anthemis), Species :nobile L.Genus :MatricariaSpecies :recutita L (= chamomilla L.)commonNames :: C. nobile - Roman, Common, or English Chamomile M. recutita - German, Hungarian, or Wild Chamomile
+uses :: Sedative; Anxiolytic; Treatment for Indigestion & Cramps
+description :: A commonly used herb with a long history of medicinal use. There are two primary species, one (Roman) is a perennial while the other (German) is an annual. Both bear similary yellow and white flowers.
+imageURL :: https://www.erowid.org/herbs/chamomile/images/chamomile_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/chamomile/chamomile_images.shtml
+lawURL :: https://www.erowid.org/herbs/chamomile/chamomile_law.shtml
+
+[Images]
+imageEntryList :: Anthemis nobilis	https://www.erowid.org/herbs/show_image.php?i=chamomile/anthemis_nobilis1.jpg	Photo showing flowering english chamomile (Anthemis nobilis). (Belgium)	Photo by Maarten, &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Chamomile
+REGULATED	No
+STATUS	F
+SCHEDULE	Un-Scheduled
+federalLawText :: Chamomile is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.	
+Anthemis nobilis and Matricaria chamomilla flowers are approved for food use as a spice or seasoning in the U.S. and appear in the FDA's list of substances Generally Recognized As Safe (GRAS).
+stateLaw :: null
+internationalLaw :: 

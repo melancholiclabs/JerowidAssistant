@@ -1,0 +1,18 @@
+[Substance]
+
+id :: 57
+name :: Cannabinoids & Cannabinoid Receptor Agonists
+url :: https://www.erowid.org/chemicals/cannabinoids/cannabinoids.shtml
+category :: Chemicals
+commonNames :: Various (THC; Cannabidiol;JWH-018;JWH-073;JWH-210;JWH-250;JWH-081;CP 47,497;AM-2201;RCS-4 etc.)
+effectsClassification :: Intoxicant; Stimulant; Psychedelic; Depressant
+chemicalName :: Various
+description :: Cannabinoids are a class of chemicals, with structure or activity similar to those found naturally in the cannabis plant. Humans have endogenous (naturally occuring) cannabinoid receptors throughout our bodies and brains, which were discovered after those in the plant. Thus the human receptors are named after the psychoactive principles in marijuana. Novel synthetic cannabinoids and cannabinoid receptor agonists gained popularity in the late 2000s when they began being sold in herbal smoking blends as cannabis replacements.
+imageURL :: https://www.erowid.org/chemicals/cannabinoids/images/cannabinoids_summary1.jpg
+imagesURL :: https://www.erowid.org/chemicals/cannabinoids/cannabinoids_images.shtml
+
+[Images]
+imageEntryList :: JWH-018 Powder	https://www.erowid.org/chemicals/show_image.php?i=cannabinoids/jwh-018_powder__i2010e0748_disp.jpg	100 mg of 99.3% pure JWH-018, a synthetic cannabinoid. [PA, USA]	Photo by Skumm. &copy; 2010 Erowid.org
+JWH-018 Powder	https://www.erowid.org/chemicals/show_image.php?i=cannabinoids/jwh-018_powder__i2009e0240_disp.jpg	1 gram of JWH-018 powder in plastic bag, showing front and back. [TX, USA]	Photo by Sean K. &copy; 2009 Erowid.org
+JWH-073 Powder	https://www.erowid.org/chemicals/show_image.php?i=cannabinoids/jwh-073_powder__i2009e1096_disp.jpg	Approximately 400 mg JWH-073 powder from a U.S. supplier. [USA]	Photo by Skunkjar. &copy; 2011 Erowid.org
+UR-144	https://www.erowid.org/chemicals/show_image.php?i=cannabinoids/ur-144_powder__i2013e0137_disp.jpg	A baggie of the powdered cannabinoid receptor agonist UR-144. [UK]	Photo by Anonymous. &copy; 2013 Erowid.org

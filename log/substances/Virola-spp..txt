@@ -1,0 +1,34 @@
+[Substance]
+
+id :: 195
+name :: Virola spp.
+url :: https://www.erowid.org/plants/virola/virola.shtml
+category :: Plants
+botanicalClassification :: Family :Myristicaceae, Genus :Virola, Species :theiodora; calophylla; calophylloidea; cuspidata; elongata; lorentensis; peruviana; rufula; sebifera; surinamensiscommonNames :: Epe�a; Ebena; Nyakwana; Paric�
+effectsClassification :: Psychedelic
+description :: Virola is a genus of large trees, some of which produce a red, N,N-DMT- and 5-MeO-DMT-containing resin from the inner bark. There is a long history of use of this resin in South American snuffs.
+imageURL :: https://www.erowid.org/plants/virola/images/virola_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/virola/virola_images.shtml
+lawURL :: https://www.erowid.org/plants/virola/virola_law.shtml
+
+[Images]
+imageEntryList :: Virola calophylla	https://www.erowid.org/plants/show_image.php?i=virola/virola_calophylla1.jpg	Black and white drawing of leaves and flowers.	From Plants of The Gods, by Schultes & Hofmann.
+Virola calophylloidea	https://www.erowid.org/plants/show_image.php?i=virola/virola_calophylloidea1.jpg	Black and white drawing of flowering branch.	From Plants of The Gods, by Schultes & Hofmann.
+Virola sebifera	https://www.erowid.org/plants/show_image.php?i=virola/virola_sebifera_bark1.jpg	Color photo of a large piece of Virola sebifera bark. [MO, USA]	Photo by Alkaloidaholic, &copy; 2003 Erowid.org
+Virola surinamensis	https://www.erowid.org/plants/show_image.php?i=virola/virola_surinamensis1.gif	Color photo of Virola logs floating down river.	Photographer unknown.
+Virola theiodora	https://www.erowid.org/plants/show_image.php?i=virola/virola_theiodora1.jpg	Black and white photo of branch.	From Plants of The Gods, by Schultes & Hofmann.
+Virola theiodora	https://www.erowid.org/plants/show_image.php?i=virola/virola_theiodora2.jpg	Black and white drawing of branch, flower, and fruit.	From Plants of The Gods, by Schultes & Hofmann.
+Virola spp.	https://www.erowid.org/plants/show_image.php?i=virola/virola_spp1.jpg	Color photo of three Virola spp. logs, one showing a cross-section.	Photo by Anonymous Photographer, &copy; 2000 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Virola spp
+REGULATED	No
+STATUS	Ambiguous
+SCHEDULE	ContainsSchedule I Chemical
+CLASSIFICATION	Hallucinogen
+federalLawText :: DMT-containing Virola species are not specifically controlled species in the United States. Live plants and seeds are bought and sold and are not generally considered illegal. However, DMT, one of the chemicals contained in these plants, is Schedule I in the U.S. Practically, this means that if an extraction is done on DMT-containing Virola species, the resulting DMT is illegal to possess.	
+Large scale (especially commercial) extraction of DMT from Virola species falls into the realm of "clearly illegal" and would very likely be prosecuted. It is also possible that importation of DMT containing Virola species into the United States could result in problems with customs, especially if large volumes are imported.
+stateLaw :: Louisiana	Effective Aug 8, 2005 (signed into law Jun 28, 2005) Louisiana Act No 159 makes 40 plants illegal, including Virola spp., when intended for human consumption. The law specifically excludes the "possession, planting, cultivation, growing, or harvesting" of these plants if used "strictly for aesthetic, landscaping, or decorative purposes." (Text of HLS_05RS-52 and Update June 2005)
+Tennessee 	Tennessee did not pass the proposed bill that would have banned dozens of plants as "hallucinogenic" when intended for human consumption. Instead, they banned only Salvia divinorum. See Comments on New State Laws Controlling the Consumption of Hallucinogenic Plants.
+internationalLaw :: 

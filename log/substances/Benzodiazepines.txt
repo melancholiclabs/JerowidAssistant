@@ -1,0 +1,11 @@
+[Substance]
+
+id :: 256
+name :: Benzodiazepines
+url :: https://www.erowid.org/pharms/benzodiazepine/benzodiazepine.shtml
+category :: Pharms
+commonNames :: Many
+effectsClassification :: Anxiolytic; Sedative
+chemicalName :: Various
+description :: Benzodiazepines are a class of gabaminergic psychoactive chemicals used in the treatment of anxiety and sleep disorders. This class includes alprazolam (Xanax), diazepam (Valium), clonazepam (Klonopin) and others. Most benzodiazepine names end in "pam" or "am". Benzodiazepines are used extensively in emergency medicine.
+imageURL :: https://www.erowid.org/pharms/images/pharms_spacer_summary.jpg

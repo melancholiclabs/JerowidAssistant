@@ -1,0 +1,134 @@
+[Substance]
+
+id :: 63
+name :: Cocaine & Crack
+url :: https://www.erowid.org/chemicals/cocaine/cocaine.shtml
+category :: Chemicals
+commonNames :: Coke; Crack; Blow; Snow; Nose Candy
+effectsClassification :: Euphoric Stimulant
+chemicalName :: benzoylmethyl ecgonine
+description :: Cocaine is a common stimulant derived from the Erythroxylum coca plant. It is best known for its massive popularity in powdered and freebase (crack) forms.
+imageURL :: https://www.erowid.org/chemicals/cocaine/images/cocaine_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/cocaine/cocaine_basics.shtml
+effectsURL :: https://www.erowid.org/chemicals/cocaine/cocaine_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/cocaine/cocaine_images.shtml
+lawURL :: https://www.erowid.org/chemicals/cocaine/cocaine_law.shtml
+chemistryURL :: https://www.erowid.org/plants/coca/coca_chemistry.shtml
+
+[Basics]
+description :: Cocaine is a naturally derived CNS (central nervous system) stimulant extracted and refined from the Coca plant grown primarily in the Andean region of South America. Cocaine is typically a white-ish powder with a bitter, numbing taste. It is most often insufflated (snorted), though it can also be injected and used orally.  While powder cocaine can be smoked to some effect (despite common belief otherwise), it is a very inefficient method of ingestion. Because of the high temperatures present when smoking, powder cocaine tends to burn rather than vaporizing. For this reason, freebase cocaine, also known as crack in its street form, is created from powder cocaine for smoking. Freebase cocaine vaporizes at smoking temperatures providing more effect with less material, as well as faster onset and a more intense high than powder cocaine. [ Main Cocaine Vault ]
+descriptionSections :: dose	Dose Summary Needed.
+price	In the United States in 2011, powder cocaine is sold for around $20-30 for 0.25 gram, $60-100 per gram, and $120-200 for 3.5 grams (1/8 ounce).
+law	Cocaine is illegal to possess and sell in the United States (schedule II) and in most other countries. It became a regulated substance in 1914, as one of the first substances to be made illegal in the U.S.
+chemistry	The chemical name for cocaine is benzoylmethyl ecgonine (C17H21NO4). It is a bitter, white, odorless, crystalline drug.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	Coca leaf chewing has been practiced for thousands of years. Cocaine was first isolated from the Erythroxylon coca plant around 1850. Medicinal use of Cocaine increased through the late 19th century and recreational use started to become a known problem in the early 20th century. Recreational use was banned in the United States in 1914.
+terminology	The Substance:Cocaine: Coke; Snow; Nose Candy; Dust; White Lady; Toot; Llello. 								Freebase Cocaine: Crack; Rock. The Experience:Coked up.
+effects :: As with many substances, the effects of cocaine depend greatly on the person and the dose. Possible effects include feelings of well-being, decreased appetite, stimulation, sexual arousal, and increased focus. Negative effects can include increased body temperature and heart rate, agitation and anxiety, paranoia, dizziness, nausea/vomiting, violent behavior, kidney failure, seizure, stroke, and heart attack.
+effectsSections :: onset	Onset varies depending on method of ingestion. Snorting cocaine will produce effects within a minute. Smoking freebase cocaine produces effects almost immediately...often before exhaling. Injected cocaine also produces effects within a few seconds.
+duration	The effects of snorted cocaine are quite short with the primary high lasting only 20-40 minutes. This is one of the reasons leading to problems with addiction. As the effects wear off, more is often snorted. This pattern of repeated use can quickly move in the direction of addiction. A hit of smoked Crack (freebase cocaine) will typically produce effects lasting 5-15 minutes.
+visuals	Visuals Summary Needed.
+problems :: Street cocaine is quite often impure. The more direct the route of administration, the more dangerous this can be. Injecting impure cocaine can be deadly. Repeated snorting can cause severe damage to the nose. Smoking of freebase cocaine can cause breathing difficulties.
+problemsSections :: contraindications	Research shows that cocaine use during pregnancy may increase chances of miscarriage, premature labour, and stillbirth. Cocaine is likely to be passed to a child during breast-feeding, resulting in irritability and lack of appetite in the baby.
+addiction	One of the most problematic aspects of cocaine is its addictive qualities. While cocaine is not believed to be physically addicting, it is, without a doubt, psychologically addicting. Those who use cocaine heavily or regularly frequently encounter great difficulty ceasing use.  Many people find themselves drawn to overusing both crack and powder cocaine. Initial tolerance develops rapidly, especially with heavy use, though tolerance appears to level off relatively quickly (users do not generally require more and more material over time, once they have reached heavy use).
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Effects]
+duration :: Powder Cocaine Duration
+Insufflated (single dose, rare)
+Total Duration	1 - 2 hrs
+Onset	0 - 5  mins
+Coming Up	1 - 15 mins
+Plateau	10 - 20 mins
+Coming Down	15 - 60 mins
+&nbsp;	&nbsp;
+After Effects	1 - 2 hrs (3-4 hrs with repeated redoses)
+Hangover / Day After	? ? ?
+positiveEffects :: mood lift, euphoria	mental and physical stimulation	erotic, sexual thoughts and sensations	increased sociability, talkativeness	reduced altitude sickness	reduced physical fatigue	(Smoked / IV) powerful euphoric rush
+neutralEffects :: local anaesthesia, numbness	increased heart rate and blood pressure	general change in consciousness	appetite suppression
+negativeEffects :: desire to do more cocaine	(Insufflated) nost-nasal and back of throat drip, numbness	dry mouth	sensation of throat closing up (insufflated)	tolerance, habituation, psychological addiction	insomnia	emotional lability, rapid changes in mood	anxiety, panic	annoyance, agitation, anger	paranoia, fear	tachycardia, feeling over stimulated	shaking
+description :: Cocaine is both a central nervous system stimulant and a topical anaesthetic. It is found in the leaves of the Erthroxylum coca plant. The traditional method of coca use is to "chew" the leaves (the leaves are actually not chewed so much as sucked, producing a mild stimulation. Outside of South America it is generally used in its more refined and extracted forms: either powder cocaine, or freebase cocaine which produce much stronger effects than "chewing" the leaves. The term "Crack" is alternately used to refer to street quality freebase cocaine, or to refer to the product of a particular manufacturing process which uses sodium bicarbonate rather than a flammable solvent. Powdered cocaine is generally insufflated (snorted) and crack / freebase cocaine is generally smoked. Smoking freebase cocaine causes a strong, short-lived peak of about 3-5 minutes, while snorting cocaine provides a lower high with major effects lasting closer to 15 - 30 minutes.	
+PSYCHOLOGICAL EFFECTS:	Varies with dose and the tolerance of the user. Increases alertness, wakefulness, elevates the mood, mild to high degree of euphoria, increases athletic performance, decreases fatigue, clearer thinking, increases concentration, increases energy, increased irritability, insomnia, restlessness. With high doses may exhibit a pattern of psychosis with confused and disorganized behavior, irritability, fear, paranoia, hallucinations, may become extremely antisocial and aggressive.	
+PHYSICAL EFFECTS:	Increases heart rate, blood pressure, body temperature, and sweating. Increases speed of respiration, dilates the pupils, decreased sleep and appetite. Can decrease seizure threshold and is associated with seizures, strokes, and heart attacks in susceptible individuals.	
+WITHDRAWAL SYMPTOMS:	Although cocaine does not cause dangerous physical addiction, discontinuing regular use can lead to a wide varieties of (very) unpleasant withdrawal and craving symptoms, including: intense cravings for more cocaine, hunger, irritability, apathy, depression, paranoia, suicidal ideation, loss of sex drive, insomnia or excessive sleep, dizziness, shaking, and/or feeling cold. Although the withdrawal from heavy cocaine use is not as debilitating as the withdrawal from opiates or benzodiazepines, it is still usually quite unpleasant. Often, individuals simply take more cocaine to reduce these effects, leading to a pattern of habituation, dependence, and addiction.	
+HEAVY, REPEATED USE:	As of 2015, a majority of powder cocaine outside of South America contains levamisole. Repeated use of levamisole can compromise the immune system.	
+
+OVERDOSE SYMPTOMS:	Agitation, hostility, hallucinations, convulsions, high body tempertature (hyperthermia), stroke, heart attack, and possibly death.	
+People with latent congenital heart defects, high blood pressure, or thyroid problems are at higher risk of dangerous reactions and heart failure with the recreational use of cocaine.	
+LONG-TERM USE:	Heavy, regular use of cocaine is known to cause restlessness, anxiety, hyperexcitability, paranoia, irritability, insomnia, weight loss, and a variety of other less acute psychological symptoms. Insufflation of any substance can lead to damaging the cartiledge and mucosa in the nose, eventually leading to a hole in the septum (the soft structure separating the nostils). If injected, cocaine use can lead to a wide variety of problems including life-threatening infections, shared needle-related blood diseases, etc.
+experienceReports :: [Crack cocaine compared to Insufflated Powder Cocaine] "Crack, I soon discovered had one big difference for me from coke. When I would binge on coke I would always reach a point where it just didn’t do anything for me. After 6, 7, 8 hours of partying, each new line just didn’t get me high and I would really feel like shit and stop. Crack was different. Each hit got me high. Only as the night goes on the high last for less and less time each hit. But each hit holds the promise of a new high. That’s what makes it so addicting." -- Exp 74175[Insufflated Powder Cocaine] "I felt invigorated, yet also very comfortable. It was suprising how physical the sensations actually were. I had a warm, tingly sensation in my limbs." -- Exp 43976[Insufflated Powder Cocaine] "How can I best describe the feeling of a good coke high to someone unfamiliar with it? Like this: it's like living, real-time, in a Hollywood movie. Have you noticed how, in a movie, only the salient and dramatic moments of a character's story are spliced together? You never, for example, have to slog through the onscreen character's having to clip his toenails or pay bills or pop a blackhead, or listen to long interstices of silence in the ramble of a desultory conversation. Thus is reality for the Coked: life is poetry: accelerated, shined, tweaked, pruned of its prosaic, pedestrian footage. Every utterance you or your fellow stonees make seems to be sharp, dramatic, witty, encapsulated-- jjust like movie dialogue. Little transitional moments disappear: you find yourself engaged in group chatter one moment, then looking into their bathroom mirror the next, just like in an elegant film edit. Above all, there is an immanent thrill in your loins that SOMETHING exciting-- one doesn't know quite WHAT-- is going to HAPPEN. ANY second now. (It often never does, but one is not swayed.)" -- Exp 1643[Intravenous (IV)] I put down the needle, and then I closed my eyes and tilted my head backwards, enjoying the rush of intense pleasure I felt throughout my entire body. It felt better than any orgasm I had ever experienced. My tongue became numb, and I could taste cocaine in my mouth, even though there was none there. My heart was beating a million miles an hour. My mind was racing, going from one random thought to another thought. Physically, however, I felt very relaxed. I stood from sitting on the edge of the tub, and walked toward the mirror. I was a little wobbly on my feet, and when I looked at myself in the mirror, I grinned crazily at myself." -- Exp 68053[Insufflated Powder Cocaine] "For the next 6 months or so, I did coke constantly. A bunch of us would drink and do lines many nights, including weeknights. We would sit around and talk and play cards and board games and watch tv and the time seemed to just fly by. I loved all aspects of doing coke, especially the ritual of it all - I loved cutting it all up and moving it around and organizing it into lines with a razor blade. I loved the feelings, both mental and physical. I would look forward every day to the next time I would feel that telltale acidic drip in my throat, the numbing of my teeth, and the absolute bliss. I felt much less socially awkward when I was on this drug: I could talk to anyone about anything." -- Exp 57762[Intravenous (IV)] "I LOVE the feeling of injecting it so much it scares me." -- Exp 37703[Insufflated Powder Cocaine] "My body felt strangely cold and clammy all over, yet my mind and chest felt very warm and almost pulsating with energy. As I filled up a glass of water I noticed very strong and euphoric anticipations of talking to Bob and Rob again, even though it was only a minute since I had seen them last. I can best explain this as the mild emotional-bonding effects of MDMA. [...] I entered the door to my room and was extremely happy to be back with my friends. " -- Exp 21524[Smoked Crack Cocaine] Once I started I was never sated, no matter how much I had consumed, and once the dope was gone I was always certain that someone had more and was holding out on me." -- Exp 37703[Smoked Freebase Cocaine] "Wait, I am not sure that I got enough... Oh! NOW I get it."
+
+[Images]
+imageEntryList :: Powder Cocaine	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine5.jpg	Color photo of large stack containing dozens of kilo bricks of cocaine.	Photo by Wes, &copy; 2000 Erowid
+Powder Cocaine	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine6.jpg	Color photo of a small baggie of powder cocaine. New York.	Photo by Pengiun Butler, &copy; 2001 Erowid
+Cocaine Powder	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine_powder__i2006e0373_disp.jpg	Small baggie of cocaine powder next to a dime. [MO, USA]	Photo by Anonymous. &copy; 2007 Erowid.org
+Powder Cocaine	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine_powder__i2003e0633_disp.jpg	A small pile of powder cocaine in plastic.	Photo by K. Storch. &copy; 2006 Erowid.org
+Powder Cocaine	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine_powder__i2003e0634_disp.jpg	Small pile of powder cocaine next to a rolled $20 bill for size comparison. [FL, USA]	Photo by K. Storch. &copy; 2006 Erowid.org
+Cocaine	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine__i2010e0189_disp.jpg	A pile of "fishscale" cocaine. [GA, USA]	Photo by Tokemasta. &copy; 2010 Erowid.org
+Powder Cocaine	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine1.jpg	Color photo of a pile of cocaine powder.	Photo from Drugs in the Workplace
+Powder Cocaine	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine3.jpg	Color photo of two small piles of power cocaine.	U.S. government Public Domain photo.
+Powder Cocaine	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine2.jpg	Color photo of powder cocaine next to coca leaves.	U.S. government Public Domain photo.
+Powder Cocaine	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine4.jpg	Color photo of a small pile of powder cocaine.	Photographer unknown.
+Cocaine	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine_chunk__i2009e1076_disp.jpg	Large pile of pure Cocaine HCl chunks. [USA]	Photo by Kisps. &copy; 2009 Erowid.org
+"Fish Scale" Cocaine Chunk	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine_chunk__i2015e0067_disp.jpg	A large, 4 gram chunk of high quality cocaine. Sometimes called "fish scale" because of the pearlescent, reflective quality and flaky consistency rather than just powdery.	Photo by Anonymous. &copy; 2015 Erowid.org
+Chunk of Cocaine	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine_chunk__i2004e0718_disp.jpg	Close-up image of a chunk of powder cocaine weighing approximately 1.5 grams. [CA, USA]	Photo by Kisps. &copy; 2010 Erowid.org
+Cocaine	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine__i2004e0662_disp.jpg	Close-up photo of a chunk of Peruvian cocaine. [Peru]	Anonymous photographer. &copy; 2006 Erowid.org
+Cocaine	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine__i2004e0693_disp.jpg	A pile of cocaine, including two large chunks.	Photo by Devil. &copy; 2006 Erowid.org
+Cocaine	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine__i2004e0737_disp.jpg	Nine grams of cocaine hydrochloride next to a ruler. [FL, USA]	Photo by Robert. &copy; 2006 Erowid.org
+Cocaine	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine__i2004e0691_disp.jpg	Chunks of relatively pure cocaine. [Spain]	Photo by Diabliyo. &copy; 2007 Erowid.org
+Cocaine	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine_rock_bag1.jpg	Color photo of a bag containing three chunks of Cocaine HCl next to a penny for size comparison. [N. CA, USA, 2001).	Photo by Erowid. &copy; 2001 Erowid.org
+Cocaine	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine__i2007e0307_disp.jpg	Large chunk of cocaine next to Corona bottle cap for comparison. [FL, USA]	Photo by OES. &copy; 2007 Erowid.org
+Cocaine	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine7.jpg	Color photo of a broken chunk of peruvian flake variety powder cocaine weighing 1/2 oz total. [UK]	Photo by Chizzle-fiend. &copy; 2002 Erowid.org
+Cocaine	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine8.jpg	Color photo of 2 grams of Cocaine. [England, 2001].	Photo by Misterbishi & Missbishi. &copy; 2001 Erowid.org
+Cocaine	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine_rock1.jpg	Close-up color photo of three chunks of Cocaine HCl. (N. California, 2001).	Photo by Erowid. &copy; 2001 Erowid.org
+Cocaine	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine_brick1.jpg	Color photo of a kilo brick of cocaine.	Photo &copy; Street Drugs.org
+Crack crystals	https://www.erowid.org/chemicals/show_image.php?i=cocaine/crack1.jpg	Close-up color photo of 4 rocks next to a paperclip.	Photo &copy; StreetDrugs.org
+Crack	https://www.erowid.org/chemicals/show_image.php?i=cocaine/crack2.jpg	Close-up of 3 large rocks.	Photo &copy; StreetDrugs.org
+Crack	https://www.erowid.org/chemicals/show_image.php?i=cocaine/crack3.jpg	Color photo of 2 rocks of cocaine and a small crack vial.	U.S. government Public Domain photo.
+Orange-colored Crack	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine_rock_orange1.jpg	Color photo of 1 orange-colored rock of cocaine.	Photo by LGC, in U.K., verifying this is orange-colored crack cocaine, assumed to be a marketing gimmick. Summer 2004.
+Cocaine  Advertisement	https://www.erowid.org/chemicals/show_image.php?i=cocaine/ad_cocaine1.jpg	Advertising poster for Angelo Mariani brand, Vin Mariani.	Color lithograph poster by Jules Ch�ret, in series Les Ma�tres de l'Affiche (No.77), Paris, 1894, 40 x 29 cm.
+Cocaine Ad	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine_ad1.jpg	An 1885 advertisement for cocaine toothache drops.	Artist Unknown
+Coca-Cola Ad	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine_ad_coke1.jpg	Coca-Cola ad marketing the energizing effects of the drink.	Image from The Encyclopedia of Psychoactives: Cocaine
+Cocaine processing	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine_processing1.jpg	Coca leaf press.	Public domain photo from Indiana University
+Cocaine Jar	https://www.erowid.org/chemicals/show_image.php?i=cocaine/object_cocaine_jar1.jpg	Apothecary Jar c. 1880.	Image from the Chicago Historical Society.
+Pastillas Caldeiro (Menthol and Cocaine)	https://www.erowid.org/chemicals/show_image.php?i=cocaine/cocaine_pastilles__i2013e0271_disp.jpg	A vintage blue box of Pastillas Caldeiro containing menthol and cocaine from Spain early 1900s. [Spain]	Photo by psilocybe. &copy; 2013 Erowid.org
+Cocaine 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=cocaine/cocaine_2d.gif	Still 2D image of the Cocaine molecule.	Image by Erowid. &copy; 2000 Erowid.org
+Cocaine 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=cocaine/cocaine_3d.jpg	Still 3D image of the Cocaine molecule.	Image by Erowid. &copy; 2000 Erowid.org
+Cocaine 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=cocaine/cocaine__.mol	Rotating 3D image of the Cocaine molecule.	Image by Erowid. &copy; 2000 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Cocaine
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule II
+CLASSIFICATION	Stimulant
+federalLawText :: Cocaine and Crack (freebase cocaine) are both Schedule II in the United States. This means they are illegal to sell without a DEA license and illegal to buy or possess without a license or prescription.	
+Cocaine and Crack (freebase cocaine) are both Schedule II.
+stateLaw :: null
+internationalLaw :: Brazil	Cocaine is illegal to extract, distribute, sell, or use, and its prohibition is strongly enforced. We have an unconfirmed and unlikely report that some amount of unprocessed coca leaves are legal to possess. (thanks P) (last updated Jan 8 2011)
+Canada	Cocaine is Schedule I in Canada. (Note: Canadian schedules are very different than U.S. schedules)
+India	Cocaine is a controlled substance in India under the Psychotropic substances and Narcotic drugs Act of 1985. One erowid visitor reports that over 2 grams is considered commercial quantity and possession of 2 grams or more has a minimum sentence of two years. (unconfirmed) (thanks ib) (last updated Jul 22 2013)
+Italy (Italia)	Listed in Tabella I of "Tabelle delle sostanze stupefacenti e psicotrope", making it illegal to possess, purchase, or sell. (see Tabelle delle sostanze stupefacenti e psicotrope. (thanks a) (last updated Dec 16, 2015)
+Norway	Cocaine and coca leaves are illegal to possess or buy in Norway. See Norway Law. (thanks Y)
+Peru	According to Article 2999 in the Peruvian penal code, personal possession of small amounts individual drugs is not a crime. The list of maximum quantities include 2000mg of cocaine, 5000 mg cocaine basic paste, 8000 mg of cannabis, 2000mg of cannabis derivatives, 1000 mg of opium latex or 200mg of opium derivatives, 250mg of MDA or MDMA. See http://howtoperu.com/2012/03/27/drugs-in-peru-laws-of-possession/. (unconfirmed) (thanks cr) (last updated Feb 26, 2013)
+Portugal	Effective July 2001, personal use of cocaine was decriminalized by Law 30/2000 (see text of law). Possession of less than 2 g (cocaine HCL) or 300 mg (methyl ester of benzoylecgonine) is not regarded as a criminal offense, though the substance is liable to be seized and the possessor can be referred to mandatory treatment. Sale, or possession of quantities greater than the personal possession limit, are criminal offenses punishable by jail time. (thanks P)
+U.K.	Cocaine is Schedule 2/Class A in the U.K., making it illegal to buy or possess without a prescription. Cocaine can be prescribed for therapeutic
+Cocaine is Schedule 2/Class A in the U.K., making it illegal to buy or possess without a prescription. Cocaine can be prescribed for therapeutic	purposes. However, a doctor must obtain a license from the Home Office
+purposes. However, a doctor must obtain a license from the Home Office	if the drug is to be prescribed for treating addiction. (thanks NNN)
+
+[Chemistry]
+chemTable :: NAME :	Cocaine
+CHEMICAL NAME :	[1R-(exo,exo)]-3-(Benzoyloxy)-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylic acid methyl ester
+ALTERNATE CHEMICAL NAMES : 	 3beta-hydroxy-1alphaH, 5alphaH-tropane-2beta-carboxylic acid methyl ester benzoate
+ALTERNATE CHEMICAL NAMES : 	 2beta-carbomethyoxy-3beta-benzoxytropane, ecgonine methyl ester benzoate
+ALTERNATE CHEMICAL NAMES : 	 l-cocaine, beta-cocaine, benzoylmethyl-ecgonine
+CHEMICAL FORMULA	C17H21NO4
+MOLECULAR WEIGHT	303.36
+MELTING POINT	98&#176; (monoclinic tablets)
+MELTING POINT	195&#176; (Hydrochloride)
+MELTING POINT	58-63&#176; (Nitrate dihydrate)
+From the Merck Index 12th Edition
+moleculeURL :: https://www.erowid.org/chemicals/cocaine/images/archive/cocaine_3d_mid.jpg

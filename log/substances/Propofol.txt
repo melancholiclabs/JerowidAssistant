@@ -1,0 +1,24 @@
+[Substance]
+
+id :: 306
+name :: Propofol
+url :: https://www.erowid.org/pharms/propofol/propofol.shtml
+category :: Pharms
+commonNames :: Diprivan
+effectsClassification :: Sedative
+chemicalName :: 2,6-Diisopropylphenol
+description :: Propofol is a short-acting sedative-hypnotic used in clinical settings for general anesthesia or monitored sedation during medical procedures or intensive care. It received significant media attention after its involvement in Michael Jackson's death. It has a steep dose-response curve.
+imageURL :: https://www.erowid.org/pharms/images/pharms_spacer_summary.jpg
+lawURL :: https://www.erowid.org/pharms/propofol/propofol_law.shtml
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Propofol
+REGULATED	No
+STATUS	Prescription Only
+SCHEDULE	Un-Scheduled
+federalLawText :: Propofol (Diprivan) is unscheduled in the United States, but is available by prescription only. This means that sales and distribution are allowed only by those with a license and only to those with a prescription (according to FDA regulations). Possession is not illegal even without a prescription.	
+In October 2010, the DEA proposed adding Propofol to Schedule IV, which would make it illegal to possess without a prescription. See http://edocket.access.gpo.gov/2010/pdf/2010-27193.pdf. Public comments on this change are being accepted until Dec 27, 2010. Send communications to: Enforcement Administration, Attention: DEA Federal Register Representative/ODL, 8701 Morrissette Drive, Springfield, Virginia 22152.	
+A July 23, 2009 proposed ruling by the DEA Office of Diversion Control recommended placing fospropofol&mdash;a prodrug of propofol that metabolizes into propofol&mdash;into schedule IV, based on a recommendation from the Department of Health and Human Services (DHHS) and on an evaluation of the relevant data by DEA (from Federal Register: July 23, 2009).
+stateLaw :: null
+internationalLaw :: 

@@ -1,0 +1,37 @@
+[Substance]
+
+id :: 272
+name :: Dimenhydrinate
+url :: https://www.erowid.org/pharms/dimenhydrinate/dimenhydrinate.shtml
+category :: Pharms
+commonNames :: Dramamine; Gravol; Dimetabs; Triptone; Dinate
+effectsClassification :: Antihistamine; Antivertigo; Antiemetic; deliriant
+chemicalName :: o-benzhydryldimethylaminoethanol 8-chlorotheophyllinate
+description :: Dimenhydrinate (Dramamine) is an anti-emetic and anti-histamine commonly available over-the-counter as a motion sickness remedy. At high doses it causes delirium and hallucinations.
+imageURL :: https://www.erowid.org/pharms/dimenhydrinate/images/dimenhydrinate_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/dimenhydrinate/dimenhydrinate_images.shtml
+healthURL :: https://www.erowid.org/pharms/dimenhydrinate/dimenhydrinate_health.shtml
+lawURL :: https://www.erowid.org/pharms/dimenhydrinate/dimenhydrinate_law.shtml
+
+[Images]
+imageEntryList :: Dimenhydrinate tablets	https://www.erowid.org/pharms/show_image.php?i=dimenhydrinate/dimenhydrinate_tablet1.jpg	Color photo of two 50 mg Dimenhydrinate tablets next to a nickel. [Canada]	Photo by Top Heavy Hookjaw, &copy; 2006 Erowid.
+
+[Health]
+notes :: null
+deaths :: null
+warnings :: null
+cautions :: null
+benefits :: null
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Dimenhydrinate
+REGULATED	Yes
+STATUS	Over-The-Counter
+SCHEDULE	Un-Scheduled
+federalLawText :: Dimenhydrinate (Dramamine) is unscheduled in the United States. It is sold over-the-counter as an approved drug and is legal to buy, possess, and ingest without a license or prescription. Sales for human consumption are regulated by the FDA and each formulation or product requires specific FDA approval.
+stateLaw :: null
+internationalLaw :: Australia	We have been told that dimenhydrinate is availablefrom chemists in Perth, Western Australia. It is sold in packages containing ten 50 mg pills with no evident restriction. (unconfirmed) (thanks BM)
+Canada	Gravol or Dimenhydrinate (Dramamine) is legal to purchase in Canada without a prescription. It is available in any drug store and most supermarkets. It is available in different strengths, types of tablets, and flavors. (unconfirmed) (thanks N)
+Mexico	We have been told that dimenhydrinate is legal and available over-the-counter in Mexico with no age restriction. (unconfirmed) (thanks MA)
+New Zealand	Diphenhydramine and dimenhydrinate are controlled under the "Sedating Antihistamines" category and are restricted to pharmacy sales and prescriptions. See www.medsafe.govt.nz/downloads/mcc33SedatingAntihistamines.doc. (thanks R) (last updated Feb 16 2011)

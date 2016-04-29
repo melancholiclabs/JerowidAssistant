@@ -1,0 +1,53 @@
+[Substance]
+
+id :: 17
+name :: 4-Acetoxy-DET
+url :: https://www.erowid.org/chemicals/4_acetoxy_det/4_acetoxy_det.shtml
+category :: Chemicals
+commonNames :: Ethacetin
+effectsClassification :: Psychedelic Tryptamine
+chemicalName :: N,N-diethyl-4-acetoxytryptamine
+description :: 4-Acetoxy-DET is a synthetic psychedelic. It is very uncommon and has only a short history of human use. It's effects have been compared to psilocybin.
+imageURL :: https://www.erowid.org/chemicals/4_acetoxy_det/images/4_acetoxy_det_summary1.jpg
+imagesURL :: https://www.erowid.org/chemicals/4_acetoxy_det/4_acetoxy_det_images.shtml
+lawURL :: https://www.erowid.org/chemicals/4_acetoxy_det/4_acetoxy_det_law.shtml
+doseURL :: https://www.erowid.org/chemicals/4_acetoxy_det/4_acetoxy_det_dose.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Images]
+imageEntryList :: 4-acetoxy-DET Powder	https://www.erowid.org/chemicals/show_image.php?i=4_acetoxy_det/4_acetoxy_det1.jpg	Color photo showing a plastic bag with 1g of 4-acetoxy-DET crystals.	Image by Erowid. &copy; 2001 Erowid.org
+Partially Oxidized 4-acetoxy-DET Powder	https://www.erowid.org/chemicals/show_image.php?i=4_acetoxy_det/4_acetoxy_det2.jpg	Color photo showing a plastic bag of 4-acetoxy-DET stored in plastic at 60F for 5 months, noticeably darker than it started.	Image by Erowid. &copy; 2002 Erowid.org
+Oxidized tar of 4-acetoxy-DET freebase	https://www.erowid.org/chemicals/show_image.php?i=4_acetoxy_det/4_acetoxy_det_oxidized1.jpg	Color photo showing .5gram 4-acetoxy-DET which turned into a brown tar after being left in a car for 3 months.	Image by Erowid. &copy; 2002 Erowid.org
+Vial of 4-Acetoxy-DET	https://www.erowid.org/chemicals/show_image.php?i=4_acetoxy_det/4-acetoxy-det_vial__i2003e0569_disp.jpg	A green glass vial containing 500 mg of 4-Acetoxy-DET powder. [CA, USA]	Photo by Anonymous. &copy; 2009 Erowid.org
+3 bags of 4-Acetoxy-DET in different stages of oxidation	https://www.erowid.org/chemicals/show_image.php?i=4_acetoxy_det/4_acetoxy_det_oxidized2.jpg	Color photo showing 3 bags of 4-acetoxy-DET from fresh to tar.	Image by Erowid. &copy; 2002 Erowid.org
+4-acetoxy-DET 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=4_acetoxy_det/4_acetoxy_det_2d.gif	Still 2D image of the 4-acetoxy-DET molecule.	Image by Erowid. &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+4-Acetoxy-DET
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: 4-Acetoxy-DET and 4-HO-DET are both uncontrolled substances in the U.S. as well as in most if not all other countries. It could conceivably be covered under the analog act depending on how it's sold, but there have been no cases prosecuted that we are aware of. (1/13/2002)>
+stateLaw :: null
+internationalLaw :: Switzerland	4-Acetoxy-DET is controlled in Switzerland as of Nov 1, 2005 according to the Act on the Prohibition on Certain Goods Dangerous to health. (thanks ) (last updated Sep 16, 2014)
+
+[Dose]
+doseTable :: Oral 4-Acetoxy-DET Dosages
+Threshold2 - 3 mg
+Light5 - 15 mg
+Common10 - 20 mg
+Strong20 - 40 mg
+Onset : 20 - 45 minutes (depending on form and stomach contents)
+Duration : 2 - 5 hours
+Normal After Effects : 1 - 3 hours
+doseText :: 4-Acetoxy-DET is a tryptamine ... its effects are generally compared those of mushrooms. It is found as a slightly off-white powder and is usually taken orally.
+notes :: null
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

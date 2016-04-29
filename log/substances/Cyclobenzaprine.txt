@@ -1,0 +1,32 @@
+[Substance]
+
+id :: 269
+name :: Cyclobenzaprine
+url :: https://www.erowid.org/pharms/cyclobenzaprine/cyclobenzaprine.shtml
+category :: Pharms
+commonNames :: Flexeril; Cycoflex
+effectsClassification :: Skeletal Muscle Relaxant; Sedative
+chemicalName :: 3-(5H-dibenzo[a,d] cyclohepten-5-ylidene)-N,N-dimethyl-1-propanamine hydrochloride
+description :: Cyclobenzaprine is a CNS depressant and skeletal muscle relaxant. It is effective at relieving muscle spasms of local origin without interfering with muscle function but is ineffective in treating muscle spasms due to cns disease. It is also prescribed as a sleep-aid.
+imageURL :: https://www.erowid.org/pharms/cyclobenzaprine/images/cyclobenzaprine_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/cyclobenzaprine/cyclobenzaprine_images.shtml
+lawURL :: https://www.erowid.org/pharms/cyclobenzaprine/cyclobenzaprine_law.shtml
+
+[Images]
+imageEntryList :: Cyclobenzaprine Tablets	https://www.erowid.org/pharms/show_image.php?i=cyclobenzaprine/cyclobenzaprine_tablet1.jpg	Color photo of 10 mg Cyclobenzaprine tablets with imprint "M || 751". [CA, USA]	Image by Erowid, &copy; 2003 Erowid.org
+Cyclobenzaprine Tablets	https://www.erowid.org/pharms/show_image.php?i=cyclobenzaprine/cyclobenzaprine_tablet2.jpg	Color photo of 10 mg Cyclobenzaprine tablets with imprint "M || 751". [CA, USA]	Image by Erowid, &copy; 2003 Erowid.org
+Cyclobenzaprine Tablets	https://www.erowid.org/pharms/show_image.php?i=cyclobenzaprine/cyclobenzaprine_tablet3.jpg	Color photo of 2 10 mg Cyclobenzaprine tablets with imprint "M || 751". [CA, USA]	Image by Erowid, &copy; 2003 Erowid.org
+Cyclobenzaprine Tablets	https://www.erowid.org/pharms/show_image.php?i=cyclobenzaprine/cyclobenzaprine_tablet__i2005e0640_disp.jpg	Close-up of 10 mg cyclobenzaprine tablets with imprint "PLIVA || 563". [OR, USA]	Photo by Jared. &copy; 2006 Erowid.org
+Cyclobenzaprine Tablets	https://www.erowid.org/pharms/show_image.php?i=cyclobenzaprine/cyclobenzaprine_tablet__i2005e0769_disp.jpg	Generic cyclobenzaprine tablets. 10 mg each with imprint "PLIVA || 563 ". [MN, USA]	Photo by m34th3lm3t. &copy; 2006 Erowid.org
+Cyclobenzaprine Tablets	https://www.erowid.org/pharms/show_image.php?i=cyclobenzaprine/cyclobenzaprine_tablet__i2005e0898_disp.jpg	Two types of 10 mg cyclobenzaprine tablets. Orange Flexeril with imprint "FLEXERIL || MSD931" and white generic with imprint "DAN || 5658". [AZ, USA]	Photo by Q.D.. &copy; 2006 Erowid.org
+Cyclobenzaprine Tablets	https://www.erowid.org/pharms/show_image.php?i=cyclobenzaprine/cyclobenzaprine_tablet__i2005e0757_disp.jpg	10 mg generic cyclobenzaprine tablets with the imprint "DAN || 5658". [NY, USA]	Photo by L. Moretti. &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Cyclobenzaprine
+REGULATED	Yes
+STATUS	Prescription Only
+SCHEDULE	Un-Scheduled
+federalLawText :: Cyclobenzaprine (Flexeril) is unscheduled in the United States, but is available by prescription only. This means that sales and distribution are allowed only by those with a license and only to those with a prescription (according to FDA regulations). Possession is not illegal even without a prescription.
+stateLaw :: null
+internationalLaw :: Costa Rica	Available without prescription in Costa Rica. (unconfirmed) (thanks JB)

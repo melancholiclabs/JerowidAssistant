@@ -1,0 +1,34 @@
+[Substance]
+
+id :: 170
+name :: Leonotis leonurus
+url :: https://www.erowid.org/plants/leonotis_leonurus/leonotis_leonurus.shtml
+category :: Plants
+botanicalClassification :: Family :Lamiaceae (Former: Labiatae), Genus :Leonotis (Former: Phlomis), Species :leonurus (or Leonorus)commonNames :: Lion's Tail; Wild Dagga
+effectsClassification :: Sedative; Intoxicant
+description :: Leonotis leonurus is a shrubby perennial growing 2-3 meters tall and producing red, orange, yellow, or white tubular flowers. The dried flowers, when smoked, provide a mild sedation reminiscent of Cannabis. They have a history of use in S. Africa as an intoxicant.
+imageURL :: https://www.erowid.org/plants/leonotis_leonurus/images/leonotis_leonurus_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/leonotis_leonurus/leonotis_leonurus_images.shtml
+lawURL :: https://www.erowid.org/plants/leonotis_leonurus/leonotis_leonurus_law.shtml
+
+[Images]
+imageEntryList :: Leonotis leonurus Leaves	https://www.erowid.org/plants/show_image.php?i=leonotis_leonurus/leonotis_leonurus_leaf__i2005e0197_disp.jpg	Nice photo showing growing Leonotis leonurus leaves and stems. [E. Cape, S. Africa]	Photo by Michael Knott. &copy; 2007 Erowid.org
+Leonotis leonurus	https://www.erowid.org/plants/show_image.php?i=leonotis_leonurus/leonotis_leonurus4.jpg	Color photo of a flowering Leonotis leonurus plant.	Photo by Eva, &copy; 2002 Erowid.org
+Leonotis leonurus Flower	https://www.erowid.org/plants/show_image.php?i=leonotis_leonurus/leonotis_leonurus_flower__i2007e0644_disp.jpg	A beautiful closeup of a Leonotis leonurus in flower. Growing close to the coast during April. [E. Cape, S. Africa]	Photo by Michael Knott. &copy; 2007 Erowid.org
+Leonotis leonurus	https://www.erowid.org/plants/show_image.php?i=leonotis_leonurus/leonotis_leonurus_flower1.jpg	Color photo of a pile of fresh Leonotis leonurus flowers. [Missouri, USA, 2002]	Photo by Alkaloidaholic, &copy; 2002 Erowid.org
+Leonotis leonurus	https://www.erowid.org/plants/show_image.php?i=leonotis_leonurus/leonotis_leonurus3.jpg	Color photo of a Leonotis leonurus seed pod. [Missouri, USA, 2002]	Photo by Alkaloidaholic, &copy; 2002 Erowid.org
+Dried Leonotis leonurus Flowers	https://www.erowid.org/plants/show_image.php?i=leonotis_leonurus/leonitis_leonorus_dried__i2005e0175_disp.jpg	A small pile of dried Leonitis leonorus flowers and stems. [Belgium]	Photo by Lysergication. &copy; 2007 Erowid.org
+Leonotis leonurus	https://www.erowid.org/plants/show_image.php?i=leonotis_leonurus/leonotis_leonurus_dried1.jpg	Color photo of bag of dried Leonotis leonurus flowers [FL, USA].	Photo by PeoplesMind, &copy; 2004 Erowid.org
+Leonotis leonurus	https://www.erowid.org/plants/show_image.php?i=leonotis_leonurus/leonotis_leonurus1.jpg	Color photo of dried Lion's Tail foliage and flowers.	Photo by Pokey, &copy; 2002 Erowid.org
+Leonotis leonurus	https://www.erowid.org/plants/show_image.php?i=leonotis_leonurus/leonotis_leonurus2.jpg	Color photo of dried Lion's Tail foliage and flowers.	Photo by Pokey, &copy; 2002 Erowid.org
+Leonotis nepetifolia	https://www.erowid.org/plants/show_image.php?i=leonotis_leonurus/leonotis_nepetifolia__i2006e1164_disp.jpg	Two young Leonotis nepetifolia plants. [Poland]	Photo by DziQ. &copy; 2009 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Leonotis leonurus
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: Lion's Tail (Leonotis leonurus) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: Louisiana	Effective Aug 8, 2005 (signed into law Jun 28, 2005) Louisiana Act No 159 makes 40 plants illegal, including Leonotis leonurus, when intended for human consumption. The law specifically excludes the "possession, planting, cultivation, growing, or harvesting" of these plants if used "strictly for aesthetic, landscaping, or decorative purposes." (Act No. 565; House Bill No. 173, 2010. (last updated Sep 29 2011)
+internationalLaw :: Australia	All parts of Leonotis leonurus and leonotis sibricus (seeds, plants, extracts) are not controlled in Australia and therefore legal to buy, sell, possess, and consume. Lion's Tail is a common garden ornamental in Australia. If sold for human consumption, the products must conform to the standarfs of the TGA (thereapeutic goods administration). (unconfirmed) (thanks C)

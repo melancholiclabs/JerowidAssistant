@@ -1,0 +1,41 @@
+[Substance]
+
+id :: 133
+name :: Acacia spp.
+url :: https://www.erowid.org/plants/acacia/acacia.shtml
+category :: Plants
+botanicalClassification :: Family :Fabaceae (=Leguminosae; Mimosaceae), Genus :Acacia, Species :acuminata; confusa; elata; maidenii; obtusifolia; phlebophylla; and other speciescommonNames :: Wattle; Maiden's Wattle (A. maidenii); Buffalo Sallow Wattle (A. phlebophylla)
+effectsClassification :: Psychedelic
+description :: Acacia is a genus of shrubs and small trees, some of which produce DMT, 5-MeO-DMT, and/or other alkaloids of interest in their bark and/or leaves.
+imageURL :: https://www.erowid.org/plants/acacia/images/acacia_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/acacia/acacia_images.shtml
+lawURL :: https://www.erowid.org/plants/acacia/acacia_law.shtml
+
+[Images]
+imageEntryList :: Acacia berlandieri	https://www.erowid.org/plants/show_image.php?i=acacia/acacia_berlandieri__i2005e0205_disp.jpg	A small potted Acacia berlandieri plant grown from seeds.	Photo by Mindperformer. &copy; 2006 Erowid.org
+Acacia complanata	https://www.erowid.org/plants/show_image.php?i=acacia/acacia_complanata1.jpg	Color photo of branch and yellow berries of Acacia complanata.	Photo by M. Fagg, Australian National Botanical Garden.
+Acacia longifolia var longifolia	https://www.erowid.org/plants/show_image.php?i=acacia/acacia_longifolia_longifolia1.jpg	Color photo close-up of branch and flowers.	From the Australian National Botanical Garden.
+Acacia longifolia	https://www.erowid.org/plants/show_image.php?i=acacia/acacia_longifolia2.jpg	Color photo of a large bush.	From the Australian National Botanical Garden.
+Acacia maidenii	https://www.erowid.org/plants/show_image.php?i=acacia/acacia_maidenii__i2005e0339_disp.jpg	Beautiful closeup photo of an Acacia maidenii flower. [NSW, Australia]	Submitted by Wandjina Gardens. &copy; 2006 Erowid.org
+Acacia maidenii	https://www.erowid.org/plants/show_image.php?i=acacia/acacia_maidenii1.jpg	Color photo of an A. maidenii plant.	From the Australian National Botanical Garden.
+Acacia maidenii	https://www.erowid.org/plants/show_image.php?i=acacia/acacia_maidenii2.jpg	Color photo of an A. maidenii herbarium display by the Botanical Preservation Corps, Palenque Mexico.	Photo by Freeblood, &copy; 2000 Erowid.org
+Acacia obtusifolia	https://www.erowid.org/plants/show_image.php?i=acacia/acacia_obtusifolia_seedling__i2004e0073_disp.jpg	Acacia obtusifolia seedling grown from wild collected seed. Seeds were nicked with a scalpel blade and soaked in tepid water overnight until swollen then planted in a free draining composted pine bark mix. Germination complete in 2 weeks. [NE NSW, Australia]	Photo by Reville. &copy; 2006 Erowid.org
+Acacia obtusifolia	https://www.erowid.org/plants/show_image.php?i=acacia/acacia_obtusifolia_leaf__i2005e0367_disp.jpg	Closeup photo showing the foliage of a cultivated Acacia obtusifolia specimen. [Australia]	Photo by Zariat. &copy; 2006 Erowid.org
+Acacia obtusifolia Bark	https://www.erowid.org/plants/show_image.php?i=acacia/acacia_obtusifolia_bark__i2005e0369_disp.jpg	Closeup photo showing the bark of a cultivated specimen of Acacia obtusifolia. [Australia]	Photo by Zariat. &copy; 2006 Erowid.org
+Acacia obtusifolia Flower	https://www.erowid.org/plants/show_image.php?i=acacia/acacia_obtusifolia_flower__i2005e0370_disp.jpg	Closeup photo showing a single Acacia obtusifolia flower from an Australian specimen in cultivation. [Australia]	Photo by Zariat. &copy; 2006 Erowid.org
+Acacia phlebophylla	https://www.erowid.org/plants/show_image.php?i=acacia/acacia_phlebophylla__i2005e0340_disp.jpg	Photo showing the leaves and branches of a small Acacia phlebophylla tree. [Vic, Australia]	Photo by Wandjina Gardens. &copy; 2006 Erowid.org
+Acacia phlebophylla Seedpod	https://www.erowid.org/plants/show_image.php?i=acacia/acacia_phlebophylla_seedpod__i2005e0341_disp.jpg	Closeup photo of two Acacia phlebophylla seedpods. [Australia (Victoria)]	Photo by Wandjina Gardens. &copy; 2006 Erowid.org
+Acacia phlebophylla	https://www.erowid.org/plants/show_image.php?i=acacia/acacia_phlebophylla__i2006e2071_disp.jpg	Close-up showing an Acacia phlebophylla seedling. [Australia]	Photo by herbalistics.com.au. &copy; 2009 Erowid.org
+Acacia phlebophylla Seeds	https://www.erowid.org/plants/show_image.php?i=acacia/acacia_phlebophylla_seed__i2005e0342_disp.jpg	Acacia phlebophylla seeds & pod in a hand. [VIC, Australia]	Photo by Wandjina Gardens. &copy; 2008 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Mimosa hostilis
+REGULATED	No
+STATUS	Ambiguous
+SCHEDULE	ContainsSchedule I Chemical
+CLASSIFICATION	Hallucinogen
+federalLawText :: Mimosa hostilis is not a controlled species in the United States. Live plants and seeds are often sold and grown. However, DMT, one of the chemicals contained in the plant, is Schedule I in the U.S. Practically, this means that if an extraction is done on DMT containing Mimosa species, the resulting DMT is illegal to possess. We are unaware of any cases in which an individual has been prosecuted simply for growing a plant or for doing a home extraction of a plant, although it seems quite possible that a few such cases exist.	
+Large scale (especially commercial) extraction of DMT from Mimosa species falls into the realm of "clearly illegal" and would very likely be prosecuted. It is also quite possible that importation of DMT containing Mimosa species into the United States could result in problems with customs, especially if large volumes are imported.
+stateLaw :: null
+internationalLaw :: 

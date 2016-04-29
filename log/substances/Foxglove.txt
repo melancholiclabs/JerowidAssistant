@@ -1,0 +1,29 @@
+[Substance]
+
+id :: 221
+name :: Foxglove
+url :: https://www.erowid.org/herbs/foxglove/foxglove.shtml
+category :: Herbs
+botanicalClassification :: Family :Plantaginaceae (form. Scrophulariaceae), Genus :Digitalis, Species :purpureacommonNames :: Deadmen's Bells; Witch's Bells; digitalis
+uses :: Used in modern heart medications; Traditionally used to treat epilepsy
+description :: A biennial herb with a rosette of large, low-lying leaves in its first year; in the second year, stems grow 2-5 feet tall and the hairy leaves separate in height. Spires of white, lavender or red tubular, bell-shaped, spotted, hanging flowers grow from 1.5-3 inches long.
+imageURL :: https://www.erowid.org/herbs/foxglove/images/foxglove_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/foxglove/foxglove_images.shtml
+lawURL :: https://www.erowid.org/herbs/foxglove/foxglove_law.shtml
+
+[Images]
+imageEntryList :: Digitalis purpurea	https://www.erowid.org/herbs/show_image.php?i=foxglove/digitalis_purpurea_plant__i2005e1353_disp.jpg	Photo showing a flowering Digitalis purpurea plant. [S. NE, USA]	Photo by Reverie. &copy; 2006 Erowid.org
+Digitalis purpurea	https://www.erowid.org/herbs/show_image.php?i=foxglove/digitalis_purpurea_seeds1.jpg	Color photo of seeds and seed pods.	Photo by Erowid, &copy; 1999 Erowid.org
+Digitalis purpurea (Foxglove) Flowers	https://www.erowid.org/herbs/show_image.php?i=foxglove/digitalis_purpurea_flower__i2005e1316_disp.jpg	Color photo showing Digitalis purpurea plant with flowers. [Indonesia]	Photo by David Sofyan. &copy; 2009 Erowid.org
+Digitalis purpurea Flowers	https://www.erowid.org/herbs/show_image.php?i=foxglove/digitalis_purpurea_flower__i2006e0340_disp.jpg	A large Digitalis purpurea (Foxglove) specimen growing in the Argentine Andes of Patagonia [Argentina]	Photo by J. Reisman. &copy; 2009 Erowid.org
+Digitalis purpurea	https://www.erowid.org/herbs/show_image.php?i=foxglove/digitalis_purpurea2.jpg	Color photo of plant with flowers.	Photographer Unknown.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Foxglove
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Foxglove (Digitalis purpurea) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: 

@@ -1,0 +1,105 @@
+[Substance]
+
+id :: 175
+name :: Morning Glory
+url :: https://www.erowid.org/plants/morning_glory/morning_glory.shtml
+category :: Plants
+botanicalClassification :: Family :Convolvulaceae, Genus :Ipomoea, Species :violacea L. (or tricolor Cav.)commonNames :: Morning Glory; Heavenly Blue Morning Glory; Tlilitzin; Badoh Negro (seeds)
+effectsClassification :: Psychedelic
+description :: Ipomoea violacea is a common ornamental vine with heart-shaped leaves and bright white, pink, or purple flowers and small, black seeds that contain LSA. Because of its fast growth and prodigious seed production, many jurisdictions consider it an invasive weed plant. It has a long history of use in Central to Southern Mexico.
+imageURL :: https://www.erowid.org/plants/morning_glory/images/morning_glory_summary1.jpg
+basicsURL :: https://www.erowid.org/plants/morning_glory/morning_glory_basics.shtml
+imagesURL :: https://www.erowid.org/plants/morning_glory/morning_glory_images.shtml
+lawURL :: https://www.erowid.org/plants/morning_glory/morning_glory_law.shtml
+doseURL :: https://www.erowid.org/plants/morning_glory/morning_glory_dose.shtml
+chemistryURL :: https://www.erowid.org/plants/morning_glory/morning_glory_chemistry.shtml
+
+[Basics]
+description :: The seeds of several varieties of Morning Glory (Ipomoea violacea) contain a naturally occurring indole called Lysergic Acid Amide (LSA), which is closely related to LSD. Seeds are taken orally, and can be eaten whole or the active alkaloids can be extracted.  The most common active varieties of seeds are Heavenly Blue, Pearly Gates, and Flying Saucers. Like LSD, LSA acts as a "psychedelic" or "hallucinogen" which can have strong mental effects. [ Main Morning Glory Vault ]
+descriptionSections :: dose	Threshold effects of LSA can be reached with as few as 25-50 seeds, though most recreational users find it necessary to ingest between 100 and 400 seeds to reach desired effects.
+price	When purchased in individual packets, $1-3 for 30-50 seeds. When purchased in bulk, $15-25 per pound.
+law	Although LSA is a schedule III substance in the United States, Morning Glory seeds and plants are sold at just about every nursery, garden store, or botanical supply store that you can find. In practice, little hassle is ever given to those who buy and ingest seeds, but extracting the active ingredient puts you in possession of a relatively pure chemical which is illegal to possess.
+chemistry	The seeds of Ipomoea violacea contain about 0.1% ergot alkaloids, including ergotmetrine, chanoclavine and lysergol.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	Morning Glory seeds called tlitlitzin were used ritually by the Aztec for their psychoactive properties. Spanish chroniclers in the mid 16th century reported on the divinitory use of these seeds. Their use has continued in southern Mexico, although it wasn't until about 1900 that tlitlitzin was identified botanically as Morning Glory.
+terminology	The Substance:Morning Glory Seeds; MG Seeds; Tlililtzin (Aztec-Seeds); Badoh negro (Plant); Piule (Mazatec). The Experience:No common terms known.
+effects :: Effects Summary Needed.
+effectsSections :: onset	Because use is oral, onset is affected by the last food that was ingested. On a relatively empty stomach, onset of effects is about an hour after ingestion, although it can be many hours before peak effects are reached.
+duration	Primary effects last 6-10 hours when seeds are taken orally.<
+visuals	Visuals Summary Needed.
+problems :: Problems Summary Needed.
+problemsSections :: contraindications	Do not operate heavy machinery. Do Not Drive. Do not ingest Morning Glory seeds if you are currently taking an MAOI. MAOIs are most commonly found in the prescription anti-depressants Nardil (phenelzine), Parnate (tranylcypromine), Marplan (isocarboxazid), Eldepryl (l-deprenyl), and Aurorex or Manerix (moclobemide). Ayahuasca also contains MAOIs (harmine and harmaline). Morning Glory Seeds (LSA) and MAOIs are a potentially dangerous combination. Check with your doctor if you are not sure whether your prescription medication is an MAOI. Do not use Morning Glory seeds when pregnant. LSA is closely related to LSD which is a uterine contractor that can increase risk of miscarriage during pregnancy. Individuals currently in the midst of emotional or psychological upheaval in their everyday lives should be careful about choosing to use psychedelics such as Morning Glory seeds as they can trigger even more difficulty. Individuals with a family history of schizophrenia or early onset mental illness should be extremely careful as psychedelics have been known to trigger latent psychological and mental problems.
+addiction	Addiction Potential Summary Needed.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Images]
+imageEntryList :: Ipomoea tricolor (violacea) Seedpods	https://www.erowid.org/plants/show_image.php?i=morning_glory/ipomoea_tricolor_seedpod__i2011e0890_disp.jpg	Mature Ipomea tricolor seed pods ready to open. [CA, USA]	Photo by Rory Ramirez. &copy; 2012 Erowid.org
+Morning Glory Seeds	https://www.erowid.org/plants/show_image.php?i=morning_glory/ipomoea_violacea_seeds__i2007e0994_disp.jpg	Heavenly Blue morning glory seeds before and after powdering next to a bottle of grain alcohol. [TX, USA]	Photo by Anonymous. &copy; 2007 Erowid.org
+Morning Glory Seeds	https://www.erowid.org/plants/show_image.php?i=morning_glory/morning_glory_seeds__i2007e0992_disp.jpg	A small pile of morning glory seeds next to a ruler for size comparison." [TX, USA]	Photo by Anonymous. &copy; 2007 Erowid.org
+Ipomoea violacea	https://www.erowid.org/plants/show_image.php?i=morning_glory/ipomoea_violacea_seed1.jpg	Color photo of Heavenly Blue Morning Glory seeds.	Photo by Erowid, &copy; 2000 Erowid.org
+Ipomoea violacea	https://www.erowid.org/plants/show_image.php?i=morning_glory/ipomoea_violacea_heavenly_blue1.jpg	Close-up color photo of Heavenly Blue morning glory flowers.	Photo by F. Conte, &copy; 2001 Erowid.org
+Ipomoea violacea	https://www.erowid.org/plants/show_image.php?i=morning_glory/ipomoea_violacea_heavenly_blue2.jpg	Close-up color photo of Heavenly Blue morning glory flowers.	Photo by F. Conte, &copy; 2001 Erowid.org
+Ipomoea violacea	https://www.erowid.org/plants/show_image.php?i=morning_glory/ipomoea_violacea_heavenly_blue3.jpg	Color photo of a Heavenly Blue morning glory plant growing on a fence.	Photo by F. Conte, &copy; 2001 Erowid.org
+Ipomoea violacea	https://www.erowid.org/plants/show_image.php?i=morning_glory/ipomoea_violacea1.jpg	Color photo of small bush overgrown by Morning Glory.	Photographer unknown.
+Ipomoea violacea	https://www.erowid.org/plants/show_image.php?i=morning_glory/ipomoea_violacea2.jpg	Close-up color photo of flowers and leaves.	Photographer unknown.
+Ipomoea violacea	https://www.erowid.org/plants/show_image.php?i=morning_glory/ipomoea_violacea3.jpg	Close-up color photo of single flower and leaves.	Photographer unknown.
+Ipomoea violacea	https://www.erowid.org/plants/show_image.php?i=morning_glory/ipomoea_violacea4.jpg	Close-up color photo of single flower.	From Plants of The Gods, by Schultes and Hofmann
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Ipomoeia violacea
+REGULATED	No
+STATUS	- - -
+SCHEDULE	ContainsSchedule III Chemical
+CLASSIFICATION	Depressant
+federalLawText :: Morning Glory is not a controlled plant in the United States. Live plants and seeds of any variety are legal to buy sell or possess. Both plants and seeds are regularly sold by botanical supply companies. However, it is important to know that one of the chemicals contained in the seeds, LSA, is Schedule III in the U.S.	Practically, this means that if an extraction is done on particular types of morning glory seeds, the resulting LSA is illegal to possess. We are unaware of any cases in which an individual has been prosecuted after doing a home extraction of the seeds, although it seems within the realm of possibility. Large scale (especially commercial) extraction of LSA from Morning Glory seeds begins to fall into the realm of "clearly illegal" and would certainly be difficult to defend.	
+Also note that some jurisdictions consider Morning Glory to be an invasive, unwanted weed plant and control the growing of the plant and distribution of the seeds under laws and regulations for weeds.
+stateLaw :: Arizona	All Ipomoea species listed as "noxious weeds" in Arizona and are illegal to cultivate. Penalties are 1st or 2nd degree misdemeanor. See AZ Title 3 : Agriculture: R3-4-245. Prohibited Noxious Weeds and Arizona Prohibited Noxious Weed List.
+Louisiana	Effective Aug 8, 2005 (signed into law Jun 28, 2005) Louisiana Act No 159 makes 40 plants illegal, including Ipomoea violacea, when intended for human consumption. The law specifically excludes the "possession, planting, cultivation, growing, or harvesting" of these plants if used "strictly for aesthetic, landscaping, or decorative purposes." (Text of HLS_05RS-52 and Update June 2005)
+Tennessee 	Tennessee did not pass the proposed bill that would have banned dozens of plants as "hallucinogenic" when intended for human consumption. Instead, they banned only Salvia divinorum. See Comments on New State Laws Controlling the Consumption of Hallucinogenic Plants.
+internationalLaw :: INTERNATIONAL LAW	
+ 	Australia #
+Australia	Morning Glory plants and seeds are legal to grow and possess in Australia unless extracted. However, the import and export of I. violacea, I. tricolor, and I. hederaceae plants (including seeds) is prohibited under the Customs Act. (thanks R, YPMD)
+Brazil	Morning Glories are uncontrolled in Brazil, but LSA is controlled. (thanks P)
+Belgium	Morning Glory seed packets sold in gardening stores. We have been told that the seeds are considered "officially unfit for human consumption" (unconfirmed) (thanks QN, DK)
+Canada	We have been told that McKenzie Seeds, a large Canadian seed company, reports that any seeds treated with toxic chemicals in Canada are required by law to both be labeled as treated on the packaging and have the seeds themselves be dyed with a color so chemically treated seeds are easily identified visibly. (thanks JK)
+Denmark	We have been told that MG seeds are commonly available in health stores and flower shops. (unconfirmed) (thanks CH)
+Finland	We have been told that plants and seeds are legal to cultivate, buy, possess, and distribute (sell, trade or give). (thanks AM)
+Hungary	We have been told that plants and seeds are legal to cultivate, buy, possess, and distribute (sell, trade or give). "As far as I know, Morning Glory is not controlled in any form in Hungary nor in Slovakia. You can buy it anywhere from a gardening store to major superstores." (unconfirmed) (thanks CK)
+Ireland	Plants and seeds are legal to cultivate, buy, possess, and distribute. (thanks A, RF)
+Italy	Morning glory seeds are listed as controlled narcotic drugs in Italy. (Health Ministry Decree, 25 Sept 2007) (thanks SD, M) (last updated Oct 2007)
+Mexico	The plants and seeds of morning glory species are legal to possess, cultivate, buy, and distribute. Extractions may be controlled / illegal in some way. (unconfirmed) (thanks RP) (last updated Sep 25 2012)
+Netherlands	The plants and seeds of morning glory species are legal to possess, cultivate, buy, and distribute. (thanks R)
+New Zealand	The plants and seeds of morning glory species are legal to possess, cultivate, buy, and distribute. Seeds are reportedly sprayed and warnings included on the packets not to consume the seeds. Chemical LSA is controlled as a drug in New Zealand. (unconfirmed) (thanks B) (last updated Sep 12 2010)
+Poland	We believe that morning glory seeds are not explicitly illegal in Poland. See http://isap.sejm.gov.pl/Download;jsessionid=769FBE2C258E7ED610CA0EDFF917FB43?id=WDU20051791485&type=3. HBWR (Argyreia nervosa) and Rivea corymbosa are listed as controlled plants, but MGS are not listed. (thanks AS) (last updated Sep 2, 2015)
+Romania	Seeds are commonly sold in gardening stores without legal restriction. (thanks A)
+Serbia & Montenegro	We have been told that plants and seeds are legal to cultivate, buy, possess, and distribute (sell, trade or give). (thanks I)
+Singapore	We have been told that the untreated seeds are sold in packets in greenhouses in Singapore. (unconfirmed) (thanks T0)
+Slovakia	We have been told that plants and seeds are legal to cultivate, buy, possess, and distribute (sell, trade or give). "As far as I know, Morning Glory is not controlled in any form in Hungary nor in Slovakia. You can buy it anywhere from a gardening store to major superstores." (unconfirmed) (thanks CK)
+South Africa	Some provinces consider Morning Glory to be an invasive weed (Category 1 or 3). ALIEN INVASIVE PLANTS AND WEEDS.
+United Kingdom (UK, Britain, England)	We received a report that Heavenly Blue seeds are sold in the UK as of January 2011. (unconfirmed) (thanks D) (last updated Jan 26 2011)
+
+[Dose]
+doseTable :: Oral Ipomoea violacea Seed Dosages
+Light50 - 100 seeds1.5 - 3 g
+Common100 - 250 seeds3 - 6 g
+Strong250 - 400 seeds6 - 10 g
+Heavy400 + seeds10 + g
+Onset : 30- 180 min
+Duration : 4 - 10 hours
+Normal After Effects : 2 - 24 hours
+
+Please Note:  Some individuals report lasting visuals and feeling off baseline for more than a day after taking moderate doses of morning glory seeds.
+doseText :: "Experienced users of entheogenic morning glory seeds usually start with low doses, later working up to higher amounts if a more intense effect is desired. The wise user will begin with no more than 4 or 5 seeds of Argyreia nervosa, or no more than 20-25 seeds of Ipomoea violacea. Seeds of Turbina corumbosa are about one fifth as potent as the seeds of Ipomoea violacea. In Mexico, I have seen doses of the true ololiuhqui seeds, Turbina corymbosa, measured as the quantity of seeds which will fill a bottle cap, and Wasson also reported this volumetric dosage aid in the Sierra Mazateca (Wasson 1963). Osmond found 60-100 seeds Turbina corymbosa seeds to be an active dose, though he chewed and ingested the whole seeds, rather than making a cold water infusion of ground seeds (Osmond 1955; see Note 11).  The seeds are not ingested whole--they are not active in this form (Kinross-Wright 1959; B.P. Reko 1934). They are ground to a fine powder, which is then steeped for several hours in cold water, after which the solid matter is filtered off and discarded. The liquid is then drunk neat or with juice for flavoring." (Ott Pharmacotheon 1993, pg. 140)  "[Ergine] is an active compound and has been established as a major component in morning glory seeds. It was assayed for human activity, by Albert Hofmann in self trials back in 1947, well before this was known to be a natural compound. An I.M. administration of a 500 microgram dose led to a tired, dream state with an inability to maintain clear thoughts. After a short period of sleep, the effects were gone and normal baseline was recovered within 5 hours." (Shulgin, TIHKAL, 1997, page 497)  "The slight difference in chemical structure between the ololiuqui constituents and LSD is very significant with regard to hallucinogenic acitivity. The effective oral dose in man of LSD is 0.05 mg [which] is thus about 50 to 100 times more active than lysergic acid amide, which is active in doses of 2 to 5 mg. Furthermore there is not only a quantitative difference between the principles of Ipomoea violacea and Turbina corymbosa and LSD; there is likewise a qualitative one, LSD being a very specific hallucinogen, whereas the psychic effects of lysergic acid amide and the total alkaloids of these two plants are characterized by a pronounced narcotic component (Hofmann, 1968)" ( Botany & Chemistry of Hallucinogens, Shultes & Hofmann, 1980)
+notes :: null
+
+[Chemistry]
+chemTable :: NAME :	LSA
+CHEMICAL NAME :	9,10-Didehydro-6-methylergoline-8&szlig;-carboxamide;
+ALTERNATE CHEMICAL NAMES :	D-lysergic acid amide; ergine, LA-111
+CHEMICAL FORMULA	C16H17N3O3
+MOLECULAR WEIGHT	267.33
+From the Merck Index 12th Edition
+moleculeURL :: https://www.erowid.org/chemicals/lsa/images/archive/lsa_3d_mid.jpg

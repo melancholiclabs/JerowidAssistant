@@ -1,0 +1,110 @@
+[Substance]
+
+id :: 36
+name :: 5-MeO-DIPT
+url :: https://www.erowid.org/chemicals/5meo_dipt/5meo_dipt.shtml
+category :: Chemicals
+commonNames :: Foxy; Foxy Methoxy
+effectsClassification :: Psychedelic Tryptamine
+chemicalName :: N,N-diisopropyl-5-methoxy-tryptamine
+description :: 5-MeO-DIPT is a stimulating psychedelic tryptamine publicized as a erotic enhancer. It experienced a surge in popularity due to internet sales from 1999-2001, before being made illegal in the U.S.
+imageURL :: https://www.erowid.org/chemicals/5meo_dipt/images/5meo_dipt_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/5meo_dipt/5meo_dipt_basics.shtml
+effectsURL :: https://www.erowid.org/chemicals/5meo_dipt/5meo_dipt_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/5meo_dipt/5meo_dipt_images.shtml
+lawURL :: https://www.erowid.org/chemicals/5meo_dipt/5meo_dipt_law.shtml
+doseURL :: https://www.erowid.org/chemicals/5meo_dipt/5meo_dipt_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/5meo_dipt/5meo_dipt_chemistry.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Basics]
+description :: 5-MeO-DiPT is a pschoactive tryptamine, developed by Alexander Shulgin around 1980, now often known by its recently coined name "foxy". It was widely available on the research chemical market for several years prior to its scheduling in 2003. Reactions to 5-MeO-DIPT vary dramatically from those who find it compelling, sexy, exhilerating, interesting, & joyful to those who find it nauseating, irritating, diarrhea-inducing, and generally un-fun. It is available primarily in powder form--though it is also found in liquid and pressed tablets--and is almost always taken orally, though sometimes snorted. [ Main 5-MeO-DiPT Vault ]
+descriptionSections :: dose	A standard oral dose of 5-MeO-DiPT is between 5-30 mg.
+price	Rare but sometimes sold at events for 5-20 USD per dose. Prior to being placed in Schedule I, 5-MeO-DIPT was available from exotic chemical suppliers for 225-300 USD per gram. Around the same from underground sources. (August 2000)
+law	5-MeO-DiPT was placed into Schedule I through the emergency scheduling procedure on April 4, 2003. This makes it illegal to buy, sell, or possess without a DEA license. Germany is the only other country we are aware of where 5-MeO-DiPT is specifically listed as illegal.
+chemistry	N,N-diisopropyl-5-methoxy-tryptamine (5-MeO-DiPT) is a synthetic chemical tryptamine and thus is structurally related to other tryptamines (natural and synthetic), such as 5-MeO-DMT, N,N-DMT, psiloc(yb)in and serotonin.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	The first publication of the synthesis and pharmacology of this compound was in 1980 by Alexander Shulgin in Communications in Psychopharmacology. It remained an extremely obscure chemical until the late 1990s when it started being produced commercially as a research chemical.
+terminology	The Substance:5-MeO-DiPT; Foxy Methoxy; Foxy. The Experience:Tripping.
+effects :: 5-MeO-DiPT is often characterized by a strong feeling in the body, sometimes described as buzzing or energy, which some users enjoy and others hate. The effects sought by users include moderate mood lift, euphoria, a sense of well-being, intensification of tactile sensations, visual effects, physcial and mental stimulation, occasional auditory distortions/shifts, and for some users, a significant erotic component. Visual effects may include open and closed eye patterning, movement trails, and brightening or shifting of colors. We have received no reports of completely engrossing visions or hallucinations, or of powerful entheogenic voyages with 5-MeO-DiPT.
+effectsSections :: onset	Depending on how much and how recently the user has eaten, oral 5-MeO-DiPT takes between 20-60 minutes to take effect. With smoked or inhaled vapors, effects begin within a few minutes.
+duration	Due to the small number of reports and a wide variation in reported durations for this chemical, it is difficult to give reliable estimates of length of action. Some users have reported effects completely abating within 3-5 hours, with a short 1-2 hour peak, while others have reported strong residual stimulation and inability to sleep until 10-14 hours.
+visuals	Visuals Summary Needed.
+problems :: Many users report disliking 5-MeO-DiPT. The most common reported reasons are : nausea, diarrhea & frequent bowel movements, unsettling / anxious stimulation, muscle tension, long tail duration and restless sleep the night after use. In the few accidental overdose reports we've received involving between 30 and 100 mg, the subjects have reported merely stronger effects and increased time on the toilet.
+problemsSections :: contraindications	5-MeO-DiPT and MAOIs are a potentially dangerous combination. It is likely that MAOIs could increase the effects of 5MeO-DIPT unpredictably. Taking this chemical while on prescription MAOIs is strongly discouraged. MAOIs are most commonly found in the prescription anti-depressants Nardil (phenelzine), Parnate (tranylcypromine), Marplan (isocarboxazid), Eldepryl (l-deprenyl), and Aurorex or Manerix (moclobemide). Ayahuasca also contains MAOIs (harmine and harmaline). Check with your doctor if you are not sure whether your prescription medication is an MAOI. Do not operate heavy machinery. Do Not Drive. Individuals currently in the midst of emotional or psychological upheaval in their everyday lives should be careful about choosing to use psychedelics such as 5-MeO-DiPT as they can trigger even more difficulty. Individuals with a family history of schizophrenia or early onset mental illness should be extremely careful because psychedelics have been known to trigger latent psychological and mental problems.
+addiction	Not enough data exists to make reliable statements about the addiction potential of 5-MeO-DiPT, however, tryptamines of this class are not known for their addictiveness or tendency for compulsive use. As with most substances, some people may use it more frequently than they or their friends are comfortable with, but we have received no reports of this. As with many psychedelics, there is a short period of tolerance after use. Using 5-MeO-DiPT two days in a row is likely to lead to a diminished experience the second day, though spaced 5-7 or more days apart, this effect is nearly non-existent.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Effects]
+duration :: 5-MeO-DIPT Duration
+Oral
+Total Duration	6 - 12 hrs
+Onset	20 - 90 mins
+Coming Up	10 - 50 mins
+Plateau	2 - 5 hrs
+Coming Down	3 - 5 hrs
+&nbsp;	&nbsp;
+After Effects	1 - 24 hrs
+Hangover / Day After	- - -
+positiveEffects :: euphoria, mood lift	increased tactile sensation	sensory enhancement (taste, smell, etc)	sexually interesting	emotionally opening
+neutralEffects :: feelings of body & muscle energy, buzzing	auditory distortions	visual distortions, open and closed-eye patterning, movement trails, shifting colors	physical and mental stimulation
+negativeEffects :: possible stomach discomfort, gas & vomiting	possible minor jaw-clenching	diarrhea	anxious stimulation	muscle tension / discomfort	difficulty sleeping for 4-12 hours after peak in some people
+description :: 5-MeO-DIPT can be quite stimulating and is known for causing sweating. It gained a reputation for being a sex-drug after an early report described a sensual experience and a lurid article described it in PlayBoy. It is also well known for causing diarrhea and gas, although not in all users.	
+Though the peak effects are not exceedingly long, the lingering stimulation that can last for up to 12 hours (or more) after the peak has given it a reputation for being quite long. The after effects often include tense muscles and can sometimes include feelings of anxiety or inability to relax.
+experienceReports :: null
+
+[Images]
+imageEntryList :: 5-MeO-DiPT Crystals	https://www.erowid.org/chemicals/show_image.php?i=5meo_dipt/5meo_dipt2.jpg	Color photo of a 1 gram baggie of 5-MeO-DiPT.	Photo by Murple. &copy; 2002 Erowid.org
+5-MeO-DiPT Powder	https://www.erowid.org/chemicals/show_image.php?i=5meo_dipt/5meo_dipt_powder3.jpg	Nice color photo of 200 mg of 5-MeO-DiPT powder next to a metric ruler for size comparison.	Photo by Anonymous Photographer. &copy; 2003 Erowid.org
+5-MeO-DiPT Powder	https://www.erowid.org/chemicals/show_image.php?i=5meo_dipt/5meo_dipt_powder4.jpg	Color photo of a small 1 gram baggie of 5-MeO-DiPT powder.	Photo by Anonymous Photographer. &copy; 2003 Erowid.org
+5-MeO-DiPT Crystals	https://www.erowid.org/chemicals/show_image.php?i=5meo_dipt/5meo_dipt1.jpg	Color photo of a 10 mg baggie of 5-MeO-DiPT purchased for 2500 Yen. (Tokyo Japan)	Photo by Lucie25. &copy; 2002 Erowid.org
+AMT & 5-MeO-DIPT	https://www.erowid.org/chemicals/show_image.php?i=amt/amt_5meodipt_powder__i2004e0661_disp.jpg	A 1 gram bag of AMT and a 1 gram bag of 5-MeO-DIPT with a pound coin to show size. Purchased from an internet supplier in 2002. [UK]	Photo by Anonymous. &copy; 2006 Erowid.org
+5-MeO-DiPT in Blue Gelatin "Cubes"	https://www.erowid.org/chemicals/show_image.php?i=5meo_dipt/5-meo-dipt_gelatin__i2003e0715_disp.jpg	5-MeO-DiPT measured with a liquid measurement technique using gelatin and blue food coloring to create "cubes" of regular dosage. [CA, USA]	Photo by Xantryper. &copy; 2013 Erowid.org
+5-MeO-DIPT 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=../library/books_online/tihkal/images/tihkal37.gif	2D chemical structure.	Image by Bo. &copy; 2000 Erowid.org
+5-MeO-DIPT 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=5meo_dipt/5-meo-dipt_3d.jpg	Still 3D image of the 5-MeO-DIPT molecule.	Image by Erowid. &copy; 2001 Erowid.org
+5-MeO-DIPT 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=5meo_dipt/5-meo-dipt__.mol	Rotating 3D image of the 5-MeO-DIPT molecule.	Image by Erowid. &copy; 2000 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+5-MeO-DiPT
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule I
+CLASSIFICATION	Hallucinogen
+SCH. DATE	Apr 4, 2003
+federalLawText :: 5-MeO-DIPT is Schedule I in the United States. This means it is illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license.	
+On Jan 28th, 2003, the DEA announced its intent to emergency schedule 5-MeO-DIPT. On April 4, 2003, they issued their final order to temporarily place 5-MeO-DIPT in Schedule I. The temporary scheduling lasted 18 months and on Sep 29, 2004 5-MeO-DIPT was placed formally into Schedule I. See the DEA's final order to emergency schedule for more details.
+stateLaw :: null
+internationalLaw :: Canada	In May 2008 we received a report saying that 5-MeO-DIPT is legal in Canada, and is receiving media attention in British Columbia (unconfirmed, thanks DSMIAYC). It does not appear to be listed in Canada's schedules of controlled substances in the CDSA (see text of CDSA). For more information see the Ask Erowid question Are 5-MeO-DIPT or AMT scheduled/illegal in Canada?.
+China	Controlled in China as a Category I psychotropic substance, illegal to sell, buy, import, export, and manufacture 4-methylmethcathinone as of September 2010. See China's SFDA announcement. (thanks n) (last updated Nov 25, 2015)
+Denmark	As of Feb 20, 2004, 5-MeO-DIPT is illegal to possess outside of licensed research and medicine. Government Press Release. (thanks VM)
+Finland	5-MeO-DIPT was banned in Finland in December 2014. A new government regulation was enacted in Finland that banned over 100 psychoactive chemicals. See Finland's Prohibited Psychoactive Substances: December 19, 2014. (last updated Dec 26, 2014)
+Germany	Schedule I / Highest level of control, unable to be prescribed, manufactured, or possessed as of Sep, 1999. (listed as Diisopropyl[2-(5-methoxyindol-2-yl)ethyl]azan)
+Schedule I / Highest level of control, unable to be prescribed, manufactured, or possessed as of Sep, 1999. (listed as Diisopropyl[2-(5-methoxyindol-2-yl)ethyl]azan)	(see Deutsche BtMG or http://www.silicium-sensei.de/projecte/drugs/news/news.html)
+Greece	5-MeO-DIPT became a controlled substance in Greece on Feb 18, 2003 [EU Legal Database].
+Japan	5-MeO-DIPT and AMT were controlled (made illegal) on April 17, We do not have a clear URL for a japanese law page, but see this page and also an arrest was made soon after the law came into effect: Man arrested on drug charges. DJ49 reports that these products have indeed disappeared off vendors shelves as of late April, 2005.
+Singapore	As of early 2006, 5-MeO-DIPT is controlled as a Class A controlled drug along with Ketamine in Singapore. From the article describing the change: "Traffickers can be jailed from five to 20 years, instead of three to 20 years. They also face five to 15 strokes of the cane, instead of three to 10 strokes. Those caught in possession of more than 113g of ketamine - or 100 times the daily dosage of a ketamine abuser - will be deemed to have trafficked in it." - todayonline.com. (thanks E)
+Sweden	Controlled in Sweden as of Oct 1, 2004 (see notisum.se). (thanks RH and others)
+
+[Dose]
+doseTable :: null
+doseText :: INSUFFLATED 5-MeO-DIPT: We have received one report of snorted 5-MeO-DIPT which indicated that it was a successful method for re-boosting after the peak of an oral experience.
+notes :: null
+
+[Chemistry]
+chemTable :: NAME :	5-MeO-DiPT
+CHEMICAL NAME :	N,N-diisopropyl-5-methoxytryptamine
+ALTERNATE NAME :	Foxy
+CHEMICAL FORMULA :	C17H26N2O
+Melting Point :	181-182� C
+moleculeURL :: https://www.erowid.org/chemicals/5meo_dipt/images/archive/5-meo-dipt_3d_mid.jpg
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

@@ -1,0 +1,11 @@
+[Substance]
+
+id :: 317
+name :: Tiletamine
+url :: https://www.erowid.org/pharms/tiletamine/tiletamine.shtml
+category :: Pharms
+commonNames :: Telazol; Zoletic
+effectsClassification :: Veterinary Anaesthetic
+chemicalName :: 2-ethylamino-2-(2-thienyl)cyclohexanone
+description :: Tiletamine is a pharmaceutical related to Ketamine and PCP which is used almost exclusively by veterinarians for anaesthetizing animals. It is primarily sold compounded with zolazepam (a benzodiazepine) as a powder / tablet which is reconstituted with saline solution and then injected.
+imageURL :: https://www.erowid.org/pharms/images/pharms_spacer_summary.jpg

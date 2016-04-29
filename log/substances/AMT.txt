@@ -1,0 +1,105 @@
+[Substance]
+
+id :: 47
+name :: AMT
+url :: https://www.erowid.org/chemicals/amt/amt.shtml
+category :: Chemicals
+commonNames :: IT-290; 3-IT
+effectsClassification :: Psychedelic Tryptamine; Euphoriant
+chemicalName :: alpha-methyltryptamine
+description :: AMT is a long-acting, synthetic psychedelic and euphoric stimulant known for causing nausea and vomiting. It was first developed in the 1960s and remained very uncommon until the 1990s when it experienced a surge in popularity and was scheduled (made illegal) in April 2003.
+imageURL :: https://www.erowid.org/chemicals/amt/images/amt_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/amt/amt_basics.shtml
+effectsURL :: https://www.erowid.org/chemicals/amt/amt_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/amt/amt_images.shtml
+lawURL :: https://www.erowid.org/chemicals/amt/amt_law.shtml
+doseURL :: https://www.erowid.org/chemicals/amt/amt_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/amt/amt_chemistry.shtml
+
+[Basics]
+description :: AMT is a psychedelic amphetamine-tryptamine first developed in the 1960's for anti-depressant research , although it was never very successful as a prescription antidepressant. Its effects usually last 8-14 hours when swallowed and 3-6 hours when insufflated. Its effects are often characterized as a cross between a psychedelic and an MDMA, with empathogenesis and strong physical stimulation common. One common side effect with both insufflated and oral ingestion of AMT is powerful nausea and associated vomiting. [ Main AMT Vault ]
+descriptionSections :: dose	A standard oral dose of AMT is between 15 - 60 mg.
+price	Rare, but sometimes sold at events for 5-20$ per dose, available from exotic chemical suppliers for 100-150$ per gram, aproximately the same from underground sources. (August 2000)
+law	AMT was placed in Schedule I in the United States on April 4th, 2003 through the emergency scheduling procedure. This makes it illegal to buy, sell, or possess without a license. AMT is schedule I in Illinois and may be scheduled in other states. Germany is the only other coutry we are aware of that has made AMT illegal to possess.
+chemistry	Chemistry Summary Needed.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	AMT was first developed in the 1960s as an antidepressant and MAOI with its cousin alpha-Ethyl-Tryptamine which was sold for a short while by Upjohn before being placed in Schedule I in 1971. AMT was available in the Soviet Union in the 1960s as an antidepressant under the commercial name Indopan in 5 and 10 mg tablets. It remained a very obscure chemical until the late 1990s when began being sold commercially around the world as a research chemical and found its way into recreational use circles. It became illegal in the United States in April 2003.
+terminology	The Substance:AMT; Alpha-Methyl; IT-290. The Experience:Tripping.
+effects :: 
+effectsSections :: onset	Depending on how much and how recently one has eaten food, AMT generally takes 30-60 minutes (although sometimes as long as 90 minutes) to take effect.
+duration	Duration Summary Needed.
+visuals	Visuals Summary Needed.
+problems :: Problems Summary Needed.
+problemsSections :: contraindications	Contraindications Summary Needed.
+addiction	AMT is neither physically addicting nor likely to cause psychological dependence. Withdrawal effects following discontinuation have not been reported. There is a short period of tolerance after AMT use. Using it two days in a row is likely to lead to a diminished experience the second day, though spaced 3-4 or more days apart, this effect is nearly non-existent.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Effects]
+duration :: AMT Duration
+Oral
+Total Duration	7 - 13 hrs
+Onset	60 - 180 mins
+Coming Up	30 - 90 mins
+Plateau	3 - 7 hrs
+Coming Down	3 - 5 hrs
+&nbsp;	&nbsp;
+After Effects	2 - 8 hrs
+Hangover / Day After	- - -
+positiveEffects :: increase in energy (stimulation)	mood lift, smiling	visual patterning and closed eye visuals	increased awareness & appreciation of music	empathogenic qualities
+neutralEffects :: general change in consciousness (as with most psychoactives)	blurred vision	restlessness	yawning	dilated pupils	decreased appetite	dry mouth, overstimulated taste, and resulting difficulty eating	extreme, vision-obscuring visuals at high doses : "obnoxiously visual"
+negativeEffects :: anxiety, tension	nausea and vomiting	decrease in coordination	muscle aching	headaches	jaw clenching (trisma)	extreme confusion at high doses
+description :: There is currently no Effects Description for this substance.
+experienceReports :: null
+
+[Images]
+imageEntryList :: AMT & 5-MeO-DIPT	https://www.erowid.org/chemicals/show_image.php?i=amt/amt_5meodipt_powder__i2004e0661_disp.jpg	A 1 gram bag of AMT and a 1 gram bag of 5-MeO-DIPT with a pound coin to show size. Purchased from an internet supplier in 2002. [UK]	Photo by Anonymous. &copy; 2006 Erowid.org
+Vial of AMT	https://www.erowid.org/chemicals/show_image.php?i=amt/amt_vial__i2003e0571_disp.jpg	Glass vial containing 250 mg of AMT. [Japan]	Photo by Anonymous. &copy; 2006 Erowid.org
+AMT Capsules	https://www.erowid.org/chemicals/show_image.php?i=amt/amt_capsule__i2004e0747_disp.jpg	18 clear capsules filled with 30-40 mg of AMT each. [SC, USA]	Photo by Split. &copy; 2006 Erowid.org
+AMT Vial	https://www.erowid.org/chemicals/show_image.php?i=amt/amt_vial__i2003e0732_disp.jpg	1 gram of AMT in a green glass vial lying on a periodic table. [CA, USA]	Photo by Minkovich. &copy; 2006 Erowid.org
+AMT 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=amt/amt_2d.gif	Still 2D image of the AMT molecule.	Image by Erowid. &copy; 1999 Erowid.org
+AMT 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=amt/amt_3d.jpg	Still 3D image of the AMT molecule.	Image by Erowid. &copy; 1999 Erowid.org
+AMT 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=amt/amt__.mol	Rotating 3D image of the AMT molecule.	Image by Erowid. &copy; 1999 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+AMT
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule I
+CLASSIFICATION	Hallucinogen
+SCH. DATE	Apr 4, 2003
+federalLawText :: AMT is Schedule I in the United States. This means it is illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license.	
+On Jan 28th, 2003, the DEA announced its intent to emergency schedule AMT. On April 4, 2003, they issued their final order to temporarily place AMT in Schedule I. The temporary scheduling lasted 18 months and on Sep 29, 2004, AMT was placed formally into Schedule I. See the DEA's Federal Register entries for notice of intent to schedule (FR, Vol. 68, No. 18. Jan 28, 2003), their final order to emergency schedule (FR, Vol. 68, No. 65 Apr 4, 2003), and their final placement into Schedule I for more details.
+stateLaw :: Arizona	Added to the "Dangerous drug" list in April, 2014. The newly listed drugs include : Alpha-methyltryptamine.; (2-aminopropyl) benzofuran (APB); (2-aminopropyl)-2,3-dihydrobenzofuran (APDB); [3-(3-carbamoylphenyl)phenyl]N-cyclohexyl carbamate (URB-597); 5-methoxy-alpha-methyltryptamine; Psilacetin; Fluoroamphetamine; Fluoromethamphetamine; Methiopropamine; Hydroxyphencyclidine (HO-PCP); 2-(methoxyphenyl)-2-(ethylamino)cyclohexanone(Methoxetamine) ; 2-(methoxyphenyl)-2-(methylamino)cyclohexanone(Methoxyketamine) ; Methoxyphencyclidine(MeO-PCP) ; Phencyclidine mimetic substances ; Fentanyl mimetic substances ; N-methyltryptamine mimetic substances. See http://legiscan.com/AZ/bill/HB2453/2014. (thanks H) (last updated Apr 28 2014)
+Illinois	AMT is listed as a schedule I substance in Illinois.
+internationalLaw :: Australia	AMT has reportedly on schedule 8 (very controlled) of the Australian Customs import list since 2001. (unconfirmed)
+China	Controlled in China as a Category I psychotropic substance, illegal to sell, buy, import, export, and manufacture 4-methylmethcathinone as of September 2010. See China's SFDA announcement. (thanks n) (last updated Nov 25, 2015)
+Germany	AMT is listed in Teil B with LSD, Cannabis, MDMA, and other psychedelics. BtMG 1981 Anlage I (zu � 1 Abs. 1), Fassung: 24. September 1999, G�ltig ab 10. Oktober 1999 bis 9. Oktober 2000
+Greece	AMT became a controlled substance in Greece on Feb 18, 2003 [EU Legal Database].
+Japan	5-MeO-DIPT and AMT were controlled (made illegal) on April 17, 2005. We do not have a clear URL for a japanese law page, but see this page and also an arrest was made soon after the law came into effect: Man arrested on drug charges. DJ49 reports that these products have indeed disappeared off vendors shelves as of late April, 2005.
+Russia (Russian Federation)	AMT (and some 'derivatives') controlled as of June 4, 2012. See http://base.consultant.ru/cons/cgi/online.cgi?req=doc;base=LAW;n=129994. Thanks d. (Last updated June 1 2012)
+Sweden	AMT was controlled as of March 1, 2005. See Statens Folkhaelsoinstitut. (thanks P)
+United Kingdom (U.K., UK, England, Wales, Scotland, Northern Ireland, Britain)	AMT was added to Scheule 1 as of January 15th, 2015, by changing the definition of tryptamine substitions. See http://www.legislation.gov.uk/uksi/2014/3277/introduction/made. Previously AMT was not controlled in Britain and does not fall under the substituted tryptamine rule because its 'substitution' is not on the nitrogen. See the 2001 Misuse of Drugs Act : Schedule 1, regulation 3 (as of Mar 2004). AMT is still (2015) not listed in the UK laws, but is now controlled as a substituted tryptamine under Schedule 1 (not the same as USA Schedule I). (last updated Jan 3, 2015)
+
+[Dose]
+doseTable :: Oral AMT Dosages
+Threshold5 - 15 mg
+Light10 - 25 mg
+Common20 - 40 mg
+Strong30 - 60 mg
+Heavy60 - 80 mg
+Onset : 60 - 180 minutes
+Peak : 3 - 5 hours
+Duration : 10 - 14 hours (higher doses seem to last longer)
+Normal After Effects : 1 - 5 hours
+doseText :: Warning! Because AMT's effects can take over 2 hours to fully develop, a common error is to redose (add more) thinking that the initial dose was too low. This has lead to a number of very unpleasant and potentially dangerous overdose experiences. Those who have made this error recommend waiting until at least 2.5 hours after the initial dose to add more.
+notes :: null
+
+[Chemistry]
+chemTable :: NAME :	AMT
+CHEMICAL NAME :	Alpha-methyltryptamine
+ALTERNATE CHEMICAL NAMES : 	IT-290, 3-IT
+CHEMICAL FORMULA	C11H14N2
+moleculeURL :: https://www.erowid.org/chemicals/amt/images/archive/amt_2d.gif

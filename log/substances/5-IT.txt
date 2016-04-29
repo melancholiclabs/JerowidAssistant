@@ -1,0 +1,43 @@
+[Substance]
+
+id :: 33
+name :: 5-IT
+url :: https://www.erowid.org/chemicals/5_it/5_it.shtml
+category :: Chemicals
+commonNames :: 5-IT; 5-2-IT; 5-API
+effectsClassification :: Psychedelic Stimulant
+chemicalName :: 5-(2-aminopropyl)indole
+description :: 5-IT is a psychedelic stimulant and chemical relative of AMT. It is quite uncommon and has only a short history of human use.
+imageURL :: https://www.erowid.org/chemicals/images/chemicals_spacer_summary.jpg
+lawURL :: https://www.erowid.org/chemicals/5_it/5_it_law.shtml
+chemistryURL :: https://www.erowid.org/chemicals/5_it/5_it_chemistry.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+5-IT
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Possible Analog
+federalLawText :: 5-IT (5-(2-Aminopropyl)indole) is unscheduled in the United States. It is possible that it could be considered an analog (of AMT), in which case, sales for human consumption or possession with the intent to ingest could be prosecuted under the Federal Analogue Act.
+stateLaw :: 
+internationalLaw :: Australia	5-IT falls under the broad-ranging analog clause of of the Criminal Code Act. See Australian Psychoactive Law. (last updated Aug 22 2012)
+Italy (Italia)	Listed in Tabella I of "Tabelle delle sostanze stupefacenti e psicotrope", making it illegal to possess, purchase, or sell. (see Tabelle delle sostanze stupefacenti e psicotrope. (thanks a) (last updated Dec 16, 2015)
+Sweden	After deaths were reportedly caused by 5-IT, officials moved to control 5-IT, but it is not controlled as of Aug 22, 2012. (last updated Aug 22, 2012)
+United Kingdom (U.K., Britain)	5-APB, 5-MAPB, 6-APB, 6-MABP, 6-APDB, N-Methyl-5-APDB, 6-APDB, N-Methyl-5-APDB, 5-IT, and 6-IT were controlled via a temporary control measure as of June 10, 2013. See https://www.gov.uk/government/news/nbome-and-benzofury-to-be-banned and http://www.bbc.co.uk/news/uk-politics-22771232. (thanks a) (last updated July 1, 2013)
+
+[Chemistry]
+chemTable :: NAME :	5-IT
+CHEMICAL NAME :	5-(2-Aminopropyl)indole  1-(1H-indol-5-yl)propan-2-amine
+CHEMICAL FORMULA	C11H14N2
+MOLECULAR WEIGHT	174.24 g/mol
+CAS Number	3784-30-3
+moleculeURL :: https://www.erowid.org/chemicals/5_it/images/archive/5_it_2d.png
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

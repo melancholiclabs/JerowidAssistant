@@ -1,0 +1,11 @@
+[Substance]
+
+id :: 84
+name :: Hypocretin (Orexin)
+url :: https://www.erowid.org/chemicals/hypocretin/hypocretin.shtml
+category :: Chemicals
+commonNames :: Hypocretin (1 and 2); Orexin (A and B)
+effectsClassification :: Wakefullness; Appetite Suppressant
+chemicalName :: --
+description :: Hypocretins (also known as Orexin) are neuropeptide hormones that have been shown to affect wakefulness, appetite, and cognitive performance. Military, medical, work, and social applications are being investigated. May also increase drug seeking and craving.
+imageURL :: https://www.erowid.org/chemicals/images/chemicals_spacer_summary.jpg

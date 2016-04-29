@@ -1,0 +1,125 @@
+[Substance]
+
+id :: 67
+name :: N,N-DMT
+url :: https://www.erowid.org/chemicals/dmt/dmt.shtml
+category :: Chemicals
+commonNames :: DMT; Dimitri
+effectsClassification :: Psychedelic Tryptamine
+chemicalName :: N,N-dimethyltryptamine
+description :: DMT is a powerful, visual psychedelic which produces short-acting effects when smoked. It is used orally in combination with an MAOI, as in ayahuasca brews. It is naturally produced in the human body and by many plants.
+imageURL :: https://www.erowid.org/chemicals/dmt/images/dmt_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/dmt/dmt_basics.shtml
+effectsURL :: https://www.erowid.org/chemicals/dmt/dmt_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/dmt/dmt_images.shtml
+lawURL :: https://www.erowid.org/chemicals/dmt/dmt_law.shtml
+doseURL :: https://www.erowid.org/chemicals/dmt/dmt_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/dmt/dmt_chemistry.shtml
+
+[Basics]
+description :: N,N-DMT is a psychoactive chemical in the tryptamine family; it causes intense visuals and strong psychedelic mental effects when smoked, injected, snorted, or when taken orally with an MAOI such as harmaline. N,N-DMT is most often called simply "DMT", although this sometimes causes confusion with its more potent chemical cousin 5-MeO-DMT. N,N-DMT is present in over 65 species of plants and has been used traditionally in South America in ayahuasca brews since at least the time of first European contact (around 1500), and archeological evidence suggests its use in snuffs since 2080 BCE. Starting in the mid-1980s, N,N-DMT gained significant notoriety from Terence McKenna's many glowing rants about the strange visions it can precipitate. Following Rick Strassman's research in the early 1990s, and the theories he proposed in his popular 2001 book DMT: The Spirit Molecule (theories that have since been widely promelgated via the Internet), DMT has become even more well known in recent years. [ Main DMT Vault ]
+descriptionSections :: dose	A standard dose for smoked N,N-DMT is between 15-60 mg. This is generally inhaled in a few successive breaths until the user is unable (or unwilling) to take another hit. Many users report needing to wait an hour or so between attempts, even if effects are not achieved.
+price	DMT is sometimes sold by the single dose at events for $10-30 USD. Available retail prices range from $100-300 per gram, depending on quality, distance from manufacture, and profit motivation of the distribution chain; in recent years the per-gram prices have come down, and $60 grams have been reported.
+law	N,N-DMT is illegal to possess or sell in the United States (Schedule I). It is controlled by the 1971 United Nation's Convention on Psychotropic Substances and is illegal in most countries.
+chemistry	N,N-Dimethyltryptamine (N,N-DMT) is a naturally occurring chemical in the tryptamine class. It is related structurally to 5-MeO-DMT, bufotenin, psilocybin, and psilocin.
+pharmacology	DMT affects the serotonin5-HT1A, 5-HT2A and 5-HT2C receptors, the sigma-1 receptors (of which it is the only known endogenous ligand), and the G-protein-coupled trace amine (TA) receptors.
+production	DMT was first synthesized in 1931 by Canadian chemist Richard H.F. Manske. The synthesis procedure developed in 1954 by M.E. Speeter and W.C. Anthony has been widely parroted in underground publications from the 1960s and 1970s, and additional routes are described in the 1997 book Tryptamines I Have Known and Loved by Alexander and Ann Shulgin. Although illicit DMT produced during that 1960s through the early 1990s was most often created via chemical synthesis, in recent years illicit DMT is much more often extracted from plant sources, often by end-users who have little or no chemistry background. DMT is also produced as a component of ayahuasca and ayahuasca analog brews made using various DMT-containing plants.
+history	N,N-DMT use has been documented as early as the 8th Century ce in snuffs found in burial sites, but its use is believed to be much older. Cohoba snuffs (from the Anadenanthera peregrina tree) were documented in Columbia in the 15th through 19th Centuries. Bufotenin, N,N-DMT, and 5-MeO-DMT were finally identified as the active constituents of cohoba in the mid- to late 1950s.
+terminology	The Substance:DMT; Dimitri; businessman's special trip; spice. The Experience:No consistent, common terms. But terms such as 'Blasting Off' or 'Entering the Void' are used.
+effects :: To quote Terence McKenna, "The feeling of doing DMT is as though one had been struck by noetic lightning. The ordinary world is almost instantaneously replaced, not only with a hallucination, but a hallucination whose alien character is its utter alienness. Nothing in this world can prepare one for the impressions that fill your mind when you enter the DMT sensorium."  The smoked DMT experience is short, but generally incredibly intense. Onset is fast and furious, sometimes compared to being launched from a cannon. It is a fully engaging and enveloping experience of visions and visuals that varies greatly from one individual to the next. Users report visiting other worlds, talking with discarnate entities, profound changes in ontological perspective, fanciful dreamscapes, frightening and overwhelming forces, and complete shifts in perception and identity, followed by an abrupt return to baseline. Because of the nature and intensity of the experience, users are almost always seated or lying down with someone nearby to take the pipe as the experience begins. Intense and varied visuals are common.
+effectsSections :: onset	When smoked, DMT generally reaches full effects within 10-60 seconds of inhalation.
+duration	The primary effects of N,N-DMT last approximately 5-20 minutes when smoked. For many people there is an additional period of time (1-2 hours) before fully returning to baseline. Some people find DMT experiences difficult to integrate and experience unsettling thoughts and feelings for days after use.
+visuals	Brightly colored, high-res detail, geometric, organic, overlapping, and somewhat kaleidoscopic; may be fast or slow moving, but a sense of motion is often present. Depictions of ayahuasca visions and DMT visions have been featured in the recent films Renegade (2004) and Enter The Void (2009).
+problems :: One of the primary physical problems encountered with smoked or vaporized N,N-DMT is the harsh nature of the smoke or vapor, which can cause throat and lung irritation. Integration of the smoked/vaporized DMT experience can also cause difficulties for some individuals, especially at higher doses. Challenging integration periods can lead to anxiety, trouble focusing on daily tasks, preoccupation with the experience, difficulty sleeping, etc. Generally these effects dissipate on their own over the course of a few days, but there have been reports of persisting problems.
+problemsSections :: contraindications	The effects of smoked N,N-DMT are dramatically increased if used by individuals currently taking MAOIs. MAOI drugs include the prescription antidepressants Nardil (phenelzine), Parnate (tranylcypromine), Marplan (isocarboxazid), Eldepryl (l-deprenyl), and Aurorex or Manerix (moclobemide), as well as the harmala alkaloids present in Banisteriopsis caapi (ayahuasca) and Peganum harmala (Syrian rue). Check with your doctor if you are not sure whether your medication is a MAOI. Do not stand up. Do not operate heavy machinery. Do Not Drive. Individuals currently in the midst of emotional or psychological upheaval in their everyday lives should be careful about choosing to use psychedelics such as N,N-DMT as they can trigger even more difficulty. Individuals with a family history of schizophrenia or early onset mental illness should be extremely careful because psychedelics have been known to trigger latent psychological and mental problems.
+addiction	DMT is neither physically addicting nor likely to cause psychological dependance. As with most substances, some people will use it more frequently than they are comfortable with. There may be a short period of tolerance after DMT use. However, Strassman et al. found in a tolerance study of DMT that four successive high-dose IV injections of DMT administered at 30-minute intervals produced no noticeable tolerance effect.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Effects]
+duration :: DMT Duration
+Smoked
+Total Duration	6 - 20 mins
+Onset	0 - 1 mins
+Coming Up	0 - 30 secs
+Plateau	3 - 15 mins
+Coming Down	3 - 5 mins
+&nbsp;	&nbsp;
+After Effects	15 - 60 mins
+Hangover / Day After	- - -
+positiveEffects :: short duration	immersive experiences	intense open eye visuals and kaleidescopic patterning	powerful "rushing" of sensation	radical perspective shifting	profound life-changing spiritual experiences
+neutralEffects :: change in perception of time	auditory hallucinations / sound distortions (buzzing)	colorshifting (for example red green and gold coloring to the whole world)
+negativeEffects :: overly-intense experiences	hard on the lungs to smoke	slight stomach discomfort	difficulty integrating experiences	overwhelming fear	fast onset and intensity can lead to problems if not prepared (dropped pipe, knocking things over, falling)
+description :: "[The feeling of doing DMT] is as though one had been struck by noetic lightning. The ordinary world is almost instantaneously replaced, not only with a hallucination, but a hallucination whose alien character is its utter alienness. Nothing in this world can prepare one for the impressions that fill your mind when you enter the DMT sensorium."	-- Terence McKenna	
+Load Universe into Cannon. Aim at Brain. Fire.
+experienceReports :: null
+
+[Images]
+imageEntryList :: Extracted DMT Crystals	https://www.erowid.org/chemicals/show_image.php?i=dmt/dmt_crystals__i2008e1195_disp.jpg	N,N-DMT crystals extracted from Mimosa hostilis and recrystallised with hexane. [UK]	Photo by Stevek1. &copy; 2009 Erowid.org
+DMT Crystal	https://www.erowid.org/chemicals/show_image.php?i=dmt/dmt_crystal1.jpg	Color photo of a large ultrapure DMT crystal, grown in 1996. The crystal is approximately 1 inch across.	Photo by Anonymous Photographer, Used by Erowid with permission.
+Extracted DMT Crystals	https://www.erowid.org/chemicals/show_image.php?i=dmt/dmt_crystal__i2008e1196_disp.jpg	DMT crystals extracted from Mimosa hostilis, recrystallised from hexane. [UK]	Photo by SteveK1. &copy; 2009 Erowid.org
+Extracted DMT	https://www.erowid.org/chemicals/show_image.php?i=dmt/dmt_crystal__i2005e1653_disp.jpg	DMT Crystals extracted with Naptha at 40 degrees F. [TX, USA]	Photo by Ridankulous. &copy; 2007 Erowid.org.
+DMT Crystals	https://www.erowid.org/chemicals/show_image.php?i=dmt/dmt_crystal__i2010e0148_disp.jpg	DMT crystals from STB extraction of Mimosa hostilis. First recrystallization with room temperature evaporation of solvent to grow big crystals. [FL, USA]	Photo by DWpineal. &copy; 2011 Erowid.org
+Extracted DMT	https://www.erowid.org/plants/show_image.php?i=mimosa/dmt_crystal__i2004e0664_disp.jpg	DMT crystals forming from dmt oil, extracted from Mimosa hostilis root bark. [Europe]	Photo by Anonymous. &copy; 2007 Erowid.org.
+Extracted DMT	https://www.erowid.org/plants/show_image.php?i=mimosa/dmt_extracted__i2006e2244_disp.jpg	DMT extract isolated from Mimosa hostilis rootbark using Vovin technique.	Photo by NFlyer. &copy; 2007 Erowid.org
+Extracted DMT	https://www.erowid.org/plants/show_image.php?i=mimosa/dmt_extracted__i2006e0790_disp.jpg	DMT extracted from Mimosa hostilis root bark. [IL, USA]	Photo by Jon. &copy; 2007 Erowid.org
+DMT Crystals	https://www.erowid.org/chemicals/show_image.php?i=dmt/dmt_crystal2.jpg	Color photo of a pile of DMT crystals extracted with Naphtha.	Photo by Bucwheat. &copy; 2000 Erowid.org
+DMT Crystals	https://www.erowid.org/chemicals/show_image.php?i=dmt/dmt_crystal3.jpg	Color photo of a pile of DMT crystals extracted with Naphtha.	Photo by Bucwheat. &copy; 2000 Erowid.org
+DMT Crystals	https://www.erowid.org/chemicals/show_image.php?i=dmt/dmt_crystal7.jpg	Color photo of a small plastic bag containing N,N-DMT extracted from Mimosa hostilis. [PA, USA]	Photo by Raoul. &copy; 2003 Erowid.org
+Bottle of DMT Powder	https://www.erowid.org/chemicals/show_image.php?i=dmt/dmt_vial__i2012e0163_disp.jpg	A glass bottle of N,N-DMT powder with a cork stopper. [Peru]	Photo by Shane. &copy; 2012 Erowid.org
+DMT Crystals	https://www.erowid.org/chemicals/show_image.php?i=dmt/dmt2.jpg	Color photo of a small vial full of N,N-DMT crystals.	Photo by Anonymous Photographer. &copy; 2000 Erowid.org
+DMT Crystals	https://www.erowid.org/chemicals/show_image.php?i=dmt/dmt1.jpg	Color photo of a keugelr�hr distillation receiving flask full of DMT crystals.	Photo by Anonymous Photographer, Used by Erowid with permission.
+Closeup of Changa (B. caapi, Mullein, and DMT)	https://www.erowid.org/chemicals/show_image.php?i=dmt/changa_closeup__i2011e0564_disp.jpg	A photo of changa mix containing: 1.5 grams Mullein (Verbascum thapsus), 1.5 grams of 10x enhanced Banisteriopsis Caapi dried leaf, and 3 grams N,N,DMT.	Photo by Opi7001. &copy; 2011 Erowid.org
+Changa (Mixture of Plant Material Containing DMT and Harmala)	https://www.erowid.org/chemicals/show_image.php?i=dmt/dmt_changa__i2010e0890_disp.jpg	A small pile of "changa", a mixture of dried and ground plant material with plants containing DMT and harmala alkaloids, designed for smoking. Photographed at the 2010 Book festival in Portugal. [Portugal]	Photo by Jon Hanna &copy; 2011 Erowid.org
+DMT Contridications	https://www.erowid.org/chemicals/show_image.php?i=dmt/dmt_contraindications1.gif	Humorous Pharmaceutical-like Contraindications for DMT	Image by JSJ, &copy; 2005 Erowid
+DMT 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=dmt/dmt_2d.gif	Still 2D image of the DMT molecule.	Image by Erowid, &copy; 2001 Erowid
+DMT 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=dmt/dmt_3d.jpg	Still 3D image of the DMT molecule.	Image by Erowid, &copy; 2000 Erowid
+DMT 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=dmt/dmt__.mol	Rotating 3D image of the DMT molecule.	Image by Erowid, &copy; 2000 Erowid
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+N,N-DMT
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule I
+CLASSIFICATION	Hallucinogen
+federalLawText :: N,N-DMT is Schedule I in the United States. This means it is illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license.
+stateLaw :: null
+internationalLaw :: Australia	South Australia controls "any plant containing DMT including any plant of the species Piptadenia Peregrina". See Controlled Substances (General) Regulations 2000 : Schedule 3. (thanks AA) (last updated Mar 17, 2009)
+Brazil	DMT is listed as a controlled substance, making production, distribution, or possession illegal. (thanks P)
+Canada	DMT is schedule III in Canada. (Note: Canadian schedules are very different than U.S. schedules). See Law Canada. (Last updated Apr 17 2011)
+Denmark	DMT is reportedly on the "B-List" of drugs. (unconfirmed) (thanks t) (last updated June 24, 2012)
+Estonia	DMT is Schedule I [reference]. (thanks TJJ)
+Germany	DMT is listed in Anlage I of the BtMG, making it illegal to possess, purchase, or sell. (see Liste von Stoffen gem&auml;&szlig; Grundstoff&uuml;berwachungsgesetz [.xls]). (thanks R)
+Italy (Italia)	Listed in Tabella I of "Tabelle delle sostanze stupefacenti e psicotrope", making it illegal to possess, purchase, or sell. (see Tabelle delle sostanze stupefacenti e psicotrope. (thanks a) (last updated Dec 16, 2015)
+Japan	DMT is probably a controlled substance in Japan, added to the list of controlled drugs in 2000, but we have been unable to confirm this. Despite this, we have received multiple reports that DMT, along with other strong psychoactives are being sold in shops in Japan. (thanks JB, AD, M) (last updated Mar 29, 2007)
+New Zealand	DMT is Schedule I (Class A) in New Zealand [reference].
+Norway	DMT is Schedule I in Norway and illegal to buy or possess without a special license. See Norway Law. (thanks Y)
+Poland	DMT is schedule I (I-P group) in Poland. (No Reference)
+Russia	DMT is illegal to buy or possess without a license. We believe that DMT is a Schedule 1 substance in Russia. (thanks l, POG) (last updated Aug 21, 2012)
+Sweden	DMT is regulated by law in Sweden, no additional details. (unconfirmed) (thanks HD)
+South Africa	DMT is classified under the Drug and Drug Trafficking Act No. 140 of 1992 as a "Undesirable Dependence Producing Substance". See www.justice.gov.za/legislation/acts/1992-140.pdf. (thanks MvS) (last updated April 18 2011)
+United Kingdom (U.K., England, Wales, Scotland, N. Ireland)	DMT is Schedule I/Class A in the U.K., making it illegal to buy or possess without a license.
+
+[Dose]
+doseTable :: Smoked/Vaporized DMT Dosages
+Threshold2 - 5 mg
+Light10 - 20 mg
+Common20 - 40 mg
+Strong40 - 60 mg
+Onset : 15 - 60 seconds
+Duration : 5 - 20 minutes
+Normal After Effects : 15 - 60 minutes
+doseText :: When smoked/vaporized, DMT effects are shortlived and intense and the smoke/vapor is harsh and plastic tasting. Because of the quick onset, users recommend trying to breathe the smoke/vapor in deeply. Waiting too long means the effects may have already begun before the you have an opportunity to take a second.  Many people find the most effective method for smoking/vaporizing DMT is to use a glass pipe and inhale deeply. Often, the DMT melts and some of it remains behind in the pipe. This can be a problem if you load a full dose at a later date and unknowingly have an additional 20 mg left in the pipe. One person has recommended prewarming the pipe. In theory, this will prevent the vaporized DMT from depositing on the cold glass of the pipe. Another suggestion made by some is to put a second screen on top of the DMT so the flame doesn't burn the DMT (resulting in loss of material).  Remember one needs a pretty good scale to weigh the difference between 10 and 50 mg. Be Careful!
+notes :: null
+
+[Chemistry]
+chemTable :: NAME :	N,N-Dimethyltryptamine
+CHEMICAL NAME :	N,N-Dimethyl-1H-indole-3-ethanamine
+ALTERNATE CHEMICAL NAMES : 	 3-[2-(dimethylamino)ethyl]indole, DMT
+CHEMICAL FORMULA	C12H16N2
+MOLECULAR WEIGHT	188.27
+MELTING POINT	44.6-46.8&#176;C (116&#176;F) (crystals) see below
+BOILING POINT	60-80&#176;C (crystals) see below
+From the Merck Index 12th Edition
+moleculeURL :: https://www.erowid.org/chemicals/dmt/images/archive/dmt_3d_mid.jpg

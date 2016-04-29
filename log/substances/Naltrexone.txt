@@ -1,0 +1,27 @@
+[Substance]
+
+id :: 296
+name :: Naltrexone
+url :: https://www.erowid.org/pharms/naltrexone/naltrexone.shtml
+category :: Pharms
+commonNames :: ReVia; Trexan; Vivitrol; Nalorex; Depade
+effectsClassification :: Narcotic detoxification adjunct
+chemicalName :: (5a)-17-(cyclopropylmethyl)-4,5-epoxy-3,14-dihydroxymorphinan-6-one
+description :: Naltrexone is an opiate antagonist used in the treatment of opiate and alcohol addiction. It blocks the effects of opiates so that if a user chooses to take an opiate after taking naltrexone, they do not experience much (any) effect. This helps improve abstinence in those who can maintain taking the daily dose of naltrexone.
+imageURL :: https://www.erowid.org/pharms/naltrexone/images/naltrexone_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/naltrexone/naltrexone_images.shtml
+lawURL :: https://www.erowid.org/pharms/naltrexone/naltrexone_law.shtml
+
+[Images]
+imageEntryList :: Naltrexone tablet	https://www.erowid.org/pharms/show_molecule.php?i=naltrexone/naltrexone_tablet1.jpg	Color photo of the front and back of a generic 50 mg naltrexone hydrochloride tablet bearing the imprint "b || 50/902" [CA, USA].	Image by Paul Hindt, &copy; 2004 Erowid.org
+Naltrexone Packaging	https://www.erowid.org/pharms/show_image.php?i=naltrexone/naltrexone_package__i2007e0697_disp.jpg	Packaging from a box of ReVia brand Naltrexonum (Naltrexone) in 50 mg tablets. [Croatia]	Photo by Robert. &copy; 2009 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Naltrexone
+REGULATED	Yes
+STATUS	Prescription Only
+SCHEDULE	Un-Scheduled
+federalLawText :: Naltrexone is unscheduled in the United States, but is available by prescription only. This means that sales and distribution are allowed only by those with a license and only to those with a prescription (according to FDA regulations). Possession is not illegal even without a prescription.
+stateLaw :: null
+internationalLaw :: Canada	Naltrexone is specifically excluded from the list of opiates in schedule I in Canada (along with apopmorphine, cyprenorphine, nalmefene, naloxone, narcotine, papaverine, and poppy seed). (thanks F)

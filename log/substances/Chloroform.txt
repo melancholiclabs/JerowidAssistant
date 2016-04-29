@@ -1,0 +1,15 @@
+[Substance]
+
+id :: 61
+name :: Chloroform
+url :: https://www.erowid.org/chemicals/chloroform/chloroform.shtml
+category :: Chemicals
+commonNames :: None
+effectsClassification :: Anaesthetic Volatile Solvent
+chemicalName :: trichloromethane
+description :: Chloroform is a volatile liquid that was used as an anaesthetic during the late 19th and early 20th centuries.
+imageURL :: https://www.erowid.org/chemicals/chloroform/images/chloroform_summary1.jpg
+imagesURL :: https://www.erowid.org/chemicals/chloroform/chloroform_images.shtml
+
+[Images]
+imageEntryList :: Chloroform	https://www.erowid.org/chemicals/show_image.php?i=chloroform/chloroform_bottle__i2006e0734_disp.jpg	Old chloroform bottle from Duncan, Flockhart & Co. [UK]	Anonymous Photographer. &copy; 2007 Erowid.org

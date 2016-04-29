@@ -1,0 +1,15 @@
+[Substance]
+
+id :: 200
+name :: Albizia julibrissin
+url :: https://www.erowid.org/herbs/albizia/albizia.shtml
+category :: Herbs
+botanicalClassification :: Family :Fabaceae (=Leguminosae; Mimosaceae), Genus :Albizia, Species :julibrissin DurazzcommonNames :: Silk Tree; Happiness Tree; Mimosa Tree
+uses :: Anxiolytic; Treatment for pain, tension, and depression.
+description :: Albizia julibrissin is a tree with fern-like leafed branches growing from 20 to 40 feet (6-12 m) tall. Produces pink globe-shaped feathery flowers in late spring and summer followed by 4 to 6 inch (10-15 cm) seed pods. A. julibrissin is native to Asia and is used in traditional Chinese medicine to treat depression and anxiety.
+imageURL :: https://www.erowid.org/herbs/albizia/images/albizia_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/albizia/albizia_images.shtml
+
+[Images]
+imageEntryList :: Albizia julibrissin	https://www.erowid.org/herbs/show_image.php?i=albizia/albizia_julibrissin_flower__i2006e1083_disp.jpg	A passing shot of a flowering Albizia julibrissin in the front courtyard of Meir Hospital. [Kfar Saba, Israel]	Photo by Daniel L. Levy. &copy; 2007 Erowid.org.
+Albizia julibrissin	https://www.erowid.org/herbs/show_image.php?i=albizia/albizia_julibrissin_flower__i2006e1084_disp.jpg	Closeup photo of an Albizia julibrissin flower in the courtyard of Meir Hospital. [Kfar Saba, Israel]	Photo by Daniel L. Levy. &copy; 2007 Erowid.org.

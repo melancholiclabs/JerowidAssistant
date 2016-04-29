@@ -1,0 +1,73 @@
+[Substance]
+
+id :: 95
+name :: MDA
+url :: https://www.erowid.org/chemicals/mda/mda.shtml
+category :: Chemicals
+commonNames :: Sass or Sassafras [also used for MDMA]
+effectsClassification :: Euphoric Empathogen; Stimulant; Phenethylamine
+chemicalName :: 3,4-methylenedioxyamphetamine
+description :: MDA is a synthetic empathogen sometimes found in ecstasy tablets. It is closely related to MDMA though its effects are said to be slightly more psychedelic.
+imageURL :: https://www.erowid.org/chemicals/mda/images/mda_summary1.jpg
+effectsURL :: https://www.erowid.org/chemicals/mda/mda_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/mda/mda_images.shtml
+lawURL :: https://www.erowid.org/chemicals/mda/mda_law.shtml
+doseURL :: https://www.erowid.org/chemicals/mda/mda_dose.shtml
+
+[Effects]
+duration :: MDA Duration
+Oral
+Total Duration	4 - 8 hrs
+Onset	20 - 90 mins
+Coming Up	5 - 20 mins
+Plateau	2 - 4 hrs
+Coming Down	2 - 4 hrs
+&nbsp;	&nbsp;
+After Effects	3 - 24+ hrs
+Hangover / Day After	- - -
+positiveEffects :: extreme mood lift	increased willingness to communicate	increase in energy (stimulation)	ego softening	feelings of comfort, belonging, and closeness to others	feelings of love and empathy	forgiveness	increased awareness & appreciation of music	increased awareness of senses  (taste, smell, touch, hearing, vision)	profound life-changing spiritual experiences	neurotically based fear dissolution	sensations bright and intense	urge to hug and kiss people
+neutralEffects :: decreased appetite	visual distortion	rapid, involuntary eye jiggling (nystagmus)	mild visual hallucinations	moderately increased heart rate and blood pressure (increases with dose)	restlessness, nervousness, shivering	change in body temperature regulation	strong desire to do or want more when coming down
+negativeEffects :: inappropriate and/or unintended emotional bonding	tendency to say things you might feel uncomfortable about later	mild to extreme jaw clenching (trisma), tongue and cheek chewing, and teeth grinding (bruxia)	difficulty concentrating & problems with activities requiring linear focus	short-term memory scramble or loss & confusion	muscle tension	erectile disfunction and difficulty reaching orgasm	increase in body temperature, hyperthermia, dehydration (drink water)	hyponatremia (don't drink too much water)	nausea and vomiting	headaches, dizziness, loss of balance, and vertigo	post-trip Crash - unpleasantly harsh comedown from the peak effect	hangover the next day, lasting days to weeks	mild depression and fatigue for up to a week	severe depression and/or fatigue (uncommon)	possible strong urge to repeat the experience, though not physically addictive	possible psychological crisis requiring hospitalization (psychotic episodes, severe panic attacks, etc) (rare)	possible liver toxicity (rare)	possible neurotoxicity (controversial)	small risk of death.  Assuming similar risk to MDMA, approximately 2 per 100,000 users have extreme negative reactions resulting in death. (rare)
+description :: MDA's effects are very similar to the effects of MDMA. See also MDMA Effects.	
+Note: Erowid previously reported the duration of MDA to be "8-12 hours" based on the entry in PIHKAL which appears to be wrong. After checking with a variety of sources, the consistent opinion is that MDA lasts just slightly longer than MDMA, but is otherwise very equivalent in duration. Many users report it has a longer, more stimulated after-effects period but others do not find this. If you have comments about experiences with known pure MDA or know of other verifiable resources, please let us know.	
+We do have a couple reports of idiosyncratic reactions where users had effects for 12-18 hours after ingestion, but there are equivalent reports for MDMA. In research published in 2010, Baggott, Siegrist et al., gave twelve subjects MDA (1.4mg/kg, around 100mg (and placebo during a different session) and administered a series of tests to assess effects. For five of the twelve participants, the MDA high lasted a total of about six hours, but in several of the participants, the effects were still quite strong at 6-8 hours. The "MDA Effects Curve" duration graph (data from that study) shows effects still clearly off baseline at 8 hours after dosing. It is unknown why some people would stay high much longer than others, but it could be based on individual metabolism.	
+L's Comparison of MDA to MDMA:	The total experience is 8 hours, but the 'trip' is 4-5 hours like X. The after-effects are like being way-laid, definitely washing around in the	after-swell of a full experience of an amphetamine-hallucinogen. We call MDA 'industrial electronic mushrooms' and compare the post-peak to riding the diesel-electric locomotive all the way home. Your feet vibrate for some time after you step off a huge machine like that: tingling and numb. There's no finer intoxicant, but you need careful and considerable support or the body load can turn you into a vegetable for the latter half of the experience and the day after. With X you feel all the emotional and spiritual connectivy possible (much the 'empathogen'), with MDA you see (hallucinate, visually experience) all the emotional and spiritual connectivity possible.	
+
+
+Gracie & Zarkov's Comparison of MDA to MDMA:	"The differences from MDM(A) are striking: MDA is more hallucinogenic with noticeable closed eye imagery, is a much greater aesthetic enhancer, especially of people and of music; is more euphoric; more "drug-like", a heavier and more obviously body-involved trip. Tactile sensation is more powerful, erotic and noticeable on MDA. Physical effects are more up-front: gastric upset, pupil dilation, water retention, limbic arousal. On the whole, we find MDA a more enjoyable and interesting trip; longer lasting and more sexual/sensual. Our favorite characteristic is that one retains an interesting psychedelic ideation on MDA, rather then the feeling-oriented, but rather idealess thinking of MDM(A).
+experienceReports :: null
+
+[Images]
+imageEntryList :: MDA Powder	https://www.erowid.org/chemicals/show_image.php?i=mda/mda_powder__i2012e0034_disp.jpg	A small pile of crushed MDA crystals. [Canada]	Photo by LSDream. &copy; 2012 Erowid.org
+Simon's Reaction	https://www.erowid.org/chemicals/show_image.php?i=mda/mda_simons1.jpg	Color photo showing Simon's Reagent reactions of MDMA versus MDA.	Photo by Erowid. &copy; 2001 Erowid.org
+MDA 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=mda/mda_2d.gif	Still 2D image of the MDA molecule.	Image by Erowid. &copy; 2006 Erowid.org
+MDA 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=mda/mda_3d.jpg	Still 3D image of the MDA molecule.	Image by Erowid. &copy; 2000 Erowid.org
+MDA 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=mda/mda__.mol	Rotating 3D image of the MDA molecule.	Image by Erowid. &copy; 2000 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+MDA
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule I
+CLASSIFICATION	Hallucinogen
+federalLawText :: MDA is Schedule I in the United States. This means it is illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license.
+stateLaw :: null
+internationalLaw :: Brazil	MDA is listed as a controlled substance, making production, distribution, or possession illegal. (thanks P)
+Canada	MDA was added to Schedule I in 2012 (see http://www.parl.gc.ca/HousePublications/Publication.aspx?Docid=5124131&file=4). (thanks pgg) (last updated Sep 25 2012)
+Italy (Italia)	Listed in Tabella I of "Tabelle delle sostanze stupefacenti e psicotrope", making it illegal to possess, purchase, or sell. (see Tabelle delle sostanze stupefacenti e psicotrope. (thanks a) (last updated Dec 16, 2015)
+New Zealand	MDA is Schedule I (Class A) in New Zealand [reference]. (thanks BC)
+U.K.	MDA is Schedule I/Class A in the U.K., making it illegal to sell, buy, or possess without a license.
+
+[Dose]
+doseTable :: Oral MDA Dosages
+Threshold30 - 50 mg
+Common for small or sensitive people75 - 100 mg
+Common for most people100 - 150 mg
+Common for large or unsensitive people130 - 170 mg
+Required by few (side effects increase)170 +  mg
+Onset : 20 - 90 minutes (depending on form and stomach contents)
+Duration : 2 - 5 hours
+Normal After Effects : 2 - 4 hours
+doseText :: MDA generally comes in either tablet form or as a whitish powder. It is also frequently found in pills sold as MDMA. Following are approximate dosages in mg. Some people are more sensitive to MDA than others. Be careful if you are using MDA for the first time or using material of an unknown purity and strength.
+notes :: null

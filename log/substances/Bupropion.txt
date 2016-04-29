@@ -1,0 +1,64 @@
+[Substance]
+
+id :: 259
+name :: Bupropion
+url :: https://www.erowid.org/pharms/bupropion/bupropion.shtml
+category :: Pharms
+commonNames :: Wellbutrin (anti-depressant); Zyban (nicotine addiction)
+effectsClassification :: Antidepressant; Nicotine Addiction Treatment; Stimulant
+chemicalName :: 1-(3-chlorophenyl)-2-[(1,1-dimethyl-ethyl)amino]-1-propanone
+description :: Bupropion is a prescription antidepressant which acts as a dopamine and norepinephrine reuptake inhibitor. It is used to treat attention deficit disorder, bipolar depression, chronic fatigue syndrome, nicotine addiction, cocaine addiction, and lower back pain. It causes seizures at high doses.
+imageURL :: https://www.erowid.org/pharms/bupropion/images/bupropion_summary1.jpg
+basicsURL :: https://www.erowid.org/pharms/bupropion/bupropion_basics.shtml
+imagesURL :: https://www.erowid.org/pharms/bupropion/bupropion_images.shtml
+lawURL :: https://www.erowid.org/pharms/bupropion/bupropion_law.shtml
+chemistryURL :: https://www.erowid.org/pharms/bupropion/bupropion_chemistry.shtml
+
+[Basics]
+description :: Bupropion is a pharmaceutical, prescription antidepressant which acts directly on the brain and other nerve cells. Bupropion is considered a 'second generation' or 'atypical' anti-depressant because its action is different from the previous generation of psychoactive medications. It was first introduced in the US in 1985 but was quickly withdrawn because of the high incidence of seizures, it was reintroduced in 1989 at a much lower prescription dose. It is generally found stimulating by users and reactions to it vary greatly, with some users experiencing panic attacks and other acute negative reactions to the drug.  Bupropion is sold both as an antidepressant in the US under the trade name "Wellbutrin" and as an aid for quitting smoking under the trade name "Zyban". Bupropion hydrochloride is a white crystalline powder which is highly water soluble, has a bitter taste, and has a local anaethestic effect on oral mucosa (much like cocaine). [ Main Bupropion Vault ]
+descriptionSections :: dose	Typicaly 75-300 mg daily with a maximum prescription of 450 mg daily approved by the FDA due to increasing risk of seizure with higher doses. Sold in pills of 75 & 100 mg and 100 & 150 mg time release. In Canada, sold as Zyban and Wellbutrin in 150mg and 300mg extended release tablets.
+price	$1-3 USD per daily dose in the United States and about $0.80 - $0.90 per pill in Canada ($CAN).
+law	Bupropion is not scheduled in the United States, but is legal for sale for human consumption only with a prescription or license. Most countries where bupropion is available, it is unscheduled, but requires a prescription to purchase.
+chemistry	Bupropion is an aminoketone, chemicaly related to other phenethylamines, a class of molecule that contains a number of psychoactive chemicals.
+pharmacology	The exact mechanism of action of bupropion is not currently known. In rats, chronic stress leads to increased levels of tyrosine hydroxylase (a key enzyme in norepinephrine synthesis) in the locus coeruleus (LC). Chronic use of bupropion, as well as many antidepressants, shows decreased expression of tyrosine hydroxylase in the LC. Other known mechanisms of action of bupropion are that it is a weak inhibitor of neuronal norepinephrine, serotonin and dopamine uptake. Because its inhibition of serotonin reuptake is weak and because it also inhibits the re-uptake of norepinephrine and dopamine, bupropion is not generally classified as an SSRI.  Bupropion selectively inhibits dopamine reuptake, much like cocaine, but, arguably, without the reinforcing effects. It has been used to treat children with ADHD, but there is a high incidence of severe skin rashes when used in this manner. It has also been effective in the treatment of smoking cessation (under the trade name Zyban). Unlike many antidepressants, Bupropion is not used to treat panic attacks, however, patients who have suffered sexual dysfunction as a result of serotonin-specific reuptake inhibitors may show some improvement if switched to bupropion. Its ability to treat cocaine addiction appears promising, though controversial. Bupropion is not an MAOI.
+production	Production Summary Needed.
+history	First developed in the late 1970's it was first approved for sale in the United States in 1985 but quickly removed from the market in 1986 due to problems with seizures in patients. In 1989, Bupropion was placed back on the market in the United States at a lower recommended dose.
+terminology	Brand Names:Wellbutrin (Anti-depressant); Zyban (Nicotine addiction treatment). The Substance:Amfebutemone; Bupropion. The Experience:No common terms known.
+effects :: Bupropion appears to resemble behavioral stimulants more than it resembles antidepressants. Effects can include anxiety, restlessness, tremor and insomnia. Some users have reported that it can alleviate cravings for amphetamines and has been used to replace amphetamine in some cases of depression and ADHD.
+effectsSections :: onset	Acute effects can generally be felt within 60-90 minutes of administration, but long term antidepressant effects may take days or weeks to develop.
+duration	Users report that stimulation can last for 12-24 hours or longer after a single dose, active metabolites have half-lives of 20-34 hours.
+visuals	Visuals Summary Needed.
+problems :: Restlessness, insomnia, anxiety reactions, discomfort, unpleasant stimulation, dry mouth, dizzyness / nausea, headaches, tremors.  "The Australian Adverse Drug Reactions Advisory Committee has received 780 reports in association with bupropion to mid-May 2001. The more commonly reported problems have involved skin reactions (307 reports), psychological disturbances (285) and nervous system disorders (268). Urticaria [hives, skin rashes] has been the most common event reported (167 reports). Other reactions commonly reported have included nausea (87 reports), dizziness/ataxia (78), other rashes (86), insomnia (78), headache (68), and tremor (57)." From ADRAC  There is a very serious, though not common, possibility of seizures associated with bupropion. It may induce de novo seizures, meaning that even someone with no history of seizures -- family or otherwise -- may respond to bupropion in this way, especially at higher doses. This seizure incidence exceeds that of other marketed antidepressants. Immediate release formulas (not SR, sustained release) appear to promote higher risk of seizures. In addition, patients who have or have had anorexia nervosa or bulimia are at a higher risk of seizures.  The incidence of seizures is dose dependent:  At doses of 300 mg/day, the rate of seizure is 0.1% At doses of 400 mg/day, the rate of seizure is 0.4% To reduce risk of seizures, the total daily dose should not exceed 400 mg/day, and any individual dose should not exceed 200 mg.
+problemsSections :: contraindications	Bupropion may be dangerous in combination with MAO inhibitors and at least 14 days should elapse after the last dose of an MAOI is taken and the use of bupropion. Some users have reported unpleasant effects when taking psychedelics with daily doses of bupropion but other regular bupropion users have reported no adverse side effects when combined with LSD, Psilocybin Mushrooms, etc. Combinations of strong psychoactives may increase the health risks. Bupropion should not be taken by those who have been taking MAO inhibitors!! At least 14 days should elapse between the use of MAO inhibitors and the use of bupropion.
+addiction	Abrupt cessation of chronic administration of buproprion is not advised and slow tapering off is recommended, as with all chronically administered anti-depressants.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Images]
+imageEntryList :: Bupropion (Wellbutrin XL) Tablet	https://www.erowid.org/pharms/show_image.php?i=bupropion/bupropion_tablet__i2004e0250_disp.jpg	Close-up image of a 300 mg Wellbutrin XL tablet with the imprint "WELLBUTRIN XL 300" [FL, USA]	Photo by Anonymous. &copy; 2007 Erowid.org
+Bupropion (Wellbutrin XL) Tablets	https://www.erowid.org/pharms/show_image.php?i=bupropion/bupropion_tablet__i2005e0895_disp.jpg	A small pile of 300 mg extended release bupropion tablets (Wellbutrin XL). [UT, USA]	Photo by Plumedenom. &copy; 2007 Erowid.org
+Bupropion (Wellbutrin) Tablet	https://www.erowid.org/pharms/show_image.php?i=bupropion/wellbutrin_tablet1.jpg	Close-up color photo of a 150 mg Wellbutrin sustained release tablet.	Photo by Mackey, &copy; 2000 Erowid.org
+Bupropion (Zyban) Tablets	https://www.erowid.org/pharms/show_image.php?i=bupropion/bupropion_tablet__i2006e0753_disp.jpg	150 mg tablets of bupropion (Zyban) with the imprint "Zyban / 150". [USA]	Photo by Anonymous. &copy; 2007 Erowid.org
+Wellbutrin	https://www.erowid.org/pharms/show_image.php?i=bupropion/wellbutrin_tablet3.jpg	Close-up color photo of a 100 mg Wellbutrin sustained release tablet. (Phoenix, Arizona)	Photo by Disturbed Obsession, &copy; 2002 Erowid.org
+Wellbutrin	https://www.erowid.org/pharms/show_image.php?i=bupropion/wellbutrin_tablet4.jpg	Color photo of several 100 mg Wellbutrin sustained release tablets. (Missouri)	Photo by Alkaloidaholic, &copy; 2002 Erowid.org
+Bupropion Tablets	https://www.erowid.org/pharms/show_image.php?i=bupropion/bupropion_tablet__i2005e0581_disp.jpg	100 mg generic bupropion HCl tablet (front and back), pastel blue color bearing the imprint "M || 435"	Photo by DigitalD. &copy; 2007 Erowid.org
+Wellbutrin	https://www.erowid.org/pharms/show_image.php?i=bupropion/wellbutrin_tablet2.jpg	Color photo of 2 different wellbutrin tablets.	Photo from the Physician's Desk Reference
+Bupropion 2D Molecule	https://www.erowid.org/pharms/show_molecule.php?i=bupropion/bupropion_2d.gif	Still 2D image of the Bupropion molecule.	Image by Erowid, &copy;20019 Erowid.
+Bupropion 3D Rotating Molecule	https://www.erowid.org/pharms/show_molecule.php?i=bupropion/bupropion__.mol	Rotating 3D image of the Bupropion molecule.	Image by Erowid, &copy;20019 Erowid.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Bupropion
+REGULATED	Yes
+STATUS	Prescription Only
+SCHEDULE	Un-Scheduled
+federalLawText :: Bupropion (Wellbutrin / Zyban) is unscheduled in the United States, but is available by prescription only. This means that sales and distribution are allowed only by those with a license and only to those with a prescription (according to FDA regulations). Possession is not illegal even without a prescription.
+stateLaw :: null
+internationalLaw :: Canada	Bupropion unscheduled in Canada, requires a prescription. Sold (as in the US) under the names Wellbutrin and Zyban. (last updated Sep 20, 20120)
+Mexico	Bupropion is sold under the name Wellbutrin with the substance indicated as "Anfebutamona" and is not a controlled drug. One visitors reports that it technically requires a prescription but is sold widely without prescription at small pharmacies. (thanks r) (last updated Dec 9 2013)
+
+[Chemistry]
+chemTable :: NAME :	Bupropion, Wellbutrin
+CHEMICAL FORMULA	C13H18ClNO
+MOLECULAR WEIGHT	239.7443
+moleculeURL :: https://www.erowid.org/pharms/bupropion/images/archive/bupropion_2d.gif

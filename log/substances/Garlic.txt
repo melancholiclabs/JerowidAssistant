@@ -1,0 +1,26 @@
+[Substance]
+
+id :: 223
+name :: Garlic
+url :: https://www.erowid.org/herbs/garlic/garlic.shtml
+category :: Herbs
+botanicalClassification :: Family :Liliaceae, Genus :Allium, Species :sativumcommonNames :: Garlic
+uses :: Spice; Anti-microbial; Bronchial Treatment; Reduces Blood Pressure and Cholesterol; Treats Ringworm and Threadworm
+description :: A perennial herb whose bulb is composed of small cloves and is identifiable by its pungent odor. The onion-like plant grows 2 feet tall, with long, flat pointed leaves and flowers from pink to white.
+imageURL :: https://www.erowid.org/herbs/garlic/images/garlic_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/garlic/garlic_images.shtml
+lawURL :: https://www.erowid.org/herbs/garlic/garlic_law.shtml
+
+[Images]
+imageEntryList :: Allium sativum	https://www.erowid.org/herbs/show_image.php?i=garlic/allium_sativum_bulb1.jpg	Photo showing 2 garlic (Allium sativum) bulbs. (California)	Photo by Danny Buskirk, &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Garlic
+REGULATED	No
+STATUS	Food Approved
+SCHEDULE	Un-Scheduled
+federalLawText :: Garlic (Allium sativum) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.	
+Garlic (Allium sativum) is approved for food use in the U.S. and appears in the FDA's list of substances Generally Recognized As Safe (GRAS).
+stateLaw :: null
+internationalLaw :: 

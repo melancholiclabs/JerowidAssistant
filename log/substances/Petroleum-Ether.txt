@@ -1,0 +1,11 @@
+[Substance]
+
+id :: 121
+name :: Petroleum Ether
+url :: https://www.erowid.org/chemicals/petroleum_ether/petroleum_ether.shtml
+category :: Chemicals
+commonNames :: Naptha; Benzine; Petroleum Spirits
+effectsClassification :: Volatile Solvent
+chemicalName :: Petroleum Ether
+description :: Petroleum Ether is the name for the volatile fraction of petroleum distillates (derivatives) that are used primarily as a non-polar solvent in chemical and industrial applications. It is often confused with Di-Ethyl Ether and the other 'organic' ether compounds, but the two should not be confused. Petroleum ether fumes are sometimes inhaled as an intoxicant, but its use is considered extremely dangerous.
+imageURL :: https://www.erowid.org/chemicals/images/chemicals_spacer_summary.jpg

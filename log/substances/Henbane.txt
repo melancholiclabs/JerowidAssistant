@@ -1,0 +1,35 @@
+[Substance]
+
+id :: 161
+name :: Henbane
+url :: https://www.erowid.org/plants/henbane/henbane.shtml
+category :: Plants
+botanicalClassification :: Family :Solanaceae, Genus :Hyoscyamus, Species :nigercommonNames :: Black Henbane; Devil's Eyes
+effectsClassification :: Poison; Deliriant
+description :: Hyoscyamus niger is a biennial herb growing up to 1 meter that produces veined yellow flowers and large quantities of seeds. All parts of the plant contain scopolamine, atropine, and hyoscyamine and can be deadly poisonous.
+imageURL :: https://www.erowid.org/plants/henbane/images/henbane_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/henbane/henbane_images.shtml
+lawURL :: https://www.erowid.org/plants/henbane/henbane_law.shtml
+
+[Images]
+imageEntryList :: Hyoscyamus niger	https://www.erowid.org/plants/show_image.php?i=henbane/hyoscyamus_niger__i2005e0122_disp.jpg	Hyoscyamus niger plant. [Sweden]	Photo by Edmund. &copy; 2007 Erowid.org
+Hyoscyamus niger	https://www.erowid.org/plants/show_image.php?i=henbane/hyoscyamus_niger7.jpg	Nice color photo of small Hyoscyamus niger plant [Poland].	Photo by Black Panther [blackpanther@interia.pl], &copy; 2004 Erowid.org
+Hyoscyamus niger	https://www.erowid.org/plants/show_image.php?i=henbane/hyoscyamus_niger3.jpg	Color photo of a small potted H. niger plant growing outdoors in September [Indiana].	Photo by Oziom, &copy; 2002 Erowid.org
+Hyoscyamus niger	https://www.erowid.org/plants/show_image.php?i=henbane/hyoscyamus_niger4.jpg	Color photo of three H. niger seedlings growing in dry ground in September [Indiana].	Photo by Oziom, &copy; 2002 Erowid.org
+Hyoscyamus niger	https://www.erowid.org/plants/show_image.php?i=henbane/hyoscyamus_niger6.jpg	Color photo of a one year old Hyoscyamus niger grown indoors from wild seeds. [Poland]	Photo by Black Panther [blackpanther@interia.pl], &copy; 2003 Erowid.org
+White Henbane	https://www.erowid.org/plants/show_image.php?i=henbane/hyoscyamus_albus__i2012e0318_disp.jpg	White henbane (Hyoscyamus albus [ex La Gomera]) stalk with flowers. [UK]	Photo by Farmer Dodds. &copy; 2012 Erowid.org
+Hyoscyamus niger Flowers	https://www.erowid.org/plants/show_image.php?i=henbane/hyoscyamus_niger_flower__i2004e0164_disp.jpg	Close-up of Hyoscyamus niger flowers in June. [Oslo, Norway]	Photo by Kjell Hernes. &copy; 2007 Erowid.org
+Hyoscyamus niger Flower	https://www.erowid.org/plants/show_image.php?i=henbane/hyoscyamus_niger5.jpg	Beautiful color photo of a flowering Hyoscyamus niger grown indoors.	Photo by Rob Jackson, &copy; 2002 Erowid.org
+Hyoscyamus niger Seedpods	https://www.erowid.org/plants/show_image.php?i=henbane/hyoscyamus_niger_seedpod__i2005e0274_disp.jpg	Henbane seedpods beginning to grow. [Canada]	Photo by Ry0nBeck. &copy; 2007 Erowid.org
+Hyoscyamus niger	https://www.erowid.org/plants/show_image.php?i=henbane/hyoscyamus_niger2.jpg	Black and white drawing.	Artist Unknown
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Henbane
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Hyoscyamus niger is unscheduled in the United States, but it is also listed as a "poison" according to U.S.C. Title 21 Chapter 7. This designation as a poison means that most products made from henbane must either be labelled "for external use only"; or labelled as a "poison" and records kept about who it is sold to. The plant itself is legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription.
+stateLaw :: Louisiana	Effective Aug 8, 2005 (signed into law Jun 28, 2005) Louisiana Act No 159 makes 40 plants illegal, including Hyoscyamus niger, when intended for human consumption. The law specifically excludes the "possession, planting, cultivation, growing, or harvesting" of these plants if used "strictly for aesthetic, landscaping, or decorative purposes." (Text of HLS_05RS-52 and Update June 2005)
+Tennessee 	Tennessee did not pass the proposed bill that would have banned dozens of plants as "hallucinogenic" when intended for human consumption. Instead, they banned only Salvia divinorum. See Comments on New State Laws Controlling the Consumption of Hallucinogenic Plants.
+internationalLaw :: 

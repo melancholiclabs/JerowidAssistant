@@ -1,0 +1,78 @@
+[Substance]
+
+id :: 93
+name :: MBDB
+url :: https://www.erowid.org/chemicals/mbdb/mbdb.shtml
+category :: Chemicals
+commonNames :: Eden; Methyl-J
+effectsClassification :: Euphoric Empathogen; Phenethylamine
+chemicalName :: 2-methylamino-1-(3,4-methylenedioxyphenyl)butane
+description :: MBDB is a synthetic empathogen with effects similar to but milder than those of MDMA. It is very uncommon.
+imageURL :: https://www.erowid.org/chemicals/mbdb/images/mbdb_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/mbdb/mbdb_basics.shtml
+imagesURL :: https://www.erowid.org/chemicals/mbdb/mbdb_images.shtml
+lawURL :: https://www.erowid.org/chemicals/mbdb/mbdb_law.shtml
+chemistryURL :: https://www.erowid.org/chemicals/mbdb/mbdb_chemistry.shtml
+
+[Basics]
+description :: MBDB is a synthetic phenethylamine similar in structure and action to MDMA (Ecstasy). It is an entactogen, with the ability to facilitate a state of introspection, interpersonal communication and a pronounced sense of empathy and compassion.  MBDB has a slower and more gentle onset of action than MDMA, produces less euphoria, less psychedelic effects, and has less stimulant properties. Many people find MBDB less fun than MDMA because of its more subtle nature and lack of strong rush. MBDB is extremely uncommon, but has occasionally been found in "ecstasy" tablets in Europe. [ Main MBDB Vault ]
+descriptionSections :: dose	There is very little data on what preferred recreational or therapeutic dosages are, but they seem to fall somewhere in the range of 150-250 mg.
+price	Price Summary Needed.
+law	MBDB is not scheduled in the United States, so it is legal to possess.
+chemistry	Chemistry Summary Needed.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	MBDB was first synthesized by Dave Nichols at Purdue University.
+terminology	The Substance:MBDB; Methyl-J; Eden. The Experience:No common terms known.
+effects :: Effects Summary Needed.
+effectsSections :: onset	The onset of MBDB is said to be significantly smoother and less 'rushy' than that of MDMA.
+duration	Approx 4-6 hrs
+visuals	Visuals Summary Needed.
+problems :: Problems Summary Needed.
+problemsSections :: contraindications	Do not take MBDB if you are currently taking an MAOI. MAOIs are most commonly found in the prescription anti-depressants Nardil (phenelzine), Parnate (tranylcypromine), Marplan (isocarboxazid), Eldepryl (l-deprenyl), and Aurorex or Manerix (moclobemide). Ayahuasca also contains MAOIs (harmine and harmaline). MBDB and MAOIs are a potentially dangerous combination. Check with your doctor if you are not sure whether your prescription medication is an MAOI. Do not operate heavy machinery. Do Not Drive.
+addiction	Addiction Potential Summary Needed.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Images]
+imageEntryList :: MBDB	https://www.erowid.org/chemicals/show_molecule.php?i=mbdb/mbdb_powder1.jpg	Nice color photo showing 200 mg of MBDB powder next to a metric ruler for size comparison.	Photo by Anonymous Photographer. &copy; 2003 Erowid.org
+MBDB	https://www.erowid.org/chemicals/show_molecule.php?i=mbdb/mbdb_powder2.jpg	Color photo showing a small baggie containing 1 gram of MBDB powder.	Photo by Anonymous Photographer. &copy; 2003 Erowid.org
+MBDB	https://www.erowid.org/chemicals/show_image.php?i=mbdb/mbdb_powder__i2003e0671_disp.jpg	500 mg MBDB powder in a small baggie. [Canada]	Photo by Nog. &copy; 2007 Erowid.org
+MBDB 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=mbdb/mbdb_2d.gif	Still 2D image of the MBDB molecule.	Image by Erowid. &copy; 2006 Erowid.org
+MBDB 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=mbdb/mbdb_3d.jpg	Still 3D image of the MBDB molecule.	Image by Erowid. &copy; 2001 Erowid.org
+MBDB 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=mbdb/mbdb__.mol	Rotating 3D image of the MBDB molecule.	Image by Erowid. &copy; 2001 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+MBDB
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Likely Analog
+federalLawText :: MBDB is unscheduled in the United States. However, both the FDA and DEA have published informal (not binding as law) documents which include the statement that MBDB is a "positional isomer" of MDE. Because the CSA states that "positional isomers" of MDE are equivalently scheduled (Schedule I), this suggests that MBDB would also be Schedule I.	
+Complicating this issue, however, is that we are unaware of any prosecutions for possession or sale of MBDB in the U.S. which would clarify the law, and that the technical definition of "positional isomer" would have to be stretched slightly to include MBDB as a positional isomer of MDE. In this case, a methyl (CH3) is moved from one sub-chain to another: MDE and MBDB compared.	
+It is also possible that it could be considered an analog (of MDE), in which case, sales for human consumption or possession with the intent to ingest could be prosecuted under the Federal Analogue Act though we are unaware of any such existing cases (6/21/04).	
+DEA & FDA Documents describing MBDB as a "positional isomer" of MDE:	
+FDA's Comments to the WHO, 2000	DEA's Response to the WHO, 1998	DEA : Microgram vol 29, number 11, Nov 1996:	
+
+"MBDB is a positional isomer of 3,4-methylenedioxy-N-ethylamphetamine, also known as MDE. MDE is an hallucinogenic drug in Schedule I of the CSA. In accordance with 21 CFR 1308.11 (d), optical, positional, and geometric isomers of Schedule I hallucinogenic drugs are also controlled in Schedule I; therefore, MBDB, which is positional isomer of MDE is also in Schedule I of the CSA. A notice confirming the Schedule I control status of MBDB under the CDA will be published in the Federal Register in the near future."	
+
+
+Note: we believe the DEA has not followed through with their stated intention to publish their finding in the Federal Register. Publication in the Federal Register would have far more legal weight than writing the above note in their secret internal publication (Microgram) to which the public is denied access (As of Jan 2003, the DEA has started making new issues of Microgram available, but still refuses any public access to past issues).
+stateLaw :: Florida	MBDB is Schedule I in Florida. See http://leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0800-0899/0893/0893.html. (last updated Jul 21, 2012)
+internationalLaw :: Austria	MBDB is controlled in Austria, see Austrian Schedules or http://www.ris.bka.gv.at/bgbl/ (in German).
+Finland	MBDB was banned in Finland in December 2014. A new government regulation was enacted in Finland that banned over 100 psychoactive chemicals. See Finland's Prohibited Psychoactive Substances: December 19, 2014. (last updated Dec 26, 2014)
+Italy (Italia)	Listed in Tabella I of "Tabelle delle sostanze stupefacenti e psicotrope", making it illegal to possess, purchase, or sell. (see Tabelle delle sostanze stupefacenti e psicotrope. (thanks a) (last updated Dec 16, 2015)
+Japan	We have been told that Japan added 2C-I, MBDB, and 5-MeO-DIPT to the list of controlled substances in April 2005, however we've been unable to confirm this. One vendor site claims this to be true, but we have not been able to locate any official documents. (thanks SR)
+Norway	The "Derivatbestemmelsen" is an Analog Act-type law in Norway that controls 4-methylmethcathinone, Bk-MBDB, Bromo-Dragonfly, 1,4butanediol, GBL, and MBDB. See legemiddelverket.no. (thanks o) (last updated April 29 2009)
+Slovak Republic	Starting March 1, 2011, MDBD, bk-MBDB, bk-MDMA, and 4-Methylmethcathinone are controlled in the Slovak Republic. See http://www.nrsr.sk/Dynamic/Download.aspx?DocID=350863. (thanks J) (last updated Feb 15 2011)
+Sweden	MBDB became regulated April 1, 1999. It was not placed in an ordinary schedule, but regulated through a new law, concerning "Compounds dangerous to ones health", a sort of "emergency scheduling", where compounds can be placed while they are investigated for possible classification as narcotics. The maximum sentence for selling or possession of these substances is one year imprisonment, compared to the maximum sentence for drug dealing which is 10 years in Sweden. Swedish Law Reference.
+
+[Chemistry]
+chemTable :: NAME :	MBDB
+CHEMICAL NAME :	2-Methylamino-1-(3,4-Methylenedioxyphenyl)Butane
+ALTERNATE CHEMICAL NAMES :	N-Methyl-1-(1,3-BenzoDioxol-5-yl)-2-Butanamine
+ALTERNATE CHEMICAL NAMES :	N-Methyl-a-ethyl-3,4-methylenedioxyphenethylamine
+ALTERNATE CHEMICAL NAMES :	Methyl-J; Eden
+CHEMICAL FORMULA	C12H17NO2-->
+MOLECULAR WEIGHT	207.269
+moleculeURL :: null

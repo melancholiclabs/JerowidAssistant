@@ -1,0 +1,39 @@
+[Substance]
+
+id :: 62
+name :: Chocolate
+url :: https://www.erowid.org/chemicals/chocolate/chocolate.shtml
+category :: Chemicals
+commonNames :: Cocoa
+effectsClassification :: Stimulant
+chemicalName :: Theobromine; Caffeine; ...
+description :: Chocolate is made from the T. cacao beans and is one of the world's most common stimulants. It is an extremely popular food, beverage and candy ingredient.
+imageURL :: https://www.erowid.org/chemicals/chocolate/images/chocolate_summary1.jpg
+imagesURL :: https://www.erowid.org/chemicals/chocolate/chocolate_images.shtml
+lawURL :: https://www.erowid.org/chemicals/chocolate/chocolate_law.shtml
+chemistryURL :: https://www.erowid.org/chemicals/chocolate/chocolate_chemistry.shtml
+
+[Images]
+imageEntryList :: Chocolate	https://www.erowid.org/chemicals/show_image.php?i=chocolate/chocolate_bar__i2005e1605_disp.jpg	Two large chunks of chocolate with partial designs/imprints visible. [TX, USA]	Photo by Mbarr. &copy; 2007 Erowid.org
+Theobromine 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=chocolate/theobromine_2d.gif	2D molecule image.	Image by Erowid. &copy; 2001 Erowid.org
+Theobromine 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=chocolate/theobromine_3d.jpg	Still 3D image of the Theobromine molecule.	Image by Erowid. &copy; 2001 Erowid.org
+Theobromine 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=chocolate/theobromine__.mol	Rotating 3D image of the Theobromine molecule.	Image by Erowid. &copy; 2001 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Chocolate
+REGULATED	Yes
+STATUS	Food Approved
+SCHEDULE	Un-Scheduled
+federalLawText :: Chocolate is regulated as a food in the United States. This means that as long as it is sold for human consumption, it must meet FDA food requirements.
+stateLaw :: null
+internationalLaw :: General	Chocolate is, to the best of our knowledge, either unregulated or regulated as a food in every country in the world and legal for sale, possession, and production as long as food regulations are followed.
+
+[Chemistry]
+chemTable :: NAME :	Theobromine
+CHEMICAL NAME :	3,7-Dihydro-3,7-dimethyle-1H-prine-2,6-dione
+ALTERNATE CHEMICAL NAMES :	3,7-dimethylxanthine
+CHEMICAL FORMULA	C7H8N4O2
+MOLECULAR WEIGHT	180.17
+From the Merck Index 12th Edition
+moleculeURL :: https://www.erowid.org/chemicals/chocolate/images/archive/theobromine_3d_mid.jpg

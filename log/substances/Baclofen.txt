@@ -1,0 +1,37 @@
+[Substance]
+
+id :: 255
+name :: Baclofen
+url :: https://www.erowid.org/pharms/baclofen/baclofen.shtml
+category :: Pharms
+commonNames :: Kemstro; Lioresal; Gablofen
+effectsClassification :: Muscle Relaxant; Antispastic
+chemicalName :: 4-amino-3-(4-chlorophenyl)-butanoic acid
+description :: Baclofen is a muscle relaxant that acts on the GABAB receptors. It is mainly prescribed to treat spasticity, and has seen some use for the treatment of alcoholism.
+imageURL :: https://www.erowid.org/pharms/baclofen/images/baclofen_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/baclofen/baclofen_images.shtml
+lawURL :: https://www.erowid.org/pharms/baclofen/baclofen_law.shtml
+chemistryURL :: https://www.erowid.org/pharms/baclofen/baclofen_chemistry.shtml
+
+[Images]
+imageEntryList :: Baclofen Tablets	https://www.erowid.org/pharms/show_image.php?i=baclofen/baclofen_tablet__i2006e1686_disp.jpg	Two 20 mg tablets of baclofen bearing the imprint "DAN 5731/ 20" manufactured by Schein. [CA, USA]	Photo by Pytrbob. &copy; 2012 Erowid.org
+Baclofen 2D Molecule	https://www.erowid.org/pharms/show_image.php?i=baclofen/baclofen_2d.gif	Still 2D image of the Baclofen molecule.	Image by Erowid, &copy; 2012 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Baclofen
+REGULATED	Yes
+STATUS	Prescription Only
+SCHEDULE	Un-Scheduled
+federalLawText :: 
+stateLaw :: 
+internationalLaw :: Russia (Russian Federation)	We have been told that Baclofen can "sometimes" be purchased without prescription (about $20 for 50x25mg). (unconfirmed) (thanks B) (last updated Jun 21 2012)
+
+[Chemistry]
+chemTable :: NAME :	Baclofen
+CHEMICAL NAME :	4-Amino-3-(4-chlorophenyl)butyric acid;
+(RS)-4-amino-3-(4-chlorophenyl)butanoic acid;
+4-amino-3-(4-chlorophenyl)butanoic acid
+CHEMICAL FORMULA	C10H12ClNO2
+MOLECULAR WEIGHT	213.661
+moleculeURL :: https://www.erowid.org/pharms/baclofen/images/archive/baclofen_2d.gif

@@ -1,0 +1,28 @@
+[Substance]
+
+id :: 207
+name :: Bryonia dio&iuml;ca
+url :: https://www.erowid.org/herbs/bryonia/bryonia.shtml
+category :: Herbs
+botanicalClassification :: Family :Cucurbitaceae, Genus :Bryonia, Species :dio�ca; albacommonNames :: Bryony; Briony; Snakeweed; Devil or Bastard turnip
+uses :: Bryonia is used as a laxative, to help chronic coughing, and in poultices for wounds & haemorrhoids. Known to the Classical Greeks as a cleansing medicinal herb.
+description :: An annual climbing and creeping plant, often growing along edges or under trees or hedges. Leaves have 5 lobes with one lobe longer than the others. Bryonia diocia is a dioiecious plant, meaning each plant has flowers of only one sex (like gingko, cannabis, etc).
+imageURL :: https://www.erowid.org/herbs/images/herbs_spacer_summary.jpg
+imagesURL :: https://www.erowid.org/herbs/bryonia/bryonia_images.shtml
+lawURL :: https://www.erowid.org/herbs/bryonia/bryonia_law.shtml
+
+[Images]
+imageEntryList :: Bryonia dioica Female Flower	https://www.erowid.org/herbs/show_image.php?i=bryonia/bryonia_dioica_flower_female1.jpg	Color photo of a female Bryonia dioica flower. West Sussex, UK.	&copy; 2002 Malcolm Storey, Bioimages.org.uk (used with permission)
+Bryonia dioica Female Flower	https://www.erowid.org/herbs/show_image.php?i=bryonia/bryonia_dioica_flower_female2.jpg	Color photo of female Byronia dioica flower, side view. West Sussex, UK	&copy; 2002 Malcolm Storey, Bioimages.org.uk (used with permission)
+Bryonia dioica Leaf	https://www.erowid.org/herbs/show_image.php?i=bryonia/bryonia_dioica_leaf1.jpg	Color photo of a female Bryonia dioica leaf. West Sussex, UK	&copy; 2002 Malcolm Storey, Bioimages.org.uk (used with permission)
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Bryonia
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Bryonia is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.	
+Bryonia root is approved for food use as a flavoring agent in the U.S. and appears in the FDA's list of substances Generally Recognized As Safe (GRAS).
+stateLaw :: null
+internationalLaw :: 

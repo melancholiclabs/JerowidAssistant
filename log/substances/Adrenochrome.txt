@@ -1,0 +1,52 @@
+[Substance]
+
+id :: 43
+name :: Adrenochrome
+url :: https://www.erowid.org/chemicals/adrenochrome/adrenochrome.shtml
+category :: Chemicals
+commonNames :: Pink Adrenaline
+effectsClassification :: Controversial
+chemicalName :: 3-hydroxy-1-methyl-5,6-indoline-dione
+description :: Adrenochrome is an oxidation product of adrenaline (ephinephrine, norepinephrine). It has achieved mythical status as a deliberately-ingested psychoactive -- boosted by H.S. Thompson's Fear and Loathing in Las Vegas -- though it is debated whether it has any psychoactive effects at all.
+imageURL :: https://www.erowid.org/chemicals/adrenochrome/images/adrenochrome_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/adrenochrome/adrenochrome_basics.shtml
+imagesURL :: https://www.erowid.org/chemicals/adrenochrome/adrenochrome_images.shtml
+lawURL :: https://www.erowid.org/chemicals/adrenochrome/adrenochrome_law.shtml
+
+[Basics]
+description :: When considering adrenochrome, it's helpful to remember that "adrenochrome" refers to two distinct things: 1) a metabolite of endogenous epinephrine occurring spontaneously in the body, 2) a byproduct of metabolized pharmaceutical epinephrine. Endogenous adrenochrome has been widely researched for its possible role in schizophrenia. It is described as a hallucinogen or psychotomimetic and a cholinesterase inhibitor. Cholinesterase is one of many important enzymes needed for the proper functioning of the nervous system.  Interest in adrenochrome as a deliberately administered psychoactive is largely a persisting myth popularized by Hunter S. Thompson's writing. The oral ingestion of a vial by the main character of Fear and Loathing in Las Vegas is not substantiated by published research or reports, which usually refer to the endogenous metabolite.  A derivative of adrenochrome, adrenochrome monosemicarbazone (or carbazochrome salicylate) is marketed in some countries for the prevention of certain types of bleeding, both IM and in tablets. [ Main Adrenochrome Vault ]
+descriptionSections :: dose	Dose Summary Needed.
+price	Price Summary Needed.
+law	Law Summary Needed.
+chemistry	Adrenochrome is an o-quinone.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	Adrenochrome's history is intimately tied to its identity as a metabolite of epinephrine. In Canada, it is rumored that during World War II, supplies of fresh adrenaline sometimes ran short. In emergencies, when some patients had to be given adrenaline from old stock -- adrenaline that had oxidized and turned slightly pink -- they experienced temporary hallucinations. This effect is substantiated today by product inserts in injectable epinephrine products which warn, "Do not use if it is pink, brown or contains precipitate. Epinephrine is sensitive to light and air, and is unstable in 5% dextrose." [Epinephrine is indicated in the emergency treatment of acute allergic reactions to various allergens as well as idiopathic or exercise-induced anaphylaxis.]
+terminology	The Substance:Adrenochrome; Pink Adrenaline. The Experience:No common terms known.
+effects :: The effects of exogenous adrenochrome have not been thoroughly documented, it is reputed to cause disorientation and hallucinations.  Adrenochrome monosemicarbazone, a pharmaceutical derivative of adrenochrome, was described in Adam Gottlieb's 1973 book Legal Highs, as "Physical (sic) stimulating, feeling of well-being, slight reduction of thought processes."
+effectsSections :: onset	Onset Summary Needed.
+duration	Duration Summary Needed.
+visuals	Visuals Summary Needed.
+problems :: Problems Summary Needed.
+problemsSections :: contraindications	Contraindications Summary Needed.
+addiction	Addiction Potential Summary Needed.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Images]
+imageEntryList :: Adrenochrome	https://www.erowid.org/chemicals/show_image.php?i=adrenochrome/adrenochrome_tablets__i2011e0549_disp.jpg	Small Spanish bottle and tablets of adrenochrome ("Adrenocromo"). [Spain]	Photo by Eduardo Hidalgo Downing. &copy; 2011 Erowid.org
+Adrenochrome Solution	https://www.erowid.org/chemicals/show_image.php?i=adrenochrome/adrenochrome_solution__i2006e1242_disp.jpg	Adrenochrome solution made from epinephrine (adrenaline) oxidized with silver oxide (catalyst). [Switzerland]	Photo by Geneva's Psychedelic Chemist. &copy; 2009 Erowid.org
+Adrenochrome Vial	https://www.erowid.org/chemicals/show_image.php?i=adrenochrome/adrenochrome_vial__i2013e0105_disp.jpg	An unopened vial of Adrenochrome. [Spain]	Photo by Eduardo H. Downing. &copy; 2013 Erowid
+Adrenochrome 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=adrenochrome/adrenochrome_2d.gif	Still 2D image of the Adrenochrome molecule.	Image by Erowid. &copy; 2006 Erowid.org
+Adrenochrome 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=adrenochrome/adrenochrome__.mol	Rotating 3D image of the Adrenochrome molecule.	Image by Erowid. &copy; 2006 Erowid.org
+Adrenochrome 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=adrenochrome/adrenochrome_2d_2.gif	Alternate still 2D image of the Adrenochrome molecule.	Image by trip.reset. &copy; 2006 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Adrenochrome
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: Adrenochrome is uncontrolled in the United States. This means it is generally considered legal to buy, possess, and distribute (sell, trade or give). If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: 

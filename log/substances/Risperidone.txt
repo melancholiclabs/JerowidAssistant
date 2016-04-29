@@ -1,0 +1,28 @@
+[Substance]
+
+id :: 310
+name :: Risperidone
+url :: https://www.erowid.org/pharms/risperidone/risperidone.shtml
+category :: Pharms
+commonNames :: Risperdal
+effectsClassification :: Anti-psychotic; Anti-schizophrenic; Neuroleptic; Sedative
+chemicalName :: 3-[2-[4-(6-fluoro-1,2-benzisoxazol-3-yl)-1-piperidinyl]ethyl]- 6,7,8,9-tetrahydro-2-methyl-4H-pyrido[1,2-a]pyrimidin-4-one
+description :: Risperidone is a serotonin and dopamine receptor antagonist. It is approved for the treatment of schizophrenia, and is sometimes prescribed as an adjunct therapy for the treatment of aggression, Tourette's syndrome, bipolar disorder, obsessive-compulsive disorder and other disorders.
+imageURL :: https://www.erowid.org/pharms/risperidone/images/risperidone_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/risperidone/risperidone_images.shtml
+lawURL :: https://www.erowid.org/pharms/risperidone/risperidone_law.shtml
+
+[Images]
+imageEntryList :: 1 mg Risperdal Tablet	https://www.erowid.org/pharms/show_image.php?i=risperidone/risperdal_tablet1.jpg	Photo showing 1 mg Risperdal tablets in blister packs. [TX, USA]	Photo by Embroglio, &copy; 2005 Erowid.org
+Risperidon Orion (Risperidone)	https://www.erowid.org/pharms/show_image.php?i=risperidone/risperidone_package__i2013e0237_disp.jpg	A package of 1 mg tablets of Risperidone, sold in Sweden by prescription. [Finland]	Photo by survival. &copy; 2013 Erowid.org
+Risperidone Packaging	https://www.erowid.org/pharms/show_image.php?i=risperidone/risperidone_package__i2008e0198_disp.jpg	Back of two Risperdal brand 1mg Risperidone tablets in their blister strips, made by Janssen-Cilag. [the Netherlands]	Photo by Psych0naut. &copy; 2013 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Risperidone
+REGULATED	Yes
+STATUS	Prescription Only
+SCHEDULE	Un-Scheduled
+federalLawText :: Risperidone (Risperdal) is unscheduled in the United States, but is available by prescription only. This means that sales and distribution are allowed only by those with a license and only to those with a prescription (according to FDA regulations). Possession is not illegal even without a prescription.
+stateLaw :: null
+internationalLaw :: Belgium	Prescription only. (thanks JH)

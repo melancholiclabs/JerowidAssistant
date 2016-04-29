@@ -1,0 +1,63 @@
+[Substance]
+
+id :: 23
+name :: 4-Hydroxy-DIPT
+url :: https://www.erowid.org/chemicals/4_ho_dipt/4_ho_dipt.shtml
+category :: Chemicals
+commonNames :: Iprocin
+effectsClassification :: Psychedelic Tryptamine
+chemicalName :: 4-hydroxy-N,N-diisopropyltryptamine
+description :: 4-HO-DIPT is a synthetic psychedelic. It is relatively uncommon and has only a short history of human use.
+imageURL :: https://www.erowid.org/chemicals/4_ho_dipt/images/4_ho_dipt_summary1.jpg
+imagesURL :: https://www.erowid.org/chemicals/4_ho_dipt/4_ho_dipt_images.shtml
+lawURL :: https://www.erowid.org/chemicals/4_ho_dipt/4_ho_dipt_law.shtml
+doseURL :: https://www.erowid.org/chemicals/4_ho_dipt/4_ho_dipt_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/4_ho_dipt/4_ho_dipt_chemistry.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Images]
+imageEntryList :: 4-HO-DiPT Powder	https://www.erowid.org/chemicals/show_image.php?i=4_ho_dipt/4-ho-dipt_powder__i2011e0525_disp.jpg	4-HO-DiPT salt purchased online from Canada. [BC, Canada]	Photo by Plutonic. &copy; 2011 Erowid.org
+4-HO-DIPT	https://www.erowid.org/chemicals/show_image.php?i=4_ho_dipt/4-ho-dipt_powder__i2006e0430_disp.jpg	Small baggie of 4-HO-DIPT purchased from Japan. [TX, USA]	Photo by Nephlyte. &copy; 2007 Erowid.org
+4-HO-DIPT 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=4_ho_dipt/4-ho-dipt_2d.gif	Still 2D image of the 4-HO-DiPT molecule.	Image by Erowid. &copy; 2001 Erowid.org
+4-HO-DIPT 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=4_ho_dipt/4-ho-dipt_3d.jpg	Still 3D image of the 4-HO-DiPT molecule.	Image by Erowid. &copy; 2000 Erowid.org
+4-HO-DiPT 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=4_ho_dipt/4-ho-dipt__.mol	Rotating 3D image of the 4-HO-DiPT molecule.	Image by Erowid. &copy; 2000 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+4-ho-DIPT
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Possible Analog
+federalLawText :: 4-ho-DIPT is unscheduled in the United States. It is possible that it could be considered an analog (of 5-MeO-DIPT), in which case, sales for human consumption or possession with the intent to ingest could be prosecuted under the Federal Analogue Act though we are unaware of any such existing cases (6/21/04).
+stateLaw :: null
+internationalLaw :: Japan	4-HO-DIPT is controlled as a "Designated Substance" (Shitei-Yakubutsu) by the Pharmaceutical Affairs Law, making it illegal to possess or sell (see Ref)
+Sweden	AMT,2C-C,2C-D, 4-AcO-DIPT, and 4-HO-DIPT were controlled as of March 1, 2005. See Statens Folkhaelsoinstitut. (thanks P)
+
+[Dose]
+doseTable :: Oral 4-Hydroxy-DiPT Dosages
+Threshold3 - 5 mg
+Light5 - 10 mg
+Common10 - 20 mg
+Strong15 - 30 mg
+Onset : 20 - 60 minutes (depending on form and stomach contents)
+Duration : 2 - 3 hours
+Normal After Effects : 1 - 4 hours
+doseText :: 4-Hydroxy-DIPT (or 4-HO-DIPT) is a tryptamine very similar to the more common 4-Acetoxy-DIPT. It is found as a slightly off-white powder and is usually taken orally. Dosages of 4-Hydroxy-DIPT are slightly lower than for 4-Acetoxy-DIPT.
+notes :: null
+
+[Chemistry]
+chemTable :: NAME :	4-HO-DiPT
+CHEMICAL NAME :	4-Hydroxy-N,N-diisopropyltryptamine
+ALTERNATE CHEMICAL NAMES : 	4-Indolol, 3-[2-(diisopropylamino)ethyl]
+CHEMICAL FORMULA	C16H24N2O
+MELTING POINT	263&#176; C
+MOLECULAR WEIGHT	260.375
+moleculeURL :: https://www.erowid.org/chemicals/4_ho_dipt/images/archive/4-ho-dipt_3d_mid.jpg
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

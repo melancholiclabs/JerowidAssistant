@@ -1,0 +1,51 @@
+[Substance]
+
+id :: 25
+name :: 4-Hydroxy-MIPT
+url :: https://www.erowid.org/chemicals/4_ho_mipt/4_ho_mipt.shtml
+category :: Chemicals
+commonNames :: None
+effectsClassification :: Psychedelic Tryptamine
+chemicalName :: 4-hydroxy-N,N-methyl-isopropyltryptamine
+description :: 4-HO-MiPT is a synthetic psychedelic considered similar in activity to psilocin. It is relatively uncommon and has only a short history of human use.
+imageURL :: https://www.erowid.org/chemicals/4_ho_mipt/images/4_ho_mipt_summary1.jpg
+lawURL :: https://www.erowid.org/chemicals/4_ho_mipt/4_ho_mipt_law.shtml
+doseURL :: https://www.erowid.org/chemicals/4_ho_mipt/4_ho_mipt_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/4_ho_mipt/4_ho_mipt_chemistry.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+4-HO-MIPT
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Possible Analog
+federalLawText :: 4-HO-MIPT is unscheduled in the United States. It is possible that it could be considered an analog (of 5-MeO-DIPT?), in which case, sales for human consumption or possession with the intent to ingest could be prosecuted under the Federal Analogue Act though we are unaware of any such existing cases (6/21/04).
+stateLaw :: null
+internationalLaw :: Sweden	4-HO-MIPT (along with 4-AcO-DET, 4-HO-DET, 4-AcO-MIPT and bk-MDMA) was scheduled as "h&auml;lsofarliga varor" (health-threatening substances, having no acceptable medical use) in Sweden on Nov 1 2005, according to the "Statens folkh&auml;lsoinstitut" web site [See related document from fhi.se]. (thanks WBF)
+
+[Dose]
+doseTable :: Oral 4-Hydroxy-MiPT Dosages
+Threshold5 - 10 mg
+Light9 - 14 mg
+Common13 - 20 mg
+Strong18 - 30 mg
+Onset : 20 - 60 minutes (depending on form and stomach contents)
+Duration : 2 - 3 hours
+Normal After Effects : 1 - 4 hours
+doseText :: 4-Hydroxy-MIPT (or 4-HO-MIPT) is a tryptamine very similar to 4-Acetoxy-MIPT. It is found as a slightly off-white powder and is usually taken orally. Dosages of 4-Hydroxy-MIPT are slightly lower than for 4-Acetoxy-MIPT.
+notes :: null
+
+[Chemistry]
+chemTable :: NAME :	4-HO-MiPT
+CHEMICAL NAME :	4-Hydroxy-N,N-methylisopropyltryptamine
+ALTERNATE CHEMICAL NAMES :
+moleculeURL :: null
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

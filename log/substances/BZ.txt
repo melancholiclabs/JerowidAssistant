@@ -1,0 +1,78 @@
+[Substance]
+
+id :: 54
+name :: BZ
+url :: https://www.erowid.org/chemicals/bz/bz.shtml
+category :: Chemicals
+commonNames :: QNB; EA 2277; Agent Buzz
+effectsClassification :: Anticholinergic Deliriant; Dissociative Hallucinogen; Incapacitant
+chemicalName :: 3-quinuclidinyl benzilate
+description :: BZ is a potent, long-lasting anticholinergenic deliriant that resembles scopolamine and atropine. The US Army conducted extensive research on BZ at Edgewood Arsenal. BZ is often associated with the film "Jacob's Ladder", though its effects are quite different from those depicted in the film.
+imageURL :: https://www.erowid.org/chemicals/images/chemicals_spacer_summary.jpg
+basicsURL :: https://www.erowid.org/chemicals/bz/bz_basics.shtml
+effectsURL :: https://www.erowid.org/chemicals/bz/bz_effects.shtml
+doseURL :: https://www.erowid.org/chemicals/bz/bz_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/bz/bz_chemistry.shtml
+
+[Basics]
+description :: BZ (3-quinuclidinyl benzilate, commonly known as QNB in scientific literature) is a potent synthetic deliriant that strongly resembles scopolamine and atropine, but lasts considerably longer (approx. 72 hours). Beginning in 1960, BZ was investigated by the US Army at Edgewood Arsenal for its possible use as an incapacitant, or chemical weapon able to neutralize enemy forces without causing physical injury.  Fueled in part by the scarcity of accurate information on the compound in the public domain, BZ gained notoriety as an ultra-powerful hallucinogen rumored to have either fantastic or horrific effects. This notoriety was fueled by its brief treatment in Shaitlin and Lee's widely-read Acid Dreams, and by its use in the fictional film "Jacob's Ladder".   "Jacob's Ladder" depicts the US Army administering a powerful hallucinogen to soldiers in the field during the Vietnam War. The text crawl preceding the end credits states that the events in the film were inspired by US Army use of BZ. There is no strong evidence that BZ has ever been operationally-deployed in the field, however, and there is no evidence whatsoever that BZ was administered to American soldiers in the field. Such use would contradict the Edgewood Army research and common sense, as the effects of BZ intoxication are characterized stupor and long-lasting delirium. [ Main BZ Vault ]
+descriptionSections :: dose	BZ is highly potent, with a dose on the order of 500 ug causing profound physical and mental symptoms for several days. Numerous dose-response trials conducted at Edgewood Arsenal established that IV 7 ug/kg is a reliable incapacitating dose; i.e. would produce strong symptoms for 60-70 hours. Doses below 5 ug/kg were found to never cause complete incapacitation, while doses at or above 7 ug/kg always did.
+price	Owing to the generally undesirable nature of its effects, BZ has no reported history of black market sale.
+law	BZ is controlled under the Chemical Weapons Convention of 1993 (Schedule 2). According to U.S. Chemical Weapons Convention guidelines, the activity threshold for declaration and reporting of BZ is 1 kg.
+chemistry	3-Quinuclidinyl Benzilate is a synthetic glyolate anticholinergic compound.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	BZ was first synthesized as a possible ulcer remedy in 1952 by Hoffman-LaRoche. The US Army began exploring BZ in 1960 for its possible use as an incapacitating agent. Over the next several years, hundreds of experiements were conducted at Edgewood Arsenal on human volunteers exploring BZ's pharmacology. In 1965, Edgewood conducted experiments on volunteers recruited from Holmesburg Prison. BZ was stockpiled in large quantities until the late 1960s, when it was concluded that it was not appropriate for operational use. In 1993, the Chemical Weapons Convention listed BZ as a Schedule 2 controlled chemical.
+terminology	The Substance:BZ. The Experience:No common terms known.
+effects :: Subjects alternate between delirium and slumber, experiencing hallucinations similar in character to those produced by datura and belladonna. During periods of wakefulness, subjects are deeply disoriented and often immersed in fugue-like waking dreams. Frank hallucinations are common and are taken in stride by subjects, who typically accept the logic of the bizarre worlds in which they find themselves. If asked for explanations of their bizarre behavior, subjects will frequently give answers that are perfectly logical, assuming that one truly is being harassed by a 4-foot long rabbit.   Physical symptoms also occur, such as dryness of mouth, pupilary dilation, loss of coordination, a feeling of weakness, and blockade of sweat glands.
+effectsSections :: onset	Symptoms become apparent at around one hour, and grow steadily for about 3 more hours. Most subjects enter a stuporous slumber by the fourth hour.
+duration	BZ primary effects typically last from 60-70 hours.
+visuals	Visuals Summary Needed.
+problems :: BZ produces a variety of physical and mental symptoms that could easily be life-threatening in the absence of close supervision. Subjects are profoundly disoriented but fully-active for long periods of time, and could easily harm themselves or others. Subjects administered BZ in the Edgewood Arsenal experiments sometimes became violent, thinking that they were in combat situations, and had to be restrained for their own safety. It is unclear to what degree this was a function of the setting (i.e. the tests were conducted on an army base).   Presumably the experience of "recreational" users of BZ in an uncontrolled environment would be similar to the experiences of persons who ingest datura and belladonna, only with effects lasting for several days. Given the large percentage of extremely negative Experience Reports associated with those two substances, it is hard to imagine any good coming of a BZ experience.   Erowid has not received any reports of recreational use of BZ, and owing to the factors described above, it is hard to imagine that any will be forthcoming. However, it is worth noting that many volunteer subjects who took BZ at Edgewood Arsenal re-volunteered for multiple trials.
+problemsSections :: contraindications	According to the research conducted at Fort Bragg and Edgewood Arsenal, Erowid recommends not attempting any of the following activities while under the influence of BZ:    Do not attempt to assemble, disassemble, clean, or repair firearms. Do not attempt to assemble a tent. If you are in the field, be sure to bivouac BEFORE being sprayed with BZ. Do not attempt complex field maneuvers. Platoon field cohesiveness may be impaired.
+addiction	BZ is believed not to be physically or psychologically addictive.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Effects]
+duration :: BZ Duration
+Oral, IM, IV
+Total Duration	approx. 70-80 hrs
+Onset	1 hr
+Coming Up	2-3 hrs
+Plateau	50-60 hrs
+Coming Down	5-10 hrs
+&nbsp;	&nbsp;
+After Effects	10-20 hours
+Hangover / Day After	days or weeks
+positiveEffects :: upon recovery from effects, some subjects report a refreshed feeling and good mood
+neutralEffects :: heightened deep tendon reflexes	clipped, flat speech	slurred speech	stereotyped utterances (fixation on short catch-phrases or figures of speech)	frank hallucinations, elaborate interaction with hallucinations	smoking and drinking of phantom cigarettes and beverages	decreased appetite, thirst	mydriasis (extreme pupilary dilation)	confabulation (giving plausible-but-false explanations for bizarre behavior)	micrographia (tiny writing, sometimes observed in schizophrenics)	illusion of red coloration of skin	loss of sense of the passage of time
+negativeEffects :: dizziness, headache	errors of speech	dry mouth, dry eyes	nausea, usually without vomiting	subjective weakness	ataxia (uncoordinated movement)	extreme restlessness	clonic spasms (repetitive muscle contractions)	paranoia, fear, unease	night terrors (vivid, open-eyed hallucinations with a nightmare quality)	confusion, delirium, impaired cognitive function	sedation, stupor, semi-coma at high doses	perseveration (fixation on words or themes, inability to disengage from them)	amnesia	blockade of sweat glands, impairing heat-dispersal	cardiac failure possible in large doses
+description :: null
+experienceReports :: null
+
+[Dose]
+doseTable :: BZ Dosages (IM)
+Threshold1-5.3 ug/kg
+Light5.4-6 ug/kg
+Common6-7 ug/kg
+Strong7-8 ug/kg
+Heavy9+ ug/kg
+LD50 (Lethal Dose*)approx 250 ug/kg(estimated LD50 for humans)
+Onset : 1-4 hrs
+Duration : 70-80 hrs
+Normal After Effects : mild symptoms may persist for days or weeks
+doseText :: BZ has been adminstered through several routes, including IM, IV, oral, and inhalation (aerosol).      BZ Dosages (IM) Threshold1-5.3 ug/kg Light5.4-6 ug/kg Common6-7 ug/kg Strong7-8 ug/kg Heavy9+ ug/kg LD50 (Lethal Dose*)approx 250 ug/kg(estimated LD50 for humans)    Onset : 1-4 hrs Duration : 70-80 hrs Normal After Effects : mild symptoms may persist for days or weeks   * LD50 = dose which will kill 50% of the tested animals.   Every individual reacts differently to every chemical. Know your Body - Know your Mind - Know your Substance - Know your Source.   Erowid's dosage information is a summary of data gathered from users, research, and other resources and should not be construed as recommendations. Individuals can respond differently to the same dosage. What is safe for one can be deadly for another.     Routes of Administration  Research on BZ conducted at Edgewood Arsenal explored the comparative efficacy of different routes of administration. The ideal route for the Army's purposes was inhalation via aerosol, which would allow the rapid, wide-scale administration of the drug during operations. Inhalation proved to be a viable route, and its tactical efficacy was confirmed in Project DORK at Fort Bragg, in which US Army volunteers were administered aerosolized BZ during training exercises.   Data is sometimes presented with reference to IM/IV dose levels, with an understood coefficient of 65% efficacy for inhalation-administered doses. Ketchum derived this value from experiments examining inhalation of BZ in an enclosed chamber. Inhalation was found to be about 65% as effective in drug delivery as the IV route, based on 80% retention of BZ by lungs and 80% absorption of the retained dose. 1    Incapacitating Dose (ID50) While most psychoactive substances are explored for medical, mind-expanding, or recreational qualities, BZ is primarily associated with producing states of delirium and stupor. Most psychoactive drugs are described in terms of their ED50 (a measure of effective dose), but BZ is frequently described in terms of ID50 (a measure of incapacitating dose. This is a reflection of the fact that its effects are generally considered undesirable and an artifact of the military venue of most BZ research. 1  Second-Dose Effects Experimental findings indicate that a second dose of BZ administered 2-4 weeks after a first session show acceleration of onset, heightened peak effect, and acceleration of recovery.   LD50 There are no documented BZ-related fatalities due to overdose. An approximate LD50 of 250 ug/kg in humans has been extrapolated from animal studies. Probable cause of death from a lethal overdose of BZ would be cardiac failure, although death could result from BZ's inhibition of heat dispersal mechanisms.      References 1.Ketchum JS. Chemical Warfare; Secrets Almost Forgotten. James S. Ketchum, MD. 2006.  2.Crowell EB, Ketchum JS. "The treatment of scopolamine-induced delirium with physostigmine". Clin Pharmacol Ther May-Jun 1967; 8:409-14. 3.Duvoisin RC, Katz R. "Reversal of central anticholinergic syndrome in man by physostigmine". JAMA. Nov 25 1968; 206(9):1963-5.
+notes :: null
+
+[Chemistry]
+chemTable :: NAME :	3-Quinuclidinyl Benzilate
+CHEMICAL NAME :	1-azabicyclo[2.2.2]oct-3-yl alpha-hydroxy-alpha-phenylbenzeneacetate
+ALTERNATE CHEMICAL NAMES :	BZ; QNB; EA 2277; Agent Buzz
+CHEMICAL FORMULA	C21H23NO3
+MOLECULAR WEIGHT	337.4
+MELTING POINT	167.5&#176; C
+BOILING POINT	320&#176; C
+LD50	estimated: approx 250 ug/kg (humans)
+From Detailed Facts About Psychedelic Quinuclidinyl Benzilate (BZ) and Chemical Warfare
+moleculeURL :: https://www.erowid.org/chemicals/bz/images/archive/bz_3d_med.jpg

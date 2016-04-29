@@ -1,0 +1,10 @@
+[Substance]
+
+id :: 253
+name :: aspirin
+url :: null
+category :: Pharms
+commonNames :: null
+effectsClassification :: null
+chemicalName :: null
+description :: null

@@ -1,0 +1,51 @@
+[Substance]
+
+id :: 135
+name :: Anadenanthera spp.
+url :: https://www.erowid.org/plants/anadenanthera/anadenanthera.shtml
+category :: Plants
+botanicalClassification :: Family :Fabaceae (=Leguminosae; Mimosaceae), Genus :Anadenanthera, Species :peregrina; colubrina; excelsa; macrocarpacommonNames :: Yopo; Cohoba; Vilca
+effectsClassification :: Psychedelic
+description :: Anadenanthera is a genus of trees, some of which produce DMT, bufotenin, and 5-MeO-DMT-containing seeds in pods. There is a long history of use of these seeds in South America.
+imageURL :: https://www.erowid.org/plants/anadenanthera/images/anadenanthera_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/anadenanthera/anadenanthera_images.shtml
+lawURL :: https://www.erowid.org/plants/anadenanthera/anadenanthera_law.shtml
+
+[Images]
+imageEntryList :: Anadenanthera colubrina	https://www.erowid.org/plants/show_image.php?i=anadenanthera/anadenanthera_colubrina_seed10.jpg	Color photo of a small pile of Anadenanthera colubrina var cebil seeds.	Photo by Erowid, &copy; 2003 Erowid.org
+Anadenanthera colubrina Seeds	https://www.erowid.org/plants/show_image.php?i=anadenanthera/anadenanthera_colubrina_seeds__i2004e0071_disp.jpg	A. colubrina var cebil seeds. These 2 years old seeds had a 95% germination rate.	Photo by Plura16. &copy; 2006 Erowid.org
+Anadenanthera colubrina	https://www.erowid.org/plants/show_image.php?i=anadenanthera/anadenanthera_colubrina1.jpg	Color photo of an Anadenanthera colubrina var cebil herbarium display by the Botanical Preservation Corps. Palenque, Mexico.	Photo by Freeblood, &copy; 2000 Erowid.org
+Anadenanthera colubrina	https://www.erowid.org/plants/show_image.php?i=anadenanthera/anadenanthera_colubrina_seed1.jpg	Close-up color photo of five dried Anadenanthera colubrina var cebil ex salta seeds from Argentina.	Photo by Erowid, &copy; 2000 Erowid.org
+Anadenanthera colubrina	https://www.erowid.org/plants/show_image.php?i=anadenanthera/anadenanthera_colubrina_seed2.jpg	Extreme close-up photo of a single dried Anadenanthera colubrina var cebil ex salta seed from Argentina.	Photo by Erowid, &copy; 2000 Erowid.org
+Anadenanthera colubrina	https://www.erowid.org/plants/show_image.php?i=anadenanthera/anadenanthera_colubrina_seed3.jpg	Extreme close-up photo of a single dried Anadenanthera colubrina var cebil ex salta seed from Argentina.	Photo by Erowid, &copy; 2000 Erowid.org
+Anadenanthera colubrina Seedpod	https://www.erowid.org/plants/show_image.php?i=anadenanthera/anadenanthera_colubrina_seedpod__i2004e0158_disp.jpg	A single A. colubrina seedpod. [Brazil]	Photo by Frank. &copy; 2006 Erowid.org
+Anadenanthera colubrina	https://www.erowid.org/plants/show_image.php?i=anadenanthera/anadenanthera_colubrina_seed8.jpg	Close-up color photo of dried Anadenanthera colubrina var cebil ex jb-la seeds.	Photo by Erowid, &copy; 2000 Erowid.org
+Anadenanthera colubrina	https://www.erowid.org/plants/show_image.php?i=anadenanthera/anadenanthera_colubrina_seed6.jpg	Close-up color photo of dried Anadenanthera colubrina seeds from Peru.	Photo by Erowid, &copy; 2000 Erowid.org
+Anadenanthera colubrina	https://www.erowid.org/plants/show_image.php?i=anadenanthera/anadenanthera_colubrina_seed7.jpg	Close-up color photo of dried Anadenanthera colubrina seeds from Peru...displayed with a dime for size comparison.	Photo by Erowid, &copy; 2000 Erowid.org
+Anadenanthera colubrina	https://www.erowid.org/plants/show_image.php?i=anadenanthera/anadenanthera_colubrina_seed11.jpg	Anadenanthera colubrina seeds and seedpods. [MO, USA]	Photo by Alkaloidaholic, &copy; 2003 Erowid.org
+Anadenanthera colubrina	https://www.erowid.org/plants/show_image.php?i=anadenanthera/anadenanthera_colubrina_seed9.jpg	Color photo of a handful of sprouting A. colubrina seeds var cebil ex salta native to high altitudes of the Peruvian Andes.	Photo by Maurice of Maya Ethnobotanicals, &copy; 2003 Erowid.org
+Bufotenine from Yopo	https://www.erowid.org/chemicals/show_image.php?i=bufotenin/bufotenine__i2009e0366_disp.jpg	A vial containing 150 mg of bufotenine freebase crystals, extracted from Anadenanthera colubrina seeds (Yopo). The vial is nested on Yopo seeds from Peru. The bufotenine was recrystallised from ethyl acetate/hexane. [UK]	Photo by Crystal Toad. &copy; 2009 Erowid.org
+Anadenanthera peregrina Seeds	https://www.erowid.org/plants/show_image.php?i=anadenanthera/anadenanthera_peregrina_seeds__i2005e0231_disp.jpg	A small pile of Anadenanthera peregrina (yopo) seeds in a hand. [BC, Canada]	Photo by mrGrundy. &copy; 2007 Erowid.org
+Anadenanthera peregrina	https://www.erowid.org/plants/show_image.php?i=anadenanthera/anadenanthera_peregrina_seed2.jpg	Color photo of a small pile of Anadenanthera peregrina (yopo) seeds.	Photo by Erowid, &copy; 2003 Erowid.org
+Anadenanthera peregrina	https://www.erowid.org/plants/show_image.php?i=anadenanthera/anadenanthera_peregrina_seed1.jpg	Close-up color photo of five Anadenanthera peregrina seeds from Guyana.	Photo by Erowid, &copy; 2000 Erowid.org
+Anadenanthera peregrina	https://www.erowid.org/plants/show_image.php?i=anadenanthera/anadenanthera_peregrina4.jpg	Color photo showing the foliage of a small A. peregrina plant.	Photo by Shameless-Angus, &copy; 2002 Erowid.org
+Anadenanthera peregrina	https://www.erowid.org/plants/show_image.php?i=anadenanthera/anadenanthera_peregrina3.jpg	Color photo of an Anadenanthera peregrina herbarium display by the Botanical Preservation Corps. Palenque, Mexico.	Photo by Freeblood, &copy; 2000 Erowid.org
+Anadenanthera peregrina	https://www.erowid.org/plants/show_image.php?i=anadenanthera/anadenanthera_peregrina1.jpg	Color drawing of branch with beans.	From Plants of the Gods, by Schultes and Hofmann
+Anadenanthera peregrina	https://www.erowid.org/plants/show_image.php?i=anadenanthera/anadenanthera_peregrina2.jpg	Black and white photo of full size tree.	From Psychedelics Encyclopedia, by Peter Stafford
+N,N-DMT 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=dmt/dmt_3d.jpg	Still 3D image of the N,N-DMT molecule.	Image by Erowid, &copy; 2000 Erowid.org
+N,N-DMT 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=dmt/dmt__.mol	Rotating 3D image of the N,N-DMT molecule.	Image by Erowid, &copy; 2000 Erowid.org
+5-MeO-DMT 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=5meo_dmt/5-meo-dmt_3d.jpg	Still 3D image of the 5-MeO-DMT molecule.	Image by Erowid, &copy; 2000 Erowid.org
+5-MeO-DMT 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=5meo_dmt/5-meo-dmt__.mol	Rotating 3D image of the 5-MeO-DMT molecule.	Image by Erowid, &copy; 2000 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Anadenanthera spp.
+REGULATED	No
+STATUS	Ambiguous
+SCHEDULE	May ContainSchedule I Chemical
+CLASSIFICATION	Hallucinogen
+federalLawText :: Neither Anadenanthera colubrina, Anadenathera peregrina nor any other Anadenanthera species are controlled species in the United States. Live plants and seeds are often sold and grown. However, DMT, one of the chemicals contained in the plant, is Schedule I in the U.S. Practically, this means that if an extraction is done on DMT containing Anadenanthera species, the resulting DMT is illegal to possess. We are unaware of any cases in which an individual has been prosecuted simply for growing a plant or for doing a home extraction of a plant, although it seems quite possible that a few such cases exist.	
+Large scale (especially commercial) extraction of DMT from Anadenanthera species falls into the realm of "clearly illegal" and would very likely be prosecuted. It is also quite possible that importation of DMT containing Anadenanthera species into the United States could result in problems with customs, especially if large volumes are imported.
+stateLaw :: Louisiana	Effective Aug 8, 2005 (signed into law Jun 28, 2005) Louisiana Act No 159 makes 40 plants illegal, including A. peregrina and A. colubrina, when intended for human consumption. The law specifically excludes the "possession, planting, cultivation, growing, or harvesting" of these plants if used "strictly for aesthetic, landscaping, or decorative purposes." (Text of HLS_05RS-52 and Update June 2005)
+Tennessee 	Tennessee did not pass the proposed bill that would have banned dozens of plants as "hallucinogenic" when intended for human consumption. Instead, they banned only Salvia divinorum. See Comments on New State Laws Controlling the Consumption of Hallucinogenic Plants.
+internationalLaw :: 

@@ -1,0 +1,84 @@
+[Substance]
+
+id :: 52
+name :: Bromo-Dragonfly
+url :: https://www.erowid.org/chemicals/bromo_dragonfly/bromo_dragonfly.shtml
+category :: Chemicals
+commonNames :: 3C-Bromo-Dragonfly; DOB-Dragonfly
+effectsClassification :: Psychedelic Phenethylamine-like
+chemicalName :: 1-(8-bromobenzo[1,2-b;4,5-b']difuran-4-yl) -2-aminopropane
+description :: Bromo-Dragonfly is a synthetic psychedelic. It is very uncommon with nearly no history of human use. Bromo-Dragonfly is part of a new class of benzodifurans, related to phenethylamine, but distinct in structure. Found on blotter as well as in powder form.
+imageURL :: https://www.erowid.org/chemicals/bromo_dragonfly/images/bromo_dragonfly_summary1.jpg
+effectsURL :: https://www.erowid.org/chemicals/bromo_dragonfly/bromo_dragonfly_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/bromo_dragonfly/bromo_dragonfly_images.shtml
+lawURL :: https://www.erowid.org/chemicals/bromo_dragonfly/bromo_dragonfly_law.shtml
+doseURL :: https://www.erowid.org/chemicals/bromo_dragonfly/bromo_dragonfly_dose.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Effects]
+duration :: Bromo-Dragonfly Duration
+Oral
+Total Duration	12-24 hrs
+Onset	20 - 90 mins
+Coming Up	30 - 60  mins
+Plateau	6 - 12 hrs
+Coming Down	4 - 12 hrs
+&nbsp;	&nbsp;
+After Effects	6 - 36 hrs
+Hangover / Day After	- - -
+positiveEffects :: mood lift	visual changes (trails, pattens, etc)	increase in energy (stimulation)	increased associative thinking	ego softening
+neutralEffects :: decreased appetite	visual distortion
+negativeEffects :: short-term memory scramble or loss & confusion	muscle tension	unknown risks due to research chemical status
+description :: The effects of Bromo-Dragonfly are not well understood in humans. It is a potent serotonin agonist and causes effects consistent with 5-HT-2A hallucinogens.
+experienceReports :: null
+
+[Images]
+imageEntryList :: Bromo-Dragonfly	https://www.erowid.org/chemicals/show_image.php?i=bromo_dragonfly/bromo_dragonfly_powder__i2005e1669_disp.jpg	Small baggie of Bromo-Dragonfly powder [CA, USA]	Photo by shermanisland. &copy; 2007 Erowid.org
+Bromo-Dragonfly Product Packaging	https://www.erowid.org/chemicals/show_image.php?i=bromo_dragonfly/bromo_dragonfly_product1.jpg	Color photo of Japanese product	Photo by Spot. &copy; 2005 Erowid.org
+Bromo-Dragonfly 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=bromo_dragonfly/bromo_dragonfly_2d.gif	Still 2D image of the Bromo-Dragonfly molecule.	Image by Erowid. &copy; 2005 Erowid.org
+Bromo-Dragonfly 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=bromo_dragonfly/bromo_dragonfly__.mol	Rotating 3D image of the Bromo-dragonfly molecule.	Image by Erowid. &copy; 2005 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Bromo-Dragonfly
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Possible Analog
+federalLawText :: Bromo-Dragonfly is unscheduled in the United States. It is possible that it could be considered an analog (of DOB or 2C-B), in which case, sales for human consumption or possession with the intent to ingest could be prosecuted under the Federal Analogue Act though we are unaware of any such existing cases (9/7/07).
+stateLaw :: null
+internationalLaw :: Australia	Bromo-Dragonfly was added to Schedule 9, Australia's most restrictive schedule, in February 2009. See http://www.tga.gov.au/ndpsc/gazette/g0902pos.pdf. (Thanks B) (last updated Apr 11, 2009)
+Denmark	Effective December 5, 2007, the Danish Sundhedsstyrelsen (Health Board) has banned non-research use of Bromo-Dragonfly, citing serious psychological and health risks. Minister of Health and Prohibition Jakob Axel Nielsen commented "The ban agrees with the government's commitment to react quickly and sharply against new eurphoric drugs. It is vital that we send a clear and unambiguous message that we neither can nor want to accept substances such as Bromo-Dragonfly." (see Pressemeddelelse). (translation thanks to S, PFC)
+Finland	Finland has added Bromo-Dragonfly to its list of controlled substances, but we don't know what specific 'schedule' or classification it is in. See (in Finnish) http://www.iltasanomat.fi/kotimaa/art-1288452412062.html. (thanks a) (last updated Oct 3 2012)
+Norway	The "Derivatbestemmelsen" is an Analog Act-type law in Norway that controls 4-methylmethcathinone, Bk-MBDB, Bromo-Dragonfly, 1,4butanediol, GBL, and MBDB. See legemiddelverket.no. (thanks o) (last updated April 29 2009)
+Sweden	Bromo-Dragonfly was classed as a "health hazard" in Sweden on Jul 15 2007, making it illegal to sell and possess there. See Statens folkh&auml;lsoinstitut (thanks A)
+
+[Dose]
+doseTable :: Oral Bromo-Dragonfly Dosages
+2006WARNING: SEE NOTES ABOVE
+Threshold500 ug
+Common800 - 1300 ug
+Strong1200 - 1800
+Heavy1600 +  ug
+
+
+
+
+Oral Bromo-Dragonfly Dosages
+2005 "European" BatchWARNING: SEE NOTES ABOVE
+Threshold100 ug
+Common200-400 ug
+Strong500-800 ug
+Heavy800 +  ug
+Onset : 20 - 90 minutes (depending on form and stomach contents)
+Duration : 10 - 24 hours
+Normal After Effects : up to 36 hours
+doseText :: Bromo-Dragonfly is a chemical which has very little history of human use and was used as a novel brain research chemical with rats in the mid 1990s at Purdue. When it was discovered to be active in rats, it was found to be very potent. A few years after the initial papers describing its activity in the brain, reports surfaced of human experimentation, suggesting oral activity well under 1 milligram. Some disputed these findings and said that Bromo-Dragonfly was only active under 1 mg when injected.  In May 2005, a quantity of this chemical became available in some human experimental psychoactive markets. Erowid received a smattering of reports about its use and an increasing number of questions about it. As of Jan 2009, we have still only received approximately 50 first-hand accounts of ingestion of Bromo-Dragonfly. The findings are very contradictory, with some people claiming strong oral activity at 300 micrograms (ug), while others say they got virtually no effects at 1.5 mg (1500 ug).  There may be two distinct "batches" of material: one more potent and one less. Since 2006, most reports indicate that the dosage range for available material is 800-2000 ug rather than the more potent batch of product sold as BromoDragonfly in 2005. In 2005, the more potent batch was sometimes called the "European" batch and the less potent batch the "American" batch, although this distinction is not in common use. It seems likely that these two batches were not even the same chemical, but it is impossible to know.   Bromo-Dragonfly has been found in some pressed tablets, but more commonly it is found on blotter or in powder form.   There have been a growing number of reports from people saying that they got blotter that they thought was LSD, but instead it felt like something else. Generally, since there is no verification of the substance, these reports are not considered when trying to estimate dosage and effects of novel chemicals.  Please note that with only a small number of reports available, it is unwise to assume that these reports are representative of how a chemical presumed to be Bromo-Dragonfly will affect other individuals. Please see the Research Chemical Vault for more information about chemicals for research that are sold for human consumption.      Oral Bromo-Dragonfly Dosages 2006WARNING: SEE NOTES ABOVE Threshold500 ug Common800 - 1300 ug Strong1200 - 1800 Heavy1600 + ug     Oral Bromo-Dragonfly Dosages 2005 "European" BatchWARNING: SEE NOTES ABOVE Threshold100 ug Common200-400 ug Strong500-800 ug Heavy800 + ug    Onset : 20 - 90 minutes (depending on form and stomach contents) Duration : 10 - 24 hours Normal After Effects : up to 36 hours     Overdose Effects: One report of a very high dose resulted in: extremely long duration (2-4 days), flushing, ego-loss, dissociation, headache, etc.
+notes :: null
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

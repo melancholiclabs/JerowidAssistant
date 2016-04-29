@@ -1,0 +1,30 @@
+[Substance]
+
+id :: 241
+name :: European Pennyroyal
+url :: https://www.erowid.org/herbs/pennyroyal/pennyroyal.shtml
+category :: Herbs
+botanicalClassification :: Family :Lamiaceae (Former: Labiatae), Genus :Mentha, Species :pulegiumcommonNames :: Pennyroyal; Squawmint; Tickweed
+uses :: Treatment for fever, nausea, gas, coughs and digestive problems; Abortifacient; Anxiolytic; Insect Repellant
+description :: Pennyroyal has short stalks with smooth-edged or slightly toothed, hairy leaves up to 1/1/2 inches long. It grows up to 1 1/2 feet, with purple-pink flowers in round whorls at the top of the stems.
+imageURL :: https://www.erowid.org/herbs/images/herbs_spacer_summary.jpg
+imagesURL :: https://www.erowid.org/herbs/pennyroyal/pennyroyal_images.shtml
+lawURL :: https://www.erowid.org/herbs/pennyroyal/pennyroyal_law.shtml
+
+[Images]
+imageEntryList :: Mentha pulegium (pennyroyal)	https://www.erowid.org/herbs/show_image.php?i=pennyroyal/mentha_pulegium__i2012e0262_disp.jpg	Mentha pulegium (pennyroyal) leaves and stems. [Australia]	Photo by Tide. &copy; 2012 Erowid.org
+Mentha pulegium	https://www.erowid.org/herbs/show_image.php?i=pennyroyal/mentha_pulegium__i2007e1157_disp.jpg	A pot containing a four month old Mentha pulegium (Pennyroyal) plant. [UK]	Photo by Peter Hogan. &copy; 2007 Erowid.org
+Mentha pulegium	https://www.erowid.org/herbs/show_image.php?i=pennyroyal/mentha_pulegium2.jpg	Color photo of the leaves of a group of plants.	Photographer unknown.
+Mentha pulegium	https://www.erowid.org/herbs/show_image.php?i=pennyroyal/mentha_pulegium1.jpg	Color drawing of plant.	Artist unknown.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Mentha pulegium
+REGULATED	No
+STATUS	Food Approved
+SCHEDULE	Un-Scheduled
+federalLawText :: Pennyroyal (Mentha pulegium) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.	
+Mentha pulegium oil is approved for food use as a flavoring in the U.S. and appears in the FDA's list of substances Generally Recognized As Safe (GRAS).	
+Hedeoma pulegioides oil is approved for food use as a flavoring in the U.S. and appears in the FDA's list of substances Generally Recognized As Safe (GRAS).
+stateLaw :: null
+internationalLaw :: 

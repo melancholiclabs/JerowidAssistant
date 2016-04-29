@@ -1,0 +1,14 @@
+[Substance]
+
+id :: 140
+name :: Blue Lily
+url :: https://www.erowid.org/plants/bluelily/bluelily.shtml
+category :: Plants
+botanicalClassification :: Family :Liliaceae, Genus :Agapanthus, Species :africanus; umbellatuscommonNames :: Blue Lily; Blue African Lily; Lily of the Nile
+effectsClassification :: None
+description :: Agapanthus africanus (Blue Lily) is sometimes confused with Nymphaea caerulea (Blue Lotus). There are no known psychoactive effects of A. africanus and no history of human use. It is included here only to differentiate it from Nymphaea caerulea.
+imageURL :: https://www.erowid.org/plants/bluelily/images/bluelily_summary1.jpg
+imagesURL :: https://www.erowid.org/plants/bluelily/bluelily_images.shtml
+
+[Images]
+imageEntryList :: Agapanthus africanus	https://www.erowid.org/plants/show_image.php?i=bluelily/agapanthus_africanus1.gif	Color photo of blue water lily.	Photo by Ian Clayton.

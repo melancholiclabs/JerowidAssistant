@@ -1,0 +1,27 @@
+[Substance]
+
+id :: 246
+name :: Valerian
+url :: https://www.erowid.org/herbs/valerian/valerian.shtml
+category :: Herbs
+botanicalClassification :: Family :Valerianaceae, Genus :Valeriana, Species :officinaliscommonNames :: Allheal; English Valerian; German Valerian; Vandalroot; Garden Heliotrope
+uses :: Sedative; Relaxant; Anxiolytic; Treatment for cramps and painful periods; Migraine Treatment.
+description :: Valerian is an herbaceous perennial, with a strong, fetid smell. The stem is erect, grooved, and hairy near the base, and sometimes branched above. It bears four to eight pairs of leaves. The dark-green leaves are sometimes divided more than once. The pink-tinged flowers are small and tubular.
+imageURL :: https://www.erowid.org/herbs/valerian/images/valerian_summary1.jpg
+imagesURL :: https://www.erowid.org/herbs/valerian/valerian_images.shtml
+lawURL :: https://www.erowid.org/herbs/valerian/valerian_law.shtml
+
+[Images]
+imageEntryList :: Valeriana officinalis Flower	https://www.erowid.org/herbs/show_image.php?i=valerian/valeriana_officinalis_flower__i2005e1334_disp.jpg	Valeriana officinalis in an early stage of flowering. [Belgium]	Photo by Maarten. &copy; 2007 Erowid.org
+Valeriana officinalis	https://www.erowid.org/herbs/show_image.php?i=valerian/valeriana_officinalis1.jpg	Color photo of flowering valerian plant. Image from The Illustrated Encyclopedia of Perennials.	Photographer unknown.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Valerian
+REGULATED	No
+STATUS	- - -
+SCHEDULE	Un-Scheduled
+federalLawText :: Valerian (Valeriana officinalis) is uncontrolled in the United States. This means all parts of the plant and its extracts are legal to cultivate, buy, possess, and distribute (sell, trade or give) without a license or prescription. If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.	
+Valerian root oil and extract is approved for food use as a spice or seasoning in the U.S. and appears in the FDA's list of substances Generally Recognized As Safe (GRAS).
+stateLaw :: null
+internationalLaw :: 

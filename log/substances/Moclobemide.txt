@@ -1,0 +1,17 @@
+[Substance]
+
+id :: 293
+name :: Moclobemide
+url :: https://www.erowid.org/pharms/moclobemide/moclobemide.shtml
+category :: Pharms
+commonNames :: Aurorix; Manerix
+effectsClassification :: Antidepressant; MAOI-A
+chemicalName :: 4-chloro-N-[2-(4-morpholinyl)-ethyl]benzamide
+description :: Moclembemide is a reversible inhibitor of MAO type A (an MAOI-A, also known as a RIMA, "Reversible Inhibitor of Monoamine-oxidase A"). It is used in the treatment of depression.
+imageURL :: https://www.erowid.org/pharms/moclobemide/images/moclobemide_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/moclobemide/moclobemide_images.shtml
+
+[Images]
+imageEntryList :: Moclobemide Tablets	https://www.erowid.org/pharms/show_image.php?i=moclobemide/moclobemide_tablet__i2006e0238_disp.jpg	A blister pack of 150 mg Aurorix (Moclobemide) tablets bearing the imprint "ROCHE / 150". [Moscow, Russia]	Photo by YK. &copy; 2007 Erowid.org
+Moclobemide 2D Molecule	https://www.erowid.org/pharms/show_molecule.php?i=moclobemide/moclobemide_2d.gif	Still 2D image of the Moclobemide molecule.	Image by Erowid, &copy; 2001 Erowid.org
+Moclobemide 3D Rotating Molecule	https://www.erowid.org/pharms/show_molecule.php?i=moclobemide/moclobemide__.mol	Rotating 3D image of the Moclobemide molecule.	Image by Erowid, &copy; 2001 Erowid.org

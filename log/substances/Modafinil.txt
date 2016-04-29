@@ -1,0 +1,71 @@
+[Substance]
+
+id :: 337
+name :: Modafinil
+url :: https://www.erowid.org/smarts/modafinil/modafinil.shtml
+category :: Smarts
+commonNames :: Provigil; Modavigil; Armodafinil; Nuvigil
+effectsClassification :: Stimulant, wakefulness promoter, narcolepsy treatment
+chemicalName :: benzhydrylsulphinylacetamide
+description :: Modafinil is a mild central nervous system stimulant used in the treatment of fatigue and sleepiness. It is approved in the U.S. for the treatment of narcolepsy. Armodafinil is the isolated active R-stereoisomer, modafinil is a racemic mix of both stereoisomers.
+imageURL :: https://www.erowid.org/smarts/modafinil/images/modafinil_summary1.jpg
+effectsURL :: https://www.erowid.org/smarts/modafinil/modafinil_effects.shtml
+imagesURL :: https://www.erowid.org/smarts/modafinil/modafinil_images.shtml
+lawURL :: https://www.erowid.org/smarts/modafinil/modafinil_law.shtml
+chemistryURL :: https://www.erowid.org/smarts/modafinil/modafinil_chemistry.shtml
+
+[Effects]
+duration :: Modafinil Duration
+Oral
+Total Duration	5 - 10 hours
+Onset	20 - 60 mins
+Coming Up	10 - 30 mins
+Plateau	3.5 - 5 hrs
+Coming Down	1 - 3 hrs
+&nbsp;	&nbsp;
+After Effects	2 - 6 hrs
+Hangover / Day After	- - -
+positiveEffects :: wakefulness/alertness	physical and mental stimulation	reduced sleepiness
+neutralEffects :: changes in focus and attention
+negativeEffects :: inability to sleep	interferes with the effectiveness of oral contraceptives [Ref]
+description :: Modafinil is a wakefulness stimulant that is less physically stimulating than most other available psychoactives that keep people awake. Although there are distinct symptoms of physical stimulation, generally one stays awake without as much jaw-tension and sense of twitchy body energy.
+experienceReports :: null
+
+[Images]
+imageEntryList :: Modafinil Tablets	https://www.erowid.org/smarts/show_image.php?i=modafinil/modafinil_tablets__i2006e0185_disp.jpg	Array of 200 mg Modafinil (Provigil) Tablets. [PA, USA]	Photo by InEx. &copy; 2007 Erowid.org
+Modafinil Tablet	https://www.erowid.org/smarts/show_image.php?i=modafinil/modafinil_tablets__i2006e1269_disp.jpg	100 mg Swedish modafinil (modiodal) tablet on top of its blister pack. [Sweden]	Photo by HG23. &copy; 2007 Erowid.org
+Modafinil 2D Molecule	https://www.erowid.org/smarts/show_molecule.php?i=modafinil/modafinil_2d.gif	Still 2D image of the Modafinil molecule.	Image by Erowid, &copy; 2001 Erowid.org
+Modafinil 3D Rotating Molecule	https://www.erowid.org/smarts/show_molecule.php?i=modafinil/modafinil__.mol	Rotating 3D image of the Modafinil molecule.	Image by Erowid, &copy; 2001 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Modafinil
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule IV
+CLASSIFICATION	Stimulant
+federalLawText :: Modafinil is Schedule IV in the United States. This means it is illegal to sell without a DEA license and illegal to buy or possess without a license or prescription.
+stateLaw :: null
+internationalLaw :: Argentina	We have been told that Modafinil is regulated, but that lack of familiarity means pharmacists will sell it without a prescription. (unconfirmed) (last updated Oct 2007)
+Australia	Modafinil is available by prescription as "Modavigil".
+Canada	Modafanil is listed in Part I of Schedule F of Canada's Food and Drug Regulations, requiring a prescription for human use and for veterinary use. (see Canada Gazette article. (thanks JB)
+Finland	Modafinil is not a controlled substance in Finland, though it is regulated as a prescription drug. As of Feb 2011, pharmacies in Finland do not carry Modafinil and the European Medicines Agency (EMA) recommends restricting the use of Modafinil to the treatment of narcolepsy. See http://www.fimea.fi/medicines/fimeaweb, http://www.finlex.fi/fi/laki/ajantasa/2008/20080543, http://www.finlex.fi/fi/laki/alkup/2009/20091095, ema.europa.eu. (thanks o) (last updated March 11 2011)
+Germany	In Feb 2008, Modafinil was removed from Germany's Anlage III (similar to US Schedule III-IV), and is now available with a presecription (see text of law, article). (thanks M!)
+Italy	Modafinil is available by prescription as "Provigil".
+Mexico	Modafinil is sold in Mexico as "Modiadal" and it does not appear to be controlled. (unconfirmed) (thanks JB)
+New Zealand	Modafinil is sold in NZ as "Modavigil" and is a prescription medicine. New Zealand's Medicines Act of 1981 states: "No person shall, without reasonable excuse, import, procure, receive, store, use, or otherwise have in his possession, any prescription medicine." (see http://www.legislation.govt.nz/act/public/1981/0118/latest/DLM55462.html) (thanks f) (last updated Feb 9 2014)
+Romania	Modafinil is reportedly a controlled substance in Romania. One visitor reports that a family member was fined (to a maximum of 3000 Euro) after ordering through the mail. (thanks e) (last updated Mar 31, 2014)
+Russia	Russia has added modafinil to Schedule II, banning it for personal possession, sale, and from most medical use. See http://base.consultant.ru/cons/cgi/online.cgi?req=doc;base=LAW;n=142882;fld=134;dst=4294967295;rnd=0.8965571122244;from=141820-563. (thanks x) (last updated May 6 2013)
+Sweden	Reportedly a schedule 4 drug in Sweden. Prescribed for narcolepsy and hypersomnia and is sold in 100 mg tablets under the brand name "Modiodal". (JM)
+Spain	One visitor tells us that they were able to purchase modafinil over the counter from a pharmacy by indicating it was used to treat their narcolepsy (brand name Modiodal). Cost around 42E for 30 tablets of 100 mg modafinil. (unconfirmed) (thanks jl) (last updated jul 5, 2012)
+Turkey	Multiple visitors have described that modafinil is sold without prescription in pharmacies in Turkey. (confirmed) (thanks A, g) (last updated Oct 6, 2014)
+United Kingdom (Britain, Wales, Scotland)	Available by prescription both from private physicians and NHS. Not scheduled and the restrictions on prescribing were reduced in 2004. Cleared for personal import from other countries. (Source - British National Formulary - The book which advices Doctors on prescribing infomation.) (thanks P) (last updated Mar 2007)
+
+[Chemistry]
+chemTable :: NAME :	Modafinil
+CHEMICAL NAME :	Benzhydrylsulphinylacetamide
+OTHER NAMES :	Provigil
+CHEMICAL FORMULA	C15H15NO2S
+MOLECULAR WEIGHT :	273.351
+Patent # :	U.S. - 4,177,290
+moleculeURL :: https://www.erowid.org/smarts/modafinil/images/archive/modafinil_2d.gif

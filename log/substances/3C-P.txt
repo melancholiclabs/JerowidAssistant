@@ -1,0 +1,31 @@
+[Substance]
+
+id :: 16
+name :: 3C-P
+url :: https://www.erowid.org/chemicals/3cp/3cp.shtml
+category :: Chemicals
+commonNames :: None
+effectsClassification :: Stimulant
+chemicalName :: 3,5-dimethoxy-4-propyloxyamphetamine
+description :: 3C-P is a synthetic stimulant. It is extremely uncommon and very little is known about it.
+imageURL :: https://www.erowid.org/chemicals/images/chemicals_spacer_summary.jpg
+lawURL :: https://www.erowid.org/chemicals/3cp/3cp_law.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+3C-P
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: 3C-P is an uncontrolled substance in the U.S. as well as in most if not all other countries. It could conceivably be covered under the Analog Act depending on how it's sold, but there have been no cases prosecuted that we are aware of. (11/03/2004) If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.
+stateLaw :: null
+internationalLaw :: 
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.

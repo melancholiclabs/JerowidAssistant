@@ -1,0 +1,32 @@
+[Substance]
+
+id :: 283
+name :: Hydromorphone
+url :: https://www.erowid.org/pharms/hydromorphone/hydromorphone.shtml
+category :: Pharms
+commonNames :: Dilaudid; Hydrostat; Palladone
+effectsClassification :: Analgesic; Antitussive
+chemicalName :: 4,5-epoxy-3-hydroxy-17-methylmorphinan-6-one
+description :: Hydromorphone is an opiate, narcotic analgesic, used primarily in the treatment of moderate to severe pain. It is a semi-synthetic derivative of morphine.
+imageURL :: https://www.erowid.org/pharms/hydromorphone/images/hydromorphone_summary1.jpg
+imagesURL :: https://www.erowid.org/pharms/hydromorphone/hydromorphone_images.shtml
+lawURL :: https://www.erowid.org/pharms/hydromorphone/hydromorphone_law.shtml
+
+[Images]
+imageEntryList :: Hydromorphone Capsules	https://www.erowid.org/pharms/show_image.php?i=hydromorphone/hydromorphone_capsule1.jpg	Color photo of two 6 mg hydromorphone capsules. [Canada]	Photo by Texaco, &copy; 2005 Erowid.org
+Hydromorphone (Dilaudid) Bottle	https://www.erowid.org/pharms/show_image.php?i=hydromorphone/hydromorphone_bottle__i2005e0501_disp.jpg	Close-up showing a bottle of Dilaudid-HP containing 500 mg hydromorphone / 50 ml for injection. [KY, USA]	Photo by Biopharma. &copy; 2009 Erowid.org
+Hydromorphone Vial	https://www.erowid.org/pharms/show_image.php?i=hydromorphone/hydromorphone_vial__i2008e0119_disp.jpg	Small bottle of 10 mg / ml hydromorphone HCl for S.C., S.M. or I.V. injection. [QC, Canada]	Photo by Godpiou. &copy; 2009 Erowid.org
+Dilaudid (hydromorphone)	https://www.erowid.org/pharms/show_image.php?i=hydromorphone/hydromorphone1.jpg	Color photo showing various forms of Dilaudid (hydromorphone hydrochloride).	U.S. government Public Domain photo.
+Dilaudid (hydromorphone)	https://www.erowid.org/pharms/show_image.php?i=hydromorphone/hydromorphone2.jpg	Color photo showing various forms of Dilaudid (hydromorphone hydrochloride).	U.S. government Public Domain photo.
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Hydromorphone
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule II
+CLASSIFICATION	Opiate
+federalLawText :: Hydromorphone is Schedule II in the United States. This means it is illegal to sell without a DEA license and illegal to buy or possess without a license or prescription.
+stateLaw :: null
+internationalLaw :: Australia	Hydromorphone is Schedule 8 in Australia, making it illegal to possess without a prescription or license. (thanks mm) (last updated May 25 2011)
+Canada	Hydromorphone is schedule I in Canada. (Note: Canadian schedules are very different than U.S. schedules)

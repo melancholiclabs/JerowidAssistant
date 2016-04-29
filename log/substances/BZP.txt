@@ -1,0 +1,82 @@
+[Substance]
+
+id :: 55
+name :: BZP
+url :: https://www.erowid.org/chemicals/bzp/bzp.shtml
+category :: Chemicals
+commonNames :: A2; Frenzy; Nemesis
+effectsClassification :: Stimulant
+chemicalName :: 1-benzylpiperazine
+description :: BZP is a stimulant which gained popularity in some countries in the early 2000s as a legal alternative to amphetamine, methamphetamine, and MDMA.
+imageURL :: https://www.erowid.org/chemicals/bzp/images/bzp_summary1.jpg
+basicsURL :: https://www.erowid.org/chemicals/bzp/bzp_basics.shtml
+imagesURL :: https://www.erowid.org/chemicals/bzp/bzp_images.shtml
+lawURL :: https://www.erowid.org/chemicals/bzp/bzp_law.shtml
+chemistryURL :: https://www.erowid.org/chemicals/bzp/bzp_chemistry.shtml
+
+[Basics]
+description :: Benzylpiperazine (BZP) is a piperazine and a CNS stimulant. It is one of the more commonly used piperazines, providing stimulant effects which people describe as a noticeably different than those of amphetamines. It is not particularly popular because many people find that it has more side effects than amphetamines. [ Main Piperazines Vault ]
+descriptionSections :: dose	BZP is used orally at doses of between 70-150 mg. Effects last 6-8 hours.
+price	Price Summary Needed.
+law	BZP was placed in Schedule I by emergency order of the DEA on September 20, 2002. This makes it illegal to buy, sell, or possess in the United States without a DEA license.
+chemistry	Chemistry Summary Needed.
+pharmacology	Pharmacology Summary Needed.
+production	Production Summary Needed.
+history	History Summary Needed.
+terminology	The Substance:BZP; A2. The Experience:No common terms known.
+effects :: Effects Summary Needed.
+effectsSections :: onset	Onset Summary Needed.
+duration	Duration Summary Needed.
+visuals	Visuals Summary Needed.
+problems :: Problems Summary Needed.
+problemsSections :: contraindications	Contraindications Summary Needed.
+addiction	Addiction Potential Summary Needed.
+long	Long Term Health Problems Summary Needed.
+death	Risk of Death Summary Needed.
+
+[Images]
+imageEntryList :: BZP & TFMPP Packets	https://www.erowid.org/chemicals/show_image.php?i=bzp/bzp_tfmpp_powder__i2007e0442_disp.jpg	Packets containing 1 g of BZP and TFMPP [UK]	Photo by Anonymous. &copy; 2007 Erowid.org
+BZP Tablets	https://www.erowid.org/chemicals/show_image.php?i=bzp/bzp1.jpg	Color photo of a bottle of "A2" Benzylpiperazine HCl tablets. [Zurich, Switzerland].	Photo by el dopa. &copy; 2002 Erowid.org
+Piperazine-Containing "Transformer" Tablet	https://www.erowid.org/chemicals/show_image.php?i=piperazines/piperazine_tablet__i2009e0034_disp.jpg	Purple "transformer" tablet believed to contain both BZP and TFMPP. [MN, USA]	Photo by Anonymous. &copy; 2009 Erowid.org
+BZP 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=bzp/bzp_2d.gif	Still 2D image of the BZP molecule.	Image by Erowid. &copy; 2001 Erowid.org
+BZP 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=bzp/bzp_3d.jpg	Still 3D image of the BZP molecule.	Image by Erowid. &copy; 2000 Erowid.org
+BZP 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=bzp/bzp__.mol	Rotating 3D image of the BZP molecule.	Image by Erowid. &copy; 2000 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Benzylpiperazine
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule I
+CLASSIFICATION	Stimulant
+SCH. DATE	Sep 20, 2002
+federalLawText :: BZP is Schedule I in the United States. This means it is illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license.	
+On September 20, 2002, the DEA placed BZP and TFMPP into Schedule I by emergency order. On March 18, 2004, BZP was "permanently" placed in Schedule I. See the DEA's Notice of Intent to Schedule and their Final Order to Emergency Schedule for more details.
+stateLaw :: Florida	Schedule I. See http://leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0800-0899/0893/0893.html. (last updated Jul 21, 2012)
+Oklahoma	In June 2008, BZP was made Schedule I in Oklahoma, making it illegal to buy, sell, or possess effective as of November 1, 2008.
+Vermont	Classified under "Depressant and stimulant drugs" (Title 18, Chapter 84, Section 4234) : Illegal to possess, distribute, etc. Added July 2012. See healthvermont.gov/regs/documents/regulated_drugs_emergency_rule_annotated.pdf and http://www.leg.state.vt.us/statutes/fullsection.cfm?Title=18&Chapter=084&Section=04234. (Thanks DW) (last updated Jul 23, 2012)
+Virginia	Schedule I. http://www.mygov365.com/legislation/view/id/4f15545049e51b63146f1200/tab/overview/ : HB 508 Approved by Governor Apr 18, 2012 - Effective 7/1/12 and http://legiscan.com/gaits/text/631633. (Thanks NR) (last updated July 22, 2012)
+internationalLaw :: Australia	BZP is controlled nationally in Australia and is also specifically listed in most Australian states. The Australian National SUSDP's rulings are automatically added to each state's laws, thus BZP is controlled in every Australian state. Although the state-by-state listings of chemicals is mostly a point of trivia and not very important to the legal situation, it appears that BZP and TFMPP are scheduled in the highest drug restriction schedule in Vic, NSW, SA, NT and Qld. (thanks TW of http://shaman-australis.com.au/)
+Austria	BZP is controlled under Austria's Addictive Substances Law (Suchtmittelgesetz, SMG) making it illegal to buy, sell, pass on, possess, or produce. Added on July 15th 2009. See rs.bka.gv.at. (thanks ChEck iT!) (last updated May 16 2011)
+Canada	BZP and TFMPP are now in Schedule III in Canada. See http://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-25.html#h-28. (thanks m) (last updated Jun 19 2012)
+Czech Republic	The Czech Republic added a number of recent drugs to their controlled lists in early 2011, including BZP, 2C-I, PMMA, synthetic cannabinoids, and a variety of cathinone derivates including 4-methyl-methcathinone and MDPV. The Czech Republic has decriminalized possession of small amounts of most recreational drugs, so penalties for possession are quite low. See Czech Drug Law. (thanks p) (last updated Apr 17 2011)
+Denmark	As of Dec 3, 2005, Denmark banned 2C-T-4, BZP, TFMPP, mCPP, and MeOPP as of Dec 3, 2005
+European Union	On March 3, 2008, the Council of the European Union issued a decision directing member states to move to control BZP because of its recreational use. "Member States shall take the necessary measures, in accordance with their national law, to submit 1-benzylpiperazine (also known as 1-benzyl-1,4-diazacyclohexane, N-benzylpiperazine or - less precisely - as benzylpiperazine or BZP) to control measures proportionate to the risks of the substance, and criminal penalties, as provided for under their legislation complying with their obligations under the 1971 United Nations Convention on Psychotropic Substances." For a full text of this, see March 2008 EU Council Decision on BZP. (Last Updated March 10 2008)
+France	On May 15 2008, BZP was declared a narcotic and is now illegal to buy, sell, or possess in France (see Classement comme stup�fiant de la BZP). (thanks LLM)
+Germany	As of March 1 2008, BZP is illegal to buy, sell, or possess in Germany (see Einundzwanzigste Verordnung zur &Auml;nderung bet&auml;ubungsmittelrechtlicher Vorschriften). (thanks dirk)
+Greece	BZP became a controlled substance in Greece on Feb 18, 2003 [EU Legal Database].
+Ireland	BZP and TFMPP are not controlled in Ireland or the UK and are increasingly available in tablets sold at dance parties. Medicine control boards in both countries are looking into it. (unconfirmed) (thanks SH)
+Israel	In December 2007, BZP was added to Israel's list of controlled substances, making it illegal to buy, sell, or possess. (thanks A)
+Italy	On June 26, 2007, BZP was added to Italy's list of controlled substances. [Reference] (thanks AG)
+Malta	As of June 2006, BZP is controlled as a psychotropic drug in Malta under legal notice LN 135, and is illegal to possess under most circumstances. (thanks SV)
+New Zealand	In March, 2008, the New Zealand Parliament passed a law banning BZP-based pills. The law takes effect on Apr 1, 2008, banning sales immediately but giving the public six months to legally possess up to 5 grams or 100 tablets before they are completely banned. After the grace period, BZP will be treated as a Class C drug. (thanks TWM and ME) (Last Updated Mar 31, 2008)
+Sweden	We have been told that as of March 1, benzylpiperazine is a controlled substance in Sverige. (unconfirmed)
+United Kingdom (Britain)	The British government has announced that BZP will be controlled by the end of 2009. Although BZP and TFMPP are not currently listed as controlled drugs in Ireland or the UK and were increasingly available in tablets sold by party shops, according to a British "legal highs" shop, a health agency has declared them to be prescription-only drugs and this has ended their wide availability. See The Independent, Mar 20, 2007. (unconfirmed) (thanks O, SH, RM) (Mar 2007)
+
+[Chemistry]
+chemTable :: NAME :	BZP
+CHEMICAL NAME :	1-benzylpiperazine, A2
+ALTERNATE CHEMICAL NAMES :	1-benzyl-1,4-diazacyclohexane dihydrochloride
+CHEMICAL FORMULA	C11H16N2
+MOLECULAR WEIGHT	176.258
+moleculeURL :: https://www.erowid.org/chemicals/bzp/images/archive/bzp_3d_mid.jpg

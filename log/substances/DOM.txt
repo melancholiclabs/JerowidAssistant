@@ -1,0 +1,57 @@
+[Substance]
+
+id :: 71
+name :: DOM
+url :: https://www.erowid.org/chemicals/dom/dom.shtml
+category :: Chemicals
+commonNames :: STP (Serenity, Tranquility, and Peace)
+effectsClassification :: Psychedelic Phenethylamine
+chemicalName :: 2,5-dimethoxy-4-methylamphetamine
+description :: DOM is a psychoactive chemical similar in nature to LSD but with a longer duration. It is best known for several well-publicized, non-fatal overdoses in the late 1960s, when sold under the name STP.
+imageURL :: https://www.erowid.org/chemicals/dom/images/dom_summary1.jpg
+imagesURL :: https://www.erowid.org/chemicals/dom/dom_images.shtml
+lawURL :: https://www.erowid.org/chemicals/dom/dom_law.shtml
+doseURL :: https://www.erowid.org/chemicals/dom/dom_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/dom/dom_chemistry.shtml
+
+[Images]
+imageEntryList :: DOM Powder	https://www.erowid.org/chemicals/show_image.php?i=dom/dom_powder__i2007e1096_disp.jpg	Approximately 75 mg of DOM in a small pile. [USA]	Photo by Jeanluc. &copy; 2007 Erowid.org
+DOM 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=dom/dom_2d.gif	Still 2D image of the DOM molecule.	Image by Erowid. &copy; 2000 Erowid.org
+DOM 3D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=dom/dom_3d.jpg	Still 3D image of the DOM molecule.	Image by Erowid. &copy; 2000 Erowid.org
+DOM 3D Rotating Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=dom/dom__.mol	Rotating 3D image of the DOM molecule.	Image by Erowid. &copy; 2000 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+DOM
+REGULATED	Yes
+STATUS	Scheduled
+SCHEDULE	Schedule I
+CLASSIFICATION	Hallucinogen
+federalLawText :: DOM is Schedule I in the United States. This means it is illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license.
+stateLaw :: null
+internationalLaw :: Belgium	DOM is HOOFDSTUK II in Belgian. See Law Belgium. (thanks cs) (last updated Aug 1 2011)
+Italy (Italia)	Listed in Tabella I of "Tabelle delle sostanze stupefacenti e psicotrope", making it illegal to possess, purchase, or sell. (see Tabelle delle sostanze stupefacenti e psicotrope. (thanks a) (last updated Dec 16, 2015)
+New Zealand	DOM is Schedule I (Class A) in New Zealand [reference].
+Russia	We have been told that DOM is Schedule I in the Russian Federation, making it illegal to buy, sell or possess without a license. (unconfirmed) (thanks d)
+U.K.	DOM is Schedule I in the U.K., making it illegal to buy, sell or possess without a license.
+
+[Dose]
+doseTable :: Oral DOM Dosages
+Threshold0.5 - 1 mg
+Light1 - 2 mg
+Common2 - 6 mg
+Strong6 - 10 mg
+Heavy8 - 12 mg
+Onset : 1 - 2 hours
+Duration : 12 - 20 hours (depending on dosage)
+Normal After Effects : 6 - 12 hours
+doseText :: DOM is a phenethylamine found in tablet, liquid, or powder form. It is generally injested orally. Since DOM is very uncommon, there is limited information about dosage levels. Following are approximate dosages for pure DOM.
+notes :: null
+
+[Chemistry]
+chemTable :: NAME	DOM
+CHEMICAL NAME	2,5-Dimethoxy-4-methylamphetamine
+ALTERNATE NAMES	STP; Dimethoxymethylamphetamine
+CHEMICAL FORMULA	C12H19NO2
+MELTING POINT	187-188&#176; (HCl)
+moleculeURL :: https://www.erowid.org/chemicals/dom/images/archive/dom_3d_mid.jpg

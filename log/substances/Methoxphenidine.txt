@@ -1,0 +1,71 @@
+[Substance]
+
+id :: 108
+name :: Methoxphenidine
+url :: https://www.erowid.org/chemicals/methoxphenidine/methoxphenidine.shtml
+category :: Chemicals
+commonNames :: Methoxphenidine; MXP; 2-MXP
+effectsClassification :: Dissociative; Sedative
+chemicalName :: 1-(1-(2-methoxyphenyl)-2-phenylethyl)piperidine; 2-MeO-Diphenidine
+description :: Methoxphenidine is a dissociative anesthetic with effects similar to ketamine, MXE, and PCP. Its recreational use was first publicly reported in mid 2013 and it was first sold commercially in late 2013. There have been several deaths associated with its use.
+imageURL :: https://www.erowid.org/chemicals/methoxphenidine/images/methoxphenidine_summary1.jpg
+effectsURL :: https://www.erowid.org/chemicals/methoxphenidine/methoxphenidine_effects.shtml
+imagesURL :: https://www.erowid.org/chemicals/methoxphenidine/methoxphenidine_images.shtml
+lawURL :: https://www.erowid.org/chemicals/methoxphenidine/methoxphenidine_law.shtml
+doseURL :: https://www.erowid.org/chemicals/methoxphenidine/methoxphenidine_dose.shtml
+chemistryURL :: https://www.erowid.org/chemicals/methoxphenidine/methoxphenidine_chemistry.shtml
+researchChemicalsURL :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+
+[Effects]
+duration :: null
+positiveEffects :: "kinda like K, but less in-your-face"	euphoria, mood lift	Sense of calm and serenity	Mild stimulation
+neutralEffects :: Distortion or loss of sensory perceptions (common)	Closed- and open-eye visuals (common)	Dissociation of mind from body	Change in perception of time	Increase in heart rate and blood pressure	Confusion, disorientation	Out-of-body experience	Shifts in perception of reality	Short attention span
+negativeEffects :: Risk of psychological dependency (tentative)	Nasal discomfort upon insufflation	Blacking out and forgetting one has taken a drug	Severe confusion, disorganised thinking	Frightening or untimely distortion or loss of sensory perception	Susceptibility to accidents (from uncoordination and change in perception of body and time)	Severe dissociation, depersonalisation	Seizures (or seizure-like reactions) have been reported	Dangerous increase in heart rate and blood pressure (at higher doses)
+description :: General Effects Notes	The effects of methoxphenidine are usually compared to ketamine or methoxetamine, but there are too few experience reports with reliably sourced material to say much with confidence.	
+Addiction and Compulsive Use	It is not yet known how addictive or likely methoxphenidine is to cause compulsive use.
+experienceReports :: [60 mg oral] "after initial rough dose of 60 mg feeling nice and relaxed getting lost in movie avatar, xbut some points cant focus keep getting lost in my head about problems I have going on at the moment seem to be effecting experience anxiety levels arise feeling somewhat paranoid possibly because my mum is upstairs and may well come down at any Time was this a stupid idea to take while not home alone will my mum come down and realise I've taken something? Scared!!," -- Exp 104885[100 mg oral] "Closing my eyes makes me feel as though I'm gone completely. I find the space quiet and mild in the visual department. Feels similar to MXE but less inebriating and confusing. Very relaxed but bubbly and optimistic. [...] Relaxing with my eyes closed causes my body to drift about in a similar fashion to other dissociatives. The speed of the drifting seemed quicker than MXE, but this is purely subjective so who knows." -- Exp 89972[150 mg oral] "Around midnight, the visual changes get more noticeable. It's not hallucinogenic, I'm not seeing anything that isn't there strictly. But aspects of my vision go way way off. When I stare at my phone screen, it seems really far away from my face. The space between me and my phone is enormous. Is my arm really long now? No: I look at my arm and can snap out of it, but then I look at my screen and it's way over in the neighbouring village now." -- Exp 106528[repeated, insufflated] "Insufflate another 50mg, bringing the total to 160mg. [...] Start to feel noticeably dissociated and definite robowalking. Decide to go lay down in a dark room by myself. Try to listen to music but I am not really interested. Not quite at the hole-ing stage (not sure if it has a hole in the same sense that other dissociatives do, but I didn't get there)." -- Exp 90919
+
+[Images]
+imageEntryList :: Methoxphenidine Powder	https://www.erowid.org/chemicals/show_image.php?i=methoxphenidine/methoxphenidine_powder__i2014e0191_disp.jpg	A baggie containing 500 mg Methoxphenidine (2-MeO-Diphenidine) powder. [Ontario, Canada]	Photo by Obdo. &copy; 2015 Erowid.org
+Methoxphenidine 2D Molecule	https://www.erowid.org/chemicals/show_molecule.php?i=methoxphenidine/methoxphenidine_2d.gif	Still 2D image of the methoxphenidine molecule.	Image by Erowid. &copy; 2015 Erowid.org
+
+[Law]
+legalTable :: U.S. FEDERAL LEGAL SUMMARY
+Methoxphenidine
+REGULATED	No
+STATUS	Not Approved ForHuman Consumption
+SCHEDULE	Un-Scheduled
+federalLawText :: Methoxphenidine is uncontrolled in the United States. This means it is generally considered legal to buy, possess, and distribute (sell, trade or give). If sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA.	
+Methoxphenidine is not a clear analog of any Schedule I or II controlled substance and is therefore not a controlled substance Analogue under the U.S. Analogue Act.
+stateLaw :: 
+internationalLaw :: China	Methoxphenidine was controlled in China in September 2015. See China Psychoactive Law Update - Sept 2015. thanks r. (last updated Oct 20 2015)
+Sweden	Methoxphenidine is controlled in Sweden as a "narcotic", listed in the regulation as "2-MeO-difenidin". See http://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2015/mars/fler-amnen-foreslas-bli-klassade-som-narkotika-eller-halsofarlig-vara/. Thanks r. (last updated Oct 20, 2015)
+
+[Dose]
+doseTable :: Methoxphenidine Dosages
+Oral
+( very tentative )
+Threshold	15 - 30 mg
+Light	40 - 90 mg
+Common	75 - 150 mg
+Strong	120 - 200 mg
+Heavy	200+ mg
+doseText :: 
+notes :: Some reports for methophenidine may actually describe the ingestion of other substances that have been misrepresented as methoxphenidine, complicating its profile.
+
+[Chemistry]
+chemTable :: NAME :	Methoxphenidine
+CHEMICAL NAME :	1-(1-(2-methoxyphenyl)-2-phenylethyl)piperidine
+ALTERNATE CHEMICAL NAME :	(�)-1-[1-(2-methoxyphenyl)-2-phenylethyl]piperidine
+ALTERNATE CHEMICAL NAMES : 	2-MeO-Diphenidine
+CHEMICAL FORMULA	C20H25NO
+MOLECULAR WEIGHT	295.4186
+moleculeURL :: https://www.erowid.org/chemicals/methoxphenidine/images/archive/methoxphenidine_2d.gif
+
+[ResearchChemical]
+url :: https://www.erowid.org/psychoactives/research_chems/research_chems.shtml
+summaryText :: Chemicals marked on Erowid by our Research Chemical Symbol should be considered experimental chemicals.	Although some people are willing to ingest these chemicals for their effects, it is not reasonable	to assume that these chemicals are in any way 'safe' to use recreationally. Although	all psychoactive use involves risk, many substances in this class of chemicals have undergone virtually no human or animal toxicity studies. Research chemicals are those for which there is little to no data on possible long term problems, addiction potential, allergic reactions, or acute overdoses.	
+Publication of information by Erowid about human use of these chemicals is not intended to	endorse their non-laboratory use. It is important to remember that reactions to psychoactives vary	dramatically from person to person. Extrapolating anything from any single person's experience with a chemical is inappropriate and may result in dangerous and possibly fatal adverse reactions.	
+Some reports of use may include extremely glowing "wow"-type experiences. Reports of this nature	should not be misunderstood to suggest that they are common or typical of those who ingest the	substance, or that the effects will be pleasant or desirable.	
+Additionally, the reliability of many sources of these products can be questionable. Mislabeling,	misidentification, issues of purity, adulteration, and misrepresentation (substitution) are unfortunately a	common problem with research chemicals.	
+Consider carefully before choosing to use these substances.
